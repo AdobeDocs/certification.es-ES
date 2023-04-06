@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1164'
+source-wordcount: '1192'
 ht-degree: 11%
 
 ---
@@ -67,15 +67,13 @@ Debe tener:
 
 **Detalles del examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E208
-```
+* Nivel: Experto (experiencia de 1 a 3 años)
+* Puntuación de paso: 31/50
+* Tiempo: 120 minutos
+* Envío: Procesado en línea (requiere acceso a la cámara) o procesado en el centro de pruebas
+* Idiomas disponibles: Inglés
+* Costo: $225 (global) / $150 (India)
+* ID del examen: AD0-E208
 
 **Autoevaluación de la preparación**
 
@@ -112,16 +110,16 @@ Sección 3: Segmentación y métricas calculadas (22%)
 Sección 4: Conocimientos generales sobre herramientas y resolución de problemas (12%)
 
 * Analizar informes e identificar problemas de calidad de los datos
-* Defina diferentes tipos de dimensiones y parámetros existentes en [!DNL Adobe Analytics] (evars, props y eventos)
+* Defina diferentes tipos de dimensiones y parámetros existentes en [!DNL Adobe Analytics] (eVars, props y eventos)
 * Determinar cómo introducir y extraer datos [!DNL Adobe Analytics]
 * Identificar información de direcciones URL de marketing
 
 Sección 5: Administración (10%)
 
-* Aplique el proceso para configurar los informes del Canal de mercadotecnia con las reglas de procesamiento del Canal de mercadotecnia
+* Aplique el proceso para configurar la variable [!UICONTROL Canal de marketing] informes con [!UICONTROL Canal de marketing] reglas de procesamiento
 * Aplique el proceso para configurar el Importador de clasificaciones y el Generador de reglas
 * Aplique el proceso para configurar un grupo de informes virtuales basado en un segmento existente
-* Uso de la interfaz de usuario del administrador del Administrador de fuentes de datos
+* Utilice la variable [!UICONTROL Fuente de datos] Interfaz de usuario del administrador del administrador
 * Comprensión del control de datos
 
 >[!TAB Obtener preconfigurado]

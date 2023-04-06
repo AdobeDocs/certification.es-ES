@@ -6,9 +6,9 @@ solution: Customer Journey Analytics
 badge: label="Exam AD0-EXXX" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '510'
 ht-degree: 7%
 
 ---
@@ -35,16 +35,12 @@ Debe tener:
 
 **Detalles del examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 
-Time: 
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: 
-```
-
+* Nivel: Experto (experiencia de 1 a 3 años)
+* Puntuación de paso:
+* Fecha:
+* Envío: Procesado en línea (requiere acceso a la cámara) o procesado en el centro de pruebas
+* Idiomas disponibles: Inglés
+* Costo: $225 (global) / $150 (India)
 
 **Autoevaluación de la preparación**
 

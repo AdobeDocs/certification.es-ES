@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '914'
 ht-degree: 11%
 
 ---
@@ -48,15 +48,13 @@ Actualmente debe estar certificado (no caducado) en:
 
 **Detalles del examen**
 
-```
-Passing Score: 42/55
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Classic] expert and/or master certification
-Exam ID: AD5-E823
-```
+* Puntuación de paso: 42/55
+* Tiempo: 110 minutos
+* Costo: LIBRE/no procesado
+* Envío: Bajo demanda
+* Idiomas disponibles: Inglés
+* Requisito previo: Adobe actual (no caducado) [!DNL Campaign Classic] certificación experta o maestra
+* ID del examen: AD5-E823
 
 **Alcance y objetivos**
 

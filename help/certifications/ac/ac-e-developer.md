@@ -5,9 +5,9 @@ solution: Commerce
 role: Developer
 badge: label="Exam AD0-E716" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '2007'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -49,15 +49,13 @@ Debe tener al menos 1-3 años de experiencia con Adobe [!DNL Commerce] desarroll
 
 **Detalles del examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 41/69
-Time: 138 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E716
-```
+* Nivel: Experto (experiencia de 1 a 3 años)
+* Puntuación de paso: 41/69
+* Tiempo: 138 min
+* Envío: Procesado en línea (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: $225 (global) / $150 (India)
+* ID del examen: AD0-E716
 
 **Autoevaluación de la preparación**
 

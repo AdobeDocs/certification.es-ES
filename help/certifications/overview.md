@@ -2,9 +2,9 @@
 title: Página de inicio de la certificación
 description: Obtenga información sobre [!DNL Experience Cloud] Certificación en el Adobe. Averigüe lo que puede hacer para usted obtener la certificación.
 mini-toc-levels: 1
-source-git-commit: 2dee616ff2304a6a92ba3edeae5e11da637bb235
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Obtención de un Adobe [!DNL Experience Cloud] la certificación puede ser benef
 * **Validación de sus habilidades:** La certificación de Adobe demuestra a clientes o empleadores potenciales que usted tiene las habilidades y los conocimientos necesarios para usar [!DNL Experience Cloud] productos de forma eficaz.
 * **Avance profesional:** La certificación de Adobe puede ayudarle a destacarse en un mercado laboral lleno de gente y aumentar sus posibilidades de ser contratado o promovido en su trabajo actual.
 * **Aumentar el potencial de ganancia:** Los individuos certificados a menudo ganan más que sus contrapartes no certificados, ya que sus credenciales validan sus habilidades y conocimientos.
-* **Acceso a recursos exclusivos:** Cuando obtiene la certificación de Adobe, obtiene acceso a recursos exclusivos, como materiales de capacitación, versiones de software beta y foros de asistencia, que pueden ayudarle a mantenerse al día con los últimos desarrollos y tendencias de software del sector.
+* **Acceso a recursos exclusivos:** Cuando obtiene la certificación de Adobe, obtiene acceso a recursos exclusivos. Estos recursos incluyen materiales de capacitación, versiones de software beta y foros de asistencia que pueden ayudarle a mantenerse al día con los últimos desarrollos y tendencias de software en el sector.
 * **Pruebas de prácticas gratuitas:** Adobe ofrece exámenes de práctica gratuitos que pueden ayudarle a prepararse para el examen de certificación y a asegurarse de que está preparado para realizar el examen.
 * **Renovaciones de certificación:** Las certificaciones de Adobe son válidas durante dos años, y puede renovarlas realizando un examen bajo demanda, sin procesamiento o completando un conjunto de actividades de aprendizaje continuo.
 

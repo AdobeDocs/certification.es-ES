@@ -5,10 +5,10 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1393'
-ht-degree: 1%
+source-wordcount: '1421'
+ht-degree: 0%
 
 ---
 
@@ -81,15 +81,13 @@ Entornos:
 
 **Detalles del examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 46/68
-Time: 136 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E406
-```
+* Nivel: Experto (experiencia de 1 a 3 años)
+* Puntuación de paso: 46/68
+* Tiempo: 136 min
+* Envío: Procesado en línea (requiere acceso a la cámara) o procesado en el centro de pruebas
+* Idiomas disponibles: Inglés
+* Costo: $225 (global) / $150 (India)
+* ID del examen: AD0-E406
 
 **Objetivos y ámbito del examen**
 
