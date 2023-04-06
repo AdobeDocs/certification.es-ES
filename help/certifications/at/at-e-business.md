@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Debe tener:
 * El conocimiento de los conceptos estadísticos y el análisis de datos tal como se aplica a la optimización
 * Un conocimiento profundo del flujo de trabajo de tres pasos (experiencias, objetivos, objetivos y configuraciones, incluidas todas las fuentes de informes)
 * La capacidad de traducir resultados de informes de actividades en perspectivas y sugerencias procesables
-* Comprensión del impacto de las tecnologías cambiantes en Target (por ejemplo, ITP, RGPD/CCPA, SPA)
+* Comprensión del impacto de las tecnologías cambiantes en Target (ITP, RGPD/CCPA, SPA)
 * Comprensión de cómo se pueden usar las actividades de recomendación como solución
 
 Además, debe estar familiarizado con las siguientes tecnologías y entornos:

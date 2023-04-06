@@ -5,9 +5,9 @@ solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1300'
+source-wordcount: '1301'
 ht-degree: 11%
 
 ---
@@ -21,7 +21,7 @@ Obtenga información sobre cómo convertirse en un experto certificado en Adobe 
 Debe tener:
 
 * Al menos dos años [!DNL Campaign] experiencia de software
-* Al menos dos años de experiencia relevante en campañas de marketing digital multicanal y desarrollo web (por ejemplo, API de REST)
+* Al menos dos años de experiencia relevante en campañas de marketing digital multicanal y desarrollo web (como la API de REST)
 * La capacidad para realizar tareas en Adobe Campaign, incluido el desarrollo de plantillas, los flujos de trabajo técnicos, el desarrollo de esquemas y las integraciones, y poder monitorizar la instancia mediante el panel de control
 * Experiencia trabajando en un entorno de entrega de canal (correo electrónico, correo postal, móvil y social)
 * Familiaridad con las tácticas de campañas de marketing como multitáctil, ciclo de vida y reactivación

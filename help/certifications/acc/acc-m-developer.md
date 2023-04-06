@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Architect
 badge: label="Exam AD0-E328" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1119'
 ht-degree: 10%
 
 ---
@@ -34,7 +34,7 @@ Debe tener:
 * La capacidad de describir y demostrar las características y capacidades del producto
 * La capacidad de asignar capacidades de productos a casos de uso elevado
 * Experiencia que respalda al equipo de preventas
-* La capacidad de ofrecer orientación en el escritorio (por ejemplo, prácticas recomendadas del producto, métricas de informes, etc.)
+* La capacidad de ofrecer orientación en el escritorio (prácticas recomendadas del producto, métricas de informes, etc.)
 * Experiencia que describe las diferencias entre los modelos de implementación
 
 >[!NOTE]

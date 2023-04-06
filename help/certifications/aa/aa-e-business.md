@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -26,8 +26,8 @@ Debe tener:
 * La capacidad de traducir los requisitos comerciales en métricas o KPI
 * La capacidad de crear e interpretar informes
 * La capacidad de comunicar los resultados y de proponer un curso de acción basado en el análisis de los informes
-* Los clientes ayudados a comprender cómo extraer o extraer la información que desean (p. ej., ayudarles a definir sus preguntas comerciales)
-* Comprensión del funcionamiento de la tecnología y comprensión de la implementación de un cliente (p. ej., dónde se sitúan los datos, cómo se pueden recopilar, cómo se realiza el seguimiento) desde un punto de vista funcional
+* Ayudar a los clientes a comprender cómo extraer o extraer la información que desean (por ejemplo, ayudarles a definir sus preguntas comerciales)
+* Comprender cómo funciona la tecnología y comprender la implementación de un cliente (por ejemplo, dónde se sitúan los datos, cómo se pueden recopilar, cómo se realiza un seguimiento) desde un punto de vista funcional
 * Al menos un año [!DNL Adobe Analytics] experiencia práctica
 * Comprensión básica de cómo el análisis digital filtra/estructura los datos
 * Conocimiento de la integración de [!DNL Adobe Analytics] con otras soluciones de Adobe
@@ -67,13 +67,14 @@ Debe tener:
 
 **Detalles del examen:**
 
-* Nivel: Experto (experiencia de 1 a 3 años)
-* Puntuación de paso: 31/50
-* Tiempo: 120 minutos
-* Envío: Procesado en línea (requiere acceso a la cámara) o procesado en el centro de pruebas
-* Idiomas disponibles: Inglés
-* Costo: $225 (global) / $150 (India)
-* ID del examen: AD0-E208
+>* **Nivel:** Experto (experiencia de 1 a 3 años)
+>* **Puntuación de paso:** 31/50
+>* **Tiempo:** 120 minutos
+>* **Envío:** Procesado en línea (requiere acceso a la cámara) o >centro de pruebas procesado
+>* **Idiomas disponibles:** Inglés
+>* **Costo:** $225 (global) / $150 (India)
+>* **ID del examen:** AD0-E208
+
 
 **Autoevaluación de la preparación**
 
