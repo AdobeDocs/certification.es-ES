@@ -3,9 +3,9 @@ title: Obtener certificación en el Adobe
 description: Obtenga información sobre cómo obtener la certificación en el Adobe. Encuentre todos los recursos que necesite antes, durante y después de obtener la certificación.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1466'
 ht-degree: 1%
 
 ---
@@ -213,4 +213,4 @@ Su distintivo sirve como evidencia tangible de su competencia con los productos 
 
 Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? Por favor, envíe un correo electrónico `certif@adobe.com`.
+¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
