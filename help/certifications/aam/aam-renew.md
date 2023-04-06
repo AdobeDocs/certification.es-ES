@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1040'
 ht-degree: 2%
 
 ---
@@ -137,7 +137,7 @@ Sección 1: Análisis de implementación (28%)
 * Determine cómo guiar y admitir la implementación de AAM como producto independiente o como parte de una solución de nube
 * Analizar las opciones de destino salientes y recomendar un enfoque de implementación AAM
 * Determinar una estrategia de incorporación de datos para un caso de uso empresarial
-* Identificar funciones como el visor de perfiles del visitante, etiquetas, RBAC, etc. para alinearse con los objetivos del negocio
+* Identificar funciones como el visor de perfiles de visitantes, etiquetas, RBAC, etc., para alinearse con los objetivos comerciales
 * Determinar cómo diseñar y probar los píxeles necesarios para crear segmentos y rasgos
 
 Sección 2: Diseño de soluciones y Recommendations (17%)

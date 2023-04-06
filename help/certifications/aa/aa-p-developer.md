@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1228'
+source-wordcount: '1230'
 ht-degree: 15%
 
 ---
@@ -28,7 +28,7 @@ Experimente con las siguientes tareas:
 
 * Interpretación de un documento de diseño de soluciones (SDR) y comprensión del propósito de todas las [!DNL Adobe Analytics] variables recopiladas
 * Explicación y trabajo con Adobe (Experience Platform) Launch
-* Explicación de la configuración de la línea base [!DNL Adobe Analytics] dimensiones y eventos Nombre de página, Nombre del vínculo, Activity Map, etc., pero trabajará con desarrolladores expertos para más implementaciones de clientes: La asignación de variables sigue siendo propiedad de desarrolladores de nivel de experto
+* Explicación de la configuración de la línea base [!DNL Adobe Analytics] dimensiones y eventos Nombre de página, Nombre del vínculo, Activity Map, etc., pero trabajarán con desarrolladores expertos para más implementaciones de clientes: la asignación de variables sigue siendo propiedad de desarrolladores de nivel de experto
 * Creación y configuración de reglas en Launch siguiendo el diseño proporcionado por un experto en AA
 * Prueba y validación de los datos que se capturan en variables y eventos activados mediante depuradores de consola web o sistemas de aplicaciones móviles como charles logs
 * Comprender qué es una capa de datos y saber cómo leer un objeto JavaScript

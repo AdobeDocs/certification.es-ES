@@ -4,9 +4,9 @@ description: Obtenga respuestas a preguntas sobre el programa de certificación 
 role: Developer
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 76a3cea2c92ac32fc20031c32e13d7b88999363c
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1884'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -126,7 +126,7 @@ Las certificaciones se ofrecen en ciertos eventos patrocinados por el Adobe.
 
 +++
 
-+++Las certificaciones están vinculadas a versiones específicas de aplicaciones (por ejemplo, Adobe Experience Manager 6.5)?
++++¿Las certificaciones están vinculadas a versiones específicas de aplicaciones (por ejemplo, Adobe Experience Manager 6.5)?
 
 No directamente, no. Sin embargo, como la certificación ahora requiere renovación cada 2 años, su certificación garantiza que usted se mantenga actualizado en la última versión de una aplicación de Adobe.
 
@@ -169,7 +169,7 @@ Para obtener más información sobre Cómo renovar la certificación, vaya [here
 
 Iniciar sesión en [Sistema de gestión de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"}. Allí puede ver cuándo obtuvo su credencial y cuándo caducará. También debe comprobar su perfil y confirmar que la información de contacto, correo electrónico secundario y trabajo es correcta.
 
-Recibirá una notificación por correo electrónico un mes antes de que caduque la certificación. Pero si ha cambiado de trabajo y no ha actualizado su correo electrónico, es posible que no reciba una notificación. Añada un correo electrónico secundario (como Gmail, Hotmail, Yahoo, etc.) en su cuenta de CertMetrics, para que obtenga un correo electrónico recordatorio de caducidad de la certificación, incluso si cambia de empresa.
+Recibirá una notificación por correo electrónico un mes antes de que caduque la certificación. Pero si ha cambiado de trabajo y no ha actualizado su correo electrónico, es posible que no reciba una notificación. Agregue un correo electrónico secundario (como Gmail, Hotmail, Yahoo, etc.) en su cuenta de CertMetrics para obtener un correo electrónico recordatorio de caducidad para la certificación, incluso si cambia de empresa.
 
 +++
 

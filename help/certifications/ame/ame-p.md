@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E555" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -111,7 +111,7 @@ Sección 3: Definición y segmentación de audiencias (33%)
 
 Sección 4: Análisis y creación de informes (9%)
 
-* Explicar el Adobe estándar [!DNL Marketo Engage] informes y cuándo deben usarse (rendimiento del vínculo de correo electrónico, rendimiento del correo electrónico, rendimiento de la página de aterrizaje, rendimiento de las personas, rendimiento del programa, actividad de la página web, etc.)
+* Explicar el Adobe estándar [!DNL Marketo Engage] informes y cuándo deben usarse (Rendimiento del vínculo de correo electrónico, Rendimiento del correo electrónico, Rendimiento de la página de aterrizaje, Rendimiento de personas, Rendimiento del programa, Actividad de la página web, etc.)
 * Comprender la información y las métricas del panel (Panel de programa de correo electrónico, Panel de programa de participación)
 * Comprender las métricas de perspectivas de correo electrónico
 
