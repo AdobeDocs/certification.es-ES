@@ -1,11 +1,12 @@
 ---
 title: Certificación de experto profesional
-description: Aprenda a convertirse en un experto en Adobe de negocios de  certificado en [!DNL Marketo Engage].
+description: Aprenda a convertirse en un Adobe certificado experto profesional en [!DNL Marketo Engage].
 solution: Marketo Engage
+product: Marketo
 role: User
 badge: label="Exam AD0-E559" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1637'
 ht-degree: 0%

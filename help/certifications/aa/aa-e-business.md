@@ -2,10 +2,11 @@
 title: Certificado profesional
 description: Obtenga información sobre cómo obtener la certificación como Adobe profesional experto en [!DNL Adobe Analytics]
 solution: Analytics
+product: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 11%

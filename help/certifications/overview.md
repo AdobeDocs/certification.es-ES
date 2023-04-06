@@ -1,8 +1,9 @@
 ---
 title: Página de inicio de la certificación
 description: Obtenga información sobre [!DNL Experience Cloud] Certificación en el Adobe. Averigüe lo que puede hacer para usted obtener la certificación.
+role: User,Developer,Data Architect
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%

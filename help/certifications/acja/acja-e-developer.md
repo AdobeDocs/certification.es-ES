@@ -1,12 +1,13 @@
 ---
 title: Certificación de experto
-description: Aprenda a convertirse en un Adobe experto certificado en [!DNL Customer Journey Analytics]
-role: Developer
+description: Obtenga información sobre cómo convertirse en un Adobe de expertos certificado en [!DNL Customer Journey Analytics]
+role: User
 solution: Customer Journey Analytics
+product: Customer Journey Analytics
 badge: label="Exam AD0-EXXX" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 7%

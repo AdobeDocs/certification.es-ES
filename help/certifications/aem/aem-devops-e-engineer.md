@@ -1,11 +1,12 @@
 ---
 title: Certificación de experto en ingeniería de DevOps
-description: Obtenga información sobre cómo convertirse en un experto en ingeniería de desarrollo de operaciones de Adobe Experience Manager certificado.
+description: Obtenga información sobre cómo convertirse en un experto en ingeniería de DevOps de Adobe Experience Manager certificado.
 solution: Experience Manager
+product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E124" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1124'
 ht-degree: 4%

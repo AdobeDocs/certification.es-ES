@@ -1,11 +1,12 @@
 ---
 title: Certificación de experto profesional
-description: Aprenda a convertirse en un experto en Adobe en Adobe de negocios [!DNL Commerce].
+description: Obtenga información sobre cómo obtener la certificación como Adobe profesional experto en Adobe [!DNL Commerce].
 solution: Commerce
+product: Magento
 role: User
 badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1607'
 ht-degree: 0%
