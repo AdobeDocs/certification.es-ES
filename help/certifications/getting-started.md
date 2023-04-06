@@ -3,9 +3,9 @@ title: Introducción a las certificaciones de Adobe
 description: Introducción a [!DNL Experience Cloud] certificaciones. Obtenga información sobre el programa y este sitio web.
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
+source-git-commit: 0d051bce7ef44105da136303b72fcf5cc22e7e17
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '945'
 ht-degree: 0%
 
 ---
@@ -86,9 +86,12 @@ La Guía de Recorrido de Certificación es una completa herramienta diseñada pa
 
 >[!ENDTABS]
 
+[!BADGE Obtener certificación]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
+
 **Preguntas**
 
 Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? Por favor, envíe un correo electrónico `certif@adobe.com`.
+¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+
 
