@@ -1,0 +1,132 @@
+---
+user-guide-title: Certificación en el Adobe
+breadcrumb-title: Certificación en el Adobe
+user-guide-description: Obtenga información sobre [!DNL Experience Cloud] Certificación en el Adobe. Averigüe lo que puede hacer para usted obtener la certificación.
+source-git-commit: b54476f453ffdc46ccf009aab1891cce768d383f
+workflow-type: tm+mt
+source-wordcount: '198'
+ht-degree: 43%
+
+---
+
+
+# Certificación en el Adobe {#certification}
+
++ [Página de inicio de la certificación](overview.md)
++ [Introducción ](getting-started.md)
++ [Cómo obtener la certificación](how-to-get-certified.md)
++ [Renovar la certificación](renew.md)
++ [Reiniciar programa](restart-program.md)
++ [Mi perfil](my-profile.md)
++ [Preguntas frecuentes](faq.md)
++ Certificaciones técnicas {#technical-certifications}
+   + Adobe [!DNL Advertising] {#aac}
+      + Profesional {#aac-professional}
+         + [Profesional empresarial (búsqueda)](/help/certifications/aac/aac-search-p-business.md)
+         + [Profesional empresarial (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
+      + [Renovación](/help/certifications/aac/aac-renew.md)
+   + Adobe [!DNL Analytics] {#aa}
+      + Profesional {#aa-professional}
+         + [Profesional empresarial](/help/certifications/aa/aa-p-business.md)
+         + [Desarrollador](/help/certifications/aa/aa-p-developer.md)
+      + Experto {#aa-expert}
+         + [Profesional empresarial](/help/certifications/aa/aa-e-business.md)
+         + [Desarrollador](/help/certifications/aa/aa-e-developer.md)
+      + Principal {#aa-master}
+         + [Arquitecto](/help/certifications/aa/aa-m-architect.md)
+      + [Renovación](/help/certifications/aa/aa-renew.md)
+   + Adobe [!DNL Customer Journey Analytics] {#acja}
+      + Experto {#acja-expert}
+         + [Desarrollador](/help/certifications/acja/acja-e-developer.md)
+   + Adobe [!DNL Audience Manager] {#aam}
+      + Profesional {#aam-professional}
+         + [Profesional empresarial](/help/certifications/aam/aam-p-business.md)
+      + Experto {#aam-expert}
+         + [Profesional empresarial](/help/certifications/aam/aam-e-business.md)
+      + Principal {#aam-master}
+         + [Arquitecto](/help/certifications/aam/aam-m-architect.md)
+      + [Renovación](/help/certifications/aam/aam-renew.md)
+   + Adobe [!DNL Campaign Classic] {#acc}
+      + Profesional {#acc-professional}
+         + [Profesional empresarial](/help/certifications/acc/acc-p-business.md)
+         + [Desarrollador](/help/certifications/acc/acc-p-developer.md)
+      + Experto {#acc-expert}
+         + [Profesional empresarial](/help/certifications/acc/acc-e-business.md)
+         + [Desarrollador](/help/certifications/acc/acc-e-developer.md)
+      + Principal {#acc-master}
+         + [Arquitecto](/help/certifications/acc/acc-m-developer.md)
+      + [Renovación](/help/certifications/acc/acc-renew.md)
+   + Adobe [!DNL Campaign Standard] {#acs}
+      + Experto {#acs-expert}
+         + [Profesional empresarial](/help/certifications/acs/acs-e-business.md)
+         + [Desarrollador](/help/certifications/acs/acs-e-developer.md)
+      + [Renovación](/help/certifications/acs/acs-renew.md)
+   + Adobe [!DNL Commerce] {#ac}
+      + Profesional {#ac-professional}
+         + [Profesional empresarial](/help/certifications/ac/ac-p-business.md)
+         + [Desarrollador](/help/certifications/ac/ac-p-developer.md)
+         + [Desarrollador front-end](/help/certifications/ac/ac-p-fedeveloper.md)
+      + Experto {#ac-expert}
+         + [Profesional empresarial](/help/certifications/ac/ac-e-business.md)
+         + [Desarrollador](/help/certifications/ac/ac-e-developer.md)
+         + [Desarrollador front-end](/help/certifications/ac/ac-e-fedeveloper.md)
+      + Principal {#ac-master}
+         + [Arquitecto](/help/certifications/ac/ac-m-architect.md)
+      + [Renovación](/help/certifications/ac/ac-renew.md)
+   + Adobe [!DNL Experience Manager] {#aem}
+      + Profesional {#aem-professional}
+         + [Profesional empresarial](/help/certifications/aem/aem-p-business.md)
+         + [Desarrollador (Sites)](/help/certifications/aem/aem-sites-p-developer.md)
+         + [Desarrollador (Assets)](/help/certifications/aem/aem-assets-p-developer.md)
+         + [Desarrollador back-end (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md)
+         + [Fundamentos técnicos](/help/certifications/aem/aem-p-foundations.md)
+      + Experto {#aem-expert}
+         + [Profesional empresarial (Sites)](/help/certifications/aem/aem-sites-e-business.md)
+         + [Desarrollador (Sites)](/help/certifications/aem/aem-sites-e-developer.md)
+         + [Operaciones de desarrollo](/help/certifications/aem/aem-devops-e-engineer.md)
+         + [Desarrollador (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
+         + [Migración de Cloud Service](/help/certifications/aem/aem-cs-e-migration.md)
+      + Principal {#aem-master}
+         + [Arquitecto (Sites)](/help/certifications/aem/aem-sites-m-archtiect.md)
+      + [Renovación](/help/certifications/aem/aem-renew.md)
+   + Adobe [!DNL Marketo Engage] {#ame}
+      + Profesional {#ame-professional}
+         + [Profesionales certificados](/help/certifications/ame/ame-p.md)
+      + Experto {#ame-expert}
+         + [Profesional empresarial](/help/certifications/ame/ame-e-business.md)
+      + Principal {#ame-master}
+         + [Arquitecto](/help/certifications/ame/ame-m-architect.md)
+      + [Renovación](/help/certifications/ame/ame-renew.md)
+   + Adobe [!DNL Doc Cloud] {#adc}
+      + Profesional {#adc-professional}
+         + [Profesional empresarial](/help/certifications/adc/adc-professional.md)
+      + [Renovación](/help/certifications/adc/adc-renew.md)
+   + Adobe Real-Time CDP {#rtcdp}
+      + Profesional {#rtcdp-professional}
+         + [Profesional empresarial](/help/certifications/rtcdp/rtcdp-p-business.md)
+      + Experto {#rtcdp-expert}
+         + [Profesional técnico](/help/certifications/rtcdp/rtcdp-e-technical.md)
+      + [Renovación](/help/certifications/rtcdp/rtcdp-renew.md)
+   + Adobe [!DNL Journey Optimizer] {#ajo}
+      + Experto {#ajo-expert}
+         + [Desarrollador](/help/certifications/ajo/ajo-e-developer.md)
+      + [Renovación](/help/certifications/ajo/ajo-renew.md)
+   + Adobe [!DNL Target] {#at}
+      + Profesional {#at-professional}
+         + [Profesional empresarial](/help/certifications/at/at-p-business.md)
+      + Experto {#at-expert}
+         + [Profesional empresarial](/help/certifications/at/at-e-business.md)
+      + Principal {#at-master}
+         + [Arquitecto](/help/certifications/at/at-m-architect.md)
+      + [Renovación](/help/certifications/at/at-renew.md)
+   + Adobe [!DNL Workfront] {#aw}
+      + Profesional {#aw-professional}
+         + [Desarrollador (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
+         + [Gestor de proyecto](/help/certifications/aw/aw-p-project-manager.md)
+         + [Desarrollador (Core)](/help/certifications/aw/aw-core-p-developer.md)
+      + Experto {#aw-expert}
+         + [Desarrollador (Core)](/help/certifications/aw/aw-core-e-developer.md)
+         + [Conector mejorado AEM](/help/certifications/aw/aw-aem-e-connector.md)
+      + [Renovación](/help/certifications/aw/aw-renew.md)
++ Oculto {#hidden}
+   + [Comprobador de examen de aptitud para reiniciar la certificación](exam-eligibility-check.md)
