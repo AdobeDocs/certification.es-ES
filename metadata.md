@@ -5,11 +5,11 @@ product: experience cloud
 type: Documentation
 mini-toc-levels: 1
 git-repo: https://github.com/AdobeDocs/certification.es-ES
-hide: true
-source-git-commit: 158752ccbd0ff2d894eb5ced35e77dcf9dd426a2
+index: true
+source-git-commit: 081892349fe727c6306f73ab0f1aa5c37ac0d778
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
