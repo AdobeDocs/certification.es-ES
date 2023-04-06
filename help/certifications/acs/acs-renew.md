@@ -4,9 +4,9 @@ description: Aprenda a renovar su Adobe [!DNL Campaign Standard] antes de que ca
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1493'
+source-wordcount: '1491'
 ht-degree: 11%
 
 ---
@@ -233,6 +233,6 @@ Para renovar el examen, haga clic en el &quot;[!DNL Campaign Standard] Renovaci�
 
 ## Preguntas
 
-¿Tiene alguna pregunta sobre la certificación de Adobe? [Contáctenos](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+¿Tiene alguna pregunta sobre la certificación de Adobe? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
 
 Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

@@ -4,9 +4,9 @@ description: Aprenda a renovar su Adobe [!DNL Journey Optimizer] antes de que ca
 solution: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ Nos complace anunciar que ahora puede renovar su certificación a través de un 
 
 Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.

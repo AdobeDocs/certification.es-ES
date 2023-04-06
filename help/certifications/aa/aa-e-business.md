@@ -5,9 +5,9 @@ solution: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -67,14 +67,13 @@ Debe tener:
 
 **Detalles del examen:**
 
->* **Nivel:** Experto (experiencia de 1 a 3 años)
->* **Puntuación de paso:** 31/50
->* **Tiempo:** 120 minutos
->* **Envío:** Procesado en línea (requiere acceso a la cámara) o >centro de pruebas procesado
->* **Idiomas disponibles:** Inglés
->* **Costo:** $225 (global) / $150 (India)
->* **ID del examen:** AD0-E208
-
+* **Nivel:** Experto (experiencia de 1 a 3 años)
+* **Puntuación de paso:** 31/50
+* **Tiempo:** 120 minutos
+* **Envío:** Procesado en línea (requiere acceso a la cámara) o >centro de pruebas procesado
+* **Idiomas disponibles:** Inglés
+* **Costo:** $225 (global) / $150 (India)
+* **ID del examen:** AD0-E208
 
 **Autoevaluación de la preparación**
 
@@ -202,4 +201,4 @@ Puede aplicar el código de cupón cuando programe el examen. Si tiene un descue
 
 Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.

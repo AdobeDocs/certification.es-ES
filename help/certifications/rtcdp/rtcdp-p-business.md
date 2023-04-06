@@ -6,9 +6,9 @@ role: Developer
 recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '932'
 ht-degree: 3%
 
 ---
@@ -174,4 +174,4 @@ Puede aplicar el código de cupón cuando programe el examen. Si tiene un descue
 
 Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
