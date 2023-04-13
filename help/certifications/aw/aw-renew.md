@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 6beb8e647b0638540548038d9ce60cdb3398aa20
+source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -39,8 +39,8 @@ Nos complace anunciar que ahora puede renovar su certificación a través de un 
 
 **Detalles del examen:**
 
-* Puntuación de paso:
-* Tiempo: mins
+* Puntuación de paso: 34/25
+* Tiempo: 66 min
 * Costo: LIBRE/no procesado
 * Envío: Bajo demanda
 * Idiomas disponibles: Inglés
@@ -49,13 +49,51 @@ Nos complace anunciar que ahora puede renovar su certificación a través de un 
 
 **Alcance y objetivos**
 
-AGREGAR
+Sección 1: Configuración y administración del sistema principal (26%)
+
+* Dado un escenario de fusión que requiere que una función esté anidada dentro de otra función, seleccione la expresión formada correctamente.
+* Dado un escenario de fusión que requiere manipulación de zona horaria, distinga entre el usuario, la organización visible y dónde se necesita anular la zona horaria.
+* En un escenario de fusión, seleccione la expresión del panel de asignación y/o los módulos que transformarían correctamente los datos de entrada en datos de salida.
+* Identifique las formas correctas de utilizar la herramienta de desarrollo de fusión para solucionar errores en la ejecución o determinar las llamadas y respuestas realizadas a sistemas de terceros.
+
+Sección 2: Diseño y arquitectura del escenario (47%)
+
+* Dada una lista de pasos, elija la secuencia correcta para analizar JSON y convertirlo en paquetes.
+* Dado un escenario de fusión, identifique una oportunidad para simplificar el diseño y/o optimizar para el mantenimiento.
+* Dada una situación, identifique una oportunidad para reducir el flujo de datos a través de un escenario.
+* Dado un ejemplo del número de paquetes que se muestra en un módulo de búsqueda y un agregador siguiente, explique los cambios en el número de operaciones procesadas y mostradas por el inspector de paquetes.
+* Dado un ejemplo de error 403:prohibido, seleccione correctamente el origen del mensaje de error y la causa
+* Identifique el uso apropiado de Referencias y Colecciones en los módulos de Búsqueda y Leer de Workfront.
+
+Sección 3: Pruebas y gestión de errores (15%)
+
+* En un escenario de fusión, identifique correctamente una solución para evitar o gestionar un servicio poco fiable.
+* En un escenario de fusión en el que faltan datos necesarios, seleccione formas de gestionar los datos no válidos.
+
+Sección 4: Uso de API (12%)
+
+* Dado un sistema de terceros que no tiene una aplicación dedicada, identifique la aplicación HTTP y seleccione el módulo correspondiente.
+* Identifique la diferencia entre las operaciones de CRUD y otras capacidades comunes de las API de REST.
 
 ## Obtener preconfigurado
 
 No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
 
 Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+
+**Sección 1: Configuración y administración del sistema principal**
+
+AGREGAR
+
+**Sección 2: Diseño y arquitectura del escenario**
+
+AGREGAR
+
+**Sección 3: Pruebas y gestión de errores**
+
+AGREGAR
+
+**Sección 4: Uso de API**
 
 AGREGAR
 
@@ -67,7 +105,7 @@ Para renovar el examen, haga clic en el vínculo Workfront Fusion Developer reno
 
 >[!NOTE]
 >
->Este examen es gratuito, abierto y no procesado. Puedes hacer el examen hasta tres veces. Si no recibe el 75 % después de tres intentos, debe esperar **30 días** para intentarlo de nuevo. Si no cumple puede que se revoque la certificación.
+>Este examen es gratuito, está abierto y no se procesa. Puedes hacer el examen hasta tres veces. Si no consigue el tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple puede que se revoque la certificación.
 
 +++
 
