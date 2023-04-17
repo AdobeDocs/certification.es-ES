@@ -6,9 +6,10 @@ product: Marketo
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1056'
 ht-degree: 4%
 
 ---
@@ -148,13 +149,18 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 * [Experience League - [!DNL Marketo Engage] Documentación del producto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=es){target="_blank"} (Uso de programas, marketing por correo electrónico, pruebas A/B)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Tenga en cuenta el proceso de control de calidad)
 
-### Reinicie la certificación
+### Renovar la certificación
 
-Este examen es gratuito, está abierto y no se procesa. Puedes hacer el examen hasta tres veces. Si no consigue el tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple puede que se revoque la certificación.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el enlace de renovación de Marketo Engage Business Practitionary Expert a continuación.
 
-[!BADGE Tome el Adobe [!DNL Marketo Engage] Experto en el examen de reinicio AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Tome el Adobe [!DNL Marketo Engage] Examen de renovación de expertos del profesional profesional de negocios AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>Este examen es gratuito, está abierto y no se procesa. Puedes hacer el examen hasta tres veces. Si no consigue el tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple puede que se revoque la certificación.
 
 >[!ENDTABS]
+
 
 ### Preguntas
 

@@ -6,9 +6,10 @@ product: Campaign
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: af895356-3e6b-424f-a637-a695b916aa47
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '912'
 ht-degree: 11%
 
 ---
@@ -136,15 +137,13 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 
 ### Renovar la certificación
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **only**  después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
-
-**Ahora que ha iniciado sesión correctamente, se podrá acceder directamente a los siguientes vínculos.**
-
-Este examen es gratuito, está abierto y no se procesa. Puedes hacer el examen hasta tres veces. Si no consigue el tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple puede que se revoque la certificación.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar la certificación, haga clic en el enlace renovación del Campaign Classic: AD5-823 que aparece a continuación.
 
 [Toma el Adobe [!DNL Campaign Classic] renovación para el examen de profesional empresarial, desarrollador y arquitecto ahora: AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+
+>[!NOTE]
+>
+>Este examen es gratuito, está abierto y no se procesa. Puedes hacer el examen hasta tres veces. Si no consigue el tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple puede que se revoque la certificación.
 
 >[!ENDTABS]
 
