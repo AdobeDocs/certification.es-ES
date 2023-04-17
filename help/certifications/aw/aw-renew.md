@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -101,7 +101,7 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 
 ## Renovar la certificación
 
-Para renovar el examen, haga clic en el vínculo Workfront Fusion Developer renovación - AD5-830 que aparece a continuación_. Esto le redirige al sistema de Gestión de Credenciales de Adobe, donde puede hacer clic en **[!UICONTROL renovar la certificación]** a la derecha de la pantalla y, a continuación, busque [!DNL Adobe Campaign] para ver el enlace al examen de renovación.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar el examen, haga clic en el vínculo Workfront Fusion Developer renovación - AD5-830 que aparece a continuación.
 
 * [Renovación del desarrollador de Workfront Fusion: AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 

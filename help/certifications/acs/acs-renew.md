@@ -7,9 +7,9 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '1491'
+source-wordcount: '1460'
 ht-degree: 11%
 
 ---
@@ -34,7 +34,7 @@ Nos complace anunciar que ahora puede renovar su certificación a través de un 
 
 >[!TAB Experto]
 
-+++Adobe [!DNL Campaign Standard] Renovación de expertos de Business Practicator
++ + + Adobe [!DNL Campaign Standard] Renovación de expertos de Business Practicator
 
 Actualmente debe estar certificado (no caducado) en:
 
@@ -108,7 +108,7 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 
 ## Renovar la certificación
 
-Para renovar el examen, haga clic en el botón _[!DNL Campaign Standard]Renovación del profesional empresarial: enlace de AD5-822 a continuación_. Esto le redirige al sistema de Gestión de Credenciales de Adobe, donde puede hacer clic en **[!UICONTROL renovar la certificación]** a la derecha de la pantalla y, a continuación, busque [!DNL Adobe Campaign] para ver el enlace al examen de renovación.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar el examen, haga clic en el botón [!DNL Campaign Standard] Renovación de Business Practiderer - enlace AD5-822 a continuación.
 
 * [[!DNL Campaign Standard] Renovación de profesional empresarial - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -222,7 +222,7 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 
 ## Renovar la certificación
 
-Para renovar el examen, haga clic en el &quot;[!DNL Campaign Standard] Renovación de desarrollador: enlace de AD5-821&quot; a continuación. Esto le redirigirá al sistema de Gestión de Credenciales de Adobe, donde hará clic en la pestaña &quot;renovar su certificación&quot; a la derecha de la pantalla > y luego buscará Adobe Campaign para ver el enlace al examen de renovación.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar el examen, haga clic en el &quot;[!DNL Campaign Standard] Renovación de desarrollador: enlace de AD5-821&quot; a continuación.
 
 * [[!DNL Campaign Standard] Renovación de desarrollador - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
