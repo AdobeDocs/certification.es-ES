@@ -34,7 +34,7 @@ Nos complace anunciar que ahora puede renovar su certificación a través de un 
 
 >[!TAB Experto]
 
-+ + + Adobe [!DNL Campaign Standard] Renovación de expertos de Business Practicator
++++Adobe [!DNL Campaign Standard] Renovación de expertos de Business Practicator
 
 Actualmente debe estar certificado (no caducado) en:
 
