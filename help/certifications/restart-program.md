@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 9%
@@ -15,7 +16,7 @@ ht-degree: 9%
 
 # Reinicie el recorrido de certificación pasando de caducado a certificado
 
-Este programa de tiempo limitado, ofrecido **del 17 de abril de 2023 al 20 de octubre de 2023**, le da la oportunidad de actualizar sus habilidades y mantenerse a la vanguardia de la curva en un paisaje digital que cambia rápidamente.
+Este programa de tiempo limitado, ofrecido **del 24 de abril de 2023 al 20 de octubre de 2023**, le da la oportunidad de actualizar sus habilidades y mantenerse a la vanguardia de la curva en un paisaje digital que cambia rápidamente.
 
 Las personas cuyos certificados hayan caducado entre 2020 y el 23 de abril de 2023 pueden optar a este **gratuito** programa.
 
@@ -64,7 +65,7 @@ Las evaluaciones del curso son gratuitas. No es necesario programarlos y no se p
 
 | Curso | Evaluación del curso |
 | ------- | ------- |
-| [Migración a Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
+| [Traslado a Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
 | [Planificación del traslado a Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
 | [Introducción a Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
 | [Administración de contenido sin encabezado mediante las API de GraphQL](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html?lang=en){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
