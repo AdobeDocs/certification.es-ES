@@ -4,9 +4,10 @@ description: Descripción general de las opciones de certificación para Adobe D
 solution: Document Cloud
 hide: true
 hidefromtoc: true
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: dde41cf9-13ef-4571-8948-341ef5585da7
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

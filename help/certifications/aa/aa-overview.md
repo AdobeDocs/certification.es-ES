@@ -3,10 +3,11 @@ title: Información general sobre la certificación de Analytics
 description: Descripción general de las opciones de certificación para Adobe Analytics
 solution: Analytics
 product: Analytics
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: e765bf4c-e0bc-45d7-a5c7-f501aad7fdd2
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
