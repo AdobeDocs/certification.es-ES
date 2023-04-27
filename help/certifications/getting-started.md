@@ -4,9 +4,9 @@ description: Introducción a [!DNL Experience Cloud] certificaciones. Obtenga in
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
+source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '947'
 ht-degree: 0%
 
 ---
@@ -38,18 +38,11 @@ Adobe [!DNL Experience Cloud] ofrece tres niveles diferentes de certificación: 
 
 Estos niveles reflejan una progresión de la competencia y los conocimientos, siendo la certificación profesional la certificación básica, el experto el nivel intermedio y el máster el nivel más alto de certificación.
 
+| Distintivo | Descripción |
+| ------- | ------- |
 | ![Distintivo profesional](/help/certifications/assets/professional-badge-Xsmall.png) | **Certificaciones profesionales** valide que un candidato tiene una comprensión básica de las soluciones de marketing digital de Adobe. El examen de certificación abarca conceptos básicos y funcionalidades del Adobe [!DNL Experience Cloud]. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Distintivo de experto](/help/certifications/assets/expert-badge-Xsmall.png) | **Certificaciones de expertos** son para profesionales que tienen una comprensión más avanzada de las soluciones de marketing digital de Adobe. El examen de certificación abarca conceptos y funcionalidades más complejas del Adobe [!DNL Experience Cloud], incluida la implementación y la resolución de problemas. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Distintivo maestro](/help/certifications/assets/master-badge-Xsmall.png) | **Certificaciones maestras** son para profesionales que tienen una comprensión profunda de las soluciones de marketing digital de Adobe y han demostrado su experiencia en múltiples áreas de Adobe [!DNL Experience Cloud]. El examen de certificación abarca temas y escenarios avanzados, incluidas integraciones complejas, personalizaciones y resolución de problemas. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
@@ -57,18 +50,11 @@ Estos niveles reflejan una progresión de la competencia y los conocimientos, si
 
 Los exámenes de certificación de Adobe se personalizan en tres funciones de trabajo diferentes. Lea la siguiente información para encontrar la certificación adecuada para su carrera profesional.
 
+| Logotipo | Descripción |
+| ------- | ------- |
 | ![Distintivo profesional](/help/certifications/assets/business_practitioner_blk_small.png) | **Profesionales empresariales** son responsables de diseñar, ejecutar y administrar campañas de marketing mediante Adobe [!DNL Experience Cloud] soluciones. Deben tener una comprensión fundamental de las soluciones de marketing digital de Adobe, así como experiencia en marketing y publicidad. La certificación Business Practiderer valida su capacidad para utilizar de forma eficaz las soluciones de marketing digital de Adobe para lograr los objetivos empresariales. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Distintivo para desarrolladores](/help/certifications/assets/developer_blk_small.png) | **Desarrolladores** son responsables de la aplicación e integración del Adobe [!DNL Experience Cloud] soluciones en el conjunto de tecnologías de una organización. Deben tener experiencia en desarrollo de software y competencia en tecnologías web, como las API de HTML, CSS, JavaScript y RESTful. La certificación para desarrolladores valida su capacidad para implementar y personalizar de forma eficaz las soluciones de marketing digital de Adobe para satisfacer los requisitos del negocio. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Distintivo de arquitecto](/help/certifications/assets/architect_blk_small.png) | **Arquitectos** son responsables de diseñar e implementar soluciones de nivel empresarial mediante Adobe [!DNL Experience Cloud] soluciones. Deberían tener amplios conocimientos de las soluciones de marketing digital de Adobe y experiencia en arquitectura, integración y personalización de software. La certificación Architect valida su capacidad para diseñar e implementar soluciones complejas mediante las soluciones de marketing digital de Adobe. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
