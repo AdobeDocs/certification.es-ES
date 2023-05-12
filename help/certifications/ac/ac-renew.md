@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '898'
 ht-degree: 1%
 
 ---
@@ -58,7 +58,7 @@ Las evaluaciones del curso son gratuitas. No es necesario programarlos y no se p
 
 [Formulario de referencia del cliente para el Adobe [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
 
-### Cursos y evaluaciones del curso:
+### Cursos y evaluaciones del curso para profesionales:
 
 | Curso | Evaluación del curso |
 | ------- | ------- |
@@ -101,7 +101,7 @@ Las evaluaciones del curso son gratuitas. No es necesario programarlos y no se p
 
 [Formulario de referencia del cliente para el Adobe [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
-### Cursos y evaluaciones del curso:
+### Cursos y evaluaciones del curso para expertos y maestros:
 
 | Curso | Evaluación del curso |
 | ------- | ------- |
