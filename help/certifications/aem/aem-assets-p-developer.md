@@ -1,12 +1,13 @@
 ---
 title: Certificación profesional
 description: Aprenda a convertirse en un Adobe certificado [!DNL Experience Manager] Profesional.
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '910'
 ht-degree: 4%
@@ -142,7 +143,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 **Sección 4: Tipos de recursos**
 
 * [Administrar recursos de vídeo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
-* [Modelos de fragmento de contenido](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
+* [Modelos de fragmentos de contenido](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
 * [Variaciones: Crear contenido de fragmentos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
 
 **Sección 5: Conjuntos de funciones y capacidades de recursos**
