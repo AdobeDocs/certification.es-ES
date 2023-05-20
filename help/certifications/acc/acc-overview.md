@@ -1,6 +1,6 @@
 ---
-title: Información general sobre la certificación del Campaign Classic
-description: Descripción general de las opciones de certificación para Adobe Campaign Classic
+title: Resumen de certificación de Campaign Classic
+description: Descripción general de las opciones de certificación de Adobe Campaign Classic
 solution: Campaign, Campaign Classic v7
 version: Classic v7
 exl-id: 70d2e3e2-5e58-43e2-b093-15cdb16f0a0c
@@ -11,7 +11,7 @@ ht-degree: 11%
 
 ---
 
-# Información general sobre la certificación del Campaign Classic
+# Resumen de certificación de Campaign Classic
 
 **Profesional**
 

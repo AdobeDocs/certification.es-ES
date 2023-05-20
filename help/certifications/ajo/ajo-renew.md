@@ -1,11 +1,12 @@
 ---
-title: Renovación de la certificación
-description: Aprenda a renovar su Adobe [!DNL Journey Optimizer] antes de que caduque.
+title: Renovación de certificación
+description: Aprenda a renovar su Adobe [!DNL Journey Optimizer] certificación antes de que caduque.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -14,19 +15,19 @@ ht-degree: 0%
 
 # Renovar el Adobe [!DNL Journey Optimizer] certificación
 
-Cuando se aprueba un examen de certificación, la certificación es válida durante dos años.
+Cuando pasas un examen de certificación, tu certificación es válida por dos años.
 
-Nos complace anunciar que ahora puede renovar su certificación a través de un nuevo formato sin coste. Implica utilizar cursos y tutoriales para Experience League bajo demanda: simplemente complete tres actividades para renovar su certificación sin costo alguno. Debe renovar la certificación antes de que caduque o tendrá que realizar el examen completo para obtener la certificación de nuevo.
+Nos complace anunciar que ahora puede renovar su certificación mediante un nuevo formato sin coste adicional. Implica utilizar cursos y tutoriales de Experience League a la carta; solo tiene que completar tres actividades para renovar su certificación sin coste alguno. Debe renovar antes de que caduque su certificación, o tendrá que realizar el examen completo para volver a certificarse.
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **only** después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!NOTE]
->Próximamente se renovarán los expertos.
+>Renovación de los expertos próximamente.
 
 **Preguntas**
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

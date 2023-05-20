@@ -13,7 +13,7 @@ ht-degree: 30%
 **Advertising**
 
 * [Profesional empresarial (búsqueda)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* [Profesional empresarial (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [DSP Profesional empresarial ()](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 **Analytics**
 
@@ -46,7 +46,7 @@ ht-degree: 30%
 
 **Marketo Engage**
 
-* [Profesionales certificados](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
+* [Profesional certificado](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
 
 **Real-Time CDP**
 
@@ -54,13 +54,13 @@ ht-degree: 30%
 
 **Target**
 
-* [Profesionales certificados](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+* [Profesional certificado](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
 **Workfront**
 
 * [Desarrollador (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Gestor de proyecto](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
-* [Desarrollador (Core)](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
+* [Desarrollador (principal)](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 
 >[!MORELIKETHIS]
 >

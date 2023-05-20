@@ -1,41 +1,42 @@
 ---
-title: Certificación de experto profesional
-description: Obtenga información sobre cómo obtener la certificación como Adobe [!DNL Audience Manager] Experto en Business Manager.
+title: Certificación de experto profesional empresarial
+description: Obtenga información sobre cómo certificarse como Adobe [!DNL Audience Manager] Experto en Business Manager.
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
-badge: label="Exam AD0-E457" type="positive"
+badge: label="Examen AD0-E457" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1207'
 ht-degree: 6%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Audience Manager] Experto profesional
+# Recorrido de certificación para Adobe [!DNL Audience Manager] Experto profesional de negocios
 
-Aprenda a convertirse en un certificado [!DNL Audience Manager] Experto profesional.
+Obtenga información sobre cómo obtener una certificación [!DNL Audience Manager] Experto profesional de negocios.
 
 ## Experiencia mínima
 
-Su certificación es válida durante dos años a partir del momento de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las capacidades de los productos más recientes.
+Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
 
-Debe tener:
+Debería tener:
 
 * 1-2 años de experiencia en el campo de la tecnología de marketing
-* 3 a 6 meses de experiencia con la activación de audiencias
+* De 3 a 6 meses de experiencia con la activación de audiencias
 * Experiencia con lógica booleana, jerga de marketing digital, análisis de datos y estrategias
-* Conocimiento de los objetivos empresariales y los KPI, familiaridad con las pilas de tecnología de marketing digital y varias integraciones de plataforma, y comprensión de los flujos de datos (tipos de ID, sincronizaciones de ID, seguimiento de píxeles, destinos basados en personas)
+* Conocimiento de los objetivos y KPI empresariales, familiaridad con las pilas de tecnología de marketing digital y varias integraciones de plataforma, y comprensión de los flujos de datos (tipos de ID, sincronizaciones de ID, seguimiento de píxeles, destinos basados en personas)
 
 Debe estar familiarizado con las siguientes tecnologías y entornos:
 
 Tecnologías:
 
-* Plataforma DSP (mostrador de comercio, administrador de ofertas de doble clic, etc.)
+* DSP Plataforma de (Trade Desk, Double Click Bid Manager, etc.)
 * Excel
 * Tableau y herramientas similares (Power BI, Qlik)
-* Servidor de publicidad (haga doble clic en el Administrador de campañas)
+* Servidor De Publicidad (Haga Doble Clic En El Administrador De Campañas)
 * Adobe/Google Analytics
 * Adobe Experience Platform
 * La herramienta BAAAM
@@ -48,17 +49,17 @@ Entornos:
 
 >[!NOTE]
 >
->Su certificación es válida durante dos años a partir del momento de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las capacidades de los productos más recientes.
+>Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
 
 >[!BEGINTABS]
 
->[!TAB Prepárese]
+>[!TAB Prepárese.]
 
-**Audiencia prevista:**
+**Destinatarios a los que va dirigido:**
 
 * Especialista en marketing digital
 * Consultor de tecnología de marketing
-* Encargado de la estrategia de audiencia
+* Estratega de audiencia
 * Consultor de comportamiento
 * Analista de marketing digital
 * Analista de datos de marketing
@@ -66,59 +67,59 @@ Entornos:
 
 **Detalles del examen:**
 
-* Nivel: Experto (experiencia de 1 a 3 años)
-* Puntuación de paso: 36/50
-* Tiempo: 100 minutos
-* Envío: Procesado en línea (requiere acceso a la cámara) o procesado en el centro de pruebas
+* Nivel: Experto (1-3 años de experiencia)
+* Puntuación superada: 36/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
 * Idiomas disponibles: Inglés
 * Costo: $225 (global) y $150 (India)
-* ID del examen: AD0-E457
+* Identificador del examen: AD0-E457
 
 **Autoevaluación de la preparación**
 
-Complete el [cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} para ver si su experiencia actual coincide con la cualificación mínima recomendada de los candidatos.
+Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
 
 **Objetivos y ámbito del examen**
 
-Sección 1: Creación y distribución de segmentos (25%)
+Sección 1: Creación y distribución de segmentos (25 %)
 
-* Determine el método adecuado para crear segmentos utilizando datos de origen, de segundo nivel y de terceros con fines analíticos y de segmentación
-* En un escenario, recomiende segmentos para la activación que estén alineados con los objetivos de la campaña o del negocio
-* Determinar el método adecuado para sindicación de segmentos a destinos para la activación
+* Determine el método adecuado para crear segmentos utilizando datos de primera, segunda y tercera parte para fines de segmentación y análisis
+* Ante un escenario, recomiende segmentos para su activación que se alineen con los objetivos empresariales o de campaña
+* Determine el método adecuado para sindicar segmentos a destinos para su activación
 * Diferenciación entre los distintos tipos de destinos
 
-Sección 2: Creación de características (17%)
+Sección 2: Creación de características (17 %)
 
-* Recomendar características para una estrategia de audiencia determinada
-* Determinar el método correcto para crear y actualizar características basadas en reglas o integradas
+* Características recomendadas para una estrategia de audiencia determinada
+* Determine el método correcto para crear y actualizar características basadas en reglas o integradas
 
-Sección 3: Informes y mediciones (22%)
+Sección 3: Informes y mediciones (22 %)
 
-* En un escenario, analice los informes para proporcionar pasos siguientes que se puedan llevar a cabo para alcanzar los objetivos del negocio.
-* En un escenario, analice la optimización de la audiencia.
+* En un escenario determinado, analice los informes para proporcionar pasos siguientes procesables para cumplir los objetivos comerciales
+* Ante un escenario concreto, analizar optimización de audiencias
 
-Sección 4: Resolución de problemas y administración (26%)
+Sección 4: Resolución de problemas y administración (26 %)
 
-* En un escenario, compruebe la información de entrega de la audiencia para garantizar las necesidades de envío programadas
-* Determinar la práctica adecuada para validar archivos entrantes sin conexión
-* En un escenario, determine el método correcto para realizar el control de calidad con la sincronización de ID
-* Determinar el método adecuado para desplazarse y activar desde el Audience Marketplace de Adobe
+* Ante un escenario concreto, compruebe la información de entrega de la audiencia para garantizar las necesidades de entrega programadas
+* Determinar la práctica adecuada para validar archivos de entrada sin conexión
+* En un escenario determinado, determine el método correcto para realizar el control de calidad con la sincronización de ID
+* Determine el método adecuado para desplazarse y activarse desde el Audience Marketplace de Adobe
 
-Sección 5: Taxonomía (10%)
+Sección 5: Taxonomía (10 %)
 
-* Determinar la estructura apropiada para crear características y segmentos que utilicen una nomenclatura clara y coherente
+* Determine la estructura adecuada para crear rasgos y segmentos que utilicen una nomenclatura clara y coherente
 * Determinar la técnica correcta para mantener una plataforma organizada mediante una estructura de carpetas clara
 
->[!TAB Obtener preconfigurado]
+>[!TAB Prepárate.]
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Creación y distribución de segmentos**
 
-* [Sistema de informes de uso de datos de segundo nivel y de terceros en Audience Marketplace a nivel de segmento](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html?lang=en){target="_blank"}
-* [Utilice filtros y recomendaciones para elegir datos de terceros en el Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html?lang=en){target="_blank"}
+* [Informes de uso de datos de segundo y tercer nivel en Audience Marketplace a nivel de segmento](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html?lang=en){target="_blank"}
+* [Utilice filtros y recomendaciones para elegir datos de terceros en Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html?lang=en){target="_blank"}
 * [Información acerca de la segmentación](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html?lang=en){target="_blank"}
 * [Segmentos: propósito, composición y reglas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=en){target="_blank"}
 * [Segmentación y filtrado](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=en){target="_blank"}
@@ -135,14 +136,14 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 **Sección 3: Informes y mediciones**
 
 * [Informe de Tendencia del segmento](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html?lang=en){target="_blank"}
-* [Monitorización e informe del uso de las actividades](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html?lang=en){target="_blank"}
+* [Monitorización e informes sobre el uso de la actividad](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html?lang=en){target="_blank"}
 * [Informes de tendencias](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html?lang=en)
 * [Uso de informes de Audience Optimization para comprender el rendimiento de los medios](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html?lang=en){target="_blank"}
 * [Audience Optimization for Publishers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html?lang=en){target="_blank"}
 
-**Sección 4: Resolución de problemas y administración**
+**Sección 4: Solución de problemas y administración**
 
-* [uso compartido de segmentos de Experience Platform con [!DNL Audience Manager] y otras soluciones de Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=en){target="_blank"}
+* [Uso compartido de segmentos del Experience Platform con [!DNL Audience Manager] y otras soluciones de Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=en){target="_blank"}
 * [Pasos para la ingesta de datos basados en archivos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html?lang=en){target="_blank"}
 * [Requisitos de nombre y contenido para archivos de sincronización de ID](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html?lang=en){target="_blank"}
 * [Creación y administración de la activación de datos en [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html?lang=en){target="_blank"}
@@ -151,49 +152,49 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 
 * [Señales, rasgos y segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=en){target="_blank"}
 * [Límites de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html?lang=en){target="_blank"}
-* [Creación de una taxonomía de características](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
+* [Creación de una taxonomía de rasgos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
 * [Clasificación de rasgos con una taxonomía común](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
 * [Acerca de los rasgos de carpetas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html?lang=en){target="_blank"}
 
->[!TAB Obtener certificación]
+>[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **only** después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Ahora que ha iniciado sesión correctamente, se podrá acceder directamente a los siguientes vínculos.**
+**Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
 **Realizar una prueba de práctica**
 
-Se recomienda realizar la prueba de práctica gratuita antes de comenzar. Tendrá acceso sin restricciones a todas las pruebas de práctica disponibles para los exámenes de nivel de experto de Adobe.
+Le recomendamos que realice la prueba de práctica gratuita antes de comenzar. Tendrás acceso ilimitado a todas las pruebas de práctica disponibles para los exámenes de Adobe de nivel experto.
 
-Nuestras pruebas de práctica se desarrollan desde el mismo modelo que los exámenes en directo. La prueba de práctica le ayudará a comprender los temas tratados en el examen en vivo.
+Todas nuestras pruebas de práctica se desarrollan a partir del mismo modelo que los exámenes en vivo. La prueba de práctica le ayudará a comprender los temas tratados en el examen en vivo.
 
-Recuerde que aprobar una prueba de práctica no garantiza que se aprobará el examen de certificación.
+Recuerde que aprobar un examen de práctica no garantiza que aprobará el examen de certificación.
 
-Vaya a la [Portal de preparación de examen de certificación de Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ahora, para realizar una prueba de práctica.
+Vaya a la [Adobe Certificación Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ahora para hacer una prueba de práctica.
 
-**Haga el examen de certificación**
+**Realice el examen de certificación**
 
-Adobe utiliza dos proveedores para administrar los exámenes procesados, PSI y Ejemplos.
+El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y Examity.
 
-* **PSI** ofrece opciones de centro de pruebas y exámenes japoneses (si está disponible)
+* **PSI** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
 * **[!DNL Examity]** ofrece una opción en línea remota
 
-Para programar, volver a programar o cancelar el examen, simplemente haga clic en el proveedor que desee y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
 
 ### Número de examen: AD0-E457
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457 newtab=true"}[!BADGE Ejemplo]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457 newtab=true"}[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457 newtab=true"}
 
-Puede pagar su examen de certificación por cupón o tarjeta de crédito. Para comprar un vale de examen, vaya a: [Centro de vales de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puede aplicar el código de cupón cuando programe el examen. Si tiene un descuento, se aplicará durante el cierre de compra.
+Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
 
 >[!ENDTABS]
 
 **Preguntas**
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

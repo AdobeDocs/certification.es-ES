@@ -1,10 +1,10 @@
 ---
-title: Certificación de experto profesional
-description: Aprenda a convertirse en un Adobe certificado experto en negocios con [!DNL Campaign Classic].
+title: Certificación de experto profesional empresarial
+description: Aprenda a convertirse en un experto profesional certificado en Adobe con [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exam AD0-E327" type="positive"
+badge: label="Examen AD0-E327" type="positivo"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,103 +14,103 @@ ht-degree: 12%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Campaign Classic] Experto profesional
+# Recorrido de certificación para Adobe [!DNL Campaign Classic] Experto profesional de negocios
 
-Aprenda a convertirse en un experto en Adobe de negocios certificado.
+Aprenda a convertirse en un experto certificado en profesionales de Adobe.
 
 ## Experiencia mínima
 
-Debe tener:
+Debería tener:
 
-* Al menos 2 años de extenso [!DNL Campaign Classic] experiencia de software
-* Experiencia de varios años en el desarrollo de campañas y tácticas de marketing mediante canales digitales omnicanal
-* Experimente la interpretación/traducción de los requisitos comerciales a productos procesables de Campaign
+* Al menos 2 años de [!DNL Campaign Classic] experiencia informática
+* Experiencia de varios años en el desarrollo de campañas y tácticas de marketing mediante el uso de omnicanal digital
+* Experiencia en la interpretación/traducción de los requisitos empresariales a los entregables de Campaign procesables
 * Experiencia con métricas de marketing como ROI, tasas de pulsaciones y conversión
-* Comprensión de la aplicación de tipología, la administración de acceso, las tecnologías web y el marketing de las bases de datos
-* Conocimiento de las directrices legales y éticas para la comercialización
+* Comprensión de la aplicación de tipología, administración de acceso, tecnologías web y marketing de bases de datos
+* Conocimiento de las directrices legales y éticas para el marketing
 
 >[!NOTE]
 >
->Su certificación es válida durante dos años a partir del momento de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las capacidades de los productos más recientes.
+>Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
 
 >[!BEGINTABS]
 
->[!TAB Prepárese]
+>[!TAB Prepárese.]
 
-**Audiencia prevista:**
+**Destinatarios a los que va dirigido:**
 
-* Consultor comercial
+* Consultor empresarial
 * Analista empresarial
-* Gestor de interacciones
+* Administrador de interacción
 * Administrador de campañas
-* Especialista en marketing de base de datos
+* Comercial de base de datos
 * Profesional empresarial
-* Gestor de proyectos CRM
+* Administrador de proyectos CRM
 
 **Detalles del examen:**
 
-* Nivel: Experto (experiencia de 1 a 3 años)
-* Puntuación de paso: 32/50
-* Tiempo: 100 minutos
-* Envío: Procesado en línea (requiere acceso a la cámara) o procesado en el centro de pruebas
+* Nivel: Experto (1-3 años de experiencia)
+* Puntuación superada: 32/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
 * Idiomas disponibles: Inglés
-* Costo: $225 (global) / $150 (India)
+* Costo: 225 dólares (global) / 150 dólares (India)
 * ID del examen: AD0-E327
 
 **Autoevaluación de la preparación**
 
-Complete el [cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} para ver si su experiencia actual coincide con la cualificación mínima recomendada de los candidatos.
+Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
 
 **Objetivos y ámbito del examen**
 
-Sección 1: Administración de campañas (20%)
+Sección 1: Administración de campañas (20 %)
 
-* Prácticas recomendadas para crear una campaña
-* En un escenario, determine la plantilla de campaña correcta
+* Aplicar las prácticas recomendadas para crear una campaña
+* Ante un escenario concreto, determine la plantilla de campaña correcta
 * Explicar la importancia de las tipologías
 * Describir asignaciones de destino
 * Explicar cómo configurar aplicaciones web y formularios web
 
-Sección 2: Administración de flujos de trabajo (22%)
+Sección 2: Administración del flujo de trabajo (22 %)
 
-* Evalúe un conjunto determinado de requisitos de campaña y recomiende el curso de acción
-* En un escenario, analice los errores del flujo de trabajo
-* Dado un conjunto de requisitos de campaña, determine el diseño correcto de un flujo de trabajo de marketing
-* Aplicación de prácticas recomendadas en la ejecución de flujos de trabajo
+* Evaluar un conjunto determinado de requisitos de la campaña y recomendar el curso de acción
+* Ante un escenario concreto, analizar errores de flujo de trabajo
+* Dados un conjunto de requisitos de campaña, determine el diseño correcto de un flujo de trabajo de marketing
+* Aplicar prácticas recomendadas al ejecutar flujos de trabajo
 
-Sección 3: Gestión de datos (24%)
+Sección 3: Gestión de datos (24 %)
 
-* Explicar los conceptos principales de las bases de datos relacionales
+* Explicar los conceptos básicos de las bases de datos relacionales
 * Determinar las diferentes fuentes de datos a las que puede acceder un flujo de trabajo
 * Identificar el método correcto para exportar datos
-* En un escenario, determine el método de investigación de datos que se va a usar
-* Aplicar prácticas recomendadas para crear listas
+* En un escenario determinado, determine el método de investigación de datos que debe utilizar
+* Aplicar las prácticas recomendadas para crear listas
 * Aplicar los pasos para configurar un filtro predefinido
-* Dados los requisitos comerciales, identifique el formulario de entrada adecuado
+* Dados los requisitos empresariales, identifique el formulario de entrada adecuado
 
-Sección 4: Administración de envíos (14%)
+Sección 4: Gestión de envíos (14 %)
 
 * Aplique los pasos para crear/configurar envíos
-* En un escenario, seleccione y configure la audiencia de prueba adecuada para las aprobaciones
-* Analizar e interpretar las auditorías de entrega
+* En un escenario determinado, seleccione y configure la audiencia de prueba adecuada para las aprobaciones
+* Analizar e interpretar las auditorías de envío
 
-Sección 5: Informes (12%)
+Sección 5: Informes (12 %)
 
-* En un escenario, determine los informes adecuados que se van a generar
+* En un escenario determinado, determine los informes adecuados que se van a generar
 * Interpretación de informes integrados
 * Explicar el impacto de la limpieza/depuración de registros en los informes
 
-Sección 6: Administración (8%)
+Sección 6: Administración (8 %)
 
-* En un escenario, explique el impacto de la depuración de registros en los informes
-* Dados los requisitos comerciales, conceda las autorizaciones y accesos adecuados
-* Siga los pasos para habilitar SFTP mediante el panel de control de Campaign
+* En un escenario determinado, explique el impacto de la depuración de registros en los informes
+* Dados los requisitos comerciales, conceda las autorizaciones y los accesos adecuados
+* Siga los pasos para habilitar SFTP a través del panel de control
 
->[!TAB Obtener preconfigurado]
+>[!TAB Prepárate.]
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Administración de campañas**
 
@@ -121,7 +121,7 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 * [Adobe [!DNL Campaign Classic] Tutoriales de V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es)
 * [Usar una tabla de destinatarios personalizada](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=en){target="_blank"}
 
-**Sección 2: Administración de flujos de trabajo**
+**Sección 2: Administración del flujo de trabajo**
 
 * [Introducción a las pruebas A/B](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html?lang=en){target="_blank"}
 * [Introducción al seguimiento de mensajes](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=en){target="_blank"}
@@ -138,7 +138,7 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 * [Acerca de la administración de contenido](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html?lang=en){target="_blank"}
 
 
-**Sección 4: Administración de entregas**
+**Sección 4: Gestión de envíos**
 
 * [Acerca de las integraciones de Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html?lang=en){target="_blank"}
 * [Envío](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=en){target="_blank"}
@@ -158,46 +158,46 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 * [Acerca de la administración SFTP](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html?lang=en){target="_blank"}
 
 
->[!TAB Obtener certificación]
+>[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **only**  después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Ahora que ha iniciado sesión correctamente, se podrá acceder directamente a los siguientes vínculos.**
+**Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
 **Realizar una prueba de práctica**
 
-Se recomienda realizar la prueba de práctica gratuita antes de comenzar. Tendrá acceso sin restricciones a todas las pruebas de práctica disponibles para los exámenes de nivel de experto de Adobe.
+Le recomendamos que realice la prueba de práctica gratuita antes de comenzar. Tendrás acceso ilimitado a todas las pruebas de práctica disponibles para los exámenes de Adobe de nivel experto.
 
-Nuestras pruebas de práctica se desarrollan desde el mismo modelo que los exámenes en directo. La prueba de práctica le ayudará a comprender los temas tratados en el examen en vivo.
+Todas nuestras pruebas de práctica se desarrollan a partir del mismo modelo que los exámenes en vivo. La prueba de práctica le ayudará a comprender los temas tratados en el examen en vivo.
 
-Recuerde que aprobar una prueba de práctica no garantiza que se aprobará el examen de certificación.
+Recuerde que aprobar un examen de práctica no garantiza que aprobará el examen de certificación.
 
-Vaya a la [Portal de preparación de examen de certificación de Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ahora, para realizar una prueba de práctica.
+Vaya a la [Adobe Certificación Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ahora para hacer una prueba de práctica.
 
-**Haga el examen de certificación**
+**Realice el examen de certificación**
 
-Adobe utiliza dos proveedores para administrar los exámenes procesados, PSI y Ejemplos.
+El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y Examity.
 
-* **PSI** ofrece opciones de centro de pruebas y exámenes japoneses (si está disponible)
+* **PSI** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
 * **[!DNL Examity]** ofrece una opción en línea remota
 
-Para programar, volver a programar o cancelar el examen, simplemente haga clic en el proveedor que desee y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
 
 ### Número de examen: AD0-E327
 
-[!BADGE Ejemplo]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327 newtab=true"}
+[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327 newtab=true"}
 
-Puede pagar su examen de certificación por cupón o tarjeta de crédito. Para comprar un vale de examen, vaya a: [Centro de vales de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puede aplicar el código de cupón cuando programe el examen. Si tiene un descuento, se aplicará durante el cierre de compra.
+Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
 
 >[!ENDTABS]
 
 **Preguntas**
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

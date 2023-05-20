@@ -1,6 +1,6 @@
 ---
-title: Programa de renovación de la certificación de Adobe
-description: Aprenda a renovar la certificación antes de que caduque.
+title: Programa de renovación de certificaciones de Adobe
+description: Obtenga información sobre cómo renovar su certificación antes de que caduque.
 solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
@@ -15,17 +15,17 @@ ht-degree: 3%
 
 # Renovar la certificación {#renew}
 
-Para mantener su certificación de Adobe, debe renovarla cada 24 meses. Si no renueva la certificación dentro del intervalo de tiempo especificado, caducará y tendrá que volver a realizar el examen de certificación completo para volver a obtener la certificación.
+Para mantener su certificación de Adobe, debe renovarla cada 24 meses. Si no renueva su certificación dentro del marco de tiempo especificado, caducará y tendrá que volver a realizar el examen de certificación completo para volver a obtener la certificación.
 
-Para evitar interrupciones en su estado de certificación, realice un seguimiento de la fecha de renovación de certificación y asegúrese de completar el proceso de renovación antes de la fecha de caducidad.
+Para evitar cualquier interrupción en su estado de certificación, realice un seguimiento de la fecha de renovación de la certificación y asegúrese de completar el proceso de renovación antes de la fecha de caducidad.
 
-Consulte las certificaciones actuales y caducadas en la pestaña certificaciones , en la sección [Adobe Sistema de Gestión Credencial](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+Consulte las certificaciones actuales y caducadas en la pestaña Certificaciones, en la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
 ## ¿Cómo renuevo mi certificación?
 
-Renovar su certificación de Adobe es fácil! Dependiendo de su nivel de certificación, solución o función de trabajo, completará su renovación trabajando mediante actividades de aprendizaje continuo y aprobando evaluaciones, o aprobando un examen de rol de trabajo a pedido no procesado.
+Renovar su certificación de Adobe es fácil! Dependiendo de su nivel de certificación, solución o rol, usted completará su renovación trabajando a través de actividades de aprendizaje continuo y aprobando evaluaciones, o aprobando un examen de rol bajo demanda y sin supervisión.
 
-Adobe ofrece varios recursos y herramientas para ayudarle a renovar su certificación, entre los que se incluyen:
+Adobe ofrece varios recursos y herramientas para ayudarle a renovar su certificación, entre las que se incluyen:
 
 * Acceso a cursos en línea
 * Tutoriales
@@ -33,13 +33,13 @@ Adobe ofrece varios recursos y herramientas para ayudarle a renovar su certifica
 
 ## ¿Cuánto cuesta?
 
-Puede renovar su certificación **gratuito**. Esto le ofrece una manera rentable de mantener su certificación y mantener actualizadas sus habilidades con la solución.
+Puede renovar su certificación **gratuito**. Esto le ofrece una forma rentable de mantener su certificación y mantener al día sus conocimientos de soluciones.
 
-Con la asistencia y los recursos de Adobe, renovar la certificación de Adobe Experience Cloud es un proceso directo que le permite mantener su experiencia y ser competitivo en el mercado digital.
+Con la asistencia y los recursos de Adobe, renovar una certificación de Adobe Experience Cloud es un proceso directo que le permite mantener su experiencia y seguir siendo competitivo en el mercado digital.
 
 ## Opciones de renovación disponibles
 
-Ahora puede renovar su certificación mediante aprendizaje continuo o mediante un examen de renovación bajo demanda. Para aprender a renovar la certificación actual antes de que caduque, seleccione una solución a continuación.
+Ahora puede renovar su certificación mediante aprendizaje continuo o realizando un examen de renovación bajo demanda. Para obtener información sobre cómo renovar la certificación actual antes de que caduque, seleccione una solución a continuación.
 
 ### Soluciones
 
@@ -55,6 +55,6 @@ Ahora puede renovar su certificación mediante aprendizaje continuo o mediante u
 
 ### Preguntas
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

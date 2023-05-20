@@ -1,6 +1,6 @@
 ---
-title: Información general sobre la certificación de Analytics
-description: Descripción general de las opciones de certificación para Adobe Analytics
+title: Resumen de certificación de Analytics
+description: Descripción general de las opciones de certificación de Adobe Analytics
 solution: Analytics
 product: Analytics
 exl-id: e765bf4c-e0bc-45d7-a5c7-f501aad7fdd2
@@ -11,7 +11,7 @@ ht-degree: 12%
 
 ---
 
-# Información general sobre la certificación de Analytics
+# Resumen de certificación de Analytics
 
 **Profesional**
 

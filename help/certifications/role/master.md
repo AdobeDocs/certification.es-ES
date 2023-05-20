@@ -1,6 +1,6 @@
 ---
 title: Certificaciones técnicas maestras
-description: Descripción general de las opciones de certificación para usuarios maestros
+description: Descripción general de las opciones de certificación para los usuarios maestros
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
 source-wordcount: '38'

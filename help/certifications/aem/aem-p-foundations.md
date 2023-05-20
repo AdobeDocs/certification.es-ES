@@ -1,120 +1,121 @@
 ---
-title: Fundaciones técnicas Certificación profesional
-description: Aprenda a convertirse en un Adobe certificado [!DNL Experience Manager] Profesional.
+title: Fundamentos técnicos Certificación profesional
+description: Aprenda a obtener la certificación de Adobe [!DNL Experience Manager] Profesional.
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Exam AD0-E132 type="positive"
+badge: label="Examen AD0-E132 type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '693'
 ht-degree: 7%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager] Fundaciones técnicas Professional
+# Recorrido de certificación para Adobe [!DNL Experience Manager] Technical Foundations Professional
 
-Aprenda a convertirse en un Adobe certificado [!DNL Experience Manager] Profesional.
+Aprenda a obtener la certificación de Adobe [!DNL Experience Manager] Profesional.
 
 ## Experiencia mínima
 
 Debe ser desarrollador de aplicaciones y tener:
 
-* Un mínimo de 0-12 meses de experiencia trabajando con la Plataforma AEM
-* La capacidad para realizar un desarrollo avanzado de componentes
-* Comprensión profunda del marco de MVC
-* Conocimiento de los marcos y bibliotecas de AEM
-* Comprensión del ciclo de vida del desarrollo AEM
+* AEM Experiencia mínima de 0-12 meses trabajando con la plataforma de la plataforma de la
+* La capacidad de realizar un desarrollo de componentes avanzado
+* Una comprensión profunda del marco de MVC
+* AEM Conocimiento de los marcos y las bibliotecas en el ámbito de la
+* AEM Comprensión del ciclo de vida del desarrollo de la
 
 Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 * Maven
 * Git
 * Herramientas de desarrollo y empaquetado
-* Herramientas de la línea de comandos
+* Herramientas de línea de comandos
 * JVM
 * Entornos de ensayo
-* Diferentes capacidades de alojamiento AEM
-* Sincronizar contenido/entornos juntos
+* AEM Diferentes funcionalidades de alojamiento de datos
+* Sincronización de contenido/entornos
 
 >[!NOTE]
 >
->Su certificación es válida durante dos años a partir del momento de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las capacidades de los productos más recientes.
+>Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
 
 >[!BEGINTABS]
 
->[!TAB Prepárese]
+>[!TAB Prepárese.]
 
-**Audiencia prevista:**
+**Destinatarios a los que va dirigido:**
 
-* Desarrolladores de AEM
+* AEM Desarrolladores de
 * Posibles clientes técnicos
 
 **Detalles del examen:**
 
 * Nivel: Profesional (0-12 meses de experiencia)
-* Puntuación de paso: 38/60
-* Tiempo: 120 minutos
-* Envío: Procesado en línea (requiere acceso a la cámara)
+* Puntuación superada: 38/60
+* Tiempo: 120 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
 * Idiomas disponibles: Inglés
-* Costo: $125 (global) / $95 (India)
-* ID del examen: AD0-E132
+* Costo: 125 dólares (global) / 95 dólares (India)
+* Identificador del examen: AD0-E132
 
 **Objetivos y ámbito del examen**
 
-Sección 1: Creación de contenido (33%)
+Sección 1: Creación de contenido (33 %)
 
 * Administrar páginas de contenido
 * Replicar contenido
 * Configurar directivas
-* Usar DAM para cargar y publicar recursos
+* Uso de DAM para cargar y publicar recursos
 * Uso de fragmentos de contenido
-* Aplicación de conceptos de procedimiento para utilizar componentes
+* Aplicar conceptos de procedimiento para utilizar componentes
 * Aplicar conceptos de procedimiento para traducir contenido
-* Usar varios sitios y Live Copies
+* Uso de varios sitios y Live Copies
 
-Sección 2: Implementación (42%)
+Sección 2: Implementación (42 %)
 
 * Aplicar conceptos de procedimiento para crear componentes
 * Crear plantillas editables
 * Creación de bibliotecas de cliente
-* Actualizar contenido en CRX-DE Lite
-* Usar la estructura JCR para navegar a los nodos
-* Creación de fragmentos de experiencia y contenido
+* Actualización de contenido en CRX-DE Lite
+* Utilizar la estructura JCR para desplazarse a los nodos
+* Creación de fragmentos de contenido y experiencia
 * Ampliación de componentes principales
 * Modelado de contenido de estructura
 
-Sección 3: Configuración e implementación (13%)
+Sección 3: Configuración e implementación (13 %)
 
-* Instalar paquetes
+* Instalación de paquetes
 * Implementación de paquetes
-* Instalar instancias AEM
+* AEM Instalación de instancias de
 
-Sección 4: Mantenimiento y administración del usuario (12%)
+Sección 4: Mantenimiento y administración de usuarios (12 %)
 
-* Administrar el acceso de los usuarios
-* Modificación de las configuraciones de OSGI
+* Administrar el acceso de usuario
+* Modificar configuraciones de OSGI
 * Creación de consultas
 
->[!TAB Obtener preconfigurado]
+>[!TAB Prepárate.]
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Creación de contenido**
 
 
-* [Guía del usuario de implementación de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=es){target="_blank"}
+* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=es){target="_blank"}
 * [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] documentación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
 * [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
 
 **Sección 2: Implementación**
 
-* [Componentes AEM: Conceptos Básicos](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
-* [Tutorials para sin encabezado en AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=es){target="_blank"}
+* [AEM Componentes de la: conceptos básicos](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
+* [Tutorials AEM para Headless en la](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=es){target="_blank"}
 * [Creación de plantillas de página  ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html?lang=en#creating-and-managing-templates){target="_blank"}
 * [Uso de bibliotecas del lado del cliente](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=en){target="_blank"}
 
@@ -122,7 +123,7 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 
 * [Consola web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
 * [Estructura del proyecto de AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en#embedding-3rd-party-packages){target="_blank"}
-* [el administrador de paquetes](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html?lang=en#what-are-packages){target="_blank"}
+* [El administrador de paquetes](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html?lang=en#what-are-packages){target="_blank"}
 
 **Sección 4: Mantenimiento y administración de usuarios**
 
@@ -130,35 +131,35 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 * [Administración de usuarios y seguridad](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=en){target="_blank"}
 * [Ajustes de configuración de OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=en){target="_blank"}
 
->[!TAB Obtener certificación]
+>[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **only**  después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Ahora que ha iniciado sesión correctamente, se podrá acceder directamente a los siguientes vínculos.**
+**Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
-**Haga el examen de certificación**
+**Realice el examen de certificación**
 
-Adobe utiliza dos proveedores para administrar los exámenes procesados, PSI y Ejemplos.
+El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y Examity.
 
-* **PSI** ofrece opciones de centro de pruebas y exámenes japoneses (si está disponible)
+* **PSI** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
 * **[!DNL Examity]** ofrece una opción en línea remota
 
-Para programar, volver a programar o cancelar el examen, simplemente haga clic en el proveedor que desee y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
 
 ### Número de examen: AD0-E132
 
-[!BADGE Ejemplo]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132 newtab=true"}
+[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132 newtab=true"}
 
-Puede pagar su examen de certificación por cupón o tarjeta de crédito. Para comprar un vale de examen, vaya a: [Centro de vales de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puede aplicar el código de cupón cuando programe el examen. Si tiene un descuento, se aplicará durante el cierre de compra.
+Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
 
 >[!ENDTABS]
 
 **Preguntas**
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

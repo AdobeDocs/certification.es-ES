@@ -1,132 +1,133 @@
 ---
-title: Certificado maestro de arquitectos
-description: Aprenda a convertirse en un maestro de arquitectos de Adobe certificado en Adobe [!DNL Commerce].
+title: Certificación de maestro de arquitectos
+description: Aprenda a obtener la certificación de Arquitecto de Adobe en Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Data Architect
-badge: label="Exam AD0-E718" type="positive"
+badge: label="Examen AD0-E718" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '985'
 ht-degree: 1%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Commerce] Arquitecto maestro
+# Recorrido de certificación para Adobe [!DNL Commerce] Maestro de arquitectos
 
-Aprenda a convertirse en un arquitecto de Adobe certificado.
+Aprenda a convertirse en un maestro de arquitectos de Adobe certificado.
 
 ## Experiencia mínima
 
-Debe tener al menos 3 a 5 años de experiencia [!DNL Commerce] proyectos de desarrollo y son capaces de diseñar, integrar, implementar y explicar soluciones a los problemas del negocio utilizando Adobe [!DNL Commerce] junto con los servicios asociados.
+Debe tener al menos 3-5 años de experiencia liderando [!DNL Commerce] proyectos de desarrollo y son capaces de diseñar, integrar, implementar y explicar soluciones a problemas empresariales utilizando el Adobe [!DNL Commerce] junto con los servicios asociados.
 
 Además, debe estar muy familiarizado con las siguientes actividades y tecnologías:
 
 * Ampliación de funciones principales
-* Configurar Adobe [!DNL Commerce] full
-* Cree un modelo completo de cómo debe funcionar una extensión, requisitos de la empresa para el modelo de cómo debe funcionar, sin tener que entrar en el código
-* Comprender las necesidades y características empresariales
+* Configuración del Adobe [!DNL Commerce] completo
+* Cree un modelo completo de cómo debería funcionar una extensión, los requisitos de la empresa para crear un modelo de cómo debería funcionar, sin tener que entrar en el código
+* Comprender las necesidades y funciones empresariales
 * Implicaciones de rendimiento de soluciones y extensiones
-* lógica de contratos de servicio
+* Lógica de contratos de servicio
 * GraphQL
-* Comprender el Compositor como una herramienta de dependencia
-* Configuración de la instancia de Adobe de trabajo [!DNL Commerce] desde cero
-* Personalizar panel de administración, crear cuadrículas y formularios
-* Gestión de caché e índice; crear índice personalizado
+* Comprender el Compositor como herramienta de dependencia
+* Configuración de la instancia de trabajo del Adobe [!DNL Commerce] desde cero
+* Personalizar el tablero de administración, crear cuadrículas y formularios
+* Administración de caché e índice; crear índice personalizado
 * Crear nuevo tipo de caché
 * Solucionar y depurar varios problemas en el entorno
-* Ampliar y administrar el esquema de la base de datos
-* Funciones de seguridad, proporcionar instalación segura y extensión de desarrollo
-* Realizar servicios basados en servidor que [!DNL Commerce] conecta (Redis, administración de configuración de Varnish)
-* Consciente de las mejores prácticas de codificación estándar, estándares de codificación, PSR, principio SOLID
+* Ampliar y administrar esquema de base de datos
+* Características de seguridad, proporcionan una instalación segura y una extensión de desarrollo
+* Realizar servicios basados en servidor que [!DNL Commerce] conecta (Redis, gestión de configuración de Varnish)
+* Consciente de la mejor práctica estándar de codificación, Estándares de codificación, PSR, principio SOLID
 * Configuración y uso [!DNL Commerce] Conector de servicios (y servicios asociados)
 * Administración de contenido de ensayo
-* Explicación del Adobe [!DNL Commerce] predeterminados, cuando está disponible y no está disponible
-* Amplia comprensión de cualquier elemento relacionado [!DNL Commerce] domain
-* Diseño de la arquitectura del proyecto
-* Optimizar el rendimiento del Adobe [!DNL Commerce] default
+* Explicación del Adobe [!DNL Commerce] toma el valor predeterminado, cuando su está disponible y no está disponible
+* Amplia comprensión de cualquier elemento relacionado [!DNL Commerce] sector
+* Diseño de arquitectura de proyecto
+* Optimizar el rendimiento del Adobe [!DNL Commerce] predeterminado
 * Creación y modificación de B2B
 * Protocolo AMQP y adaptadores en Adobe [!DNL Commerce] (S3)
 
 >[!NOTE]
 >
->Su certificación es válida durante dos años a partir del momento de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las capacidades de los productos más recientes.
+>Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
 
 >[!BEGINTABS]
 
->[!TAB Prepárese]
+>[!TAB Prepárese.]
 
-**Audiencia prevista:**
+**Destinatarios a los que va dirigido:**
 
-* Software de posible cliente/[!DNL Commerce] Arquitecto
+* Software principal/[!DNL Commerce] Arquitecto
 * Arquitecto técnico
 * Arquitecto de soluciones
-* Jefe técnico
+* Responsable técnico
 * Experto técnico
 * Desarrollador de pila completa
-* Ingeniero principal
-* Asociar Arquitecto Técnico
-* Desarrollador principal de back-end
+* Ingeniero jefe
+* Arquitecto técnico asociado
+* Desarrollador back-end sénior
 * Ingeniero de software back-end
-* Consultor técnico superior
+* Consultor técnico sénior
 
 **Detalles del examen:**
 
 * Nivel: Master (3-5 años de experiencia)
-* Puntuación de paso: 29/50
-* Tiempo: 120 minutos
-* Envío: Procesado en línea (requiere acceso a la cámara)
+* Puntuación superada: 29/50
+* Tiempo: 120 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
 * Idiomas disponibles: Inglés
-* Costo: $225 (global) / $150 (India)
-* ID del examen: AD0-E718
+* Costo: 225 dólares (global) / 150 dólares (India)
+* Identificación del examen: AD0-E718
 
 **Autoevaluación de la preparación**
 
-Complete el [cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} para ver si su experiencia actual coincide con la cualificación mínima recomendada de los candidatos.
+Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
 
 **Objetivos y ámbito del examen**
 
-Sección 1: Diseño (46%)
+Sección 1: Diseño (46 %)
 
-* Diseño e implementación de soluciones óptimas para el Adobe [!DNL Commerce] para satisfacer las necesidades del negocio
+* Diseñar e implementar soluciones óptimas para el Adobe [!DNL Commerce] para satisfacer las necesidades empresariales
 * Diseño de flujos lógicos y técnicos
 * Personalizar [!DNL Commerce] características
 * Integrar Adobe [!DNL Commerce] con sistemas y servicios externos
-* Resolución de problemas de flujos de diseño
+* Solución de problemas de flujos de diseño
 
-Sección 2 - Revisión (32%)
+Sección 2 - Revisión (32 %)
 
 * Revisar y refactorizar el Adobe existente [!DNL Commerce] personalizaciones
 * Utilizar [!DNL Commerce] marcos de prueba en todo el flujo de trabajo
-* Optimización del rendimiento y la escalabilidad para el Adobe [!DNL Commerce]
-* Resolución de problemas para identificar la causa raíz de los problemas con el Adobe [!DNL Commerce]
-* Aplicar normas de codificación
+* Optimizar el rendimiento y la escalabilidad para el Adobe [!DNL Commerce]
+* Solucionar problemas para identificar la causa raíz de los problemas con el Adobe [!DNL Commerce]
+* Aplicar estándares de codificación
 
-Sección 3: Configuración e implementación (22%)
+Sección 3: Configuración e implementación (22 %)
 
-* Configurar Adobe [!DNL Commerce] y asegúrese de que el proyecto esté configurado de forma óptima
-* Configuración de todos los aspectos del Adobe [!DNL Commerce] Cloud
-* Supervisar y mejorar el proceso de implementación
-* Resolución de problemas de infraestructura y configuración
+* Configuración del Adobe [!DNL Commerce] y asegúrese de que el proyecto esté configurado de forma óptima
+* Configuración de todos los Adobes [!DNL Commerce] Nube
+* Supervisión y mejora del proceso de implementación
+* Solución de problemas de infraestructura y configuración
 
-Sección 4: Conceptos básicos de cumplimiento/seguridad (13%)
+Sección 4: Conceptos básicos de cumplimiento/seguridad (13 %)
 
-* Comprender los conceptos básicos del cumplimiento de las leyes de privacidad y la seguridad de los pagos
-* Identificar los aspectos comunes de seguridad de un Adobe [!DNL Commerce] proyecto
-* Identificar las prácticas recomendadas y los requisitos legales de cumplimiento de la accesibilidad
+* Comprender los conceptos básicos del cumplimiento de las leyes de privacidad y seguridad de pago
+* Identificación de aspectos comunes de seguridad de un Adobe [!DNL Commerce] proyecto
+* Identificar las prácticas recomendadas y los requisitos legales del cumplimiento de la accesibilidad
 
->[!TAB Obtener preconfigurado]
+>[!TAB Prepárate.]
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Preguntas de muestra**
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que encontrará en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de las pruebas.
+Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
 
-[Consulte preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
 **Sección 1: Diseño**
 
@@ -135,60 +136,60 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Introducción a [!DNL Commerce] Administración de clientes](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
 * [Eventos y observadores](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
 * [Información general de SEO](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Detalles de la tienda](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
+* [Detalles de tienda](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [Páginas](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Adición de una nueva integración de pagos (método de pago)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
+* [Adición de una nueva integración de pago (método de pago)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
 * [Autenticación](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
 * [Información general de GraphQL](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
 
-**Sección 2: Consulte**
+**Sección 2: Revisión**
 
 * [Introducción](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
 * [Añadir un atributo de campo de texto personalizado](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [Introducción a la Guía de prueba de aplicaciones](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
+* [Introducción a la Guía de pruebas de aplicaciones](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
 * [Desarrollo de componentes](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
 * [Prácticas recomendadas](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [Configuración de barniz](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
+* [Configurar barniz](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
 
 **Sección 3: Configuración e implementación**
 
 * [Guía de referencia de configuración](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [Archivos de configuración para la implementación](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
+* [Archivos de configuración para implementación](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
 * [Configurar Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
 * [Moneda](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [Descripción general de la inicialización y el arranque](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Información general sobre servicios rápidos](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
+* [Información general sobre inicialización y bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
+* [Resumen de servicios rápidos](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
 
->[!TAB Obtener certificación]
+>[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **only** después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Ahora que ha iniciado sesión correctamente, se podrá acceder directamente a los siguientes vínculos.**
+**Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
-**Haga el examen de certificación**
+**Realice el examen de certificación**
 
-Adobe utiliza dos proveedores para administrar los exámenes procesados, PSI y [!DNL Examity].
+El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y [!DNL Examity].
 
-* **PSI** ofrece opciones de centro de pruebas y exámenes japoneses (si está disponible)
+* **PSI** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
 * **[!DNL Examity]** ofrece una opción en línea remota
 
-Para programar, volver a programar o cancelar el examen, simplemente haga clic en el proveedor que desee y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
 
 ### Número de examen: AD0-E718
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718 newtab=true"}[!BADGE Ejemplo]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718 newtab=true"}[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718 newtab=true"}
 
-Puede pagar su examen de certificación por cupón o tarjeta de crédito. Para comprar un vale de examen, vaya a: [Centro de vales de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puede aplicar el código de cupón cuando programe el examen. Si tiene un descuento, se aplicará durante el cierre de compra.
+Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
 
 >[!ENDTABS]
 
 **Preguntas**
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

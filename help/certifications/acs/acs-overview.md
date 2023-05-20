@@ -1,6 +1,6 @@
 ---
-title: Información general sobre la certificación del Campaign Standard
-description: Descripción general de las opciones de certificación para Adobe Campaign Standard
+title: Resumen de certificación de Campaign Standard
+description: Descripción general de las opciones de certificación de Adobe Campaign Standard
 solution: Campaign, Campaign Standard
 version: Standard
 exl-id: 72e0fc04-4a63-4951-89d1-8f13ad58d70e
@@ -11,7 +11,7 @@ ht-degree: 5%
 
 ---
 
-# Información general sobre la certificación del Campaign Standard
+# Resumen de certificación de Campaign Standard
 
 **Experto**
 

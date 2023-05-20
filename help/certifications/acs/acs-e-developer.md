@@ -1,10 +1,10 @@
 ---
-title: Certificación de experto para desarrolladores
-description: Obtenga información sobre cómo convertirse en un Adobe certificado de expertos de Adobe Developer [!DNL Campaign Standard].
+title: Certificación de experto desarrollador
+description: Obtenga información sobre cómo obtener la certificación de Adobe experto en Adobe Developer [!DNL Campaign Standard].
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E306" type="positive"
+badge: label="Examen AD0-E306" type="positivo"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,99 +14,99 @@ ht-degree: 11%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Campaign Standard] Experto en desarrollo
+# Recorrido de certificación para Adobe [!DNL Campaign Standard] Experto de desarrollador
 
-Obtenga información sobre cómo convertirse en un experto certificado en Adobe Developer.
+Obtenga información sobre cómo obtener la certificación de experto en Adobe Developer.
 
 ## Experiencia mínima
 
-Debe tener:
+Debería tener:
 
-* Al menos dos años [!DNL Campaign] experiencia de software
+* Al menos dos años de [!DNL Campaign] experiencia informática
 * Al menos dos años de experiencia relevante en campañas de marketing digital multicanal y desarrollo web (como la API de REST)
-* La capacidad para realizar tareas en Adobe Campaign, incluido el desarrollo de plantillas, los flujos de trabajo técnicos, el desarrollo de esquemas y las integraciones, y poder monitorizar la instancia mediante el panel de control
-* Experiencia trabajando en un entorno de entrega de canal (correo electrónico, correo postal, móvil y social)
-* Familiaridad con las tácticas de campañas de marketing como multitáctil, ciclo de vida y reactivación
-* Comprensión de las métricas de marketing, como el ROI, las tasas de pulsaciones y la conversión.
+* La capacidad de realizar tareas en Adobe Campaign, como desarrollo de plantillas, flujos de trabajo técnicos, desarrollo de esquemas e integraciones, y poder monitorizar la instancia mediante el panel de control de Campaign
+* Experiencia trabajando en un entorno de entrega de canal (correo electrónico, correo directo, móvil y social)
+* Familiaridad con las tácticas de la campaña de marketing, como multitáctil, ciclo de vida y reactivación
+* Comprensión de las métricas de marketing, como el retorno de la inversión, las tasas de pulsaciones y la conversión.
 * Experiencia en la administración de una plataforma de automatización de marketing
-* Conocimientos básicos sobre CSS, HTML y JavaScript, correos electrónicos
-* Conocimientos básicos de la base de datos relacional y el modelado de datos
+* Conocimientos básicos de CSS, HTML y JavaScript, correos electrónicos
+* Conocimientos básicos de base de datos relacional y modelado de datos
 * Comprensión de los flujos de trabajo técnicos y configuración
-* Experiencia que amplía una tabla de destinatarios o un esquema y la administración de datos
-* Creación de reglas de tipología, flujos de trabajo, envíos y plantillas de campaña
+* Ampliación de una tabla de destinatarios o administración de esquemas y datos
+* Creación de reglas de tipología, flujos de trabajo, envío y plantillas de campaña
 * Funciones y derechos configurados
 * Experiencia con la consola de administración e integración con otras aplicaciones de Adobe
-* Concienciación sobre el Adobe I/O y la Adobe I/O Runtime
-* Experiencia con mensajería transaccional y entrega de mensajes en varios canales
+* Conocimiento del Adobe I/O y Adobe I/O Runtime
+* Experiencia con la mensajería transaccional y la entrega de mensajes en varios canales
 * Experiencia con paquetes administrados
 
 >[!NOTE]
 >
->Su certificación es válida durante dos años a partir del momento de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las capacidades de los productos más recientes.
+>Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
 
 >[!BEGINTABS]
 
->[!TAB Prepárese]
+>[!TAB Prepárese.]
 
-**Audiencia prevista:**
+**Destinatarios a los que va dirigido:**
 
 * Administrador de automatización de marketing
-* Desarrollador de Adobe Experience Cloud
-* Analista de marketing por correo electrónico
+* desarrollador de Adobe Experience Cloud
+* Analista de marketing de correo electrónico
 * Desarrollador de aplicaciones
-* Desarrollador de campañas
+* Desarrollador de Campaign
 * Desarrollador de Martech
 
 **Detalles del examen:**
 
 * Nivel: Experto (1-3 años de experiencia)
-* Puntuación de paso: 29/50
-* Tiempo: 100 minutos
-* Envío: Procesado en línea (requiere acceso a la cámara) o procesado en el centro de pruebas
+* Puntuación superada: 29/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
 * Idiomas disponibles: Inglés
-* Costo: $225 (global) / $150 (India)
-* ID del examen: AD0-E306
+* Costo: 225 dólares (global) / 150 dólares (India)
+* Identificador del examen: AD0-E306
 
 **Autoevaluación de la preparación**
 
-Complete el [cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} para ver si su experiencia actual coincide con la cualificación mínima recomendada de los candidatos.
+Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
 
 **Objetivos y ámbito del examen**
 
-Sección 1: Modelado y administración de datos (26%)
+Sección 1: Modelado y administración de datos (26 %)
 
-* En un escenario, transformar un requisito de cliente en un recurso personalizado
-* Determinar cómo configurar definiciones de pantalla y filtro
-* En un escenario, determine la estrategia correcta para definir claves, índices y vínculos
-* Determinar el método correcto para publicar actualizaciones de recursos
-* Solución de problemas de modelado de datos
-* Determinar el método correcto para crear flujos de trabajo técnicos
+* Ante un escenario concreto, transformar un requisito de cliente en un recurso personalizado
+* Determine cómo configurar las definiciones de pantalla y filtro
+* Ante un escenario concreto, determine la estrategia correcta para definir claves, índices y vínculos
+* Determine el método correcto para publicar actualizaciones de recursos
+* Solucionar problemas de modelado de datos
+* Determinar el enfoque correcto para crear flujos de trabajo técnicos
 
-Sección 2: Administración de campañas (50%)
+Sección 2: Administración de campañas (50 %)
 
-* Solución de problemas de los errores del flujo de trabajo
+* Solucionar errores de flujo de trabajo
 * Determinar el enfoque correcto para crear campañas
 * Determinar el enfoque correcto para trabajar con audiencias y perfiles
 * Aplicación y creación de reglas de filtro mediante tipologías
 * Determinar el método correcto para crear y administrar plantillas
 * Determinar el método correcto para configurar páginas de aterrizaje
 * Determinar el enfoque correcto para trabajar con servicios y suscripciones
-* En un escenario, valide los mecanismos de entrega
-* Determinar el método correcto para crear correos electrónicos con Creative Designer
+* Ante un escenario, validar mecanismos de envío
+* Determine el método correcto para crear correos electrónicos con Creative Designer
 * Determinar el método correcto para crear informes personalizados
 
-Sección 3: Administración (24%)
+Sección 3: Administración (24 %)
 
-* Determinar el método correcto para crear grupos de seguridad de usuarios y unidades organizativas
-* Determinar el método correcto para administrar e implementar paquetes
+* Determine el método correcto para crear grupos de seguridad de usuarios y unidades organizativas
+* Determinar el enfoque correcto para administrar e implementar paquetes
 * Determinar el método correcto para configurar cuentas externas
-* Determinar el método correcto para configurar las opciones
-* Determinar el método correcto para crear marcas
-* Determinar el enfoque correcto para desarrollar configuraciones de canal
+* Determinar el enfoque correcto para configurar las opciones
+* Determinar el enfoque correcto para crear marcas
+* Determine el enfoque correcto para desarrollar configuraciones de canal
 
->[!TAB Obtener preconfigurado]
+>[!TAB Prepárate.]
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
 **Sección 1: Modelado y administración de datos**
 
@@ -151,46 +151,46 @@ No es necesario que complete la formación antes de realizar el examen, y la for
 * [Acerca de la configuración de canales](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
 * [Introducción a los canales de comunicación](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en){target="_blank"}
 
->[!TAB Obtener certificación]
+>[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **only**  después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Ahora que ha iniciado sesión correctamente, se podrá acceder directamente a los siguientes vínculos.**
+**Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
 **Realizar una prueba de práctica**
 
-Se recomienda realizar la prueba de práctica gratuita antes de comenzar. Tendrá acceso sin restricciones a todas las pruebas de práctica disponibles para los exámenes de nivel de experto de Adobe.
+Le recomendamos que realice la prueba de práctica gratuita antes de comenzar. Tendrás acceso ilimitado a todas las pruebas de práctica disponibles para los exámenes de Adobe de nivel experto.
 
-Nuestras pruebas de práctica se desarrollan desde el mismo modelo que los exámenes en directo. La prueba de práctica le ayudará a comprender los temas tratados en el examen en vivo.
+Todas nuestras pruebas de práctica se desarrollan a partir del mismo modelo que los exámenes en vivo. La prueba de práctica le ayudará a comprender los temas tratados en el examen en vivo.
 
-Recuerde que aprobar una prueba de práctica no garantiza que se aprobará el examen de certificación.
+Recuerde que aprobar un examen de práctica no garantiza que aprobará el examen de certificación.
 
-Vaya a la [Portal de preparación de examen de certificación de Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ahora, para realizar una prueba de práctica.
+Vaya a la [Adobe Certificación Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ahora para hacer una prueba de práctica.
 
-**Haga el examen de certificación**
+**Realice el examen de certificación**
 
-Adobe utiliza dos proveedores para administrar los exámenes procesados, PSI y Ejemplos.
+El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y Examity.
 
-* La PSI ofrece opciones de centro de pruebas y de examen japonés (cuando está disponible)
-* La muestra ofrece una opción en línea remota
+* PSI ofrece opciones de examen en el centro de pruebas y japonés (cuando esté disponible)
+* Examity ofrece una opción en línea remota
 
-Para programar, volver a programar o cancelar el examen, simplemente haga clic en el proveedor que desee y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
 
 ### Número de examen: AD0-E306
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306 newtab=true"}[!BADGE Ejemplo]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306 newtab=true"}[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306 newtab=true"}
 
-Puede pagar su examen de certificación por cupón o tarjeta de crédito. Para comprar un vale de examen, vaya a: [Centro de vales de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puede aplicar el código de cupón cuando programe el examen. Si tiene un descuento, se aplicará durante el cierre de compra.
+Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
 
 >[!ENDTABS]
 
 **Preguntas**
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

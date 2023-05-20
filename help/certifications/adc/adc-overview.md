@@ -1,6 +1,6 @@
 ---
-title: Información general sobre la certificación del Document Cloud
-description: Descripción general de las opciones de certificación para Adobe Document Cloud
+title: Resumen de certificación de Document Cloud
+description: Descripción general de las opciones de certificación de Adobe Document Cloud
 solution: Document Cloud
 hide: true
 hidefromtoc: true
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Información general sobre la certificación del Document Cloud
+# Resumen de certificación de Document Cloud
 
 **Profesional**
 

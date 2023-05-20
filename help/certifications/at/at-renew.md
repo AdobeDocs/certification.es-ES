@@ -1,6 +1,6 @@
 ---
-title: Renovación de la certificación
-description: Aprenda a renovar su [!DNL Adobe Target] antes de que caduque.
+title: Renovación de certificación
+description: Obtenga información sobre cómo renovar su [!DNL Adobe Target] certificación antes de que caduque.
 solution: Target
 product: Target
 role: Developer
@@ -14,19 +14,19 @@ ht-degree: 1%
 
 ---
 
-# Renovar el [!DNL Adobe Target] certificación
+# Renueve su [!DNL Adobe Target] certificación
 
-La certificación de Adobe es válida durante dos años. Si está cerca de este límite de dos años, es hora de renovar su certificación para mantenerla activa.
+Su certificación de Adobe es válida por dos años. Si se acerca a esta marca de dos años, es hora de renovar su certificación para mantenerla activa.
 
-En primer lugar, seleccione el nivel adecuado en la pestaña siguiente (Profesional, Experto o Maestro). Luego revise cuidadosamente lo que tendrá que hacer para renovar su certificación.
+En primer lugar, seleccione el nivel adecuado en la pestaña siguiente (Profesional, Experto o Maestro). A continuación, revise cuidadosamente lo que tendrá que hacer para renovar su certificación.
 
 Asegúrese de proporcionar tiempo suficiente para completar todos los requisitos antes de que caduque la certificación.
 
-Es importante tener en cuenta que si su certificación expira, tendrá que volver a aceptar el examen de certificación, que NO es gratuito.
+Es importante tener en cuenta que si su certificación caduca, tendrá que volver a realizar el examen de certificación, que NO es gratuito.
 
 >[!IMPORTANT]
 >
->Los siguientes enlaces de evaluación del curso funcionarán **only** después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Los siguientes enlaces de evaluación de cursos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -34,53 +34,53 @@ Es importante tener en cuenta que si su certificación expira, tendrá que volve
 
 >[!NOTE]
 >
->Próxima renovación profesional.
+>Renovación profesional próximamente.
 
 >[!TAB Experto y maestro]
 
-Actualmente debe estar certificado (no caducado) en:
+Actualmente, debe estar certificado (no caducado) en:
 
-* [!DNL Adobe Target] Experto profesional
-* [!DNL Adobe Target] Arquitecto maestro
+* [!DNL Adobe Target] Experto profesional de negocios
+* [!DNL Adobe Target] Maestro de arquitectos
 
 ## Instrucciones para renovar su [!DNL Adobe Target] certificación
 
-Select **tres actividades** para completar y aprobar las evaluaciones del curso asociadas a cada una.
+Seleccionar **tres actividades** para completar y aprobar las evaluaciones de cursos asociadas a cada uno.
 
-* **Paso 1**: Inicie sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}y, a continuación, vuelva a esta página
-* **Paso 2**: Estudio de los cursos en Experience League
-* **Paso 3**: Completar y aprobar cada evaluación del curso con al menos un 80%
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2**: Estudiar los cursos en Experience League
+* **Paso 3**: complete y apruebe cada evaluación de curso con al menos el 80 %
 
-Como alternativa, estudie dos cursos, pase dos evaluaciones de cursos y envíe un formulario de referencia para el cliente que valide su participación en un proyecto que tenga un total de 100 horas en los últimos 12 meses.
+También puede estudiar dos cursos, aprobar dos evaluaciones de cursos y enviar un formulario de referencia al cliente para validar su participación en un proyecto que suma un total de 100 horas en los últimos 12 meses.
 
-Para determinadas certificaciones de Adobe Experience Cloud, el Programa de credenciales de Adobe acepta **referencias del cliente** que validan su trabajo continuado como un Adobe certificado de liderazgo individual, administración y/o participación en un proyecto de implementación de Adobe Experience Cloud.
+Para determinadas certificaciones de Adobe Experience Cloud, el programa de credenciales de Adobe acepta **referencias de clientes** que validan su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud.
 
-En estos casos, puede proporcionar una referencia al cliente que confirme que ha participado en al menos 100 horas de participación demostrada en el proyecto durante su renovación de certificación, con un intervalo de 2 años.
+En estos casos, puede proporcionar una referencia del cliente que confirme que ha participado en al menos 100 horas de participación demostrada en el proyecto durante su intervalo de dos años para la renovación de la certificación.
 
-**Una vez que su referencia de cliente haya sido revisada, el equipo de credenciales de Adobe le notificará.**
+**Una vez revisada la referencia del cliente, el equipo de credenciales de Adobe le notificará.**
 
-Las evaluaciones del curso son gratuitas. No es necesario programarlos y no se procesan. Si posee varias certificaciones de nivel Adobe Target Expert y Master, solo deberá completar los requisitos a continuación y todas las certificaciones de Adobe Target a este nivel se renovarán.
+Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no están protegidos. Si tiene varias certificaciones de nivel Adobe Target Expert y Master, solo debe completar los requisitos que se indican a continuación y se renovarán todas las certificaciones de Adobe Target en este nivel.
 
-[Formulario de referencia del cliente para [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
+[Formulario de referencia de cliente para [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
-### Cursos y evaluaciones del curso para expertos y maestros:
+### Cursos y evaluaciones de cursos para expertos y maestros:
 
 | Curso | Evaluación del curso |
 | ------- | ------- |
-| [[!DNL Adobe Target] Información general sobre las decisiones en dispositivos](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
-| [[!DNL Adobe Target] Curso de innovación en personalización](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
-| [Curso de implementación y personalización de aplicaciones móviles](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
-| [Curso guiado sobre Mobile e IoT Launch para desarrolladores](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
-| [Curso guiado de lanzamiento de sitio web para desarrolladores](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
+| [[!DNL Adobe Target] Información general sobre la toma de decisiones en dispositivos](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
+| [[!DNL Adobe Target] Curso Innovaciones en Personalización](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
+| [Curso de personalización e implementación de aplicaciones móviles](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
+| [Curso guiado de Mobile y IoT Launch para desarrolladores](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
+| [Curso de lanzamiento guiado de sitio web para desarrolladores](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
 
 >[!NOTE]
 >
->Puede repetir hasta que haya completado correctamente tres actividades o haya completado dos actividades, además del formulario de referencia del cliente.
+>Puede repetir hasta que haya completado correctamente tres actividades o dos actividades, además del formulario de referencia del cliente.
 
 >[!ENDTABS]
 
 **Preguntas**
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

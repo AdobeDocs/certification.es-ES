@@ -1,6 +1,6 @@
 ---
-title: Información general sobre la certificación del Customer Journey Analytics
-description: Descripción general de las opciones de certificación para Adobe Customer Journey Analytics
+title: Resumen de certificación de Customer Journey Analytics
+description: Descripción general de las opciones de certificación de Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 exl-id: 44c88dad-f8f0-4b2c-ab5a-ef0d2a498284
@@ -11,7 +11,7 @@ ht-degree: 5%
 
 ---
 
-# Información general sobre la certificación del Customer Journey Analytics
+# Resumen de certificación de Customer Journey Analytics
 
 **Experto**
 

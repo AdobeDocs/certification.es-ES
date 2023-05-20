@@ -1,6 +1,6 @@
 ---
-title: Información general sobre la certificación de Journey Optimizer
-description: Descripción general de las opciones de certificación para Adobe Journey Optimizer
+title: Resumen de certificación de Journey Optimizer
+description: Descripción general de las opciones de certificación de Adobe Journey Optimizer
 solution: Journey Optimizer
 exl-id: 879eab4e-b946-4453-be7e-89b1ded2bc6b
 source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
@@ -10,7 +10,7 @@ ht-degree: 5%
 
 ---
 
-# Información general sobre la certificación de Journey Optimizer
+# Resumen de certificación de Journey Optimizer
 
 **Experto**
 

@@ -1,139 +1,140 @@
 ---
-title: Certificación para desarrolladores Professional
-description: Aprenda a convertirse en un profesional certificado de Adobe Developer en Adobe [!DNL Workfront Fusion].
+title: Certificación de Developer Professional
+description: Aprenda a obtener la certificación de profesional de Adobe Developer en Adobe [!DNL Workfront Fusion].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E902" type="positive"
+badge: label="Examen AD0-E902" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1513'
 ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Workfront Fusion] Profesional del desarrollador
+# Recorrido de certificación para Adobe [!DNL Workfront Fusion] Desarrollador profesional
 
-Aprenda a convertirse en un profesional certificado de Adobe Developer.
+Aprenda a obtener la certificación de profesional de Adobe Developer.
 
 ## Experiencia mínima
 
-Debe tener:
+Debería tener:
 
-* La capacidad de [!DNL Workfront] API y explorador de API, pero no necesariamente competente en llamadas de API
+* La capacidad de con [!DNL Workfront] API y el explorador de API, pero no necesariamente son competentes en llamadas de API
 * La capacidad de usar llamadas de API personalizadas para trabajar con [!DNL Workfront] y otras API
-* La capacidad de usar módulos para la variable [!DNL Workfront] aplicación y otras acciones como crear, leer, actualizar, eliminar y buscar
-* La capacidad de crear soluciones viables que produzcan resultados comerciales sin afectar [!DNL Fusion] guardrails
-* La capacidad de seleccionar el módulo de déclencheur apropiado para lograr resultados comerciales
-* Comprensión de cómo utilizar el control de flujo (rutas, iteradores/agregadores, explicar flujo)
-* La capacidad para realizar la solución de problemas básica y la gestión de errores
-* La capacidad de probar y poner en marcha de forma eficaz un escenario
-* La capacidad para administrar equipos de organización y usuarios
-* Comprensión del propósito y uso de los conectores universales para la API de REST Oauth2
+* La capacidad de usar módulos para [!DNL Workfront] aplicación y otras acciones como crear, leer, actualizar, eliminar y buscar
+* La capacidad de crear soluciones viables que produzcan resultados empresariales sin afectar a [!DNL Fusion] barandas
+* La capacidad de seleccionar el módulo de déclencheur adecuado para lograr resultados empresariales
+* Una comprensión de cómo utilizar el control de flujo (rutas, iteradores/agregadores, explicar el flujo)
+* La capacidad de llevar a cabo la solución de problemas y la gestión de errores básicos
+* La capacidad de probar e iniciar una ejecución con eficacia de un escenario
+* Capacidad para administrar equipos y usuarios de la organización
+* Una comprensión del propósito y el uso de los conectores universales para la API de REST Oauth2
 
 >[!NOTE]
 >
->Su certificación es válida durante dos años a partir del momento de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las capacidades de los productos más recientes.
+>Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
 
 >[!BEGINTABS]
 
->[!TAB Prepárese]
+>[!TAB Prepárese.]
 
-**Audiencia prevista:**
+**Destinatarios a los que va dirigido:**
 
 * Desarrollador, ingeniero de automatización
-* Automatización, optimización de procesos y administrador de automatización
-* Consultores de integración, Consultores, Socios
-* Integradores/socios del sistema
-* Analistas de negocio, analistas de negocios aplicados
-* Administrador del sistema (administradores de TI, MIS, Tecnología, Sistemas de Conocimiento, AI)
+* Automator, optimización de procesos y gestor de automatización
+* Asesores de integración, consultores, socios
+* Integradores/socios de sistemas
+* Analistas de negocio, analistas de negocio aplicados
+* Administrador del sistema (TI, IMS, tecnología, sistemas de conocimientos, administradores de IA)
 
 **Detalles del examen:**
 
 * Nivel: Profesional (0-12 meses de experiencia)
-* Puntuación de paso: 33/51
+* Puntuación superada: 33/51
 * Tiempo: 102 min
-* Envío: Procesado en línea (requiere acceso a la cámara) o procesado en el centro de pruebas
+* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
 * Idiomas disponibles: Inglés
-* Costo: $125 (global) / $95 (India)
+* Costo: 125 dólares (global) / 95 dólares (India)
 * ID del examen: AD0-E902
 
 **Objetivos y ámbito del examen**
 
-Sección 1: Conceptos técnicos básicos (39%)
+Sección 1: Conceptos técnicos básicos (39 %)
 
-* Dado un [!DNL Fusion] escenario con un formato de campo que necesita estar en otro formato de campo, proporcione las posibles funciones que podrían utilizarse para transformar correctamente los datos
-* Dado un [!DNL Fusion] escenario que requiere que una función esté anidada dentro de otra función, seleccione la expresión formada correctamente
+* Dado un [!DNL Fusion] con un formato de campo que debe estar en otro formato de campo, proporcione las posibles funciones que podrían utilizarse para transformar los datos correctamente
+* Dado un [!DNL Fusion] En un escenario que requiera que una función esté anidada dentro de otra función, seleccione la expresión formada correctamente
 * Identificar formas de utilizar equipos para controlar el acceso a conexiones y otros [!DNL Fusion] características
-* Dado un [!DNL Fusion] situación, identificar limitaciones de sistemas y características
-* Dado un [!DNL Fusion] escenario que requiere manipulación de zona horaria, distinguir entre el usuario, la organización visible y donde se necesita anular la zona horaria
-* Dado un [!DNL Fusion] , seleccione la [!DNL Workfront] módulo(s) o acción(s)
-* Dado un [!DNL Fusion] , seleccione la expresión Panel de asignación y/o los módulos que transformarían correctamente los datos de entrada en los datos de salida
-* Identifique las formas correctas de usar la variable [!DNL Fusion] Herramienta de desarrollo para solucionar errores en la ejecución o determinar llamadas y respuestas realizadas a sistemas de terceros
-* Dado un [!DNL Fusion] escenario en el que se necesitan datos en una ruta en otra ruta, proporcione una solución set-get para que esos datos estén disponibles en rutas de enrutamiento adicionales
-* Identificar las formas de usar o producir un [!DNL Fusion] plantilla para una necesidad empresarial
-* Dado un [!DNL Fusion] , identifique qué hacer para ver las ejecuciones o resolver los errores
-* Identifique las diferentes opciones de la [!DNL Fusion] configuración de escenario para satisfacer las necesidades de escenario
-* Dado un [!DNL Fusion] , seleccione el control de flujo adecuado o determine la combinación correcta de módulos de control de flujo
+* Dado un [!DNL Fusion] , identifique las limitaciones del sistema y las características
+* Dado un [!DNL Fusion] que requiera manipulación de huso horario, distinguir entre el usuario, la organización visible y dónde se necesita anular la zona horaria
+* Dado un [!DNL Fusion] , seleccione la opción adecuada [!DNL Workfront] módulo(s) o acción(es)
+* Dado un [!DNL Fusion] , seleccione la expresión o los módulos del panel Asignación que transformarían correctamente los datos de entrada en datos de salida
+* Identificar la(s) forma(s) correcta(s) de utilizar el [!DNL Fusion] Herramienta de desarrollo para solucionar errores en la ejecución o determinar las llamadas y respuestas realizadas a sistemas de terceros
+* Dado un [!DNL Fusion] situación en la que se necesitan datos en una ruta en otra ruta, proporcione una solución set-get para que esos datos estén disponibles en rutas de enrutamiento adicionales
+* Identificar las formas de utilizar o producir un [!DNL Fusion] plantilla para una necesidad empresarial
+* Dado un [!DNL Fusion] , identifique qué hacer para ver ejecuciones y/o resolver errores
+* Identificar las distintas opciones de la variable [!DNL Fusion] configuración de escenario para satisfacer las necesidades de escenario
+* Dado un [!DNL Fusion] , seleccione el control de flujo adecuado y/o determine la combinación correcta de módulos de control de flujo
 
-Sección 2: Diseño y arquitectura del escenario (35%)
+Sección 2: Diseño y arquitectura de escenarios (35 %)
 
 * Dada una lista de pasos, elija la secuencia correcta para analizar JSON y convertirlo en paquetes
-* Dado un conjunto de requisitos, identifique el método de búsqueda de datos correcto
+* Dados un conjunto de requisitos, identifique el método de búsqueda de datos correcto
 * Identificar diferencias entre déclencheur instantáneos y programados
-* Identificar un módulo correcto para cargar un documento en [!DNL Workfront]
-* Si se considera un requisito comercial, identifique el método correcto para realizar el seguimiento de [!DNL Fusion] se ha procesado un registro (no un usuario) y cuando
-* Dado un [!DNL Fusion] , identifique una oportunidad para simplificar el diseño o optimizar para mantenimiento
+* Identifique el módulo correcto para cargar un documento en [!DNL Workfront]
+* Dado un requisito empresarial, identifique el enfoque correcto para rastrearlo [!DNL Fusion] procesó un registro (no un usuario) y cuándo
+* Dado un [!DNL Fusion] , identifique una oportunidad para simplificar el diseño y/u optimizar para el mantenimiento
 * Identificar [!DNL Fusion] prácticas recomendadas para documentar escenarios
 * Dada una situación, identifique una oportunidad para reducir el flujo de datos a través de un escenario
-* Dado un ejemplo del número de paquetes que se muestra en un módulo de búsqueda y un agregador siguiente, explique los cambios en el número de operaciones procesadas y mostradas por el inspector de paquetes
+* Dado un ejemplo del número de paquetes que se muestran en un módulo de búsqueda y en un siguiente agregador, explique los cambios en el número de operaciones procesadas y mostradas por el inspector de paquetes
 * Identificar la información que se encuentra en el inspector de paquetes
-* Dada la descripción de la necesidad de archivar un escenario durante más de 60 días y seleccionar la única manera posible (modelo de importación/exportación)
-* Dado un ejemplo de error 403: Prohibido, seleccione correctamente el origen del mensaje de error y la causa
+* Se proporciona una descripción de la necesidad de archivar un escenario durante más de 60 días y se selecciona la única manera posible (importar/exportar modelo)
+* Dado un ejemplo de Error 403: Prohibido, seleccione correctamente el origen del mensaje de error y la causa
 
-Sección 3: Pruebas y gestión de errores (16%)
+Sección 3: Pruebas y gestión de errores (16 %)
 
-* Identificar los elementos de un plan de prueba
-* Identificar los elementos de un caso de prueba
-* Dado un [!DNL Fusion] , identificar correctamente la directiva adecuada para gestionar un servicio poco fiable
-* Identifique el proceso para añadir la gestión de errores personalizada en un [!DNL Fusion] escenario
+* Identificación de los elementos de un plan de prueba
+* Identificación de los elementos de un caso de prueba
+* Dado un [!DNL Fusion] , identifique correctamente la directiva adecuada para gestionar un servicio no fiable
+* Identifique el proceso para agregar la gestión de errores personalizada en una [!DNL Fusion] escenario
 * Identificar cómo rastrear, leer y resolver ejecuciones incompletas
-* Dado un [!DNL Fusion] escenario con datos requeridos faltantes, seleccione formas de gestionar los datos no válidos
+* Dado un [!DNL Fusion] En un escenario en el que faltan datos necesarios, seleccione formas de gestionar los datos no válidos
 
 Sección 4: Uso de API (10 %)
 
-* Se ha dado una API de terceros que devuelve un error 429: Demasiadas solicitudes, identifique una solución para evitar o gestionar el error
-* Dado un [!DNL Fusion] escenario en el que la nueva funcionalidad no esté disponible en la [!DNL Workfront] , identifique la referencia y el tipo de módulo correctos para utilizar la nueva funcionalidad
-* Dado un sistema de terceros que no tiene una aplicación dedicada, identifique la aplicación HTTP y seleccione el módulo correspondiente
+* Dada una API de terceros que devuelve un error 429: Demasiadas solicitudes, identifique una solución para evitar o gestionar el error
+* Dado un [!DNL Fusion] escenario en el que la nueva funcionalidad no está disponible en el [!DNL Workfront] , identifique la referencia y el tipo de módulo correctos para utilizar la nueva funcionalidad
+* Dado un sistema de terceros que no tiene una aplicación dedicada, identifique la aplicación HTTP y seleccione el módulo adecuado
 * Identificar la diferencia entre las operaciones de CRUD y otras capacidades comunes de las API de REST
 
->[!TAB Obtener preconfigurado]
+>[!TAB Prepárate.]
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Preguntas de muestra**
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que encontrará en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de las pruebas.
+Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
 
-[Consulte preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
 
 **Sección 1: Conceptos técnicos básicos**
 
 * [Asignación en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
-* [Funciones en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
+* [Funciones en el Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
 * [Organizaciones en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FOrganizations%2F_organizations.htm&amp;_LANG=enus){target="_blank"}
-* [Introducción a Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FGet_Started%2F_Get_started.htm&amp;_LANG=en){target="_blank"}
+* [Introducción al Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FGet_Started%2F_Get_started.htm&amp;_LANG=en){target="_blank"}
 * [Aplicaciones y sus módulos](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
 * [Escenarios en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
 * [Módulos en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
-**Sección 2: Diseño y arquitectura del escenario**
+**Sección 2: Diseño y arquitectura de escenarios**
 
 * [Aplicaciones y sus módulos](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
 * [Módulos en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
-* [Funciones en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
+* [Funciones en el Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
 * [Actualizar elementos de trabajo y ver actualizaciones](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FUpdating_Work_Items_and_Viewing_Updates%2F_update-work-items-and-view-updates.htm&amp;_LANG=en){target="_blank"}
 * [Fuentes de actualizaciones rastreadas por el sistema](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&amp;_LANG=en){target="_blank"}
 * [Escenarios en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
@@ -150,35 +151,35 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Aplicaciones y sus módulos](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Módulos en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB Obtener certificación]
+>[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **only**  después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Ahora que ha iniciado sesión correctamente, se podrá acceder directamente a los siguientes vínculos.**
+**Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
-**Haga el examen de certificación**
+**Realice el examen de certificación**
 
-Adobe utiliza dos proveedores para administrar los exámenes procesados, PSI y Ejemplos.
+El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y Examity.
 
-* **PSI** ofrece opciones de centro de pruebas y exámenes japoneses (si está disponible)
+* **PSI** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
 * **[!DNL Examity]** ofrece una opción en línea remota
 
-Para programar, volver a programar o cancelar el examen, simplemente haga clic en el proveedor que desee y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
 
 ### Número de examen: AD0-E902
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E902 newtab=true"}[!BADGE Ejemplo]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E902 newtab=true"}[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902 newtab=true"}
 
-Puede pagar su examen de certificación por cupón o tarjeta de crédito. Para comprar un vale de examen, vaya a: [Centro de vales de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puede aplicar el código de cupón cuando programe el examen. Si tiene un descuento, se aplicará durante el cierre de compra.
+Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
 
 >[!ENDTABS]
 
 **Preguntas**
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
-title: Renovación de la certificación
-description: Aprenda a renovar su Adobe [!DNL Campaign Standard] antes de que caduque.
+title: Renovación de certificación
+description: Aprenda a renovar su Adobe [!DNL Campaign Standard] certificación antes de que caduque.
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User,Developer
@@ -16,17 +16,17 @@ ht-degree: 11%
 
 # Renovar el Adobe [!DNL Campaign Standard] certificación
 
-La certificación de Adobe es válida durante dos años. Si está cerca de este límite de dos años, es hora de renovar su certificación para mantenerla activa.
+Su certificación de Adobe es válida por dos años. Si se acerca a esta marca de dos años, es hora de renovar su certificación para mantenerla activa.
 
-En primer lugar, seleccione el nivel adecuado en la pestaña siguiente (Profesional, Experto o Maestro). Luego revise cuidadosamente lo que tendrá que hacer para renovar su certificación.
+En primer lugar, seleccione el nivel adecuado en la pestaña siguiente (Profesional, Experto o Maestro). A continuación, revise cuidadosamente lo que tendrá que hacer para renovar su certificación.
 
 Asegúrese de proporcionar tiempo suficiente para completar todos los requisitos antes de que caduque la certificación.
 
-Es importante tener en cuenta que si su certificación expira, tendrá que volver a aceptar el examen de certificación, que NO es gratuito.
+Es importante tener en cuenta que si su certificación caduca, tendrá que volver a realizar el examen de certificación, que NO es gratuito.
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **only** después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -34,152 +34,152 @@ Es importante tener en cuenta que si su certificación expira, tendrá que volve
 
 >[!NOTE]
 >
->Próxima renovación profesional.
+>Renovación profesional próximamente.
 
 >[!TAB Experto]
 
-+ + + Adobe [!DNL Campaign Standard] Renovación de expertos de Business Practicator
++++Adobe [!DNL Campaign Standard] Renovación de experto profesional
 
-Actualmente debe estar certificado (no caducado) en:
+Actualmente, debe estar certificado (no caducado) en:
 
-* Adobe [!DNL Campaign Standard] Experto profesional
+* Adobe [!DNL Campaign Standard] Experto en Profesional Empresarial
 
 ## Instrucciones para renovar la certificación:
 
-* **Paso 1**: Inicie sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}y, a continuación, vuelva a esta página
-* **Paso 2**: Revise los objetivos y recursos del examen
-* **Paso 3**: Tome y apruebe el examen
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2**: revise los objetivos y recursos del examen
+* **Paso 3**: realice y apruebe el examen
 
-### Prepárese
+### Prepárese.
 
 **Detalles del examen:**
 
-* Puntuación de paso: 30/23
-* Tiempo: 110 minutos
-* Costo: LIBRE/no procesado
-* Envío: Bajo demanda
+* Puntuación superada: 23/30
+* Tiempo: 110 min
+* Coste: GRATIS/sin procesar
+* Envío: a la carta
 * Idiomas disponibles: Inglés
-* Requisito previo: Adobe actual (no caducado) [!DNL Campaign Standard] Certificación de experto profesional
-* ID del examen: AD5-E822
+* Requisito previo: Adobe actual (no caducado) [!DNL Campaign Standard] Certificación de experto para profesionales empresariales
+* Identificador del examen: AD5-E822
 
 **Alcance y objetivos**
 
 Sección 1: Administración de campañas
 
-* Organizar jerarquías basadas en un caso de uso determinado
-* Dados los requisitos comerciales de muestra, determine qué pueden satisfacer las características de OOTB
-* En un escenario, aplique las prácticas recomendadas para diseñar una campaña multicanal o de varios canales
-* Identificar canales (notificación push, correo electrónico, SMS, correo postal, en la aplicación) en [!DNL Campaign Standard]
+* Organizar jerarquías en función de un caso de uso determinado
+* Dados los requisitos comerciales de ejemplo, determine lo que se puede cumplir con las características de OOTB
+* Ante un escenario concreto, aplique las prácticas recomendadas para diseñar una campaña en canales múltiples o multicanal
+* Identifique los canales (notificación push, correo electrónico, SMS, correo directo, en la aplicación) en [!DNL Campaign Standard]
 
-Sección 2: Administración de entregas
+Sección 2: Gestión de envíos
 
-* Dados los requisitos de muestra, diseñe y configure un envío
-* Aplicación de prácticas recomendadas en el diseño de envíos
+* Dados los requisitos de ejemplo, diseñe y configure un envío
+* Aplicar las prácticas recomendadas en el diseño de envíos
 
 Sección 3: Diseño y ejecución del flujo de trabajo
 
-* Manipulación de datos para utilizarlos en una campaña, configuración de segmentación, enriquecimiento
-* Identificar objetivos: recopilación de datos, segmentación, audiencias, listas, filtrado
-* En un caso de uso, identifique el uso de las principales tablas relacionadas con el marketing
+* Manipulación de datos para su uso en una campaña, configuración de direccionamiento, enriquecimiento
+* Identificar destinatarios: recopilación de datos, segmentación, audiencias, listas y filtrado
+* Dado un caso de uso, identifique el uso de las principales tablas relacionadas con el marketing
 
 Sección 4: Administración, supervisión y presentación de informes
 
-* Interpretar los registros de errores de entrega e identificar y resolver errores de flujo de trabajo
-* Determinar y medir el éxito de las entregas y campañas
-* Reconocer los derechos de acceso y asignados
+* Interpretación de registros de errores de entrega e identificación y solución de errores de flujo de trabajo
+* Determinar y medir el éxito de los envíos y las campañas
+* Reconocimiento del acceso y los derechos asignados
 
-## Obtener preconfigurado
+## Prepárate.
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Administración de campañas**
 
 * [Adobe [!DNL Campaign Standard] Documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es){target="_blank"} (trabajo con actividades de marketing, creación de contenido de correo electrónico, canales de comunicación, envíos, configuración de canales)
 
-**Sección 2: Administración de entregas**
+**Sección 2: Gestión de envíos**
 
-* [Adobe [!DNL Campaign Standard] Documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es){target="_blank"} (creación de contenido de correo electrónico, preparación y prueba de mensajes, canales de comunicación — correo electrónico, configuración de la aplicación)
+* [Adobe [!DNL Campaign Standard] Documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es){target="_blank"} (creación de contenido de correo electrónico, preparación y prueba de mensajes, canales de comunicación: correo electrónico, configuración de la aplicación)
 
 **Sección 3: Diseño y ejecución del flujo de trabajo**
 
-* [Adobe [!DNL Campaign Standard] Documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es){target="_blank"} (administración de procesos y datos, administración de audiencias, programación de mensajes, adición o ampliación de un recurso)
+* [Adobe [!DNL Campaign Standard] Documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es){target="_blank"} (administrar procesos y datos, administrar audiencias, programar mensajes, agregar o ampliar un recurso)
 
-**Sección 4: Administración, monitorización y reporting**
+**Sección 4: Administración, supervisión y presentación de informes**
 
 * [Adobe [!DNL Campaign Standard] Documentación](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=es){target="_blank"} (ejecución de un flujo de trabajo, pruebas y envíos, personalización de informes, perfiles y audiencias, usuarios y seguridad)
 
 ## Renovar la certificación
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar el examen, haga clic en el botón [!DNL Campaign Standard] Renovación de Business Practiderer - enlace AD5-822 a continuación.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar el examen, haga clic en [!DNL Campaign Standard] Renovación de Profesional Empresarial: enlace AD5-822 a continuación.
 
 * [[!DNL Campaign Standard] Renovación de profesional empresarial - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
->Este examen es gratuito, está abierto y no se procesa. Puedes hacer el examen hasta tres veces. Si no consigue el tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple puede que se revoque la certificación.
+>Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
 +++
 
-+ + + Adobe [!DNL Campaign Standard] Renovación de expertos para desarrolladores
++++Adobe [!DNL Campaign Standard] Renovación de experto del desarrollador
 
-Actualmente debe estar certificado (no caducado) en:
+Actualmente, debe estar certificado (no caducado) en:
 
-* Adobe [!DNL Campaign Standard] Experto en desarrollo
+* Adobe [!DNL Campaign Standard] Experto del desarrollador
 
 ## Instrucciones para renovar la certificación:
 
-* **Paso 1**: Inicie sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}y, a continuación, vuelva a esta página
-* **Paso 2**: Revise los objetivos y recursos del examen
-* **Paso 3**: Tome y apruebe el examen
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2**: revise los objetivos y recursos del examen
+* **Paso 3**: realice y apruebe el examen
 
-### Prepárese
+### Prepárese.
 
 **Detalles del examen:**
 
-* Puntuación de paso: 30/23
-* Tiempo: 60 minutos
-* Costo: LIBRE/no procesado
-* Envío: Bajo demanda
+* Puntuación superada: 23/30
+* Tiempo: 60 min
+* Coste: GRATIS/sin procesar
+* Envío: a la carta
 * Idiomas disponibles: Inglés
-* Requisito previo: Adobe actual (no caducado) [!DNL Campaign Standard] Certificación de experto para desarrolladores
+* Requisito previo: Adobe actual (no caducado) [!DNL Campaign Standard] Certificación de experto desarrollador
 * ID del examen: AD5-E821
 
 **Alcance y objetivos**
 
-Sección 1: Modelado y administración de datos (30%)
+Sección 1: Modelado y administración de datos (30 %)
 
 * Aplique el proceso para utilizar la interfaz de API en diferentes casos de uso
-* Aplicar el proceso para crear un recurso personalizado
-* Determinar la estrategia correcta para asignar las prácticas recomendadas del modelo de datos
-* Recomendar un método para utilizar un flujo de trabajo de importación o exportación
+* Aplique el proceso para crear un recurso personalizado
+* Determine la estrategia correcta para asignar las prácticas recomendadas del modelo de datos
+* Recomendación de un método para utilizar un flujo de trabajo de importación o exportación
 
 Sección 2: Campaign Management (40 %)
 
-* En un escenario, identifique el déclencheur del evento
+* Ante un escenario concreto, identifique el déclencheur del evento
 * Explicar el proceso de reconciliación
-* Configuración de un informe personalizado para un envío
+* Configuración de un informe personalizado para una entrega
 * Determine el método correcto para configurar los canales de comunicación (en tiempo real y no en tiempo real)
-* Describir el proceso de configuración y personalización de una página de aterrizaje
-* En un escenario, solucione los errores e integraciones del flujo de trabajo
+* Describa el proceso para configurar y personalizar una página de aterrizaje
+* Ante un escenario concreto, solucione los errores e integraciones del flujo de trabajo
 * Identificación de casos de uso para nuevas funciones de Campaign
 
-Sección 3: Administración (30%)
+Sección 3: Administración (30 %)
 
-* Configuración de la administración de privacidad
-* Identifique la lista de actividades para delegar un subdominio al Adobe (incluida la configuración de marca)
+* Configuración de administración de privacidad
+* Identifique la lista de actividades para delegar un subdominio al Adobe (incluida la configuración de la marca)
 * Describir las características del Panel de control de Campaign
-* Analizar la configuración de Campaign para acceder al SFTP externo
-* Describir las ventajas de la integración entre Adobe Campaign y el Adobe Experience Cloud más amplio
+* Analice la configuración para que Campaign acceda al SFTP externo
+* Describir las ventajas de la integración entre Adobe Campaign y Adobe Experience Cloud en general
 * Aplicar el proceso para importar y exportar un paquete de configuración
-* Recomiende el proceso para administrar el acceso y los permisos de los usuarios, o la estructura organizativa
+* Recomendar el proceso para administrar el acceso y los permisos de los usuarios o la estructura organizativa
 
-## Obtener preconfigurado
+## Prepárate.
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Modelado y administración de datos**
 
@@ -226,13 +226,13 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 
 ## Renovar la certificación
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar la certificación, haga clic en el [!DNL Campaign Standard] Renovación de desarrollador: enlace de AD5-821 a continuación.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en [!DNL Campaign Standard] Renovación de desarrollador: vínculo AD5-821 a continuación.
 
 * [[!DNL Campaign Standard] Renovación de desarrollador - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
 >[!NOTE]
 >
->Este examen es gratuito, abierto y no procesado. Puedes hacer el examen hasta tres veces. Si no consigue el tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple puede que se revoque la certificación.
+>Este examen es gratuito, de libro abierto y no controlado. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
 +++
 
@@ -240,6 +240,6 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 ## Preguntas
 
-¿Tiene alguna pregunta sobre la certificación de Adobe? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Tiene alguna pregunta sobre Certificación de Adobe? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

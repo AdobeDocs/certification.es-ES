@@ -1,6 +1,6 @@
 ---
-title: Información general sobre la certificación de comercio
-description: Descripción general de las opciones de certificación para Adobe Commerce
+title: Resumen de certificación de Commerce
+description: Descripción general de las opciones de certificación de Adobe Commerce
 solution: Commerce
 product: Magento
 exl-id: 31e38071-d2a2-4b99-93c0-62cf5a2a9c03
@@ -11,7 +11,7 @@ ht-degree: 16%
 
 ---
 
-# Información general sobre la certificación de comercio
+# Resumen de certificación de Commerce
 
 **Profesional**
 

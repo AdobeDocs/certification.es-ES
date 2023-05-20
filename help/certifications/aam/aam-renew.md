@@ -1,6 +1,6 @@
 ---
-title: Renovación de la certificación
-description: Aprenda a renovar su [!DNL Audience Manager] antes de que caduque.
+title: Renovación de certificación
+description: Obtenga información sobre cómo renovar su [!DNL Audience Manager] certificación antes de que caduque.
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -16,17 +16,17 @@ ht-degree: 2%
 
 # Renovar el Adobe [!DNL Audience Manager] certificación
 
-La certificación de Adobe es válida durante dos años. Si está cerca de este límite de dos años, es hora de renovar su certificación para mantenerla activa.
+Su certificación de Adobe es válida por dos años. Si se acerca a esta marca de dos años, es hora de renovar su certificación para mantenerla activa.
 
-En primer lugar, seleccione el nivel adecuado en la pestaña siguiente (Profesional, Experto o Maestro). Luego revise cuidadosamente lo que tendrá que hacer para renovar su certificación.
+En primer lugar, seleccione el nivel adecuado en la pestaña siguiente (Profesional, Experto o Maestro). A continuación, revise cuidadosamente lo que tendrá que hacer para renovar su certificación.
 
 Asegúrese de proporcionar tiempo suficiente para completar todos los requisitos antes de que caduque la certificación.
 
-Es importante tener en cuenta que si su certificación expira, tendrá que volver a aceptar el examen de certificación, que NO es gratuito.
+Es importante tener en cuenta que si su certificación caduca, tendrá que volver a realizar el examen de certificación, que NO es gratuito.
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **only** después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -34,174 +34,174 @@ Es importante tener en cuenta que si su certificación expira, tendrá que volve
 
 >[!NOTE]
 >
->Próxima renovación profesional.
+>Renovación profesional próximamente.
 
 >[!TAB Experto]
 
-Actualmente debe estar certificado (no caducado) en:
+Actualmente, debe estar certificado (no caducado) en:
 
-* Experto de Adobe Audience Manager Business Practician
+* Experto profesional de Adobe Audience Manager Business
 
 ## Instrucciones para renovar la certificación:
 
-* **Paso 1**: Inicie sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}y, a continuación, vuelva a esta página
-* **Paso 2**: Revise los objetivos y recursos del examen
-* **Paso 3**: Tome y apruebe el examen
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2**: revise los objetivos y recursos del examen
+* **Paso 3**: realice y apruebe el examen
 
-### Prepárese
+### Prepárese.
 
 **Detalles del examen:**
 
-* Nivel: Experto (experiencia de 1 a 3 años)
-* Puntuación de paso: 30/23
+* Nivel: Experto (1-3 años de experiencia)
+* Puntuación superada: 23/30
 * Tiempo: 68 min
-* Envío: Bajo demanda / sin procesamiento
+* Entrega: bajo demanda / sin procesador
 * Idiomas disponibles: Inglés
-* Costo: LIBRE
-* ID del examen: AD5-E826 - Renovación de expertos de Adobe Audience Manager Business Practiderer
+* Coste: GRATIS
+* ID del examen: AD5-E826 - Renovación de experto para profesionales de Adobe Audience Manager
 
 **Objetivos y ámbito del examen**
 
-**Sección 1: Creación y distribución de segmentos (25%)**
+**Sección 1: Creación y distribución de segmentos (25 %)**
 
-* Determinar el método adecuado para crear segmentos utilizando datos de 1p/2p/3p para fines de orientación y análisis
-* En un escenario, recomiende segmentos para la activación que estén alineados con los objetivos de la campaña o del negocio
-* Determinar el método adecuado para sindicación de segmentos a destinos para la activación
+* Determine el método adecuado para crear segmentos utilizando datos 1p/2p/3p para fines de segmentación y análisis
+* Ante un escenario, recomiende segmentos para su activación que se alineen con los objetivos empresariales o de campaña
+* Determine el método adecuado para sindicar segmentos a destinos para su activación
 
-**Sección 2: Creación de características (17%)**
+**Sección 2: Creación de características (17 %)**
 
-* Recomendar características para una estrategia de audiencia determinada
-* Determinar el método correcto para crear y actualizar características basadas en reglas o integradas
+* Características recomendadas para una estrategia de audiencia determinada
+* Determine el método correcto para crear y actualizar características basadas en reglas o integradas
 
-**Sección 3: Informes y mediciones (21%)**
+**Sección 3: Informes y mediciones (21 %)**
 
-* En un escenario, analice los informes para proporcionar pasos siguientes que se puedan llevar a cabo para alcanzar los objetivos del negocio.
-* En un escenario, analice la optimización de la audiencia.
+* En un escenario determinado, analice los informes para proporcionar pasos siguientes procesables para cumplir los objetivos comerciales
+* Ante un escenario concreto, analizar optimización de audiencias
 
-**Sección 4: Resolución de problemas y administración (26%)**
+**Sección 4: Resolución de problemas y administración (26 %)**
 
-* En un escenario, compruebe la información de entrega de la audiencia para garantizar las necesidades de envío programadas
-* Determinar la práctica adecuada para validar archivos entrantes sin conexión
-* En un escenario, determine el método correcto para realizar el control de calidad con la sincronización de ID
-* Determinar el método adecuado para desplazarse y activar desde el Audience Marketplace de Adobe
+* Ante un escenario concreto, compruebe la información de entrega de la audiencia para garantizar las necesidades de entrega programadas
+* Determinar la práctica adecuada para validar archivos de entrada sin conexión
+* En un escenario determinado, determine el método correcto para realizar el control de calidad con la sincronización de ID
+* Determine el método adecuado para desplazarse y activarse desde el Audience Marketplace de Adobe
 
-**Sección 5: Taxonomía (11%)**
+**Sección 5: Taxonomía (11 %)**
 
-* Determinar la estructura apropiada para crear características y segmentos que utilicen una nomenclatura clara y coherente
+* Determine la estructura adecuada para crear rasgos y segmentos que utilicen una nomenclatura clara y coherente
 * Determinar la técnica correcta para mantener una plataforma organizada mediante una estructura de carpetas clara
 * Diferenciación entre los distintos tipos de destinos
 
-### Obtener preconfigurado
+### Prepárate.
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 [!BADGE Preguntas de muestra]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
 **Recursos:**
 
 * [Adobe [!DNL Audience Manager] Documentación del producto](https://docs.adobe.com/content/help/es-ES/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Compatibilidad con Adobes: Audiencias de Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
-* [Información y asistencia de Adobe Experience Cloud](https://helpx.adobe.com/es/support/experience-cloud.html){target="_blank"}
+* [Compatibilidad con Adobes: audiencias de Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [Formación y asistencia de Adobe Experience Cloud](https://helpx.adobe.com/es/support/experience-cloud.html){target="_blank"}
 * [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
 **Reinicie la certificación**
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el enlace de Adobe Audience Manager Business Practiderer Expert - AD5-E826 que aparece a continuación.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Adobe Audience Manager Business Practitioner Expert - AD5-E826 que aparece abajo.
 
-[!BADGE Eche un vistazo al examen de renovación de expertos de Adobe Audience Manager Business Practiderer AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE Realice el examen de renovación de experto para profesionales empresariales de Adobe Audience Manager AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
 >[!NOTE]
 >
->Este examen es gratuito, está abierto y no se procesa. Puedes hacer el examen hasta tres veces. Si no consigue el tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple puede que se revoque la certificación.
+>Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
 
 >[!TAB Principal]
 
-Actualmente debe estar certificado (no caducado) en:
+Actualmente, debe estar certificado (no caducado) en:
 
-* Adobe Audience Manager Architect master
+* Maestro de Adobe Audience Manager Architect
 
 ## Instrucciones para renovar la certificación
 
-* **Paso 1** - Revise los objetivos del examen
+* **Paso 1** - Revisar los objetivos del examen
 * **Paso 2** - Revisar los recursos
-* **Paso 3** - Realice y apruebe el examen
+* **Paso 3** - Realiza y aprueba el examen
 
-### Prepárese
+### Prepárese.
 
 **Detalles del examen:**
 
 * Nivel: Master (3-5 años de experiencia)
-* Puntuación de paso: 29/22
+* Puntuación superada: 22/29
 * Tiempo: 58 min
-* Envío: Bajo demanda / sin procesamiento
+* Entrega: bajo demanda / sin procesador
 * Idiomas disponibles: Inglés
-* Costo: LIBRE
-* ID del examen: AD5-E825 - Renovación maestra de arquitectos de Adobe Audience Manager
+* Coste: GRATIS
+* ID del examen: AD5-E825 - Renovación del máster de arquitectos de Adobe Audience Manager
 
 **Alcance y objetivos:**
 
-Sección 1: Análisis de implementación (28%)
+Sección 1: Análisis de la implementación (28 %)
 
-* Determine cómo guiar y admitir la implementación de AAM como producto independiente o como parte de una solución de nube
-* Analizar las opciones de destino salientes y recomendar un enfoque de implementación AAM
-* Determinar una estrategia de incorporación de datos para un caso de uso empresarial
-* Identificar funciones como el visor de perfiles de visitantes, etiquetas, RBAC, etc., para alinearse con los objetivos comerciales
-* Determinar cómo diseñar y probar los píxeles necesarios para crear segmentos y rasgos
+* AAM Determine cómo guiar y admitir la implementación de la como producto independiente o como parte de una solución en la nube
+* AAM Analice las opciones de destino salientes y recomiende un enfoque de implementación de
+* Determinar una estrategia de incorporación de datos para un caso práctico empresarial
+* Identifique funciones como el visor de perfiles de visitante, las etiquetas, RBAC, etc., para alinearlas con los objetivos empresariales
+* Determine cómo diseñar y probar los píxeles necesarios para crear segmentos y rasgos
 
-Sección 2: Diseño de soluciones y Recommendations (17%)
+Sección 2: Diseño de soluciones y Recommendations (17 %)
 
-* Determinar AAM capacidades en función del caso de uso del cliente para la audiencia y la activación
-* Aplicar conceptos de procedimiento para utilizar soluciones de identidad de audiencia en la arquitectura de diseño de complemento
-* Identificar los atributos y los datos de comportamiento y asignarlos a casos de uso empresariales específicos
-* Aplicar conceptos de procedimiento a la taxonomía de carpetas de diseño y a la convención de nomenclatura
+* AAM Determinar las capacidades de la audiencia en función del caso práctico del cliente para la audiencia y la activación
+* Aplique conceptos de procedimiento para utilizar soluciones de identidad de audiencia para complementar la arquitectura de diseño
+* Identificar datos de atributo y comportamiento y asignarlos a casos de uso empresariales específicos
+* Aplicar conceptos de procedimiento para diseñar la taxonomía de carpetas y la convención de nombres
 
-Sección 3: Segmentación y activación (31%)
+Sección 3: Segmentación y activación (31 %)
 
-* Aplique conceptos de procedimiento para crear destinos en [!DNL Audience Manager]
-* Identificar señales para crear rasgos algorítmicos, integrados y basados en reglas
-* Aplique conceptos de procedimiento para crear segmentos utilizando frecuencia/actualización
-* Determinar cómo crear segmentos mediante reglas de combinación de perfiles
+* Aplicar conceptos de procedimiento para crear destinos en [!DNL Audience Manager]
+* Identificar señales para crear rasgos basados en reglas, integrados y algorítmicos
+* Aplique conceptos procedimentales para crear segmentos mediante frecuencia/actualización
+* Determine cómo crear segmentos utilizando las reglas de combinación de perfiles
 * Aplicar conceptos de procedimiento para crear un modelo algorítmico o predictivo
-* Determinar la lógica de segmentación en función de casos de uso
+* Determinar la lógica de segmentación en función de los casos de uso
 
-Sección 4: Privacidad y administración de datos (7%)
+Sección 4: Privacidad y administración de datos (7 %)
 
 * Recomendar [!DNL Audience Manager] capacidades en relación con la gobernanza, la privacidad y la seguridad
-* Identificar las políticas de datos de los clientes que están en línea con las regulaciones gubernamentales
+* Identificar políticas de datos de clientes que estén en línea con las regulaciones gubernamentales
 
-Sección 5: Rendimiento e informes (17%)
+Sección 5: Rendimiento e informes (17 %)
 
-* Determine cómo configurar los informes en AAM para recopilar señales, rasgos y rendimiento de segmentos según los requisitos comerciales
+* AAM Determine cómo configurar informes en para recopilar señales, rasgos y rendimiento de segmentos según los requisitos empresariales.
 
-### Obtener preconfigurado
+### Prepárate.
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 * [AAM: Fundamentos técnicos](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
-* [AAM: Serie de integración](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM Serie de integración de](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
 * [AAM: Funciones avanzadas](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
 * [ Formación y recursos de Launch](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### Renovar la certificación
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el enlace Adobe Audience Manager Architect Master renovación - AD5-E825 que aparece a continuación.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación maestra de arquitectos de Adobe Audience Manager - AD5-E825.
 
-[!BADGE Realice el examen maestro de renovación de arquitectos de Adobe Audience Manager AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Realice el examen de renovación de Adobe Audience Manager Architect Master AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
 >[!NOTE]
 >
->Este examen es gratuito, está abierto y no se procesa. Puedes hacer el examen hasta tres veces. Si no consigue el tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple puede que se revoque la certificación.
+>Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
 
 >[!ENDTABS]
 
 ### Preguntas
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

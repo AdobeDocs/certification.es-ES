@@ -43,7 +43,7 @@ ht-degree: 35%
 
 * [Profesional empresarial (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Desarrollador (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
-* [Operaciones de desarrollo](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
+* [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Desarrollador (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
 * [Migración de Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
@@ -61,8 +61,8 @@ ht-degree: 35%
 
 **Workfront**
 
-* [Desarrollador (Core)](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
-* [Conector AEM mejorado](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [Desarrollador (principal)](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
+* [AEM Conector mejorado de](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 >[!MORELIKETHIS]
 >

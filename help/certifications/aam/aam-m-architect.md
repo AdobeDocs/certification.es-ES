@@ -1,113 +1,114 @@
 ---
-title: Certificado maestro de arquitectos
-description: Obtenga información sobre cómo obtener la certificación como Adobe [!DNL Audience Manager] Arquitecto Maestro.
+title: Certificación de maestro de arquitectos
+description: Obtenga información sobre cómo certificarse como Adobe [!DNL Audience Manager] Maestro de arquitectos.
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
-badge: label="Exam AD0-E454" type="positive"
+badge: label="Examen AD0-E454" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '854'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Audience Manager] Arquitecto maestro
+# Recorrido de certificación para Adobe [!DNL Audience Manager] Maestro de arquitectos
 
-Aprenda a convertirse en un certificado [!DNL Audience Manager] Arquitecto Maestro.
+Obtenga información sobre cómo obtener una certificación [!DNL Audience Manager] Maestro de arquitectos.
 
 ## Experiencia mínima
 
-Debe tener al menos 3 años de experiencia en métodos de recopilación de datos, plataformas de administración de datos y pilas de tecnología de marketing digital en plataformas de marketing de Adobe y que no sean de Adobe. Conoce los requisitos técnicos y empresariales únicos de los clientes y desarrolla soluciones personalizadas.
+Debe tener al menos 3 años de experiencia con métodos de recopilación de datos, plataformas de administración de datos y pilas de tecnología de marketing digital en plataformas de marketing de Adobe y sin Adobe. Comprenderá los requisitos técnicos y comerciales únicos de los clientes y desarrollará soluciones personalizadas.
 
-Además, debe poder completar las siguientes tareas:
+Además, debería poder completar las siguientes tareas:
 
-* Analizar los requisitos comerciales para comprender los datos existentes y los datos adicionales que se requieren
-* Diseñe y desarrolle implementaciones específicas para satisfacer los requisitos de los clientes
+* Analice los requisitos comerciales para comprender los datos existentes y los datos adicionales que se requieren
+* Diseñar y desarrollar implementaciones específicas para satisfacer los requisitos de los clientes
 * Implementar Adobe [!DNL Audience Manager] uso de diferentes metodologías
 * Creación de segmentos
-* Activar segmentos de audiencia en distintas soluciones de nube de Adobe y sin Adobe
-* Genere y analice distintos informes dentro de [!DNL Audience Manager]
+* Activar segmentos de audiencia en diferentes soluciones de nube de Adobe y sin Adobe
+* Generar y analizar diferentes informes en [!DNL Audience Manager]
 * Comprender las estrategias de recopilación de datos
 
 >[!NOTE]
 >
->Su certificación es válida durante dos años a partir del momento de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las capacidades de los productos más recientes.
+>Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
 
 >[!BEGINTABS]
 
->[!TAB Prepárese]
+>[!TAB Prepárese.]
 
-**Audiencia prevista:**
+**Destinatarios a los que va dirigido:**
 
 * [!DNL Audience Manager] Consultor
 * Arquitecto de varias soluciones
-* Adobe de guía de prácticas
-* Arquitecto de empresa
+* Adobe Lead de Práctica
+* Arquitecto empresarial
 * Arquitecto de Martech
-* Propietario del producto técnico
+* Propietario técnico del producto
 * Especialista en marketing digital
 * Arquitecto técnico
-* Consultor técnico
-* Técnico de marketing
+* Asesor técnico
+* Tecnólogo de marketing
 
 **Detalles del examen**
 
 * Nivel: Master (3-5 años de experiencia)
-* Puntuación de paso: 29/50
-* Tiempo: 100 minutos
-* Envío: Procesado en línea (requiere acceso a la cámara) o procesado en el centro de pruebas
+* Puntuación superada: 29/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
 * Idiomas disponibles: Inglés
-* Costo: $225 (global) / $150 (India)
-* ID del examen: AD0-E454
+* Costo: 225 dólares (global) / 150 dólares (India)
+* Identificador del examen: AD0-E454
 
 **Autoevaluación de la preparación**
 
-Complete el [cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} para ver si su experiencia actual coincide con la cualificación mínima recomendada de los candidatos.
+Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
 
 **Objetivos y ámbito del examen**
 
-Sección 1: Análisis de implementación (26%)
+Sección 1: Análisis de la implementación (26 %)
 
-* Determine cómo guiar y admitir la implementación de AAM como producto independiente o como parte de una solución de nube
-* Analizar las opciones de destino salientes y recomendar un enfoque de implementación AAM
-* Determinar una estrategia de incorporación de datos para un caso de uso empresarial
-* Identificar funciones como el visor de perfiles de visitantes, etiquetas, RBAC, etc., para alinearse con los objetivos comerciales
-* Determinar cómo diseñar y probar los píxeles necesarios para crear segmentos y rasgos
+* AAM Determine cómo guiar y admitir la implementación de la como producto independiente o como parte de una solución en la nube
+* AAM Analice las opciones de destino salientes y recomiende un enfoque de implementación de
+* Determinar una estrategia de incorporación de datos para un caso práctico empresarial
+* Identifique funciones como el visor de perfiles de visitante, las etiquetas, RBAC, etc., para alinearlas con los objetivos empresariales
+* Determine cómo diseñar y probar los píxeles necesarios para crear segmentos y rasgos
 
-Sección 2: Diseño y recomendaciones de soluciones (18%)
+Sección 2: Diseño de soluciones y recomendaciones (18 %)
 
-* Determinar AAM capacidades en función del caso de uso del cliente para la audiencia y la activación
+* AAM Determinar las capacidades de la audiencia en función del caso práctico del cliente para la audiencia y la activación
 * Aplique conceptos de procedimiento para utilizar soluciones de identidad de audiencia para complementar la arquitectura de diseño
-* Identificar los atributos y los datos de comportamiento y asignarlos a casos de uso empresariales específicos
-* Aplicar conceptos de procedimiento a la taxonomía de carpetas de diseño y a la convención de nomenclatura
+* Identificar datos de atributo y comportamiento y asignarlos a casos de uso empresariales específicos
+* Aplicar conceptos de procedimiento para diseñar la taxonomía de carpetas y la convención de nombres
 
-Sección 3: Segmentación y activación (30%)
+Sección 3: Segmentación y activación (30 %)
 
-* Aplique conceptos de procedimiento para crear destinos en [!DNL Audience Manager]
-* Identificar señales para crear rasgos algorítmicos, integrados y basados en reglas
-* Aplique conceptos de procedimiento para crear segmentos utilizando frecuencia/actualización
-* Determinar cómo crear segmentos mediante reglas de combinación de perfiles
+* Aplicar conceptos de procedimiento para crear destinos en [!DNL Audience Manager]
+* Identificar señales para crear rasgos basados en reglas, integrados y algorítmicos
+* Aplique conceptos procedimentales para crear segmentos mediante frecuencia/actualización
+* Determine cómo crear segmentos utilizando las reglas de combinación de perfiles
 * Aplicar conceptos de procedimiento para crear un modelo algorítmico o predictivo
-* Determinar la lógica de segmentación en función de casos de uso
+* Determinar la lógica de segmentación en función de los casos de uso
 
-Sección 4: Privacidad y control de datos (8%)
+Sección 4: Privacidad y control de datos (8 %)
 
 * Recomendar [!DNL Audience Manager] capacidades en relación con la gobernanza, la privacidad y la seguridad
-* Identificar las políticas de datos de los clientes que están en línea con las regulaciones gubernamentales
+* Identificar políticas de datos de clientes que estén en línea con las regulaciones gubernamentales
 
-Sección 5: Rendimiento e informes (18%)
+Sección 5: Rendimiento y creación de informes (18 %)
 
-* Determine cómo configurar los informes en AAM para recopilar señales, rasgos y rendimiento de segmentos según los requisitos comerciales
+* AAM Determine cómo configurar informes en para recopilar señales, rasgos y rendimiento de segmentos según los requisitos empresariales.
 
->[!TAB Obtener preconfigurado]
+>[!TAB Prepárate.]
 
-No es necesario que complete la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobarlo. Una combinación de formación y una experiencia exitosa en el trabajo son esenciales para proporcionarle el repositorio necesario para pasar el examen.
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son algunos de los recursos sugeridos para ayudarle a preparar:
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
-**Sección 1: Análisis de implementación**
+**Sección 1: Análisis de la implementación**
 
 * Guía de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=es){target="_blank"}
 * [Integración de Analytics](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=es){target="_blank"}
@@ -116,54 +117,54 @@ Estos son algunos de los recursos sugeridos para ayudarle a preparar:
 **Sección 2: Diseño de soluciones y Recommendations**
 
 * Guía de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=es){target="_blank"}
-* [[!DNL Audience Manager] tutoriales](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=es){target="_blank"}
+* Tutoriales de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=es){target="_blank"}
 
 **Sección 3: Segmentación y activación**
 
 * Guía de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=es){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=es){target="_blank"}
-* [[!DNL Audience Manager] tutoriales](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=es){target="_blank"}
+* Tutoriales de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=es){target="_blank"}
 
 **Sección 4: Privacidad y administración de datos**
 
 * Guía de [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=es){target="_blank"}
-* [[!DNL Audience Manager] API de REST](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
+* [[!DNL Audience Manager] API DE REST](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
 * [Guía de administración de Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
 
 **Sección 5: Rendimiento e informes**
 
 * [Servicio de Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
 
->[!TAB Obtener certificación]
+>[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **only** después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Ahora que ha iniciado sesión correctamente, se podrá acceder directamente a los siguientes vínculos.**
+**Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
-**Haga el examen de certificación**
+**Realice el examen de certificación**
 
-Adobe utiliza dos proveedores para administrar los exámenes procesados, PSI y Ejemplos.
+El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y Examity.
 
-* **PSI** ofrece opciones de centro de pruebas y exámenes japoneses (si está disponible)
+* **PSI** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
 * **[!DNL Examity]** ofrece una opción en línea remota
 
-Para programar, volver a programar o cancelar el examen, seleccione un proveedor y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+Para programar, reprogramar o cancelar el examen, seleccione un proveedor y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
 
 ### Número de examen: AD0-E454
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454 newtab=true"}[!BADGE Ejemplo]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454 newtab=true"}[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454 newtab=true"}
 
-Puede pagar su examen de certificación por cupón o tarjeta de crédito. Para comprar un vale de examen, vaya a: [Centro de vales de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puede aplicar el código de cupón cuando programe el examen. Si tiene un descuento, se aplicará durante el cierre de compra.
+Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
 
 >[!ENDTABS]
 
 **Preguntas**
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

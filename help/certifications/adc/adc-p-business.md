@@ -1,10 +1,10 @@
 ---
 title: Certificación profesional
-description: Obtenga información sobre cómo convertirse en un Adobe certificado Doc Cloud Professional.
+description: Aprenda a convertirse en un Adobe certificado Doc Cloud Professional.
 solution: Document Cloud
 product: Document Cloud
 role: User
-badge: label="Adobe Doc Cloud próximamente en mayo de 2023" type="positive"
+badge: label="Adobe Doc Cloud para mayo de 2023" type="positivo"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 # Recorrido de certificación para Adobe Doc Cloud Professional
 
-Obtenga información sobre cómo convertirse en un Adobe certificado Doc Cloud Professional.
+Aprenda a convertirse en un Adobe certificado Doc Cloud Professional.
 
 ## Experiencia mínima
 
 >[!NOTE]
 >
->Próxima mayo de 2023
+>Próximo mayo de 2023

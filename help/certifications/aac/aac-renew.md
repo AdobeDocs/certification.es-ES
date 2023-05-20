@@ -1,27 +1,28 @@
 ---
-title: Renovación de la certificación
-description: Aprenda a renovar su Adobe [!DNL Advertising] antes de que caduque.
+title: Renovación de certificación
+description: Aprenda a renovar su Adobe [!DNL Advertising] certificación antes de que caduque.
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
 
 ---
 
-# Renovar el [!DNL Advertising] certificación
+# Renueve su [!DNL Advertising] certificación
 
-Cuando se aprueba un examen de certificación, la certificación es válida durante dos años.
+Cuando pasas un examen de certificación, tu certificación es válida por dos años.
 
-Nos complace anunciar que ahora puede renovar su certificación a través de un nuevo formato sin coste. Implica utilizar cursos y tutoriales para Experience League bajo demanda: simplemente complete tres actividades para renovar su certificación sin costo alguno. Debe renovar la certificación antes de que caduque o tendrá que realizar el examen completo para obtener la certificación de nuevo.
+Nos complace anunciar que ahora puede renovar su certificación mediante un nuevo formato sin coste adicional. Implica utilizar cursos y tutoriales de Experience League bajo demanda; solo tiene que completar tres actividades para renovar su certificación sin coste alguno. Debe renovar antes de que caduque su certificación, o tendrá que realizar el examen completo para volver a certificarse.
 
 >[!IMPORTANT]
 >
->Los siguientes vínculos de examen **only** después de una **inicio de sesión correcto** a [Sistema de gestión de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Los siguientes enlaces de examen **solamente** función después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -29,24 +30,24 @@ Nos complace anunciar que ahora puede renovar su certificación a través de un 
 
 >[!NOTE]
 >
->Próxima renovación profesional.
+>Renovación profesional próximamente.
 
 >[!TAB Experto]
 
 >[!NOTE]
 >
->Próximamente se renovarán los expertos.
+>Renovación de los expertos próximamente.
 
 >[!TAB Principal]
 
 >[!NOTE]
 >
->Próximamente la renovación maestra.
+>Renovación del maestro próximamente.
 
 >[!ENDTABS]
 
 **Preguntas**
 
-Ver la certificación [Preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
