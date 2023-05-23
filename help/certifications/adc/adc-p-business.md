@@ -8,9 +8,9 @@ badge: label="Examen AD0-D106" type="positivo"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
+source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '895'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,6 @@ Sección 4: Solución recomendada (12 %)
 No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
 Estos son algunos recursos sugeridos para ayudarle a prepararse:
-
-**Sección 1: Educación**
 
 **Sección 1: Detección de casos de uso**
 
