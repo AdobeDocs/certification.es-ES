@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E127" type="positivo"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
 workflow-type: tm+mt
-source-wordcount: '912'
-ht-degree: 9%
+source-wordcount: '980'
+ht-degree: 8%
 
 ---
 
@@ -159,6 +159,10 @@ El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI
 * **[!DNL Examity]** ofrece una opción en línea remota
 
 Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+
+El nombre de su perfil en el Sistema de administración de credenciales de Adobe debe coincidir exactamente con su Id. de gobierno. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.
+
+Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
 
 ### Número de examen: AD0-E127
 

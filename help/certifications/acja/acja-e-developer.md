@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="Examen AD0-E604" type="positivo"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: bf6dae64ce1334611f7a40d14733dba7504fae20
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 16%
+source-wordcount: '796'
+ht-degree: 14%
 
 ---
 
@@ -139,6 +139,10 @@ El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI
 * **[!DNL Examity]** ofrece una opción en línea remota
 
 Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+
+El nombre de su perfil en el Sistema de administración de credenciales de Adobe debe coincidir exactamente con su Id. de gobierno. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.
+
+Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
 
 ### Número de examen: AD0-E604
 

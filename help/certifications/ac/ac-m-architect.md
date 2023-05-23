@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Examen AD0-E718" type="positivo"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1053'
 ht-degree: 1%
 
 ---
@@ -177,6 +177,10 @@ El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI
 * **[!DNL Examity]** ofrece una opción en línea remota
 
 Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+
+El nombre de su perfil en el Sistema de administración de credenciales de Adobe debe coincidir exactamente con su Id. de gobierno. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.
+
+Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
 
 ### Número de examen: AD0-E718
 
