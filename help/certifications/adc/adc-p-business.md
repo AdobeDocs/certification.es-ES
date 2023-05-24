@@ -8,9 +8,9 @@ badge: label="Examen AD0-D106" type="positivo"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
+source-git-commit: 354d65edf298c2b633f6b04a76bcf3ccaa796a1c
 workflow-type: tm+mt
-source-wordcount: '894'
+source-wordcount: '985'
 ht-degree: 0%
 
 ---
@@ -126,6 +126,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 >Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
+
+**Realizar una prueba de práctica**
+
+Le recomendamos que realice la prueba de práctica gratuita antes de comenzar. Tendrás acceso ilimitado a todas las pruebas de práctica disponibles para los exámenes de Adobe de nivel experto.
+
+Todas nuestras pruebas de práctica se desarrollan a partir del mismo modelo que los exámenes en vivo. La prueba de práctica le ayudará a comprender los temas tratados en el examen en vivo.
+
+Recuerde que aprobar un examen de práctica no garantiza que aprobará el examen de certificación.
+
+Vaya a la [Adobe Certificación Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ahora para hacer una prueba de práctica.
 
 **Realice el examen de certificación**
 
