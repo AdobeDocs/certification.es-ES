@@ -7,10 +7,10 @@ role: Data Architect,Developer
 badge: label="Examen AD0-E207" type="positivo"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
+source-git-commit: 2aa4e37dd0afe520746892c2739c2a4f53342797
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 19%
+source-wordcount: '940'
+ht-degree: 21%
 
 ---
 
@@ -137,18 +137,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 >
 >Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
-
-**Realizar una prueba de práctica**
-
-Le recomendamos que realice la prueba de práctica gratuita antes de comenzar. Tendrás acceso ilimitado a todas las pruebas de práctica disponibles para los exámenes de Adobe de nivel experto.
-
-Todas nuestras pruebas de práctica se desarrollan a partir del mismo modelo que los exámenes en vivo. La prueba de práctica le ayudará a comprender los temas tratados en el examen en vivo.
-
-Recuerde que aprobar un examen de práctica no garantiza que aprobará el examen de certificación.
-
-Vaya a la [Adobe Certificación Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ahora para hacer una prueba de práctica.
 
 **Realice el examen de certificación**
 
