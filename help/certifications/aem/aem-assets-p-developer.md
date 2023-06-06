@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E129" type="positivo"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '948'
 ht-degree: 4%
 
 ---
@@ -125,38 +125,38 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 **Sección 1: Flujos de trabajo de recursos**
 
-* [Creación de modelos de flujos de trabajo](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html?lang=en#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
+* [Creación de modelos de flujos de trabajo](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
+* [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
 
 **Sección 2: Organización de recursos y consola de recursos**
 
 * [Vídeos y tutoriales de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=es){target="_blank"}
-* [Facetas de búsqueda](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html?lang=en#restoring-default-search-facets){target="_blank"}
-* [Informes de Asset](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=en){target="_blank"}
+* [Facetas de búsqueda](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
+* [Informes de recurso](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
 
 **Sección 3: Metadatos de los recursos**
 
-* [Esquemas de metadatos](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html?lang=en#default-metadata-schema-forms){target="_blank"}
-* [Comprender los conceptos de metadatos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html?lang=en){target="_blank"}
-* [Perfiles de metadatos](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html?lang=en#:~:text=Add%20a%20metadata%20profile.%20Pulse%20o%20haga clic%20the,and%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
+* [Esquemas de metadatos](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
+* [Comprender los conceptos de metadatos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
+* [Perfiles de metadatos](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Pulse%20o%20haga clic%20the,and%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
 
 **Sección 4: Tipos de activos**
 
-* [Administrar recursos de vídeo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
-* [Modelos de fragmentos de contenido](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
-* [Variaciones: Crear contenido de fragmentos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
+* [Administrar recursos de vídeo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
+* [Modelos de fragmentos de contenido](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
+* [Variaciones: Crear contenido de fragmentos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
 
 **Sección 5: Conjuntos de funciones y capacidades de los recursos**
 
-* [Información general de [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=en){target="_blank"}
-* [Formatos de archivo compatibles](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html?lang=en){target="_blank"}
-* [Perfiles de vídeo de Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html?lang=en){target="_blank"}
+* [Información general de [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
+* [Formatos de archivo compatibles](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
+* [Perfiles de vídeo de Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
@@ -185,6 +185,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

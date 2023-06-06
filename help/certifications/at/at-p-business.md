@@ -7,10 +7,10 @@ role: User
 badge: label="Examen AD0-E408" type="positivo"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1034'
-ht-degree: 7%
+source-wordcount: '996'
+ht-degree: 8%
 
 ---
 
@@ -113,39 +113,39 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 **Sección 1: Planificación y estrategia**
 
-* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=es){target="_blank"}
-* Documentación de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html?lang=en){target="_blank"}
+* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* Documentación de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
 * [Perfiles del visitante](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=es){target="_blank"}
-* [[!DNL Adobe Target] kit de bienvenida](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
-* [Métricas de éxito](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=en){target="_blank"}
-* [Categorías para audiencias](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] kit de bienvenida](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
+* [Métricas de éxito](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=es){target="_blank"}
+* [Categorías para audiencias](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
 
 **Sección 2: Configuración, ejecución y gestión**
 
-* [Compositor de experiencias visuales (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html?lang=en){target="_blank"}
-* [[!DNL Adobe Target] kit de bienvenida](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
-* [Información general sobre las pruebas A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
-* [Crear una actividad de segmentación de experiencias](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html?lang=en){target="_blank"}
-* [Información general sobre pruebas multivariable](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html?lang=en){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en){target="_blank"}
+* [Compositor de experiencias visuales (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
+* [[!DNL Adobe Target] kit de bienvenida](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
+* [Información general sobre las pruebas A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
+* [Crear una actividad de segmentación de experiencias](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
+* [Información general sobre pruebas multivariable](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
+* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
 * [Crear audiencias](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=es){target="_blank"}
-* [Control de calidad de la actividad](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html?lang=en){target="_blank"}
+* [Control de calidad de la actividad](https://experienceleague.adobe.com/docs/?lang=estarget/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
 **Sección 3: Análisis e informes**
 
-* [Configuración de informes](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html?lang=en){target="_blank"}
-* [Información general sobre las pruebas A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
+* [Configuración de informes](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [Información general sobre las pruebas A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
 
 **Sección 4: Solución de problemas**
 
-* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=es){target="_blank"}
-* [Información general de Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=es){target="_blank"}
+* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [Información general de Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
@@ -174,6 +174,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

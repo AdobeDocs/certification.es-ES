@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E213" type="positivo"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 14%
+source-wordcount: '1257'
+ht-degree: 11%
 
 ---
 
@@ -120,9 +120,9 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 **Sección 1: Análisis en el ecosistema de Adobe Experience Cloud**
 
 * [Servicio de Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
-* [Preguntas más frecuentes](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html?lang=en){target="_blank"}
-* [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [Información general](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=es){target="_blank"}
+* [Preguntas más frecuentes](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
+* [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [Información general](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 * [Información general sobre etiquetas](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es){target="_blank"}
 * [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
 
@@ -138,14 +138,14 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Información general sobre etiquetas](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es){target="_blank"}
 * [Guía de Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}
 * [Guía de administración de Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
-* [Developers Live: Capa de datos del cliente de Adobe: realiza un seguimiento de los datos del visitante](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
+* [Developers Live: Capa de datos del cliente de Adobe: realiza un seguimiento de los datos del visitante](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2021/feb2021/adobe-client-data-layer.html){target="_blank"}
 * [Sugerencia rápida: Paso de datos a reglas de Launch](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 
 **Sección 4: Sistemas de gestión de etiquetas**
 
 * [Información general sobre etiquetas](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es){target="_blank"}
 * [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Información general](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=es){target="_blank"}
+* [Información general](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 * [Tutoriales de Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=es){target="_blank"}
 
 **Sección 5: Mobile Services y API**
@@ -166,7 +166,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
@@ -196,6 +196,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

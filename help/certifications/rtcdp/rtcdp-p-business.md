@@ -7,9 +7,9 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E602" type="positivo"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1000'
+source-wordcount: '964'
 ht-degree: 3%
 
 ---
@@ -107,14 +107,14 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 **Sección 1: Segmentos y activación**
 
-* [Resumen del servicio de segmentación](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en){target="_blank"}
-* [Creación de segmentos secuenciales](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html?lang=en){target="_blank"}
-* [Evaluación y acceso a los resultados del segmento](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=en){target="_blank"}
-* [Guía de IU del servicio de segmentación](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html?lang=en#scheduled-segmentation){target="_blank"}
-* [Información general sobre los destinos](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
-* [Tipos y categorías de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
-* [Activación de datos de audiencia en destinos de exportación de perfil de flujo continuo](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html?lang=en){target="_blank"}
-* [Creación de una nueva conexión de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
+* [Resumen del servicio de segmentación](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
+* [Creación de segmentos secuenciales](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html){target="_blank"}
+* [Evaluación y acceso a los resultados del segmento](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
+* [Guía de IU del servicio de segmentación](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html#scheduled-segmentation){target="_blank"}
+* [Información general sobre los destinos](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=es){target="_blank"}
+* [Tipos y categorías de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
+* [Activación de datos de audiencia en destinos de exportación de perfil de flujo continuo](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
+* [Creación de una nueva conexión de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
 
 **Sección 2: Identidad y gobernanza de datos**
 
@@ -123,22 +123,22 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 **Sección 3: Análisis de negocio**
 
-* [Resumen de ingesta de datos](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
-* [Monitorización de flujos de datos en el Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html?lang=en){target="_blank"}
-* [Aplicaciones de Privacy Service y Experience Cloud](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html?lang=en){target="_blank"}
-* [Introducción a la aplicación de políticas](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html?lang=en){target="_blank"}
+* [Resumen de ingesta de datos](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=es){target="_blank"}
+* [Monitorización de flujos de datos en el Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
+* [Aplicaciones de Privacy Service y Experience Cloud](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
+* [Introducción a la aplicación de políticas](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
 
 **Sección 4: Esquemas y perfiles**
 
 * [Información general del sistema XDM](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=es){target="_blank"}
-* [Resumen del perfil del cliente en tiempo real](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html?lang=en){target="_blank"}
-* [Guía de IU de esquema de unión](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=es){target="_blank"}
+* [Resumen del perfil del cliente en tiempo real](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
+* [Guía de IU de esquema de unión](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
@@ -177,6 +177,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

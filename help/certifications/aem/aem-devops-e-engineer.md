@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E124" type="positivo"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1192'
-ht-degree: 3%
+source-wordcount: '1156'
+ht-degree: 5%
 
 ---
 
@@ -117,45 +117,45 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Configuración de Adobe Experience Manager**
 
-* [Conceptos básicos de configuración](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"}
-* [Solución de problemas de AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html?lang=en){target="_blank"}
-* [AEM Configuración de OSGi en el](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=en){target="_blank"}
+* [Conceptos básicos de configuración](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
+* [Solución de problemas de AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
+* [AEM Configuración de OSGi en el](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=es){target="_blank"}
 
 **Sección 2: Administrar la API de Cloud Manager y Cloud Manager**
 
-* [Administración de entornos](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=es){target="_blank"}
-* [Introducción al Recorrido AEM de migración para la migración a los as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html?lang=en){target="_blank"}
-* [Resumen de integración de Adobe I/O](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html?lang=en){target="_blank"}
+* [Administración de entornos](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html){target="_blank"}
+* [Introducción al Recorrido AEM de migración para la migración a los as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [Resumen de integración de Adobe I/O](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
 
 **Sección 3: Configuración de la infraestructura de proxy web**
 
-* [Configuraciones de Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html?lang=en){target="_blank"}
-* [Rendimiento del almacenamiento en caché](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html?lang=en){target="_blank"}
+* [Configuraciones de Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
+* [Rendimiento del almacenamiento en caché](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
 
 **Sección 4: Generación e implementaciones**
 
-* [Implementación de código](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=en){target="_blank"}
-* [Configurar canalizaciones de producción](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html?lang=en){target="_blank"}
+* [Implementación de código](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
+* [Configurar canalizaciones de producción](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
 * [Cómo trabajar con paquetes](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=es){target="_blank"}
-* [Estructura del proyecto de AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en){target="_blank"}
+* [Estructura del proyecto de AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=es){target="_blank"}
 
 **Sección 5: Monitorización e informes sobre métricas de calidad**
 
 * [AEM Monitorización y mantenimiento de la instancia de](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
-* [Día difícil: agregar varias instancias de la misma prueba](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html?lang=en#adding-multiple-instances-of-the-same-test){target="_blank"}
-* [AEM Introducción a la arquitectura de la as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html?lang=en){target="_blank"}
-* [Escalado automático](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en#autoscaling){target="_blank"}
+* [Día difícil: agregar varias instancias de la misma prueba](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html#adding-multiple-instances-of-the-same-test){target="_blank"}
+* [AEM Introducción a la arquitectura de la as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html?lang=es){target="_blank"}
+* [Escalado automático](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html#autoscaling){target="_blank"}
 
 **Sección 6: Funcionamiento del Admin Console**
 
-* [Compatibilidad con IMS para AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=en#accessing-cloud-manager){target="_blank"}
-* [AEM Grupos de usuarios y usuarios de IMS de](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=en){target="_blank"}
+* [Compatibilidad con IMS para AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
+* [AEM Grupos de usuarios y usuarios de IMS de](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=es){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
@@ -195,6 +195,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

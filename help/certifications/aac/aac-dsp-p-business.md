@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E502" type="positivo"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -101,33 +101,33 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 **Sección 1: Configuración de campañas**
 
 
-* [Acerca de la Gestión de público en [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html?lang=en){target="_blank"}
-* [Descripción general de las funciones de inventario en [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html?lang=en){target="_blank"}
-* [[!DNL Campaign] Configuración](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html?lang=en){target="_blank"}
-* [Configuración de ubicación](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html?lang=en){target="_blank"}
+* [Acerca de la Gestión de público en [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
+* [Descripción general de las funciones de inventario en [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
+* [[!DNL Campaign] Configuración](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
+* [Configuración de ubicación](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
 
 **Sección 2: Ejecución y optimización de campañas**
 
-* [Cómo [!DNL Advertising DSP] Optimiza sus campañas](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
-* [Acerca de los objetivos personalizados](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html?lang=en){target="_blank"}
-* [Prácticas recomendadas para configurar campañas de rendimiento](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html?lang=en){target="_blank"}
-* [Acerca del inventario On Demand Premium](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html?lang=en){target="_blank"}
-* [Creación de informes con [!DNL Advertising] Canales de marketing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html?lang=en){target="_blank"}
+* [Cómo [!DNL Advertising DSP] Optimiza sus campañas](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [Acerca de los objetivos personalizados](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
+* [Prácticas recomendadas para configurar campañas de rendimiento](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
+* [Acerca del inventario On Demand Premium](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
+* [Creación de informes con [!DNL Advertising] Canales de marketing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
 
 **Sección 3: Informes y análisis**
 
-* [Consola web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
+* [Consola web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
 **Sección 4: Proporcionar recomendaciones para campañas**
 
-* [Cómo [!DNL Advertising] DSP Optimiza Las Campañas De](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
-* [Acerca de la administración de anuncios en [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html?lang=en){target="_blank"}
+* [Cómo [!DNL Advertising] DSP Optimiza Las Campañas De](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [Acerca de la administración de anuncios en [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
@@ -157,6 +157,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

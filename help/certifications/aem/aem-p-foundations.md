@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E132 type="positivo"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '731'
 ht-degree: 7%
 
 ---
@@ -107,35 +107,35 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 **Sección 1: Creación de contenido**
 
 
-* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=es){target="_blank"}
-* [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] documentación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
-* [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
+* [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 
 **Sección 2: Implementación**
 
-* [AEM Componentes de la: conceptos básicos](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
+* [AEM Componentes de la: conceptos básicos](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
 * [Tutorials AEM para Headless en la](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=es){target="_blank"}
-* [Creación de plantillas de página  ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html?lang=en#creating-and-managing-templates){target="_blank"}
-* [Uso de bibliotecas del lado del cliente](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=en){target="_blank"}
+* [Creación de plantillas de página  ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
+* [Uso de bibliotecas del lado del cliente](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=es){target="_blank"}
 
 **Sección 3: Configuración e implementación**
 
-* [Consola web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
-* [Estructura del proyecto de AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en#embedding-3rd-party-packages){target="_blank"}
-* [El administrador de paquetes](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html?lang=en#what-are-packages){target="_blank"}
+* [Consola web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
+* [Estructura del proyecto de AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html#embedding-3rd-party-packages){target="_blank"}
+* [El administrador de paquetes](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html#what-are-packages){target="_blank"}
 
 **Sección 4: Mantenimiento y administración de usuarios**
 
-* [Administrar usuarios, grupos y funciones de usuario](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
-* [Administración de usuarios y seguridad](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=en){target="_blank"}
-* [Ajustes de configuración de OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=en){target="_blank"}
+* [Administrar usuarios, grupos y funciones de usuario](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html#add-a-user){target="_blank"}
+* [Administración de usuarios y seguridad](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=es){target="_blank"}
+* [Ajustes de configuración de OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
@@ -164,6 +164,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

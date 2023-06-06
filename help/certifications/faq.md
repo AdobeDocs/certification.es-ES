@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2665'
+source-wordcount: '2655'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Beneficios individuales: la certificación es una credencial que reconoce la hab
 
 Las certificaciones requieren compromiso, son defendibles legalmente y validación desde el Adobe de su experiencia. También puede incluir su certificación en sus perfiles sociales descargando su insignia de [!DNL Credly].
 
-Para obtener más información sobre cómo administrar las insignias en [!DNL Credly], vaya [AQUÍ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Para obtener más información sobre cómo administrar las insignias en [!DNL Credly], vaya [AQUÍ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -43,7 +43,7 @@ Las certificaciones se basan en funciones, lo que significa que hay varios exám
 A veces hay varias versiones de un examen. Es mejor tomar la última versión.
 
 * Si se retira un examen, verá una nota en la página del recorrido de certificación. Esto significa que esta versión del examen se eliminará pronto porque hay disponible una nueva versión del examen. Recomendamos a los candidatos que tomen la versión más reciente, pero pueden tomar la versión que se retira si se sienten más preparados para tomarla. De cualquier manera, su certificación durará dos años.
-* Si la certificación actual está a punto de caducar, debe renovarla. Las opciones de renovación tienen menos preguntas y son GRATUITAS. Estas opciones abarcan las funcionalidades de la aplicación más recientes. Si su certificación caduca, tendrá que tomar la última versión del examen de certificación, que pagaría. [Más información sobre las opciones de renovación](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* Si la certificación actual está a punto de caducar, debe renovarla. Las opciones de renovación tienen menos preguntas y son GRATUITAS. Estas opciones abarcan las funcionalidades de la aplicación más recientes. Si su certificación caduca, tendrá que tomar la última versión del examen de certificación, que pagaría. [Más información sobre las opciones de renovación](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -154,7 +154,7 @@ Ocasionalmente, retiramos un examen para un rol. En ese caso, su certificación 
 
 Su certificación caducará y se mostrará como caducada en [!DNL Credly] y cualquiera de sus perfiles sociales. Además, si su certificación caduca, entonces no puede tomar el examen de renovación más corto o renovar a través del aprendizaje continuo.
 
-Para obtener más información sobre cómo administrar las insignias en [!DNL Credly], vaya [AQUÍ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Para obtener más información sobre cómo administrar las insignias en [!DNL Credly], vaya [AQUÍ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -162,7 +162,7 @@ Para obtener más información sobre cómo administrar las insignias en [!DNL Cr
 
 Puede renovar su certificación de forma gratuita. Esto le ofrece una forma rentable de mantener su certificación y mantener al día sus conocimientos de soluciones.
 
-Para obtener más información sobre cómo renovar su certificación, vaya a [aquí](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+Para obtener más información sobre cómo renovar su certificación, vaya a [aquí](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -387,7 +387,7 @@ El requisito final es aprobar el nuevo [!DNL Marketo Engage] Examen de arquitect
 
 +++Por qué el Adobe [!DNL Commerce] ¿Las certificaciones no forman parte del programa de reinicio de certificación de Adobe?
 
-No hay titulares de certificados caducados para el Adobe ofrecido actualmente [!DNL Commerce] Certificaciones al 23 de abril de 2023. Por lo tanto, todos los Adobes activos [!DNL Commerce] Los candidatos certificados tienen la opción de renovar a través del aprendizaje continuo [ruta de renovación para certificación](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+No hay titulares de certificados caducados para el Adobe ofrecido actualmente [!DNL Commerce] Certificaciones al 23 de abril de 2023. Por lo tanto, todos los Adobes activos [!DNL Commerce] Los candidatos certificados tienen la opción de renovar a través del aprendizaje continuo [ruta de renovación para certificación](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 

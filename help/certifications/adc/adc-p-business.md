@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-D106" type="positivo"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '963'
 ht-degree: 1%
 
 ---
@@ -96,7 +96,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 * [API de incrustación de Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [PDF y herramientas de firma electrónica para su empresa. Acrobat lo tiene.](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Guía del usuario de Adobe Acrobat](https://helpx.adobe.com/es/acrobat/user-guide.html){target="_blank"}
-* [Información general sobre las integraciones: novedades](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
+* [Información general sobre las integraciones: novedades](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [Firmas en línea seguras y flexibles](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
 **Sección 3: Definir las capacidades del Document Cloud (DC)**
@@ -122,7 +122,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
@@ -163,7 +163,7 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
 

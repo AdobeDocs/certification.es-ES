@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1134'
+source-wordcount: '1132'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ Actualmente, debe estar certificado (no caducado) en:
 
 ## Instrucciones para renovar la certificación:
 
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
 * **Paso 2**: revise los objetivos y recursos del examen
 * **Paso 3**: realice y apruebe el examen
 
@@ -108,7 +108,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Reinicie la certificación**
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Adobe Audience Manager Business Practitioner Expert - AD5-E826 que aparece abajo.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Adobe Audience Manager Business Practitioner Expert - AD5-E826 que aparece abajo.
 
 [!BADGE Realice el examen de renovación de experto para profesionales empresariales de Adobe Audience Manager AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
@@ -189,7 +189,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 ### Renovar la certificación
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación maestra de arquitectos de Adobe Audience Manager - AD5-E825.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación maestra de arquitectos de Adobe Audience Manager - AD5-E825.
 
 [!BADGE Realice el examen de renovación de Adobe Audience Manager Architect Master AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
@@ -202,6 +202,6 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 ### Preguntas
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

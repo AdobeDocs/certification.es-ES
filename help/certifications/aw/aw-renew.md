@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '3215'
+source-wordcount: '3068'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -35,7 +35,7 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 ## Instrucciones para renovar la certificación:
 
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
 * **Paso 2**: revise los objetivos y recursos del examen
 * **Paso 3**: realice y apruebe el examen
 
@@ -87,25 +87,25 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Administración y configuración del sistema principal**
 
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Funciones en Adobe Workfront Fusion, Organizaciones en Adobe Workfront Fusion, Módulos en Adobe Workfront Fusion, Escenarios en Adobe Workfront Fusion
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Funciones en Adobe Workfront Fusion, Organizaciones en Adobe Workfront Fusion, Módulos en Adobe Workfront Fusion, Escenarios en Adobe Workfront Fusion
 
 **Sección 2: Diseño y arquitectura de escenarios**
 
-* [Optimización de escenarios de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"} - Tutorial
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Módulos en Adobe Workfront Fusion
+* [Optimización de escenarios de Workfront Fusion](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - Tutorial
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Módulos en Adobe Workfront Fusion
 
 **Sección 3: Pruebas y gestión de errores**
 
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Panel de configuración de escenarios en Adobe Workfront Fusion, errores en Adobe Workfront Fusion, funciones en Adobe Workfront Fusion
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Panel de configuración de escenarios en Adobe Workfront Fusion, errores en Adobe Workfront Fusion, funciones en Adobe Workfront Fusion
 
 **Sección 4: Uso de API**
 
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Módulos HTTP, Conexiones en Adobe Workfront Fusion, Módulos en Adobe Workfront Fusion
-* [API de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Módulos HTTP, Conexiones en Adobe Workfront Fusion, Módulos en Adobe Workfront Fusion
+* [API de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
 
 ## Renovar la certificación
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación para desarrolladores de Workfront Fusion: AD5-830.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación para desarrolladores de Workfront Fusion: AD5-830.
 
 * [Renovación para desarrolladores de Workfront Fusion - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
@@ -119,7 +119,7 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 ## Instrucciones para renovar la certificación:
 
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
 * **Paso 2**: revise los objetivos y recursos del examen
 * **Paso 3**: realice y apruebe el examen
 
@@ -171,53 +171,53 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Admisión y planificación**
 
-* [Comprender las colas de solicitudes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html?lang=en){target="_blank"}
-* [Aprobación del trabajo](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html?lang=en){target="_blank"}
-* [Uso compartido de un proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=es){target="_blank"}
-* [Editar plantillas de proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html?lang=en){target="_blank"}
-* [Asignar tareas del plan del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html?lang=en){target="_blank"}
-* [Información general sobre tareas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html?lang=en){target="_blank"}
-* [Información general sobre el tipo de duración: Trabajo calculado](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/)
-* [Explicación de los objetos en Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html?lang=en){target="_blank"}
-* [Convertir problemas en otros elementos de trabajo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=en){target="_blank"}
-* [Uso compartido de un proyecto en Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html?lang=en){target="_blank"}
-* [Designar gerentes de recursos para un proyecto o plantilla](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html?lang=en){target="_blank"}
-* [Creación de paneles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+* [Comprender las colas de solicitudes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
+* [Aprobación del trabajo](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
+* [Uso compartido de un proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
+* [Editar plantillas de proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
+* [Asignar tareas del plan del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html){target="_blank"}
+* [Información general sobre tareas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html){target="_blank"}
+* [Información general sobre el tipo de duración: Trabajo calculado](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/tasks-overview.html){target="_blank"}
+* [Explicación de los objetos en Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
+* [Convertir problemas en otros elementos de trabajo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
+* [Uso compartido de un proyecto en Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html){target="_blank"}
+* [Designar gerentes de recursos para un proyecto o plantilla](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html){target="_blank"}
+* [Creación de paneles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html){target="_blank"}
 
 **Sección 2: Ejecutar**
 
-* [Resumen del proceso de aprobación](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html?lang=en){target="_blank"}
-* [Crear un proceso de aprobación para elementos de trabajo](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html?lang=en){target="_blank"}
-* [Conversión de un problema en una tarea en Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html?lang=en){target="_blank"}
-* [Crear problemas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html?lang=en){target="_blank"}
-* [Gestionar trabajo no planificado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html?lang=en){target="_blank"}
-* [Creación de un informe simple](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html?lang=en){target="_blank"}
-* [Resumen de fecha de confirmación](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html?lang=en){target="_blank"}
-* [Restricciones de tarea](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en){target="_blank"}
-* [Grupos vs. equipos en Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html?lang=en){target="_blank"}
-* [Editar proyectos](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html?lang=en){target="_blank"}
-* [Crear un equipo Agile](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html?lang=en){target="_blank"}
-* [Uso de la página de iteración](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html?lang=en){target="_blank"}
-* [Comprender la comunicación del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html?lang=en){target="_blank"}
-* [Programar una entrega automática de informes](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html?lang=en){target="_blank"}
-* [Descripción general de la condición y el tipo de condición del proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html?lang=en){target="_blank"}
-* [Comprender los tipos de fechas y el estado de progreso](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html?lang=en){target="_blank"}
+* [Resumen del proceso de aprobación](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html){target="_blank"}
+* [Crear un proceso de aprobación para elementos de trabajo](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
+* [Conversión de un problema en una tarea en Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
+* [Crear problemas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html){target="_blank"}
+* [Gestionar trabajo no planificado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html){target="_blank"}
+* [Creación de un informe simple](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html){target="_blank"}
+* [Resumen de fecha de confirmación](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html){target="_blank"}
+* [Restricciones de tarea](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html){target="_blank"}
+* [Grupos vs. equipos en Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html){target="_blank"}
+* [Editar proyectos](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
+* [Crear un equipo Agile](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
+* [Uso de la página de iteración](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html){target="_blank"}
+* [Comprender la comunicación del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html){target="_blank"}
+* [Programar una entrega automática de informes](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html){target="_blank"}
+* [Descripción general de la condición y el tipo de condición del proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html){target="_blank"}
+* [Comprender los tipos de fechas y el estado de progreso](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html){target="_blank"}
 * [Administrar el trabajo de su equipo mediante paneles](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
-* [Uso de informes integrados de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html?lang=en){target="_blank"}
+* [Uso de informes integrados de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
 
 
 **Sección 3: Cierre**
 
-* [Cambiar el estado de un proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html?lang=en){target="_blank"}
-* [Estados del proyecto del sistema](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html?lang=en){target="_blank"}
-* [Uso de la vista de Hito](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=en){target="_blank"}
-* [Información general sobre los campos financieros del caso empresarial](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html?lang=en){target="_blank"}
-* [Finanzas del proyecto incluidas en las bases de referencia del proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html?lang=en#financial-information-included-in-baseline-reports){target="_blank"}
-* [Seguimiento del progreso del trabajo con métricas del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html?lang=en){target="_blank"}
+* [Cambiar el estado de un proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html){target="_blank"}
+* [Estados del proyecto del sistema](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
+* [Uso de la vista de Hito](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
+* [Información general sobre los campos financieros del caso empresarial](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html){target="_blank"}
+* [Finanzas del proyecto incluidas en las bases de referencia del proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html#financial-information-included-in-baseline-reports){target="_blank"}
+* [Seguimiento del progreso del trabajo con métricas del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html){target="_blank"}
 
 ## Renovar la certificación
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación de Workfront Project Manager Professional - AD5-833.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación de Workfront Project Manager Professional - AD5-833.
 
 * [Renovación de Workfront Project Manager Professional - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
 
@@ -233,7 +233,7 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 ## Instrucciones para renovar la certificación:
 
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
 * **Paso 2**: revise los objetivos y recursos del examen
 * **Paso 3**: realice y apruebe el examen
 
@@ -293,61 +293,61 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Administración y configuración del sistema principal**
 
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Administración y configuración, Administrar grupos, Agile)
-* [Crear y modificar las plantillas de proyecto de un grupo](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html?lang=en){target="_blank"}
-* [Comprender los procesos de aprobación específicos del grupo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html?lang=en){target="_blank"}
-* [Cómo heredan los grupos los estados](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html?lang=en){target="_blank"}
-* [Crear y modificar los equipos de un grupo](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html?lang=en){target="_blank"}
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Administración y configuración, Administrar grupos, Agile)
+* [Crear y modificar las plantillas de proyecto de un grupo](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html){target="_blank"}
+* [Comprender los procesos de aprobación específicos del grupo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html){target="_blank"}
+* [Cómo heredan los grupos los estados](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html){target="_blank"}
+* [Crear y modificar los equipos de un grupo](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html){target="_blank"}
 * [Licencias de usuario con nombre | Guía de implementación](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
-* [Configurar la caída de tarjetas](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html?lang=en){target="_blank"}
-* [Usar tarjetas conectadas en tableros](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html?lang=en){target="_blank"}
-* [Agregar o quitar miembros de un tablero](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [Configurar la caída de tarjetas](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
+* [Usar tarjetas conectadas en tableros](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
+* [Agregar o quitar miembros de un tablero](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
 
 **Sección 2: Admisión, Forms personalizado y administración de proyectos**
 
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} : (Administración y configuración, Forms personalizado, informes, elementos de informes)
-* [Agregar un salto de sección a un formulario personalizado con el generador de formularios heredado](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html?lang=en){target="_blank"}
-* [Variables de filtro comodín](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en){target="_blank"}
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} : (Administración y configuración, Forms personalizado, informes, elementos de informes)
+* [Agregar un salto de sección a un formulario personalizado con el generador de formularios heredado](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html){target="_blank"}
+* [Variables de filtro comodín](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
 
 **Sección 3: Funcionalidad estratégica (Portfolio y gestión de programas, gestión de recursos)**
 
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} : (El Distribuidor de cargas de trabajo, Planificación de recursos en Adobe Workfront, Asignación de tareas)
-* [Asignación de trabajo por lotes mediante el Distribuidor de cargas de trabajo](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
-* [Presupuestar recursos en el Planificador de recursos utilizando las vistas Proyecto y Rol](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html?lang=en){target="_blank"}
-* [Filtrado de información en el Distribuidor de cargas de trabajo](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en){target="_blank"}
-* [Asignación de trabajo por lotes mediante el Distribuidor de cargas de trabajo](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
-* [Información general sobre asignaciones inteligentes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html?lang=en){target="_blank"}
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} : (El Distribuidor de cargas de trabajo, Planificación de recursos en Adobe Workfront, Asignación de tareas)
+* [Asignación de trabajo por lotes mediante el Distribuidor de cargas de trabajo](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [Presupuestar recursos en el Planificador de recursos utilizando las vistas Proyecto y Rol](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html){target="_blank"}
+* [Filtrado de información en el Distribuidor de cargas de trabajo](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html){target="_blank"}
+* [Asignación de trabajo por lotes mediante el Distribuidor de cargas de trabajo](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [Información general sobre asignaciones inteligentes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html){target="_blank"}
 
 **Sección 4: Administración de documentos y pruebas**
 
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Revisar y aprobar el trabajo, Configurar pruebas, Configurar integraciones)
-* [Resumen del perfil de permisos de revisión](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
-* [Resumen de funciones de prueba](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html?lang=en){target="_blank"}
-* [Configuración del acceso de revisión de un usuario](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html?lang=en){target="_blank"}
-* [Configuración de la integración de Experience Manager Assets Essentials](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html?lang=en){target="_blank"}
-* [Configuración de la integración as a Cloud Service de Experience Manager Assets](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html?lang=en){target="_blank"}
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Revisar y aprobar el trabajo, Configurar pruebas, Configurar integraciones)
+* [Resumen del perfil de permisos de revisión](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
+* [Resumen de funciones de prueba](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
+* [Configuración del acceso de revisión de un usuario](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html){target="_blank"}
+* [Configuración de la integración de Experience Manager Assets Essentials](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html){target="_blank"}
+* [Configuración de la integración as a Cloud Service de Experience Manager Assets](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
 
 **Sección 5: Informes**
 
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Revisar y aprobar el trabajo, Configurar pruebas, Configurar integraciones)
-* [Creación de una plantilla de proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
-* [Agregar o editar una imagen u otro widget de recursos en un formulario personalizado con el generador de formularios heredado](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html?lang=en){target="_blank"}
-* [Crear un gráfico de un informe utilizando un campo personalizado de selección múltiple](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html?lang=en){target="_blank"}
-* [Información general de modelos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html?lang=en){target="_blank"}
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Revisar y aprobar el trabajo, Configurar pruebas, Configurar integraciones)
+* [Creación de una plantilla de proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
+* [Agregar o editar una imagen u otro widget de recursos en un formulario personalizado con el generador de formularios heredado](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html){target="_blank"}
+* [Crear un gráfico de un informe utilizando un campo personalizado de selección múltiple](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
+* [Información general de modelos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html){target="_blank"}
 
 **Sección 6: Metodología / Prácticas recomendadas / Casos de uso**
 
 * [Documentación as a Cloud Service del Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"} -(Integración con Adobe Workfront)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} (Elementos de informes, Finanzas del proyecto, Uso de recursos, Uso de herramientas de planificación ágil en tableros, Configuración de la funcionalidad de revisión)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} (Elementos de informes, Finanzas del proyecto, Uso de recursos, Uso de herramientas de planificación ágil en tableros, Configuración de la funcionalidad de revisión)
 * [Seminario web de System Admin Essentials: ¿Qué es la administración de Workfront?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
-* [Configuración de la asignación de metadatos de recursos entre Adobe Workfront y Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html?lang=en){target="_blank"}
+* [Configuración de la asignación de metadatos de recursos entre Adobe Workfront y Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html){target="_blank"}
 * [Acerca de los metadatos](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
-* [Uso de la vista de Hito](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=en){target="_blank"}
-* [Seguimiento de costes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html?lang=en){target="_blank"}
+* [Uso de la vista de Hito](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
+* [Seguimiento de costes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
 ## Renovar la certificación
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación de los desarrolladores principales de Workfront: AD5-829.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación de los desarrolladores principales de Workfront: AD5-829.
 
 * [Renovación de Workfront Core Developer Expert - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
 
@@ -361,6 +361,6 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

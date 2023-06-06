@@ -4,9 +4,9 @@ description: Introducción a las  [!DNL Experience Cloud]  certificaciones Obten
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '943'
 ht-degree: 2%
 
 ---
@@ -72,10 +72,10 @@ La Guía de Recorrido de Certificación es una completa herramienta diseñada pa
 
 >[!ENDTABS]
 
-[!BADGE Obtenga la certificación]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
+[!BADGE Obtenga la certificación]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html newtab=true"}
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E123" type="positivo"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 14%
+source-wordcount: '846'
+ht-degree: 10%
 
 ---
 
@@ -97,29 +97,29 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 **Sección 1: Configuraciones**
 
-* [Guía del usuario de administración de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=es){target="_blank"}
-* [Información general de Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=es){target="_blank"}
+* [Guía del usuario de administración de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
+* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [Información general de Dispatcher](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **AEM Sección 2: Desarrollo de la**
 
-* [Guía del usuario de administración de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [AEM Guía del usuario de implementación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=es){target="_blank"}
-* [Guía del usuario sobre desarrollo en AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Introducción a los componentes principales ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=es){target="_blank"}
-* [Conceptos básicos de componentes](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=en){target="_blank"}
+* [Guía del usuario de administración de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
+* [AEM Guía del usuario de implementación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [Guía del usuario sobre desarrollo en AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [Introducción a los componentes principales](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=es){target="_blank"}
+* [Conceptos básicos de componentes](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
 
 **Sección 3: Generación e implementación**
 
-* [Introducción a los componentes principales ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=es){target="_blank"}
+* [Introducción a los componentes principales](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=es){target="_blank"}
 * [Introducción a [!DNL AEM Sites] - Tutorial de WKND](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=es){target="_blank"}
 
 
 **Sección 4: Mantenimiento del entorno**
 
-* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=es){target="_blank"}
-* [Guía del usuario sobre desarrollo en AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [Tablero de operaciones](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks)){target="_blank"}
+* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [Guía del usuario sobre desarrollo en AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
+* [Tablero de operaciones](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html%20(Automated%20Maintenance%20Tasks)){target="_blank"}
 * [Notas de la versión para Adobe [!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=es){target="_blank"}
 * Información general de [[!DNL Experience Manager as a Cloud Service] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
 * [Introducción a los componentes principales](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=es)
@@ -130,7 +130,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
@@ -160,6 +160,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

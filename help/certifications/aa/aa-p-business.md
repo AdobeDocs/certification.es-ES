@@ -7,10 +7,10 @@ role: User
 badge: label="Examen AD0-E212" type="positivo"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '942'
-ht-degree: 13%
+source-wordcount: '916'
+ht-degree: 10%
 
 ---
 
@@ -118,9 +118,9 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 * [Guía de administración de Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
 * [Guía de herramientas de Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}
-* [Información general de visualización](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=es#quick-viz){target="_blank"}
+* [Información general de visualización](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
 * [Guía de componentes de Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=es){target="_blank"}
-* [Guía de Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=es){target="_blank"}
+* [Guía de Customer Journey Analytics](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Sección 3: Segmentación y métricas calculadas**
 
@@ -135,7 +135,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
@@ -165,6 +165,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

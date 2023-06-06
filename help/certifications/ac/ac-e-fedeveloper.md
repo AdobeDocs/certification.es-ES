@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E710" type="positivo"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1607'
+source-wordcount: '1599'
 ht-degree: 0%
 
 ---
@@ -140,7 +140,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 * [Crear una temática de tienda](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"}
 * [Herencia del tema](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-inherit.html){target="_blank"}
 * [Ampliación de un diseño](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"}
-* [Comunicaciones por correo electrónico](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html?lang=en){target="_blank"}
+* [Comunicaciones por correo electrónico](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
 * [Personalizar plantillas de correo electrónico](https://docs.magento.com/user-guide/marketing/email-template-custom.html){target="_blank"}
 * [Plantillas de correo electrónico](https://docs.magento.com/user-guide/marketing/email-template-list.html){target="_blank"}
 * [Traducciones](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
@@ -183,7 +183,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 * [Enlaces Knockout.js personalizados](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/knockout-bindings.html){target="_blank"}
 * [Sintaxis de enlace](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/){target="_blank"}
 * [Widgets de jQuery](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
-* [Agregar un módulo de JavaScript](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=en){target="_blank"}
+* [Agregar un módulo de JavaScript](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=es){target="_blank"}
 
 **Sección 5: Configuración de administración y PageBuilder**
 
@@ -198,7 +198,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 **Sección 6: Herramientas (CLI y Grunt)**
 
 * [Herramienta de línea de comandos](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html#config-new-cli-intro){target="_blank"}
-* [[!DNL Commerce] para desarrolladores: base de código](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
+* [[!DNL Commerce] para desarrolladores: base de código](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
 * [Desinstalación de módulos](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/uninstall-modules.html){target="_blank"}
 * [Administración de extensiones](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/extensions.html){target="_blank"}
 * [Definición del modo de funcionamiento](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/set-mode.html){target="_blank"}
@@ -209,7 +209,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 >[!IMPORTANT]
 >
-> Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+> Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
@@ -248,6 +248,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

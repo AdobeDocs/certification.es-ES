@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E603" type="positivo"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '994'
-ht-degree: 11%
+source-wordcount: '976'
+ht-degree: 9%
 
 ---
 
@@ -124,7 +124,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 2: Fundamentos de AEP**
 
-* [Documentación de Adobe  [!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es){target="_blank"}
+* [Documentación de Adobe  [!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * Guía de XDM
    * Guía de Perfil del cliente en tiempo real
@@ -173,7 +173,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
@@ -215,6 +215,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

@@ -7,10 +7,10 @@ role: User,Developer
 badge: label="Examen AD0-E457" type="positivo"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1275'
-ht-degree: 5%
+source-wordcount: '1223'
+ht-degree: 7%
 
 ---
 
@@ -118,49 +118,49 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Creación y distribución de segmentos**
 
-* [Informes de uso de datos de segundo y tercer nivel en Audience Marketplace a nivel de segmento](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html?lang=en){target="_blank"}
-* [Utilice filtros y recomendaciones para elegir datos de terceros en Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html?lang=en){target="_blank"}
-* [Información acerca de la segmentación](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html?lang=en){target="_blank"}
-* [Segmentos: propósito, composición y reglas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=en){target="_blank"}
-* [Segmentación y filtrado](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=en){target="_blank"}
-* [Página de inicio de destinos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html?lang=en){target="_blank"}
+* [Informes de uso de datos de segundo y tercer nivel en Audience Marketplace a nivel de segmento](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
+* [Utilice filtros y recomendaciones para elegir datos de terceros en Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
+* [Información acerca de la segmentación](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
+* [Segmentos: propósito, composición y reglas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
+* [Segmentación y filtrado](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html){target="_blank"}
+* [Página de inicio de destinos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html){target="_blank"}
 
 **Sección 2: Creación de características**
 
-* [Recomendaciones de rasgos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
-* [Referencia de cualificación de rasgos y segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html?lang=en){target="_blank"}
-* [Señales, rasgos y segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=en){target="_blank"}
-* [Administración de normas de rasgos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html?lang=en){target="_blank"}
-* [Crear rasgos basados en normas o integrados](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html?lang=en){target="_blank"}
+* [Recomendaciones de rasgos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html){target="_blank"}
+* [Referencia de cualificación de rasgos y segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
+* [Señales, rasgos y segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=es){target="_blank"}
+* [Administración de normas de rasgos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
+* [Crear rasgos basados en normas o integrados](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
 
 **Sección 3: Informes y mediciones**
 
-* [Informe de Tendencia del segmento](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html?lang=en){target="_blank"}
-* [Monitorización e informes sobre el uso de la actividad](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html?lang=en){target="_blank"}
-* [Informes de tendencias](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html?lang=en)
-* [Uso de informes de Audience Optimization para comprender el rendimiento de los medios](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html?lang=en){target="_blank"}
-* [Audience Optimization for Publishers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html?lang=en){target="_blank"}
+* [Informe de Tendencia del segmento](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
+* [Monitorización e informes sobre el uso de la actividad](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
+* [Informes de tendencias](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html)
+* [Uso de informes de Audience Optimization para comprender el rendimiento de los medios](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
+* [Audience Optimization for Publishers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html){target="_blank"}
 
 **Sección 4: Solución de problemas y administración**
 
-* [Uso compartido de segmentos del Experience Platform con [!DNL Audience Manager] y otras soluciones de Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=en){target="_blank"}
-* [Pasos para la ingesta de datos basados en archivos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html?lang=en){target="_blank"}
-* [Requisitos de nombre y contenido para archivos de sincronización de ID](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html?lang=en){target="_blank"}
-* [Creación y administración de la activación de datos en [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html?lang=en){target="_blank"}
+* [Uso compartido de segmentos del Experience Platform con [!DNL Audience Manager] y otras soluciones de Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
+* [Pasos para la ingesta de datos basados en archivos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
+* [Requisitos de nombre y contenido para archivos de sincronización de ID](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
+* [Creación y administración de la activación de datos en [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
 
 **Sección 5: Taxonomía**
 
-* [Señales, rasgos y segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=en){target="_blank"}
-* [Límites de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html?lang=en){target="_blank"}
-* [Creación de una taxonomía de rasgos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
-* [Clasificación de rasgos con una taxonomía común](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
-* [Acerca de los rasgos de carpetas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html?lang=en){target="_blank"}
+* [Señales, rasgos y segmentos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=es){target="_blank"}
+* [Límites de uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html){target="_blank"}
+* [Creación de una taxonomía de rasgos](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=es){target="_blank"}
+* [Clasificación de rasgos con una taxonomía común](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
+* [Acerca de los rasgos de carpetas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
@@ -199,6 +199,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

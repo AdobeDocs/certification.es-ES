@@ -7,10 +7,10 @@ role: Data Architect,Developer
 badge: label="Examen AD0-E207" type="positivo"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 2aa4e37dd0afe520746892c2739c2a4f53342797
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '940'
-ht-degree: 21%
+source-wordcount: '898'
+ht-degree: 17%
 
 ---
 
@@ -124,18 +124,18 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [[!DNL Analytics] Guía del administrador](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
 * [La capa de datos impulsada por evento](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
 * [[!DNL Analytics] Guía de exportación](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=es){target="_blank"}
-* [Adobe [!DNL Target] Guía para profesionales de negocios](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=es){target="_blank"}
+* [Adobe [!DNL Target] Guía para profesionales de negocios](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Adobe [!DNL Experience Cloud] Servicio de identidad](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
 * [[!DNL Analytics] Guía de importación](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=es){target="_blank"}
 * [[!DNL Analytics] Guía de herramientas](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}
 * [Proceso de inserción de datos](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [Tutorial sobre implementación del Experience Cloud en sitios web con etiquetas](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=es){target="_blank"}
+* [Tutorial sobre implementación del Experience Cloud en sitios web con etiquetas](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
@@ -164,6 +164,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? Enviar correo electrónico `certif@adobe.com`

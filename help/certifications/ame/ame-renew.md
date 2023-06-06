@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1074'
-ht-degree: 4%
+source-wordcount: '1060'
+ht-degree: 3%
 
 ---
 
@@ -26,7 +26,7 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ Actualmente, debe estar certificado (no caducado) en:
 
 ## Instrucciones para renovar la certificación:
 
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
 * **Paso 2**: revise los objetivos y recursos del examen
 * **Paso 3**: realice y apruebe el examen
 
@@ -155,7 +155,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 ### Renovar la certificación
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el enlace de renovación de Marketo Engage Business Practitioner Expert que aparece a continuación.
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el enlace de renovación de Marketo Engage Business Practitioner Expert que aparece a continuación.
 
 [!BADGE Toma el Adobe [!DNL Marketo Engage] Examen para la renovación de expertos para profesionales de negocios AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
@@ -168,6 +168,6 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 ### Preguntas
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

@@ -4,9 +4,9 @@ description: Aprenda a obtener la certificación en el Adobe. Encuentre todos lo
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1462'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ El Adobe utiliza dos proveedores para administrar los exámenes controlados: [!D
 
 **Siga estos pasos para registrarse en el examen de certificación:**
 
-* **Paso 1:** Inicie sesión correctamente en [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+* **Paso 1:** Inicie sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Paso 2:** Vuelva a este sitio y haga clic en Certificaciones técnicas.
 * **Paso 3:** Elija su solución de Adobe, nivel de certificación y función
 * **Paso 4:** Siga los pasos proporcionados en las **Obtenga la certificación** sección.
@@ -50,7 +50,7 @@ Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 
 
 Ni el Soporte de Adobe ni los proveedores de exámenes pueden procesar solicitudes de reprogramación y cancelación. Las cancelaciones de menos de 48 horas están sujetas a una tarifa de reprogramación además de la tarifa del examen.
 
-Una vez que complete un examen, recibirá un pase provisional o suspenderá. La puntuación final puede tardar hasta 72 horas en rellenarse. Encontrará el informe de resultados y de puntuación en la pestaña Historial de la [Administrador de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+Una vez que complete un examen, recibirá un pase provisional o suspenderá. La puntuación final puede tardar hasta 72 horas en rellenarse. Encontrará el informe de resultados y de puntuación en la pestaña Historial de la [Administrador de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 Si no supera un examen de certificación de Adobe en su primer intento, debe esperar al menos 24 horas antes de volver a realizar el examen. La falta de aprobación de un examen en el segundo intento o cualquier intento posterior requiere un período de espera de 14 días naturales antes de volver a tomar el examen. Cada intento incurrirá en una cuota de examen por separado.
 
@@ -212,6 +212,6 @@ Su insignia sirve como prueba tangible de su aptitud con los productos de Adobe 
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Examen AD0-E407" type="positivo"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1296'
+source-wordcount: '1246'
 ht-degree: 17%
 
 ---
@@ -139,68 +139,68 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 **Sección 1: [!DNL Adobe Target] fundamentos**
 
-* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=es){target="_blank"}
-* [Aprenda a utilizar [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=es){target="_blank"}
+* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [Aprenda a utilizar [!DNL Adobe Target]](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Sección 2: Integración con[!DNL Adobe Target]**
 
-* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=es){target="_blank"}
+* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Vídeos y tutoriales de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=es){target="_blank"}
 * [Opciones de creación de audiencias](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=es){target="_blank"}
-* [Audiencias de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=es){target="_blank"}
+* [Audiencias de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
 * [Integrar Audience Manager con Target](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
 * [Integración de Adobe.IO](http://developers.adobetarget.com/api/#introduction){target="_blank"}
-* [Exportación de fragmentos de experiencias a [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
-* [Integración de Experience Platform Launch y AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html?lang=en){target="_blank"}
+* [Exportación de fragmentos de experiencias a [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
+* [Integración de Experience Platform Launch y AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html?lang=es){target="_blank"}
 * [Publicación de segmentos en Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=es){target="_blank"}
-* [Configuración manual de la integración con [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/target-configuring.html?lang=en){target="_blank"}
-* [Tipos de datos recopilados ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
+* [Configuración manual de la integración con [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/target-configuring.html?lang=es){target="_blank"}
+* [Tipos de datos recopilados ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html){target="_blank"}
 
 
 **Sección 3: [!DNL Adobe Target] administración y gobernanza**
 
-* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=es){target="_blank"}
+* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [[!DNL Adobe Target] Información general de seguridad](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf){target="_blank"}
 * [Usuarios de Adobe Admin Console](https://helpx.adobe.com/es/enterprise/using/users.html){target="_blank"}
-* [Guía del usuario de administración de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [Guía del usuario de administración de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 
 **Sección 4: [!DNL Adobe Target] y puntos de contacto admitidos**
 
-* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=es){target="_blank"}
+* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Resuelto: [!DNL Adobe Target] iframe](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/adobe-target-iframe/m-p/327224){target="_blank"}
-* [Tutorial de implementación de Adobe Experience Cloud en aplicaciones móviles](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=en){target="_blank"}
+* [Tutorial de implementación de Adobe Experience Cloud en aplicaciones móviles](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=es){target="_blank"}
 * [Referencia de API de Target](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
 
 **Sección 5: Aprovechamiento [!DNL Adobe Target] Recommendations**
 
-* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=es){target="_blank"}
+* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Sección 6: Arquitecto, diseño e implementación[!DNL Adobe Target]**
 
-* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=es){target="_blank"}
-* [Añadir [!DNL Adobe Target] con etiquetas](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html?lang=en){target="_blank"}
+* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [Añadir [!DNL Adobe Target] con etiquetas](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
 * [ID de cliente y estados de autenticación](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=es){target="_blank"}
-* [Aprenda a utilizar [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=es){target="_blank"}
+* [Aprenda a utilizar [!DNL Adobe Target]](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Referencia de API de Target](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
-* [[!DNL Adobe Target] Información general sobre extensiones](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Información general sobre extensiones](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=es){target="_blank"}
 * [Introducción a la toma de decisiones en el dispositivo](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [Cuándo usar la toma de decisiones en el dispositivo o en el perímetro](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
 * [Resuelto: token de acceso JWT](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
 
 **Sección 7: Resolución de problemas**
 
-* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=es){target="_blank"}
-* [[!DNL Adobe Target] Tutoriales](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=es){target="_blank"}
+* Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Adobe Target] Tutoriales](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Borrar la caché y las cookies de varios exploradores](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
-* [Exportación de fragmentos de experiencias a [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#prerequisites){target="_blank"}
+* [Exportación de fragmentos de experiencias a [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#prerequisites){target="_blank"}
 * [Resuelto: ¿por qué se muestra mi audiencia histórica como &quot;recopilando datos&quot;?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
-* [Audiencias de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=es){target="_blank"}
+* [Audiencias de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
@@ -229,6 +229,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.

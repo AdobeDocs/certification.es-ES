@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E559" type="positivo"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1705'
+source-wordcount: '1635'
 ht-degree: 0%
 
 ---
@@ -142,73 +142,73 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Administración y mantenimiento**
 
-* [Explicación de la [!DNL Salesforce] Sincronización](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
+* [Explicación de la [!DNL Salesforce] Sincronización](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
 * [[!DNL Marketo]: Administración para profesionales de la empresa](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
-* [Exportación de una lista de todos [!DNL Marketo] Nombres de campos de API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html?lang=en){target="_blank"}
-* [Glosario de tipo de campo personalizado](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html?lang=en){target="_blank"}
-* [Seleccione su idioma, configuración regional y zona horaria](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html?lang=en){target="_blank"}
+* [Exportación de una lista de todos [!DNL Marketo] Nombres de campos de API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
+* [Glosario de tipo de campo personalizado](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
+* [Seleccione su idioma, configuración regional y zona horaria](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
 * [Explicación de espacios de trabajo y particiones de persona](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
-* [Resumen de pista de auditoría](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=en){target="_blank"}
+* [Resumen de pista de auditoría](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
 
 
 **Sección 2: Administración de actividades/campañas de marketing**
 
-* [Buscar y agregar filtros a una lista inteligente](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.html?lang=en){target="_blank"}
-* [Explicación de las campañas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en){target="_blank"}
-* [Uso de Agregar opción en un paso de flujo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.html?lang=en){target="_blank"}
+* [Buscar y agregar filtros a una lista inteligente](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.html){target="_blank"}
+* [Explicación de las campañas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
+* [Uso de Agregar opción en un paso de flujo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.html){target="_blank"}
 * [Explicación de la pertenencia al programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-* [Crear un canal de programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html?lang=en){target="_blank"}
-* [Información general sobre tokens](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html?lang=en){target="_blank"}
-* [Administrar mis tokens](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.html?lang=en){target="_blank"}
-* [Explicación de los programas de participación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en){target="_blank"}
-* [El panel de participación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.html?lang=en){target="_blank"}
-* [Añadir una prueba A/B](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.html?lang=en){target="_blank"}
-* [Explicación de los programas de eventos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en){target="_blank"}
-* [Crear un webhook](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html?lang=en){target="_blank"}
+* [Crear un canal de programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
+* [Información general sobre tokens](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
+* [Administrar mis tokens](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.html){target="_blank"}
+* [Explicación de los programas de participación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
+* [El panel de participación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.html){target="_blank"}
+* [Añadir una prueba A/B](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.html){target="_blank"}
+* [Explicación de los programas de eventos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
+* [Crear un webhook](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
 
 
 **Sección 3: Gestión de clientes potenciales**
 
-* [Establecer un valor de campo de formulario oculto](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=en){target="_blank"}
-* [Cambiar puntuación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html?lang=en){target="_blank"}
-* [Enviar alerta](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.html?lang=en){target="_blank"}
-* [Filtrar tipos de actividades en el registro de actividad de una persona](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.html?lang=en){target="_blank"}
-* [Momento interesante](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.html?lang=en){target="_blank"}
-* [Tokens de déclencheur para momentos interesantes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html?lang=en){target="_blank"}
-* [Explicación de los modelos de ingresos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html?lang=en){target="_blank"}
+* [Establecer un valor de campo de formulario oculto](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
+* [Cambiar puntuación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
+* [Enviar alerta](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.html){target="_blank"}
+* [Filtrar tipos de actividades en el registro de actividad de una persona](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.html){target="_blank"}
+* [Momento interesante](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.html){target="_blank"}
+* [Tokens de déclencheur para momentos interesantes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
+* [Explicación de los modelos de ingresos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
 
 **Sección 4: Gestión de datos**
 
-* [Cambiar valor de datos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html?lang=en){target="_blank"}
-* [Definir valores en una radio o campo seleccionado en un formulario](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html?lang=en){target="_blank"}
+* [Cambiar valor de datos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
+* [Definir valores en una radio o campo seleccionado en un formulario](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html){target="_blank"}
 * [Políticas de retención de datos de Marketo Activities](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
 * [Creación de una segmentación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
-* [Uso de filtros de segmento en una lista inteligente](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html?lang=en){target="_blank"}
+* [Uso de filtros de segmento en una lista inteligente](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
 
 
 **Sección 5: Informes**
 
-* [Resumen del tipo de informe](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en){target="_blank"}
+* [Resumen del tipo de informe](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [Explicación de la pertenencia al programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-* [Crear un informe de rendimiento del programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.html?lang=en){target="_blank"}
-* [Creación de un analizador de programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.html?lang=en){target="_blank"}
-* [Suscripción a un informe básico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=en){target="_blank"}
+* [Crear un informe de rendimiento del programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.html){target="_blank"}
+* [Creación de un analizador de programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.html){target="_blank"}
+* [Suscripción a un informe básico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html){target="_blank"}
 
 **Sección 6: Prácticas recomendadas**
 
-* [Práctica recomendada: Cómo organizar los programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=en){target="_blank"}
+* [Práctica recomendada: Cómo organizar los programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
 * [Enviar correo electrónico de muestra](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.html){target="_blank"}
-* [Vista previa de un correo electrónico con contenido dinámico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.html?lang=en){target="_blank"}
-* [Cambiar puntuación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html?lang=en){target="_blank"}
+* [Vista previa de un correo electrónico con contenido dinámico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.html){target="_blank"}
+* [Cambiar puntuación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
 * [La guía definitiva para la puntuación de posibles clientes](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
-* [Comprender las carpetas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html?lang=en){target="_blank"}
+* [Comprender las carpetas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
@@ -254,6 +254,6 @@ Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un des
 
 **Preguntas**
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
