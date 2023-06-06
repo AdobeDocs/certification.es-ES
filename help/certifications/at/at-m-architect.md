@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Examen AD0-E407" type="positivo"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
 source-wordcount: '1246'
-ht-degree: 17%
+ht-degree: 18%
 
 ---
 
@@ -147,7 +147,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Vídeos y tutoriales de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=es){target="_blank"}
 * [Opciones de creación de audiencias](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=es){target="_blank"}
-* [Audiencias de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
+* [Audiencias de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=es){target="_blank"}
 * [Integrar Audience Manager con Target](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
 * [Integración de Adobe.IO](http://developers.adobetarget.com/api/#introduction){target="_blank"}
 * [Exportación de fragmentos de experiencias a [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
@@ -169,7 +169,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Resuelto: [!DNL Adobe Target] iframe](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/adobe-target-iframe/m-p/327224){target="_blank"}
 * [Tutorial de implementación de Adobe Experience Cloud en aplicaciones móviles](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=es){target="_blank"}
-* [Referencia de API de Target](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
+* [Referencia de API de Target](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 
 **Sección 5: Aprovechamiento [!DNL Adobe Target] Recommendations**
 
@@ -181,7 +181,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Añadir [!DNL Adobe Target] con etiquetas](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
 * [ID de cliente y estados de autenticación](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=es){target="_blank"}
 * [Aprenda a utilizar [!DNL Adobe Target]](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [Referencia de API de Target](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
+* [Referencia de API de Target](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 * [[!DNL Adobe Target] Información general sobre extensiones](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=es){target="_blank"}
 * [Introducción a la toma de decisiones en el dispositivo](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [Cuándo usar la toma de decisiones en el dispositivo o en el perímetro](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
@@ -194,7 +194,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Borrar la caché y las cookies de varios exploradores](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
 * [Exportación de fragmentos de experiencias a [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#prerequisites){target="_blank"}
 * [Resuelto: ¿por qué se muestra mi audiencia histórica como &quot;recopilando datos&quot;?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
-* [Audiencias de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
+* [Audiencias de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=es){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
