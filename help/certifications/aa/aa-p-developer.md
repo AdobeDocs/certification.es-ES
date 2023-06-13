@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E213" type="positivo"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 50ab6e6f0fc5626e1da8843fd3a1abf09f966803
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 11%
@@ -61,7 +61,7 @@ Experiencia con las siguientes tareas:
 * Tiempo: 100 min
 * Entrega: En línea con protección (requiere acceso a la cámara)
 * Idiomas disponibles: Inglés
-* Costo: $125 (global) y $950 (India)
+* Costo: $125 (global) y $95 (India)
 * ID del examen: AD0-E213
 
 **Objetivos y ámbito del examen**
