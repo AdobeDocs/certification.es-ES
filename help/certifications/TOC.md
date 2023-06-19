@@ -2,10 +2,10 @@
 user-guide-title: Certificación de Adobe
 breadcrumb-title: Certificación de Adobe
 user-guide-description: Obtenga información acerca de  [!DNL Experience Cloud]  la certificación en Adobe. Descubra lo que puede aportarle obtener la certificación.
-source-git-commit: 007fd9851149994e3ef7a46291731a5aa91adc81
+source-git-commit: 2ef559062326b5d84108670b7f49d347338792e5
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 46%
+source-wordcount: '252'
+ht-degree: 45%
 
 ---
 
@@ -73,10 +73,12 @@ ht-degree: 46%
          + [Profesional empresarial](/help/certifications/ac/ac-p-business.md)
          + [Desarrollador](/help/certifications/ac/ac-p-developer.md)
          + [Desarrollador front-end](/help/certifications/ac/ac-p-fedeveloper.md)
+         + [Desarrollador front-end (nuevo)](/help/certifications/ac/ac-p-fedeveloper0623.md)
       + Experto {#ac-expert}
          + [Profesional empresarial](/help/certifications/ac/ac-e-business.md)
          + [Desarrollador](/help/certifications/ac/ac-e-developer.md)
          + [Desarrollador front-end](/help/certifications/ac/ac-e-fedeveloper.md)
+         + [Desarrollador front-end (nuevo)](/help/certifications/ac/ac-e-fedeveloper0623.md)
       + Principal {#ac-master}
          + [Arquitecto](/help/certifications/ac/ac-m-architect.md)
       + [Renovación](/help/certifications/ac/ac-renew.md)

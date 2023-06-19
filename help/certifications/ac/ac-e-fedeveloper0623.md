@@ -1,15 +1,14 @@
 ---
-title: Certificación de desarrollador experto front-end
+title: Nueva certificación para desarrolladores front-end
 description: Obtenga información sobre cómo obtener la certificación de experto en Adobe Developer en Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Examen AD0-E710" type="positivo"
+badge: label="Examen AD0-E720" type="positivo"
 mini-toc-levels: 1
-exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
+source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
 workflow-type: tm+mt
-source-wordcount: '1623'
+source-wordcount: '1307'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,15 @@ Obtenga información sobre cómo obtener la certificación de experto en Adobe D
 
 >[!NOTE]
 >
->Se ha actualizado este examen Adobe Commerce Front End Developer Expert (AD0-E710). Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 18 de agosto de 2023. Si acaba de empezar, le recomendamos que tome la [versión más reciente de este examen](ac-e-fedeveloper0623.md).
+>Este es el examen más reciente de Adobe Commerce Front End Developer Expert. Si ya ha empezado a estudiar o ha programado la [versión anterior](ac-e-fedeveloper.md) tiene hasta el 18 de agosto de 2023 para completarlo.
 
 ## Experiencia mínima
 
-Debe tener al menos 1-3 años de experiencia práctica con el Adobe [!DNL Commerce] Desarrollo de front-end y capacidad de traducir las necesidades expresadas por los requisitos de tareas en una solución técnica.
+El desarrollador de Adobe Commerce Frontend se considera un rol de nivel de experto y tiene al menos 1-3 años de experiencia práctica con el desarrollo de Adobe Commerce Frontend. Deben tener la capacidad de traducir las necesidades expresadas por los requisitos de las tareas a una solución técnica.
 
-Además, debería sentirse cómodo utilizando las siguientes tecnologías:
+El candidato debe sentirse cómodo utilizando las siguientes tecnologías:
 
-* Adobe [!DNL Commerce] - versión 2.4.3
+* Adobe Commerce: versión 2.4.6
 * Comprensión básica de la estructura y el diseño del front-end
 * Experiencia y comprensión de HTML, CSS (y preprocesadores), LESS, JavaScript y componentes de interfaz de usuario, jQuery, Underscore, Require.JS, Knockout, también plantillas PHP, conocimiento de BD y gestión de contenido
 * Familiaridad con la plataforma, los bloques de CMS, los widgets, las páginas de CMS, las páginas de categoría, las páginas de producto, el carro de compras y el cierre de compra y el área del tablero de cuentas
@@ -42,6 +41,8 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Explicación de los paquetes de código
 * Implementación de traducción
 * Explicación de cómo trabajar con plantillas de correo electrónico
+* Comprensión de la infraestructura de Adobe Commerce Cloud
+* Comprensión básica de la herramienta de comandos CLI de Cloud
 
 >[!BEGINTABS]
 
@@ -52,8 +53,6 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Desarrolladores
 * Desarrolladores principales
 * Desarrolladores front-end
-* Desarrolladores de pila completa
-* Desarrolladores PWA
 
 **Detalles del examen:**
 
@@ -63,7 +62,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
 * Idiomas disponibles: Inglés
 * Costo: 225 dólares (global) / 150 dólares (India)
-* Identificador del examen: AD0-E710
+* Identificador del examen: AD0-E720
 
 **Autoevaluación de la preparación**
 
@@ -73,14 +72,14 @@ Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.c
 
 Sección 1: Administración de temáticas (jerarquía de temáticas, configuración de imágenes, traducciones) (16 %)
 
-* Describir Adobe [!DNL Commerce] estructura de carpetas de temáticas y su relación con las temáticas basadas en carpetas
+* Describa la estructura de carpetas de temáticas de Adobe Commerce y cómo se relaciona con las temáticas basadas en carpetas
 * Demostrar la capacidad de crear una nueva temática (Herencia/Alternativas, excepciones de diseño, propiedades de la temática)
 * Demostrar la capacidad de ampliar las temáticas existentes
 * Demostración de la capacidad para personalizar correos electrónicos transaccionales
 * Demostrar la capacidad de aplicar traducciones
 * Dado un conjunto de casos de uso, identifique cuándo colocar archivos en la aplicación/código o la aplicación/diseño
 
-Sección 2: Diseño XML y plantillas (plantillas phtml) (24 %)
+Sección 2: Diseño XML y plantillas (plantillas phtml) (22 %)
 
 * Demostrar la capacidad de utilizar instrucciones XML de diseño
 * Demostrar la capacidad de crear nuevos diseños de página
@@ -114,19 +113,18 @@ Sección 4: JavaScript (widgets de imagen, biblioteca de imágenes, módulo de d
 
 Sección 5: Configuración de administración y PageBuilder (12 %)
 
-* Demostración del uso de la administración de contenido
-* Aplicar o programar una temática a un ámbito específico (sitio web, tienda, vista de tienda)
-* Aplicar cambios de diseño a categorías, productos y páginas de CMS mediante la configuración de administración
+* Demostración de la capacidad de personalizar el contenido de Page Builder&quot;
 * Describir la optimización del front-end
 * Personalizar correos electrónicos transaccionales
 * Demostración del uso de las herramientas de desarrollo de administración
 
-Sección 6: Herramientas (CLI y Grunt) (8 %)
+Sección 6: Herramientas (CLI y Grunt) (10 %)
 
 * Demostración del uso de comandos bin/Magento básicos
 * Describir el uso de los comandos del Compositor (instalar, actualizar, requerir, quitar)
 * Diferenciación entre el caso de uso adecuado para los modos de implementación
 * Definir la configuración y el uso de Grunt
+* Describa las herramientas adicionales que proporciona la nube (rápidamente, descargar bases de datos, implementar contenido, ramificar mediante la interfaz de usuario)
 
 >[!TAB Prepárate.]
 
@@ -136,74 +134,45 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1: Administración de temáticas (jerarquía de temáticas, configuración de imágenes, traducciones)**
 
-* [Estructura del tema](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-structure.html){target="_blank"}
-* [Crear una temática de tienda](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"}
-* [Herencia del tema](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-inherit.html){target="_blank"}
-* [Ampliación de un diseño](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"}
-* [Comunicaciones por correo electrónico](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
-* [Personalizar plantillas de correo electrónico](https://docs.magento.com/user-guide/marketing/email-template-custom.html){target="_blank"}
-* [Plantillas de correo electrónico](https://docs.magento.com/user-guide/marketing/email-template-list.html){target="_blank"}
-* [Traducciones](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [Crear la estructura de archivos de componente](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/build/module-file-structure.html#root-directory-location){target="_blank"}
+* [Temáticas](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
+* [Plantillas](https://developer.adobe.com/commerce/frontend-core/guide/templates/)
+* [Añadir variables personalizadas](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html?lang=en)
+* [Traducciones](https://developer.adobe.com/commerce/frontend-core/guide/translations/)
 
 **Sección 2: Diseño, XML y plantillas (plantillas phtml)**
 
-* [Instrucciones de diseño](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-instructions.html){target="_blank"}
-* [Crear un nuevo diseño](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-create.html){target="_blank"}
-* [Tipos de archivo de diseño](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-types.html){target="_blank"}
-* [Ampliación de un diseño](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"}
-* [Anular un diseño](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-override.html){target="_blank"}
+* [Diseños](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
 * [Tareas de personalización comunes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"}
-* [Conceptos básicos de plantilla](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-override.html#getter){target="_blank"}
-* [Plantillas](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [Ejemplo de personalización de plantillas](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-sample.html){target="_blank"}
-* [Ejecución de scripts en sitios múltiples (XSS)](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/xss-protection.html){target="_blank"}
+* [Desarrollo de componentes](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
+* [Seguridad](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
 
 **Sección 3: Estilos**
 
-* [Incluir CSS](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-themes.html){target="_blank"}
-* [Preprocesamiento CSS y LESS](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-preprocess.html#fedg_css-import){target="_blank"}
-* [Personalizar estilos de temas](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_approach.html#simple_override){target="_blank"}
-* [Menor estándar de codificación](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
-* [Plantillas de correo electrónico](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
-* [Estructura del tema](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-* [Añadir preprocesador CSS personalizado](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/add/){target="_blank"}
-* [Utilizar el preprocesador Sass y el ejecutor de tareas Gulp](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/gulp-sass/){target="_blank"}
-* [Modo de compilación](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/){target="_blank"}
+* [Diseño web interactivo](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/){target="_blank"}
+* [Personalizar estilos de temas](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
+* [Estándares de codificación](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
+* [Hojas de estilos en cascada (CSS)](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
 
 **Sección 4: JavaScript (widgets de imagen, biblioteca de imágenes, módulo de datos del cliente, plantillas de cobertura)**
 
-* [Llamar a e inicializar JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-* [Depuración de componentes de JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/debug/){target="_blank"}
-* [RequireJS en [!DNL Commerce]](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/){target="_blank"}
-* [Mezclas de JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_mixins.html){target="_blank"}
-* [Cadenas de tema](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/){target="_blank"}
+* [JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
 * [Introducción a los componentes de IU](https://developer.adobe.com/commerce/frontend-core/ui-components/){target="_blank"}
-* [Flujo de configuración](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/configuration-flow/){target="_blank"}
-* [Enlaces Knockout.js personalizados](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/knockout-bindings.html){target="_blank"}
-* [Sintaxis de enlace](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/){target="_blank"}
-* [Widgets de jQuery](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
-* [Agregar un módulo de JavaScript](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=es){target="_blank"}
+* [Personalizar cierre de compra](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/){target="_blank"}
+* [Matrices observables](https://knockoutjs.com/documentation/observableArrays.html){target="_blank"}
 
 **Sección 5: Configuración de administración y PageBuilder**
 
-* [Elementos de contenido](https://docs.magento.com/user-guide/v2.3/cms/content-elements.html){target="_blank"}
-* [Configuración de diseño](https://docs.magento.com/user-guide/design/configuration.html){target="_blank"}
-* [Diseño de página](https://docs.magento.com/user-guide/design/page-layout.html){target="_blank"}
-* [Añadir estilos](https://devdocs.magento.com/page-builder/docs/content-types/create/add-styles.html){target="_blank"}
-* [Herramientas para desarrolladores](https://docs.magento.com/user-guide/system/file-optimization.html){target="_blank"}
-* [Paquete JavaScript](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/js-bundling.html){target="_blank"}
-* [Plantillas de correo electrónico](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-email.html){target="_blank"}
+* [Páginas](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
+* [¿Qué es Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
+* [Paquete JavaScript](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
+* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
 
 **Sección 6: Herramientas (CLI y Grunt)**
 
-* [Herramienta de línea de comandos](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html#config-new-cli-intro){target="_blank"}
-* [[!DNL Commerce] para desarrolladores: base de código](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
-* [Desinstalación de módulos](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/uninstall-modules.html){target="_blank"}
-* [Administración de extensiones](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/extensions.html){target="_blank"}
-* [Definición del modo de funcionamiento](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/set-mode.html){target="_blank"}
-* [Gruñir](https://developer.adobe.com/commerce/frontend-core/guide/tools/grunt/){target="_blank"}
-* [Compilar MENOS con Grunt](https://developer.adobe.com/commerce/frontend-core/guide/css/debug/){target="_blank"}
+* [Guía de configuración](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
+* [Información general sobre la instalación local](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
+* [Variables de compilación](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
+* [Commerce en infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
@@ -236,9 +205,9 @@ El nombre de su perfil en el Sistema de administración de credenciales de Adobe
 
 Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
 
-### Número de examen: AD0-E710
+### Número de examen: AD0-E720
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710 newtab=true"}[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710 newtab=true"}
+[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720 newtab=true"}
 
 Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
