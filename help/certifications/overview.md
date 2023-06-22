@@ -4,10 +4,10 @@ description: Obtenga información acerca de  [!DNL Experience Cloud]  la certifi
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: c488851695d2eb1c2c8369126760aaa74c44ef58
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 8%
+source-wordcount: '460'
+ht-degree: 13%
 
 ---
 
@@ -36,6 +36,28 @@ Obtención de un Adobe [!DNL Experience Cloud] la certificación puede ser benef
 
 Nuestro programa de certificación está diseñado para profesionales en una variedad de campos, incluidos desarrolladores, profesionales de negocios y arquitectos. Con muchas rutas de certificación diferentes para elegir, puede mostrar su competencia y experiencia dentro del Adobe [!DNL Experience Cloud] e impresionar a clientes y empleadores por igual.
 
+## Ver todas las certificaciones
+
+Todos los detalles sobre cada certificación de producto disponible se enumeran en la tabla de contenido a la izquierda y en la siguiente lista,
+
+* [Adobe Analytics](/help/certifications/aa/aa-overview.md)
+* [Adobe Advertising Cloud](/help/certifications/aac/aac-overview.md)
+* [Adobe Audience Manager](/help/certifications/aam/aam-overview.md)
+* [Adobe Commerce](/help/certifications/ac/ac-overview.md)
+* [Adobe Campaign Classic](/help/certifications/acc/acc-overview.md)
+* [Adobe Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+* [Adobe Campaign Standard](/help/certifications/acs/acs-overview.md)
+* [Adobe Document Cloud](/help/certifications/adc/adc-overview.md)
+* [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
+<!-- * [Adobe Experience Platform](/help/certifications/aep/aep-overview.md) -->
+* [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
+* [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
+* [Adobe Target](/help/certifications/at/at-overview.md)
+* [Adobe Workfront](/help/certifications/aw/aw-overview.md)
+
+
+## Introducción 
+
 Entonces, ¿por qué esperar? Dé el primer paso para desbloquear su potencial profesional y explore nuestras rutas de certificación hoy mismo.
 
-[!BADGE Introducción]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Introducción</span></a>

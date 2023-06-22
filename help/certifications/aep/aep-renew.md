@@ -6,7 +6,7 @@ product: Experience Platform
 role: User,Developer,Data Architect
 badge: label="Renovación de Adobe Journey Optimizer" type="positivo"
 hidefromtoc: true
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Nos complace anunciar que ahora puede renovar su certificación mediante un nuev
 >[!NOTE]
 >Renovación de los expertos próximamente.
 
-**Preguntas**
+## Preguntas
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
