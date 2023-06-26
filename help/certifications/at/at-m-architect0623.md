@@ -6,7 +6,7 @@ product: Target
 role: Data Architect
 badge: label="Examen AD0-E409" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 11%
@@ -19,7 +19,7 @@ Aprenda a convertirse en un maestro de arquitectos de Adobe certificado.
 
 >[!NOTE]
 >
->Este es el examen de maestría de arquitectos de Adobe Target más reciente. Si ya ha empezado a estudiar o ha programado la [versión anterior](at-m-architect.md) tiene hasta el 25 de agosto de 2023 para completarlo.
+>Este es el examen de maestría de arquitectos de Adobe Target más reciente. Si ya ha empezado a estudiar o ha programado la [versión anterior](at-m-architect.md) tiene hasta el 8 de septiembre de 2023 para completarlo.
 
 ## Experiencia mínima
 

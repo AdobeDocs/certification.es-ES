@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Examen AD0-E407" type="positivo"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1149'
 ht-degree: 20%
@@ -20,7 +20,7 @@ Aprenda a convertirse en un maestro de arquitectos de Adobe certificado.
 
 >[!NOTE]
 >
->Este examen, Adobe Target Architect Master (AD0-E407), se ha actualizado. Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 18 de agosto de 2023. Si acaba de empezar, le recomendamos que tome la [versión más reciente de este examen](at-m-architect0623.md).
+>Este examen, Adobe Target Architect Master (AD0-E407), se ha actualizado. Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 8 de septiembre de 2023. Si acaba de empezar, le recomendamos que tome la [versión más reciente de este examen](at-m-architect0623.md).
 
 ## Experiencia mínima
 
