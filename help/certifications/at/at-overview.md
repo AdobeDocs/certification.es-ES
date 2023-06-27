@@ -3,7 +3,7 @@ title: Resumen de certificación de Target
 description: Descripción general de las opciones de certificación de Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 5%
@@ -36,7 +36,7 @@ Sin embargo, si acaba de empezar con su certificación, le recomendamos que tome
 
 **Principal**
 
-* [Arquitecto: caduca el 25 de agosto de 2023](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [Arquitecto: a partir del 8 de septiembre de 2023](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 * [Arquitecto NUEVO](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
 Visite la [Renovar la certificación](/help/certifications/renew.md) para ver si hay una opción de renovación disponible para este producto.
