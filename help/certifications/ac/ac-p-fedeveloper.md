@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E719" type="positivo"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: fc1f5860d3e49fd8e3ecb15d24b2242086ca581c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1076'
 ht-degree: 1%
 
 ---
@@ -94,10 +94,12 @@ Sección 3: Estilos (24 %)
 
 Sección 4: JavaScript (16 %)
 
-* Mostrar el uso básico de la administración de contenido
-* Describir los pasos para aplicar/programar una temática a un ámbito específico (sitio web, tienda, vista de tienda)
-* Describa los pasos para aplicar cambios de diseño a categorías, productos y páginas de CMS mediante la configuración de administración
-* Describir los pasos para personalizar los correos electrónicos transaccionales
+* Demostrar la capacidad de inicializar y llamar a componentes de JavaScript
+* Demostración del uso de RequireJS
+* Describir el uso de mixins
+* Describir cómo añadir una traducción en JS
+* Describir el uso de Knockout JS
+* Describir el uso de los widgets de jQuery
 
 Sección 5: Configuración de administración y creador de páginas (12 %)
 
