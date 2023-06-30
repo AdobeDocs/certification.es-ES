@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E408" type="positivo"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '892'
 ht-degree: 9%
@@ -158,7 +158,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 ### Opciones disponibles
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 

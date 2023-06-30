@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Examen AD0-E209" type="positivo"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 9%
@@ -191,7 +191,7 @@ Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 
 
 ### Opciones disponibles
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 

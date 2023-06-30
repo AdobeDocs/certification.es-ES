@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Examen AD0-E454" type="positivo"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 12%
@@ -152,7 +152,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 ### Opciones disponibles
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 

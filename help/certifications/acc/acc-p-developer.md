@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E331" type="positivo"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1198'
 ht-degree: 11%
@@ -200,7 +200,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 ### Opciones disponibles
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 

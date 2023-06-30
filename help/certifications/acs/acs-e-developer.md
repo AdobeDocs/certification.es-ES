@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E306" type="positivo"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1096'
 ht-degree: 13%
@@ -171,7 +171,7 @@ No es necesario completar la formación antes de realizar el examen, y la formac
 
 ### Opciones disponibles
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 

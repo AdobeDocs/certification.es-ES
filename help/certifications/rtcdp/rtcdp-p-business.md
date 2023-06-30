@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E602" type="positivo"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 4%
@@ -155,7 +155,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 ### Opciones disponibles
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 

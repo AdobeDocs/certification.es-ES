@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="Examen AD0-E457" type="positivo"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '965'
 ht-degree: 10%
@@ -174,7 +174,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 ### Opciones disponibles
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 
