@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E123" type="positivo"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: d0f36986ffb20d9a338ba80932643d9b79ab9a9e
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '708'
-ht-degree: 13%
+ht-degree: 15%
 
 ---
 
@@ -94,13 +94,13 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 **Sección 1: Configuraciones**
 
 * [Guía del usuario de administración de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=es){target="_blank"}
 * [Información general de Dispatcher](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **AEM Sección 2: Desarrollo de la**
 
 * [Guía del usuario de administración de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [AEM Guía del usuario de implementación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [AEM Guía del usuario de implementación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=es){target="_blank"}
 * [Guía del usuario sobre desarrollo en AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Introducción a los componentes principales](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=es){target="_blank"}
 * [Conceptos básicos de componentes](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
@@ -137,6 +137,8 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 ## Realiza el examen (AD0-E123)
 
 ### Opciones disponibles
+
+{#PSI-note}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 

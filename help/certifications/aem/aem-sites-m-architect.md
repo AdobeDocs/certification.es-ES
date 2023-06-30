@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Examen AD0-E117" type="positivo"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1449'
-ht-degree: 18%
+ht-degree: 20%
 
 ---
 
@@ -163,11 +163,11 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [[!DNL Experience Manager as a Cloud Service] Información general](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
 * [Guía de HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html?lang=es){target="_blank"}
 * [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
-* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=es){target="_blank"}
 
 **Sección 3: Implementación**
 
-* [AEM Guía del usuario de implementación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [AEM Guía del usuario de implementación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=es){target="_blank"}
 * [Documentación de Adobe Enterprise](https://experienceleague.adobe.com/docs/?lang=es){target="_blank"}
 * [Adobe [!DNL Experience Manager] información general de aplicación de escritorio](https://experienceleague.adobe.com/?lang=esdocs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
 * [Vídeos y tutoriales de AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
@@ -179,7 +179,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 * [Vídeos y tutoriales de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=es){target="_blank"}
-* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=es){target="_blank"}
 * [Información general de Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
 
 
@@ -215,6 +215,8 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 ## Realiza el examen (AD0-E117)
 
 ### Opciones disponibles
+
+{#PSI-note}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 

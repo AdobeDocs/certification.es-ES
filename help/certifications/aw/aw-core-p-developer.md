@@ -6,10 +6,10 @@ role: Developer
 badge: label="Examen AD0-E905" type="positivo"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1034'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -142,7 +142,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Práctica recomendada: incorporación y adopción](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Creación de un perfil de usuario individual](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [Configuración del sistema: grupos y usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
-* [Uso compartido de un proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
+* [Uso compartido de un proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=es){target="_blank"}
 * [Cómo funcionan juntos los niveles de acceso y los permisos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Importación de datos en el Adobe [!DNL Workfront] uso de una plantilla de KickStart](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
@@ -177,6 +177,8 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 ## Realiza el examen (AD0-E905)
 
 ### Opciones disponibles
+
+{#PSI-note}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 

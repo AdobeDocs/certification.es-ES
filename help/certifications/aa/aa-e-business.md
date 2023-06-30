@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E208" type="positivo"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 15%
@@ -180,6 +180,8 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 ## Realiza el examen (AD0-E208)
 
 ### Opciones disponibles
+
+{#PSI-note}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 

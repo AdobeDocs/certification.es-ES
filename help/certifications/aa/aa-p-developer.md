@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Examen AD0-E213" type="positivo"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 12%
@@ -178,6 +178,8 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 ## Realiza el examen (AD0-E213)
 
 ### Opciones disponibles
+
+{#PSI-note}
 
 **PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
 
