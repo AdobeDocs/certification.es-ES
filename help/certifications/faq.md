@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '2655'
 ht-degree: 1%
@@ -116,6 +116,8 @@ Debido a que necesitamos asegurarnos de que nuestras personas con certificación
 +++
 
 +++¿Los exámenes están disponibles en idiomas distintos del inglés?
+
+{{PSI-note}}
 
 Hay algunos exámenes disponibles en japonés a través de PSI (uno de nuestros proveedores). Si el examen está disponible en japonés, se anotará en los detalles del examen para ese examen. Los detalles de los exámenes se encuentran en la pestaña &quot;Prepararse&quot; de las páginas del recorrido de certificación.
 

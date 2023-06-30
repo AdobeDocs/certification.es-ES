@@ -4,7 +4,7 @@ description: Aprenda a obtener la certificación en el Adobe. Encuentre todos lo
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '1462'
 ht-degree: 1%
@@ -20,6 +20,8 @@ Aprenda a obtener la certificación en el Adobe. Encuentre todos los recursos qu
 >[!TAB Registro]
 
 El Adobe utiliza dos proveedores para administrar los exámenes controlados: [!DNL PSI] y [!DNL Examity].
+
+{{PSI-note}}
 
 * **[!DNL PSI]:** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
 * **[!DNL Examity]:** ofrece una opción en línea remota
@@ -85,6 +87,8 @@ Nota: Los descuentos por lotes no se pueden combinar con ninguna otra oferta o d
 >[!TAB Proveedores de certificación]
 
 El equipo de Credenciales de Adobe se asocia con proveedores para ayudar a respaldar las iniciativas y objetivos del programa.  Estos son los proveedores y su información de contacto:
+
+{{PSI-note}}
 
 | Nombre de proveedor | Descripción | Página de asistencia/correo electrónico |
 | ------- | ------- | ------- |
