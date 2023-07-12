@@ -4,12 +4,12 @@ description: Aprenda a convertirse en un Adobe certificado Doc Cloud Professiona
 solution: Document Cloud
 product: Document Cloud
 role: User
-badge: label="Examen AD0-D106" type="positivo"
+badge: label="Examen AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -127,13 +127,9 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 >Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
 
 
-**Realice una prueba de práctica - ¡próximamente!**
+## Realizar una prueba de práctica
 
-Le recomendamos que realice la prueba de práctica gratuita antes de comenzar. Tendrás acceso ilimitado a todas las pruebas de práctica disponibles para los exámenes de Adobe de nivel experto.
-
-Todas nuestras pruebas de práctica se desarrollan a partir del mismo modelo que los exámenes en vivo. La prueba de práctica le ayudará a comprender los temas tratados en el examen en vivo.
-
-Recuerde que aprobar un examen de práctica no garantiza que aprobará el examen de certificación.
+{{practice-test}}
 
 ## Acerca del examen
 

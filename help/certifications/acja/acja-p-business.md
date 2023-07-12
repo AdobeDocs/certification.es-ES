@@ -4,11 +4,11 @@ description: Aprenda a obtener la certificación de profesional de Adobe en [!DN
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
-badge: label="Examen AD0-E608" type="positivo"
+badge: label="Examen AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '626'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ Aprenda a convertirse en un profesional profesional de Adobe profesional certifi
 
 ## Experiencia mínima
 
-El MQC ideal es un analista con al menos 6 meses de experiencia en Customer Journey Analytics y una comprensión fundamental de cómo funciona CJA junto con Adobe Experience Platform. El candidato puede utilizar las opciones de visualización y creación de informes adecuadas para realizar análisis básicos y avanzados para una necesidad empresarial determinada.
+El candidato ideal mínimamente cualificado es un analista con al menos 6 meses de experiencia en Customer Journey Analytics y una comprensión fundamental de cómo funciona CJA junto con Adobe Experience Platform. El candidato puede utilizar las opciones de visualización y creación de informes adecuadas para realizar análisis básicos y avanzados para una necesidad empresarial determinada.
 
 >[!NOTE]
 >
