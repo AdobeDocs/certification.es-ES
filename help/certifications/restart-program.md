@@ -6,7 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 8%
@@ -27,7 +27,7 @@ La certificación es un valioso recurso para las personas que buscan seguir sien
 
 Las personas con certificaciones caducadas que son elegibles para este programa deben haber recibido un correo electrónico del Programa de Certificación de Adobe con el asunto, &quot;Volver a obtener la certificación de Adobe de forma gratuita&quot;.
 
-Si no está seguro de si reúne los requisitos, compruebe [aquí](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+Si no está seguro de si reúne los requisitos, compruebe [aquí](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 Para ser elegible, su certificación debe cumplir con **todo** de los siguientes criterios:
 
@@ -198,7 +198,7 @@ Para ser elegible, su certificación debe cumplir con **todo** de los siguientes
 
   Segundo, **enviar un formulario de referencia de cliente** validar su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud. En este formulario se afirma que ha participado en al menos 100 horas de participación demostrada en el proyecto en los últimos 12 meses.
 
-  [Formulario de referencia del cliente para Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+  [Formulario de referencia del cliente para Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente. Si su referencia no es aceptada, puede enviar nuevamente hasta que tenga éxito, siempre y cuando sea antes de que caduque su certificación.
 
@@ -272,7 +272,7 @@ Para ser elegible, su certificación debe cumplir con **todo** de los siguientes
 
 No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
 
-Estos son los recursos sugeridos,
+Estos son los recursos sugeridos:
 
 * [Examen de muestra](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Documentación del producto](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
