@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '537'
 ht-degree: 1%
 
 ---
@@ -38,44 +38,43 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!TAB Experto y maestro]
 
-Actualmente, debe estar certificado (no caducado) en:
+## Actualmente, debe estar certificado (no caducado) en:
 
 * [!DNL Adobe Target] Experto profesional de negocios
 * [!DNL Adobe Target] Maestro de arquitectos
 
 ## Instrucciones para renovar su [!DNL Adobe Target] certificación
 
-Seleccionar **tres actividades** para completar y aprobar las evaluaciones de cursos asociadas a cada uno.
+**Paso 1:** Iniciar sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+**Paso 2:** Estudie los cursos en Experience League **Paso 3:**Elija entre las opciones siguientes para completar su renovación.
 
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
-* **Paso 2**: Estudiar los cursos en Experience League
-* **Paso 3**: complete y apruebe cada evaluación de curso con al menos el 80 %
+**Opción A:**
 
-También puede estudiar dos cursos, aprobar dos evaluaciones de cursos y enviar un formulario de referencia al cliente para validar su participación en un proyecto que suma un total de 100 horas en los últimos 12 meses.
+Seleccionar **tres cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-Para determinadas certificaciones de Adobe Experience Cloud, el programa de credenciales de Adobe acepta **referencias de clientes** que validan su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud.
+**Opción B:**
 
-En estos casos, puede proporcionar una referencia del cliente que confirme que ha participado en al menos 100 horas de participación demostrada en el proyecto durante su intervalo de dos años para la renovación de la certificación.
+Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-**Una vez revisada la referencia del cliente, el equipo de credenciales de Adobe le notificará.**
-
-Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no están protegidos. Si tiene varias certificaciones de nivel Adobe Target Expert y Master, solo debe completar los requisitos que se indican a continuación y se renovarán todas las certificaciones de Adobe Target en este nivel.
+Segundo, **enviar un formulario de referencia de cliente** validar su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud. En este formulario se afirma que ha participado en al menos 100 horas de participación demostrada en el proyecto durante el intervalo de dos años de renovación de la certificación.
 
 [Formulario de referencia de cliente para [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
-### Cursos y evaluaciones de cursos para expertos y maestros:
+El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente. Si su referencia no es aceptada, puede enviar nuevamente hasta que tenga éxito, siempre y cuando sea antes de que caduque su certificación.
 
-| Curso | Evaluación del curso |
+>[!NOTE]
+>
+>Si tiene varias [!DNL Adobe Target] Las certificaciones de nivel experto y maestro completan los requisitos de renovación para una sola certificación, y el resto se renovará automáticamente.
+
+## Cursos y evaluaciones de cursos para expertos y maestros:
+
+| Cursos y evaluaciones de cursos para Experto y Maestro | Evaluación del curso |
 | ------- | ------- |
 | [[!DNL Adobe Target] Información general sobre la toma de decisiones en dispositivos](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
 | [[!DNL Adobe Target] Curso Innovaciones en Personalización](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
 | [Curso de personalización e implementación de aplicaciones móviles](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
 | [Curso guiado de Mobile y IoT Launch para desarrolladores](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
 | [Curso de lanzamiento guiado de sitio web para desarrolladores](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
-
->[!NOTE]
->
->Puede repetir hasta que haya completado correctamente tres actividades o dos actividades, además del formulario de referencia del cliente.
 
 >[!ENDTABS]
 

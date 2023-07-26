@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '5199'
+source-wordcount: '5347'
 ht-degree: 8%
 
 ---
@@ -120,13 +120,19 @@ Para ser elegible, su certificación debe cumplir con **todo** de los siguientes
 * **Paso 2**: Estudiar los cursos en Experience League
 * **Paso 3**: elija entre las opciones siguientes.
 
-**Opción 1:** Seleccionar **tres actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
+  **Opción A:**
 
-**Opción 2:** Seleccionar **dos actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %. A continuación, **enviar un formulario de referencia de cliente** validación de la participación en un proyecto que sume al menos 100 horas en los últimos 12 meses.
+  Seleccionar **tres cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-[Formulario de referencia del cliente para Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Opción B:**
 
-El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente.
+  Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
+
+  Segundo, **enviar un formulario de referencia de cliente** validar su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud. En este formulario se afirma que ha participado en al menos 100 horas de participación demostrada en el proyecto en los últimos 12 meses.
+
+  [Formulario de referencia del cliente para Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+
+  El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente. Si su referencia no es aceptada, puede enviar nuevamente hasta que tenga éxito, siempre y cuando sea antes de que caduque su certificación.
 
 ### Cursos y evaluaciones de cursos para expertos y maestros:
 
@@ -149,13 +155,19 @@ El equipo de credenciales de Adobe le notificará cuando se haya revisado la ref
 * **Paso 2**: Estudiar los cursos en Experience League
 * **Paso 3**: elija entre las opciones siguientes.
 
-**Opción 1:** Seleccionar **tres actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
+  **Opción A:**
 
-**Opción 2:** Seleccionar **dos actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %. A continuación, **enviar un formulario de referencia de cliente** validación de la participación en un proyecto que sume al menos 100 horas en los últimos 12 meses.
+  Seleccionar **tres cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-[Formulario de referencia del cliente para Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Opción B:**
 
-El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente.
+  Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
+
+  Segundo, **enviar un formulario de referencia de cliente** validar su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud. En este formulario se afirma que ha participado en al menos 100 horas de participación demostrada en el proyecto en los últimos 12 meses.
+
+  [Formulario de referencia del cliente para Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+
+  El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente. Si su referencia no es aceptada, puede enviar nuevamente hasta que tenga éxito, siempre y cuando sea antes de que caduque su certificación.
 
 ### Cursos y evaluaciones de cursos para expertos y maestros:
 
@@ -176,13 +188,19 @@ El equipo de credenciales de Adobe le notificará cuando se haya revisado la ref
 * **Paso 2**: Estudiar los cursos en Experience League
 * **Paso 3**: elija entre las opciones siguientes.
 
-**Opción 1:** Seleccionar **tres actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
+  **Opción A:**
 
-**Opción 2:** Seleccionar **dos actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %. A continuación, **enviar un formulario de referencia de cliente** validación de la participación en un proyecto que sume al menos 100 horas en los últimos 12 meses.
+  Seleccionar **tres cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-[Formulario de referencia del cliente para Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
+  **Opción B:**
 
-El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente.
+  Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
+
+  Segundo, **enviar un formulario de referencia de cliente** validar su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud. En este formulario se afirma que ha participado en al menos 100 horas de participación demostrada en el proyecto en los últimos 12 meses.
+
+  [Formulario de referencia del cliente para Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+
+  El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente. Si su referencia no es aceptada, puede enviar nuevamente hasta que tenga éxito, siempre y cuando sea antes de que caduque su certificación.
 
 ### Cursos y evaluaciones de cursos para expertos y maestros:
 
