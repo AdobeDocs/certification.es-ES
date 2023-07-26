@@ -6,36 +6,109 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
+source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
 workflow-type: tm+mt
-source-wordcount: '5163'
+source-wordcount: '5199'
 ht-degree: 8%
 
 ---
 
 # Reinicie el recorrido de certificación pasando de caducado a certificado
 
->[!AVAILABILITY]
+El programa de reinicio de Adobe permite a las personas con [!DNL Experience Cloud] certificaciones para volver a certificar de forma gratuita mediante evaluaciones o exámenes no controlados y a petición.
+
+La certificación es un valioso recurso para las personas que buscan seguir siendo competitivas, y este programa ofrece la oportunidad de actualizar [!DNL Experience Cloud] habilidades y mantenerse por delante de la curva en un panorama digital que cambia rápidamente.
+
+>[!IMPORTANT]
 >
-> Este programa de tiempo limitado, ofrecido desde **Del 24 de abril de 2023 al 20 de octubre de 2023**.  El programa ofrece la oportunidad de actualizar sus habilidades y mantenerse por delante de la curva en un panorama digital que cambia rápidamente.
->
-> ** ELEGIBILIDAD : Las personas cuyas certificaciones caducaron desde 2020 hasta el 23 de abril de 2023 son elegibles para esto **gratuito** programa.
+>**Este programa de tiempo limitado solo se ofrece del 24 de abril de 2023 al 20 de octubre de 2023.**
 
-## Introducción
+## Idoneidad
 
-El Programa de Reinicio de Adobe es una iniciativa que permite a las personas con [!DNL Experience Cloud] certificaciones para volver a certificar, de forma gratuita. Si ya ha obtenido una certificación de Adobe Experience Cloud que ha caducado, puede optar a Reiniciar su certificación a través de los formatos de prueba GRATUITOS y no controlados. Este programa es un valioso recurso para las personas que buscan mejorar sus conocimientos y habilidades de Adobe Experience Cloud y seguir siendo competitivos.
+Las personas con certificaciones caducadas que son elegibles para este programa deben haber recibido un correo electrónico del Programa de Certificación de Adobe con el asunto, &quot;Volver a obtener la certificación de Adobe de forma gratuita&quot;.
 
-### Pasos para reiniciar la certificación caducada{#exams}
+Si no está seguro de si reúne los requisitos, compruebe [aquí](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
 
->[!NOTE]
->
->Si ha recibido un correo electrónico del Programa de credenciales de Adobe con el asunto &quot;Obtenga la certificación de Adobe de nuevo de forma gratuita&quot;, puede ir al paso 2.
+Para ser elegible, su certificación debe cumplir con **todo** de los siguientes criterios:
 
-* Paso 1: Determine si su certificación caducada es elegible para el programa Restart comprobando [aquí](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}. Si cumple los requisitos, continúe con el paso 2.
-* Paso 2: Revise los requisitos de reinicio para la aplicación.
-* Paso 3: Siga los pasos para completar las evaluaciones/exámenes del curso **antes del 20 de octubre de 2023,** fecha límite a partir de las opciones proporcionadas.
+* Debe haber caducado entre el 1 de enero de 2020 y el 23 de abril de 2023.
+* Debe ser de nivel experto o maestro.
+* Debe tener un examen actual disponible. (Si la certificación ya no tiene un examen activo, no es elegible para el Programa de Reinicio).
+* Debe aparecer en la lista de certificaciones elegibles a continuación:
 
-### Adobe Certificación Rutas de reinicio por aplicación
++++Ver certificaciones aptas
+
+**Adobe Experience Manager**
+
+| Identificador del examen | Nombre del examen |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] Experto profesional de negocios |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Experto profesional de negocios |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Experto de desarrollador |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Experto de desarrollador |
+| AD0-E106 | [!DNL Adobe Experience Manager] Experto en ingenieros de desarrollo/operaciones |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Maestro de arquitectos |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Maestro de arquitectos |
+
+**[!DNL Adobe Analytics]**
+
+| Identificador del examen | Nombre del examen |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] Experto de desarrollador |
+| AD0-E202 | [!DNL Adobe Analytics] Experto profesional de negocios |
+| AD0-E200 | [!DNL Adobe Analytics] Maestro de arquitectos |
+| AD0-E207 | [!DNL Adobe Analytics] Maestro de arquitectos |
+
+**Adobe Audience Manager**
+
+| Identificador del examen | Nombre del examen |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] Maestro de arquitectos |
+| AD0-E452 | [!DNL Adobe Audience Manager] Maestro de arquitectos |
+| AD0-E453 | [!DNL Adobe Audience Manager] Experto profesional de negocios |
+
+**Adobe Campaign Classic**
+
+| Identificador del examen | Nombre del examen |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Experto profesional de Sites |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Experto profesional de Sites |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Maestro de arquitectos |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Maestro de arquitectos |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Experto de desarrollador |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Experto de desarrollador |
+
+**Adobe Campaign Standard**
+
+| Identificador del examen | Nombre del examen |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] Experto profesional de negocios |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Experto profesional de negocios |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Experto de desarrollador |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Experto de desarrollador |
+
+**Adobe[!DNL Marketo Engage]**
+
+| Identificador del examen | Nombre del examen |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] Profesional empresarial (anteriormente MCE) |
+
+**Adobe Target**
+
+| Identificador del examen | Nombre del examen |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] Experto profesional de negocios |
+| AD0-E402 | [!DNL Adobe Target] Maestro de arquitectos |
+
++++
+
+## Pasos para reiniciar la certificación caducada{#exams}
+
+* **Paso 1:** Consulte la sección Elegibilidad anterior para determinar si su certificación es elegible para el programa de reinicio. Si es así, continúe con el paso 2.
+* **Paso 2:** Busque su aplicación entre las pestañas siguientes y revise los requisitos de Reiniciar programa para su certificación.
+* **Paso 3:** Siga las instrucciones para completar las evaluaciones o los exámenes requeridos de las opciones proporcionadas **antes del plazo del 20 de octubre de 2023**.
+
+## Adobe Certificación Reiniciar rutas del programa por aplicación
 
 >[!BEGINTABS]
 
@@ -43,26 +116,19 @@ El Programa de Reinicio de Adobe es una iniciativa que permite a las personas co
 
 ### Instrucciones para reiniciar el Adobe [!DNL Experience Manager] certificación
 
-Seleccionar **tres actividades** para completar y aprobar las evaluaciones de cursos asociadas a cada uno.
-
 * **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
 * **Paso 2**: Estudiar los cursos en Experience League
-* **Paso 3**: complete y apruebe cada evaluación de curso con al menos el 80 %
+* **Paso 3**: elija entre las opciones siguientes.
 
-También puede estudiar dos cursos, aprobar dos evaluaciones de cursos y enviar un formulario de referencia al cliente para validar su participación en un proyecto que suma un total de 100 horas en los últimos 12 meses.
+**Opción 1:** Seleccionar **tres actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-Para ciertos Adobes [!DNL Experience Cloud] certificaciones, el Programa de credenciales de Adobe acepta **referencias de clientes** que validan su trabajo continuo como una persona certificada de Adobe que dirige, gestiona y/o participa en un Adobe [!DNL Experience Cloud] proyecto de implementación.
-
-En estos casos, puede proporcionar una referencia del cliente que confirme que ha participado en al menos 100 horas de participación demostrada en el proyecto en los últimos 12 meses.
-
-**Una vez revisada la referencia del cliente, el equipo de credenciales de Adobe le notificará.**
-
-
-Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no están protegidos. Si tiene varias certificaciones de nivel Adobe Experience Manager AEM Expert y Master, solo debe completar los requisitos que se indican a continuación y se renovarán las certificaciones de experto y maestro de la.
+**Opción 2:** Seleccionar **dos actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %. A continuación, **enviar un formulario de referencia de cliente** validación de la participación en un proyecto que sume al menos 100 horas en los últimos 12 meses.
 
 [Formulario de referencia del cliente para Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
 
-### Cursos y evaluaciones del curso:
+El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente.
+
+### Cursos y evaluaciones de cursos para expertos y maestros:
 
 | Curso | Evaluación del curso |
 | ------- | ------- |
@@ -75,33 +141,23 @@ Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no
 | [Generador de habilidades de Adobe Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
 | [Adobe Experience Manager Sites para arquitectos](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
 
->[!NOTE]
->
->Puede repetir hasta que haya completado correctamente tres actividades o hasta que haya completado dos actividades y el formulario de referencia del cliente.
-
 >[!TAB Analytics]
 
 ### Instrucciones para reiniciar la certificación de Adobe Analytics
 
-Seleccionar **tres actividades** para completar y aprobar las evaluaciones de cursos asociadas a cada uno.
-
 * **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
 * **Paso 2**: Estudiar los cursos en Experience League
-* **Paso 3**: complete y apruebe cada evaluación de curso con al menos el 80 %
+* **Paso 3**: elija entre las opciones siguientes.
 
-También puede estudiar dos cursos, aprobar dos evaluaciones de cursos y enviar un formulario de referencia al cliente para validar su participación en un proyecto que suma un total de 100 horas en los últimos 12 meses.
+**Opción 1:** Seleccionar **tres actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-Para ciertos Adobes [!DNL Experience Cloud] certificaciones, el Programa de credenciales de Adobe acepta **referencias de clientes** que validan su trabajo continuo como una persona certificada de Adobe que dirige, gestiona y/o participa en un Adobe [!DNL Experience Cloud] proyecto de implementación.
+**Opción 2:** Seleccionar **dos actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %. A continuación, **enviar un formulario de referencia de cliente** validación de la participación en un proyecto que sume al menos 100 horas en los últimos 12 meses.
 
-En estos casos, puede proporcionar una referencia del cliente que confirme que ha participado en al menos 100 horas de participación demostrada en el proyecto en los últimos 12 meses.
+[Formulario de referencia del cliente para Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
 
-**Una vez revisada la referencia del cliente, el equipo de credenciales de Adobe le notificará.**
+El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente.
 
-Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no están protegidos. Si tiene varias certificaciones de nivel Maestro y Experto en Analytics de Adobe, solo tendrá que completar los requisitos que se indican a continuación y se renovarán las certificaciones de Maestro y Experto en Analytics.
-
-[Formulario de referencia del cliente para Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA200){target="_blank"}
-
-### Cursos y evaluaciones del curso:
+### Cursos y evaluaciones de cursos para expertos y maestros:
 
 | Curso | Evaluación del curso |
 | ------- | ------- |
@@ -112,33 +168,23 @@ Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no
 | [Implementación y medición de la búsqueda interna del sitio - Lección 3 y 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [API de Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
->[!NOTE]
->
->Puede repetir hasta que haya completado correctamente tres actividades o hasta que haya completado dos actividades y el formulario de referencia del cliente.
-
 >[!TAB Target]
 
 ### Instrucciones para reiniciar la certificación de Adobe Target
 
-Seleccionar **tres actividades** para completar y aprobar las evaluaciones de cursos asociadas a cada uno.
-
 * **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
 * **Paso 2**: Estudiar los cursos en Experience League
-* **Paso 3**: complete y apruebe cada evaluación de curso con al menos el 80 %
+* **Paso 3**: elija entre las opciones siguientes.
 
-También puede estudiar dos cursos, aprobar dos evaluaciones de cursos y enviar un formulario de referencia al cliente para validar su participación en un proyecto que suma un total de 100 horas en los últimos 12 meses.
+**Opción 1:** Seleccionar **tres actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-Para ciertos Adobes [!DNL Experience Cloud] certificaciones, el Programa de credenciales de Adobe acepta **referencias de clientes** que validan su trabajo continuo como una persona certificada de Adobe que dirige, gestiona y/o participa en un Adobe [!DNL Experience Cloud] proyecto de implementación.
+**Opción 2:** Seleccionar **dos actividades** para completar y aprobar las evaluaciones de los cursos asociadas a cada uno con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta y sin supervisión. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %. A continuación, **enviar un formulario de referencia de cliente** validación de la participación en un proyecto que sume al menos 100 horas en los últimos 12 meses.
 
-En estos casos, puede proporcionar una referencia del cliente que confirme que ha participado en al menos 100 horas de participación demostrada en el proyecto en los últimos 12 meses.
+[Formulario de referencia del cliente para Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
 
-**Una vez revisada la referencia del cliente, el equipo de credenciales de Adobe le notificará.**
+El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente.
 
-Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no están protegidos. Si posee varias certificaciones de nivel Adobe Target Expert y Master, solo necesita completar los requisitos a continuación y se renovarán las certificaciones de Target Expert y Master.
-
-[Formulario de referencia del cliente para Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA400){target="_blank"}
-
-### Cursos y evaluaciones del curso:
+### Cursos y evaluaciones de cursos para expertos y maestros:
 
 | Curso | Evaluación del curso |
 | ------- | ------- |
@@ -148,15 +194,11 @@ Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no
 | [Curso guiado de Mobile y IoT Launch para desarrolladores](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA404){target="_blank"} |
 | [Curso de lanzamiento guiado de sitio web para desarrolladores](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA405){target="_blank"} |
 
->[!NOTE]
->
->Puede repetir hasta que haya completado correctamente tres actividades o hasta que haya completado dos actividades y el formulario de referencia del cliente.
-
 >[!TAB Audience Manager]
 
 ### Seleccione el examen aplicable según la función para reiniciar la certificación de Adobe Audience Manager
 
-+++ADS-E826 Adobe Audience Manager **Profesional empresarial** examen de reinicio de expertos
++++ADS-E826 Adobe Audience Manager **Profesional empresarial** Examen Expert Restart
 
 **Instrucciones para reiniciar la certificación:**
 
@@ -174,7 +216,7 @@ Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no
 * Entrega: bajo demanda / sin procesador
 * Idiomas disponibles: Inglés
 * Coste: GRATIS
-* ID del examen: ADS-E826 - Reinicio experto de Adobe Audience Manager Business Practitioner
+* ID del examen: ADS-E826 - Reinicio de experto profesional de Adobe Audience Manager
 
 
 **Objetivos y ámbito del examen**
@@ -222,7 +264,7 @@ Estos son los recursos sugeridos,
 
 **Reinicie la certificación**
 
-El examen ADS-E826 de reinicio de expertos para profesionales de Adobe Audience Manager Business es gratuito, de libro abierto y sin procesar. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
+El examen ADS-E826 de Adobe Audience Manager Business Practitioner Expert Restart es gratuito, de libro abierto y sin procesador. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. El incumplimiento puede resultar en la revocación de su certificación.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -233,7 +275,7 @@ El examen ADS-E826 de reinicio de expertos para profesionales de Adobe Audience 
 
 +++
 
-+++ADS-E825 Adobe Audience Manager **Arquitecto** examen de reinicio maestro
++++ADS-E825 Adobe Audience Manager **Arquitecto** Examen Master Restart
 
 **Instrucciones para reiniciar la certificación:**
 
@@ -323,7 +365,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 ### Reinicie la certificación
 
-El examen de reinicio maestro para arquitectos de Adobe Audience Manager ADS-E825 es gratuito, está abierto y no está controlado. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
+El examen Adobe Audience Manager Architect Master Restart ADS-E825 es gratuito, de libro abierto y sin procesador. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. El incumplimiento puede resultar en la revocación de su certificación.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -338,7 +380,7 @@ El examen de reinicio maestro para arquitectos de Adobe Audience Manager ADS-E82
 
 ### Seleccione el examen aplicable según la función para reiniciar la certificación de Adobe Campaign
 
-Adobe +++ADS-E821 **Desarrollador Campaign Standard** examen de reinicio de expertos
+Adobe +++ADS-E821 **Desarrollador Campaign Standard** Examen Expert Restart
 
 **Instrucciones para reiniciar la certificación:**
 
@@ -356,7 +398,7 @@ Adobe +++ADS-E821 **Desarrollador Campaign Standard** examen de reinicio de expe
 * Entrega: bajo demanda / sin procesador
 * Idiomas disponibles: Inglés
 * Coste: GRATIS
-* ID del examen: ADS-E821 - Reinicio de Adobe Campaign Standard Developer Expert
+* ID del examen: ADS-E821 - Reinicio del experto del desarrollador de Adobe Campaign Standard
 
 **Alcance y objetivos:**
 
@@ -438,7 +480,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 ### Reinicie la certificación
 
-El Adobe [!DNL Campaign Standard] El examen ADS-821 para el reinicio de los expertos para desarrolladores es gratuito, de libro abierto y sin procesar. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
+El Adobe [!DNL Campaign Standard] El examen ADS-821 de Developer Expert Restart es gratuito, de libro abierto y sin procesar. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -449,7 +491,7 @@ El Adobe [!DNL Campaign Standard] El examen ADS-821 para el reinicio de los expe
 
 +++
 
-Adobe +++ADS-E822 **Campaign Standard Profesional Empresarial** examen de reinicio de expertos
+Adobe +++ADS-E822 **Campaign Standard Profesional Empresarial** Examen Expert Restart
 
 **Instrucciones para reiniciar la certificación:**
 
@@ -467,7 +509,7 @@ Adobe +++ADS-E822 **Campaign Standard Profesional Empresarial** examen de reinic
 * Entrega: bajo demanda / sin procesador
 * Idiomas disponibles: Inglés
 * Coste: GRATIS
-* ID del examen: ADS-E822 - Campaign Standard Profesional de Negocios Reinicio experto
+* ID del examen: ADS-E822 - Campaign Standard Profesional Profesional Experto Reinicio
 
 **Alcance y objetivos:**
 
@@ -527,7 +569,7 @@ El Adobe [!DNL Campaign Standard] El examen ADS-822 de reinicio de los expertos 
 
 +++
 
-Adobe +++ADS-E823 **Campaign Classic** examen de reinicio maestro y/o experto
+Adobe +++ADS-E823 **Campaign Classic** Examen Expert y/o Master Restart
 
 **Instrucciones para reiniciar la certificación:**
 
@@ -545,7 +587,7 @@ Adobe +++ADS-E823 **Campaign Classic** examen de reinicio maestro y/o experto
 * Entrega: bajo demanda / sin procesador
 * Idiomas disponibles: Inglés
 * Coste: GRATIS
-* ID del examen: ADS-E823 - Adobe [!DNL Campaign Classic] reinicio maestro o experto
+* ID del examen: ADS-E823 - Adobe [!DNL Campaign Classic] Reinicio maestro o experto
 
 **Alcance y objetivos**
 
@@ -626,7 +668,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 ### Reinicie la certificación
 
-El examen de reinicio de Adobe Campaign Classic ADS-823 es gratuito, de libro abierto y sin procesar. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
+El examen de reinicio de Adobe Campaign Classic ADS-823 es gratuito, de libro abierto y no controlado. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -655,7 +697,7 @@ El examen de reinicio de Adobe Campaign Classic ADS-823 es gratuito, de libro ab
 * Entrega: bajo demanda / sin procesador
 * Idiomas disponibles: Inglés
 * Coste: GRATIS
-* ID del examen: ADS-E824 - Reinicio experto de Adobe Marketo Engage Business Practitioner
+* ID del examen: ADS-E824 - Reinicio de experto profesional de Adobe Marketo Engage
 
 **Alcance y objetivos:**
 
