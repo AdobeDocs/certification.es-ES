@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '917'
 ht-degree: 1%
 
 ---
@@ -32,35 +32,37 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!TAB Profesional]
 
-Actualmente, debe estar certificado (no caducado) en:
+## Debe tener al menos uno de los siguientes **activo** certificaciones para renovar:
 
-* Adobe [!DNL Commerce] Profesional empresarial
-* Adobe [!DNL Commerce] Desarrollador profesional
-* Adobe [!DNL Commerce] Desarrollador front-end profesional
+* [!DNL Adobe Commerce] Profesional empresarial
+* [!DNL Adobe Commerce] Desarrollador profesional
+* [!DNL Adobe Commerce] Desarrollador front-end profesional
 
-## Instrucciones para renovar el Adobe [!DNL Commerce] certificación
+## Instrucciones para renovar su [!DNL Adobe Commerce] certificación
 
-Seleccionar **tres actividades** para completar y aprobar las evaluaciones de cursos asociadas a cada uno.
+* **Paso 1:** Iniciar sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2:** Estudiar los cursos en Experience League
+* **Paso 3:** Elija entre las opciones siguientes para completar la renovación.
 
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
-* **Paso 2**: Estudiar los cursos en Experience League
-* **Paso 3**: complete y apruebe cada evaluación de curso con al menos el 80 %
+  **Opción A:**
+Seleccionar **tres cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-También puede estudiar dos cursos, aprobar dos evaluaciones de cursos y enviar un formulario de referencia al cliente para validar su participación en un proyecto que suma un total de 100 horas en los últimos 12 meses.
+  **Opción B:**
+Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-Para determinadas certificaciones de Adobe Experience Cloud, el programa de credenciales de Adobe acepta **referencias de clientes** que validan su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud.
+  Segundo, **enviar un formulario de referencia de cliente** validar su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud. En este formulario se afirma que ha participado en al menos 100 horas de participación demostrada en el proyecto durante el intervalo de dos años de renovación de la certificación.
 
-En estos casos, puede proporcionar una referencia del cliente que confirme que ha participado en al menos 100 horas de participación demostrada en el proyecto durante su intervalo de dos años para la renovación de la certificación.
+  [Formulario de referencia de cliente para [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
 
-**Una vez revisada la referencia del cliente, el equipo de credenciales de Adobe le notificará.**
+  El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente. Si su referencia no es aceptada, puede enviar nuevamente hasta que tenga éxito, siempre y cuando sea antes de que caduque su certificación.
 
-Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no están protegidos. Si cuenta con varias certificaciones de nivel Adobe Commerce Professional, solo deberá completar los requisitos que se indican a continuación y todas las certificaciones de Adobe Commerce de este nivel se renovarán.
-
-[Formulario de referencia de cliente para Adobe [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
+>[!NOTE]
+>
+>Si tiene varias [!DNL Adobe Commerce] Las certificaciones Expert y Master completan los requisitos de renovación para una sola certificación, y el resto se renovará automáticamente.
 
 ### Cursos y evaluaciones de cursos para profesionales:
 
-| Curso | Evaluación del curso |
+| Cursos para profesionales | Evaluación del curso |
 | ------- | ------- |
 | [Adobe [!DNL Commerce] Tendencias del comercio electrónico](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
 | [Adobe [!DNL Commerce] Personalización](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
@@ -68,52 +70,48 @@ Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no
 | [[!DNL Commerce]: Integraciones de datos con Experience Platform y versiones posteriores](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
 | [[!DNL Commerce]: comercio componible en el Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
 
->[!NOTE]
->
->Puede repetir hasta que haya completado correctamente tres actividades o dos actividades, además del formulario de referencia del cliente.
-
 >[!TAB Experto y maestro]
 
-Actualmente, debe estar certificado (no caducado) en:
+## Debe tener al menos uno de los siguientes **activo** certificaciones para renovar:
 
-* Adobe [!DNL Commerce] Experto profesional de negocios
-* Adobe [!DNL Commerce] Experto de desarrollador
-* Adobe [!DNL Commerce] Maestro de arquitectos
-* Adobe [!DNL Commerce] Experto desarrollador front-end
+* [!DNL Adobe Commerce] Experto profesional de negocios
+* [!DNL Adobe Commerce] Experto de desarrollador
+* [!DNL Adobe Commerce] Maestro de arquitectos
+* [!DNL Adobe Commerce] Experto desarrollador front-end
 
-## Instrucciones para renovar el Adobe [!DNL Commerce] certificación
+## Instrucciones para renovar su [!DNL Adobe Commerce] certificación
 
 Seleccionar **tres actividades** para completar y aprobar las evaluaciones de cursos asociadas a cada uno.
 
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
-* **Paso 2**: Estudiar los cursos en Experience League
-* **Paso 3**: complete y apruebe cada evaluación de curso con al menos el 80 %
+* **Paso 1:** Iniciar sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2:** Estudiar los cursos en Experience League
+* **Paso 3:** Elija entre las opciones siguientes para completar la renovación.
 
-También puede estudiar dos cursos, aprobar dos evaluaciones de cursos y enviar un formulario de referencia al cliente para validar su participación en un proyecto que suma un total de 100 horas en los últimos 12 meses.
+  **Opción A:**
+Seleccionar **tres cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-Para determinadas certificaciones de Adobe Experience Cloud, el programa de credenciales de Adobe acepta **referencias de clientes** que validan su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud.
+  **Opción B:**
+Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-En estos casos, puede proporcionar una referencia del cliente que confirme que ha participado en al menos 100 horas de participación demostrada en el proyecto durante su intervalo de dos años para la renovación de la certificación.
+  Segundo, **enviar un formulario de referencia de cliente** validar su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud. En este formulario se afirma que ha participado en al menos 100 horas de participación demostrada en el proyecto durante el intervalo de dos años de renovación de la certificación.
 
-**Una vez revisada la referencia del cliente, el equipo de credenciales de Adobe le notificará.**
+  [Formulario de referencia de cliente para [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
-Las evaluaciones del curso son gratuitas. No hay necesidad de programarlos, y no están protegidos. Si tiene varias certificaciones de nivel Adobe Commerce Expert y Master, solo debe completar los requisitos que se indican a continuación y se renovarán las certificaciones de Adobe Commerce en este nivel.
+  El equipo de credenciales de Adobe le notificará cuando se haya revisado la referencia del cliente. Si su referencia no es aceptada, puede enviar nuevamente hasta que tenga éxito, siempre y cuando sea antes de que caduque su certificación.
 
-[Formulario de referencia de cliente para Adobe [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
+>[!NOTE]
+>
+>Si tiene varias [!DNL Adobe Commerce] Las certificaciones Expert y Master completan los requisitos de renovación para una sola certificación, y el resto se renovará automáticamente.
 
 ### Cursos y evaluaciones de cursos para expertos y maestros:
 
-| Curso | Evaluación del curso |
+| Cursos para Experto y Maestro | Evaluación del curso |
 | ------- | ------- |
 | [Adobe [!DNL Commerce] Tendencias del comercio electrónico](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
 | [Adobe [!DNL Commerce] Personalización](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
 | [Adobe [!DNL Commerce] Automatización de IA](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
 | [[!DNL Commerce]: Integraciones de datos con Experience Platform y versiones posteriores](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
 | [[!DNL Commerce]: comercio componible en el Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
-
->[!NOTE]
->
->Puede repetir hasta que haya completado correctamente tres actividades o dos actividades, además del formulario de referencia del cliente.
 
 >[!ENDTABS]
 

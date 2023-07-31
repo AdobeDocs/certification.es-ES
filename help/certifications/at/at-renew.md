@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Es importante tener en cuenta que si su certificación caduca antes de completar
 
 >[!TAB Experto y maestro]
 
-## Actualmente, debe estar certificado (no caducado) en:
+## Debe tener al menos uno de los siguientes **activo** certificaciones para renovar:
 
 * [!DNL Adobe Target] Experto profesional de negocios
 * [!DNL Adobe Target] Maestro de arquitectos
@@ -50,8 +50,7 @@ Es importante tener en cuenta que si su certificación caduca antes de completar
 * **Paso 3:** Elija entre las opciones siguientes para completar la renovación.
 
   **Opción A:**
-
-  Seleccionar **tres cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
+Seleccionar **tres cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
   **Opción B:**
 Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
@@ -64,7 +63,7 @@ Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de 
 
 >[!NOTE]
 >
->Si tiene varias [!DNL Adobe Target] Las certificaciones de nivel experto y maestro completan los requisitos de renovación para una sola certificación, y el resto se renovará automáticamente.
+>Si tiene varias [!DNL Adobe Target] Las certificaciones Expert y Master completan los requisitos de renovación para una sola certificación, y el resto se renovará automáticamente.
 
 ## Cursos y evaluaciones de cursos para expertos y maestros:
 
