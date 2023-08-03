@@ -4,17 +4,28 @@ description: Aprenda a obtener la certificación de Arquitecto Master en Experie
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
-badge: label="Examen AD0-E117" type="positivo"
+badge: label="Examen AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
 workflow-type: tm+mt
-source-wordcount: '1449'
-ht-degree: 20%
+source-wordcount: '1514'
+ht-degree: 19%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Experience Manager Sites] Maestro de arquitectos
+
+>[!NOTE]
+>
+>Este examen (AD0-E117) se está manteniendo y no está disponible temporalmente. Sentimos sinceramente las molestias. Utilice el siguiente botón para registrarse y recibir una notificación cuando vuelva a estar disponible.
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Notificarme
+</span>
+</a>
 
 Aprenda a obtener la certificación de Arquitecto Maestro.
 
@@ -216,23 +227,14 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 ### Opciones disponibles
 
-{{PSI-note}}
+>[!NOTE]
+>
+>Este examen (AD0-E117) se está manteniendo y no está disponible temporalmente. Sentimos sinceramente las molestias. Utilice el siguiente botón para registrarse y recibir una notificación cuando vuelva a estar disponible.
 
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Notificarme
 </span>
 </a>
 
