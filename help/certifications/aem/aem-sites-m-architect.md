@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Examen AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
+source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
 workflow-type: tm+mt
-source-wordcount: '1498'
-ht-degree: 19%
+source-wordcount: '1722'
+ht-degree: 17%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 19%
 >[!NOTE]
 >
 >Este examen (AD0-E117) se está manteniendo y no está disponible temporalmente. Sentimos sinceramente las molestias. [Regístrese para recibir notificaciones](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) cuando vuelva a estar disponible.
+>
+>**Preguntas?** Consulte nuestra [FAQ](#AEM-FAQ) al final de esta página.
 
 Aprenda a obtener la certificación de Arquitecto Maestro.
 
@@ -211,7 +213,6 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 >
 >Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
 
-
 ## Acerca del examen
 
 {{about-certification-exam}}
@@ -223,6 +224,8 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 >[!NOTE]
 >
 >Este examen (AD0-E117) se está manteniendo y no está disponible temporalmente. Sentimos sinceramente las molestias. [Regístrese para recibir notificaciones](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) cuando vuelva a estar disponible.
+>
+>**Preguntas?** Consulte nuestra [FAQ](#AEM-FAQ) al final de esta página.
 
 >[!ENDTABS]
 
@@ -231,3 +234,23 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+
+## Preguntas frecuentes para el examen de Adobe Experience Manager Sites Architect Master (AD0-E117) {#AEM-FAQ}
+
+El examen de certificación AD0-E117 se está manteniendo y no está disponible temporalmente. Sentimos sinceramente las molestias. [Regístrese para recibir notificaciones](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) cuando vuelva a estar disponible.
+
+**¿Qué sucede si ya he programado mi examen?**
+
+Todos los exámenes AD0-E117 programados han sido cancelados. Los candidatos que se vean afectados tendrán que volver a programar el examen cuando la nueva versión esté disponible.
+
+**Ya pagué por el examen. ¿Recibiré un reembolso?**
+
+* Si pagó el examen con una tarjeta de crédito a través de Examity, se le reembolsará el importe total.  
+* Si pagaste con un cupón, tu código se restablecerá y podrás aplicarlo a tu nueva cita para el examen.  
+* Si su cupón caduca antes de que pueda usarlo, le emitiremos un nuevo cupón una vez que esté listo para programar.
+
+**Necesito renovar mi certificación antes de octubre; ¿afectará esto a mi renovación?**
+
+No. Podrá renovar mediante el aprendizaje continuo. Asegúrese de seguir las instrucciones y el proceso proporcionados en [Renovar la certificación](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+
+
