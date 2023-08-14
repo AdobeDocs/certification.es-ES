@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '2655'
+source-wordcount: '2643'
 ht-degree: 1%
 
 ---
@@ -49,15 +49,13 @@ A veces hay varias versiones de un examen. Es mejor tomar la última versión.
 
 +++¿Qué sucede si tengo problemas técnicos durante mi examen controlado?
 
-PSI y [!DNL Examity] Tener asistencia disponible por chat, correo electrónico y teléfono. El soporte de Adobe no puede ayudar con los problemas técnicos que ocurren durante el examen.
+[!DNL Examity] tiene soporte disponible por chat, correo electrónico y teléfono. El soporte de Adobe no puede ayudar con los problemas técnicos que ocurren durante el examen.
 
-[!DNL Examity] Asistencia de - `adobepartnersupport@examity.com`
-
-Compatibilidad con PSI - `psisupport@psionline.com`
+[!DNL Examity] Asistencia de: `adobepartnersupport@examity.com`
 
 El recurso de ayuda más rápido es a través de su chat. Todos los candidatos deben asegurarse de que su equipo cuenta con los requisitos adecuados del sistema antes de realizar el examen.
 
-Para obtener más información, consulte: PSI y [!DNL Examity] páginas para administrar exámenes y configuración técnica.
+Para obtener más información, consulte la [!DNL Examity] página para administrar los exámenes y la configuración técnica.
 
 +++
 
@@ -117,9 +115,7 @@ Debido a que necesitamos asegurarnos de que nuestras personas con certificación
 
 +++¿Los exámenes están disponibles en idiomas distintos del inglés?
 
-{{PSI-note}}
-
-Hay algunos exámenes disponibles en japonés a través de PSI (uno de nuestros proveedores). Si el examen está disponible en japonés, se anotará en los detalles del examen para ese examen. Los detalles de los exámenes se encuentran en la pestaña &quot;Prepararse&quot; de las páginas del recorrido de certificación.
+Algunos exámenes están disponibles en japonés. Si el examen está disponible en japonés, se anotará en los detalles del examen para ese examen. Los detalles de los exámenes se encuentran en la pestaña &quot;Prepararse&quot; de las páginas del recorrido de certificación.
 
 +++
 

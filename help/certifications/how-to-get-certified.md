@@ -4,9 +4,9 @@ description: Aprenda a obtener la certificación en el Adobe. Encuentre todos lo
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1414'
 ht-degree: 1%
 
 ---
@@ -19,25 +19,16 @@ Aprenda a obtener la certificación en el Adobe. Encuentre todos los recursos qu
 
 >[!TAB Registro]
 
-El Adobe utiliza dos proveedores para administrar los exámenes controlados: [!DNL PSI] y [!DNL Examity].
-
-{{PSI-note}}
-
-* **[!DNL PSI]:** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
-* **[!DNL Examity]:** ofrece una opción en línea remota
+El Adobe utiliza el examen para administrar los exámenes controlados en línea.
 
 **Siga estos pasos para registrarse en el examen de certificación:**
 
 * **Paso 1:** Inicie sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Paso 2:** Vuelva a este sitio y haga clic en Certificaciones técnicas.
-* **Paso 3:** Elija su solución de Adobe, nivel de certificación y función
+* **Paso 3:** Elija su aplicación de Adobe, nivel de certificación y función
 * **Paso 4:** Siga los pasos proporcionados en las **Obtenga la certificación** sección.
 
 **Recursos**
-
-**PSI:**
-
-* [Cómo registrarse para un examen en un centro de pruebas](https://express.adobe.com/page/C8QDu4upy4gF3/){target="_blank"}
 
 Ejemplo:
 
@@ -50,7 +41,7 @@ Su [perfil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){targe
 
 Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
 
-Ni el Soporte de Adobe ni los proveedores de exámenes pueden procesar solicitudes de reprogramación y cancelación. Las cancelaciones de menos de 48 horas están sujetas a una tarifa de reprogramación además de la tarifa del examen.
+Ni el soporte de Adobe ni la revisión pueden procesar las solicitudes de reprogramación y cancelación. Las cancelaciones de menos de 48 horas están sujetas a una tarifa de reprogramación además de la tarifa del examen.
 
 Una vez que complete un examen, recibirá un pase provisional o suspenderá. La puntuación final puede tardar hasta 72 horas en rellenarse. Encontrará el informe de resultados y de puntuación en la pestaña Historial de la [Administrador de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -88,13 +79,10 @@ Nota: Los descuentos por lotes no se pueden combinar con ninguna otra oferta o d
 
 El equipo de Credenciales de Adobe se asocia con proveedores para ayudar a respaldar las iniciativas y objetivos del programa.  Estos son los proveedores y su información de contacto:
 
-{{PSI-note}}
-
 | Nombre de proveedor | Descripción | Página de asistencia/correo electrónico |
 | ------- | ------- | ------- |
 | Con Credibilidad | Sistema de administración de distintivos | [Asistencia de](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Examity | Proveedor de envío de prueba (solo procesamiento en línea) | [Correo electrónico](mailto:support@examity.com){target="_blank"} o 855-Examity (855-392-6489) |
-| PSI | Proveedor de entrega de prueba para exámenes controlados en una ubicación o en japonés | [Correo electrónico](mailto:adobe.psisupport@psionline.com){target="_blank"} |
 | Xvoucher - Centro de Cupones de Certificación Adobe | Centro de cupones para la compra de cupones individuales o globales | [Correo electrónico](mailto:support@xvoucher.com){target="_blank"} o [Ayuda en línea](https://help.xvoucher.com/hc/en-us) |
 
 Otros recursos del proveedor:
@@ -176,7 +164,7 @@ Cuando se te asigne un cupón, recibirás un correo electrónico de support@xvou
 
 +++¿Pueden devolverse los cupones por crédito o reembolso?
 
-Todas las ventas son finales. No se aceptan devoluciones ni reembolsos. Los cupones para exámenes de Adobe se adquieren en un nivel de examen, no para exámenes específicos, lo que proporciona una buena flexibilidad.
+Todas las ventas son finales. No se aceptan devoluciones ni reembolsos. Los cupones para exámenes de Adobe se adquieren en un nivel de examen, no para exámenes específicos, lo que proporciona una gran flexibilidad.
 
 +++
 

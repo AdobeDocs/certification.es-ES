@@ -1,7 +1,7 @@
 ---
-source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -19,16 +19,13 @@ Vaya a la [Adobe Certificación Exam Prep Portal](https://www.certmetrics.com/ad
 
 ## Acerca del examen de certificación {#about-certification-exam}
 
-El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y [!DNL Examity].
+El Adobe utiliza el examen para administrar los exámenes controlados en línea. En el portal Examity, puede:
 
-* **PSI** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
-* **[!DNL Examity]** ofrece una opción en línea remota
+* **Programa, reprograma o cancela tu examen.** Tenga en cuenta que la cancelación y la reprogramación deben iniciarse antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
 
-Para programar, reprogramar o cancelar el examen, simplemente seleccione el proveedor que desee y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+* **Paga tu examen.** Pague su examen de certificación ya sea por cupón o tarjeta de crédito en el portal Examity. Para adquirir un cupón de examen, vaya a: [Sistema de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}. Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
 
-Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
-
-Pague el examen de certificación mediante un vale o una tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}. Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
+* **Haz tu examen.**
 
 ## Nota PSI {#PSI-note}
 

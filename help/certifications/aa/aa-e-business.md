@@ -4,12 +4,12 @@ description: Aprenda a obtener la certificación como experto en profesionales d
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Examen AD0-E208" type="positivo"
+badge: label="Examen AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1001'
 ht-degree: 15%
 
 ---
@@ -38,7 +38,7 @@ Debería tener:
 
 * cliente FTP
 * Actual [!DNL Adobe Analytics] Funciones de Workspace y otras opciones de creación de informes fuera de Workspace (por ejemplo, programar proyectos e informes)
-* Herramientas de depuración relevantes para [!DNL Adobe Analytics] (Monitor de paquetes, como un depurador de Adobe, herramientas para desarrolladores de exploradores, Charles)
+* Herramientas de depuración relevantes para [!DNL Adobe Analytics] (Monitor de paquetes, como un Adobe Debugger, herramientas para desarrolladores de exploradores, Charles)
 * Admin Console (consola de administración de Analytics Reports Suite y Admin Console de Experience Cloud)
 * Fundamentos/conceptos básicos de Adobe Launch
 * SPA Comprensión básica del sitio web de aplicaciones,
@@ -167,37 +167,22 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 >
 >Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+>Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.
 
 ## Realizar una prueba de práctica
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E208)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E208
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 
