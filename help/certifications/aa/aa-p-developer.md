@@ -5,13 +5,13 @@ solution: Analytics
 product: Analytics
 role: Developer
 level: Experienced
-badge: label="Examen AD0-E213" type="positivo"
+badge: label="Examen AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
 workflow-type: tm+mt
-source-wordcount: '1138'
-ht-degree: 12%
+source-wordcount: '1145'
+ht-degree: 10%
 
 ---
 
@@ -69,42 +69,42 @@ Experiencia con las siguientes tareas:
 
 Sección 1: Análisis en el ecosistema de Adobe Experience Cloud (14 %)
 
-* Identificación de las funciones y capacidades de Adobe Experience Cloud ID
-* Identificar usuarios para Adobe Launch
-* Identificar cómo habilitar/admitir [!DNL Adobe Analytics] Etiquetas en el ecosistema de Adobe Experience Cloud
+* Identificación de las funciones y capacidades de Adobe Experience Cloud ID.
+* Identificar los usuarios de Adobe Launch.
+* Identificar cómo habilitar/admitir [!DNL Adobe Analytics] en el ecosistema de Adobe Experience Cloud.
 
-Sección 2: Estrategia y diseño de Analytics basados en una referencia de diseño de solución (12 %)
+Sección 2: Estrategia y diseño de Analytics basados en un SDR (12 %)
 
-* Dada una Referencia de diseño de la solución, identifique los objetos de datos que deben rellenarse
-* Dado que forma parte de un documento de especificaciones técnicas, identifique cómo implementar la captura de datos
+* Dada una Referencia de diseño de la solución, identifique qué objetos de datos deben rellenarse.
+* Dado que forma parte de un documento de especificaciones técnicas, identifique cómo implementar la captura de datos.
 
 Sección 3: Implementación y configuración de Analytics (30 %)
 
-* Identificación de los pasos para la implementación [!DNL Adobe Analytics] Código
-* Identificación de funciones de código de implementación mínimo para el seguimiento de Analytics
-* Identifique los pasos para configurar varios componentes dentro de [!DNL Adobe Analytics] IU
-* Identificar funciones de [!DNL Adobe Analytics] grupo de informes y configuración de variables
-* Identificar las características de una capa de datos y los valores de dicha capa
-* Identificar las funciones de App Measurement para funciones de seguimiento como el seguimiento de vínculos y el seguimiento del comercio electrónico
+* Identificación de los pasos para la implementación [!DNL Adobe Analytics] Código.
+* Identifique funciones de código de implementación mínimo para el seguimiento de Analytics.
+* Identifique los pasos para configurar varios componentes dentro de [!DNL Adobe Analytics] IU.
+* Identificar funciones de [!DNL Adobe Analytics] grupo de informes y configuración de variables.
+* Identificar las características de una capa de datos y los valores de dicha capa.
+* Identifique las funciones de App Measurement para funciones de seguimiento como el seguimiento de vínculos y el seguimiento del comercio electrónico.
 
-Sección 4: Sistemas de gestión de etiquetas (18 %)
+Sección 4: Sistemas Tag Management (18 %)
 
-* Identificar si se han cumplido los requisitos mediante auditorías de etiquetas
-* Identificación de los pasos para configurar el etiquetado de sitios web con Adobe Launch
-* Ante un escenario concreto, identifique cómo habilitar, modificar y solucionar problemas de extensiones en Adobe Launch
-* Identificar cómo crear reglas y elementos de datos
+* Identifique si se han cumplido los requisitos mediante auditorías de etiquetas.
+* Identifique los pasos para configurar el etiquetado de sitios web con Adobe Launch.
+* Ante un escenario concreto, identifique cómo habilitar, modificar y solucionar problemas de extensiones en Adobe Launch.
+* Identificar cómo crear reglas y elementos de datos.
 
-Sección 5: Mobile Services y API (8 %)
+Sección 5: Componentes de [!DNL Adobe Analytics] (8 %)
 
-* Identificar las funciones de [!DNL Adobe Analytics] API (fuente de datos, almacén, fuentes de datos, informes)
-* Identificar las características de las reglas de procesamiento y los servicios móviles
+* Identificar las funciones de [!DNL Adobe Analytics] API (fuente de datos, almacén, fuentes de datos, informes).
+* Identificar las características de las reglas de procesamiento.
 
-Sección 6: Pruebas, validación y solución de problemas (18 %)
+Sección 6: Pruebas, validación y resolución de problemas (18 %)
 
-* Identificación del significado de los errores comunes de JavaScript
-* Identificar el significado de lo común [!DNL Adobe Analytics] errores de variables
-* Ante un escenario concreto, identifique las prácticas recomendadas de validación de pruebas y depuración que se deben seguir
-* Identificación de cómo realizar el seguimiento de un [!DNL Adobe Analytics] llamadas al servidor en todo el ciclo de vida (es decir, desde la solicitud de señalización hasta la visualización en el informe)
+* Identificar el significado de los errores comunes de JavaScript.
+* Identificar el significado de lo común [!DNL Adobe Analytics] errores de variables.
+* Ante un escenario concreto, identifique las prácticas recomendadas de validación de pruebas y depuración que se deben seguir.
+* Identificación de cómo realizar el seguimiento de un [!DNL Adobe Analytics] llamada al servidor (por ejemplo, De la solicitud de señalización a la visualización en el informe).
 
 >[!TAB Prepárate.]
 
@@ -123,45 +123,44 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Servicio de Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
 * [Preguntas más frecuentes](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
 * [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Información general](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 * [Información general sobre etiquetas](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es){target="_blank"}
-* [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
 
 **Sección 2: Estrategia y diseño de Analytics basados en una referencia de diseño de solución**
 
-* [Tutoriales de Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=es){target="_blank"}
 * [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
 * [Guía de administración de Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
+* [Variables de lista](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
+* [eVars de comercialización y métodos de búsqueda de productos](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
 
 **Sección 3: Implementación y configuración de Analytics**
 
-* [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
-* [Información general sobre etiquetas](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es){target="_blank"}
 * [Guía de Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}
-* [Guía de administración de Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
-* [Developers Live: Capa de datos del cliente de Adobe: realiza un seguimiento de los datos del visitante](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2021/feb2021/adobe-client-data-layer.html){target="_blank"}
 * [Sugerencia rápida: Paso de datos a reglas de Launch](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
+* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
+* [Cómo se recopilan los datos de Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
 
 **Sección 4: Sistemas de gestión de etiquetas**
 
 * [Información general sobre etiquetas](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es){target="_blank"}
 * [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Información general](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
-* [Tutoriales de Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=es){target="_blank"}
+* [Analizadores de paquetes](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
+* [Referencia de objeto satélite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
 
 **Sección 5: Mobile Services y API**
 
 * [[!DNL Adobe Analytics]: Caso práctico de integración de Email Marketing (ESP)](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
 * [[!DNL Adobe Analytics] API](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [Bienvenido a la guía de administración de equipos y empresas](https://helpx.adobe.com/es/enterprise/admin-guide.html){target="_blank"}
-* [Introducción a la API de Analytics](https://developer.adobe.com/analytics-apis/docs/2.0/guides/){target="_blank"}
-* [Guía de administración de Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
+* [API de informes de Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
+* [Funcionamiento de las reglas de procesamiento](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 
 **Sección 6: Pruebas, validación y solución de problemas**
 
 * [Referencia de error de JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
 * [Notas técnicas de Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=es){target="_blank"}
-* [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
+* [linkDownloadFileTypes](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html?lang=es){target="_blank"}
+* [Seguimiento de componentes donde se hizo clic con [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html?lang=es){target="_blank"}
+* [[!DNL Adobe Analytics] Depuración de implementación: herramientas](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
 
 >[!TAB Obtenga la certificación]
 
@@ -174,6 +173,10 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 ## Acerca del examen
 
 {{about-certification-exam}}
+
+## Realizar una prueba de práctica
+
+{{practice-test}}
 
 ## Realiza el examen (AD0-E213)
 
