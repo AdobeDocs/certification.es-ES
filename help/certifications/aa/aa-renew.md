@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
+source-git-commit: 21a1ff4a0b8fe66004e5dae8e7a75f4196e74375
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 5%
+source-wordcount: '1300'
+ht-degree: 9%
 
 ---
 
@@ -32,9 +32,128 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!TAB Profesional]
 
++++Adobe Analytics Developer Professional
+
+## Instrucciones para renovar la certificación:
+
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2**: revise los objetivos y recursos del examen
+* **Paso 3**: realice y apruebe el examen
+
+### Prepárese.
+
+**Detalles del examen:**
+
+* Puntuación superada: 30/40
+* Tiempo: 80 min
+* Coste: GRATIS/sin procesar
+* Envío: a la carta
+* Idiomas disponibles: Inglés
+* Requisito previo: certificación actual (no caducada) de Adobe Analytics Developer Professional
+* Identificador del examen: AD5-E831
+
+**Alcance y objetivos**
+
+Sección 1: Análisis en el ecosistema de Adobe Experience Cloud (13 %)
+
+* Identificación de las funciones y capacidades de Adobe Experience Cloud ID.
+* Identificar los usuarios de Adobe Launch.
+* Identifique cómo habilitar/admitir etiquetas de Adobe Analytics en el ecosistema de Adobe Experience Cloud.
+
+Sección 2: Estrategia y diseño de Analytics basados en un SDR (13 %)
+
+* Dada una Referencia de diseño de la solución, identifique qué objetos de datos deben rellenarse.
+* Dado que forma parte de un documento de especificaciones técnicas, identifique cómo implementar la captura de datos.
+
+Sección 3: Implementación y configuración de Analytics (30 %)
+
+* Identifique los pasos para implementar el código Adobe Analytics.
+* Identifique funciones de código de implementación mínimo para el seguimiento de Analytics.
+* Identifique los pasos para configurar varios componentes dentro de la interfaz de usuario de Adobe Analytics.
+* Identifique las funciones del grupo de informes y la configuración de variables de Adobe Analytics.
+* Identificar las características de una capa de datos y los valores de dicha capa.
+* Identifique las funciones de App Measurement para funciones de seguimiento como el seguimiento de vínculos y el seguimiento del comercio electrónico.
+
+Sección 4: Sistemas Tag Management (17 %)
+
+* Identifique si se han cumplido los requisitos mediante auditorías de etiquetas.
+* Identifique los pasos para configurar el etiquetado de sitios web con Adobe Launch.
+* Ante un escenario concreto, identifique cómo habilitar, modificar y solucionar problemas de extensiones en Adobe Launch.
+* Identificar cómo crear reglas y elementos de datos.
+
+Sección 5: Componentes de Adobe Analytics (7 %)
+
+* Identifique las funciones de la API de Adobe Analytics (fuente de datos, almacén, fuentes de datos, informes).
+* Identificar las características de las reglas de procesamiento y los servicios móviles.
+
+Sección 6: Pruebas, validación y resolución de problemas (20 %)
+
+* Identificar el significado de los errores comunes de JavaScript.
+* Identificar el significado de los errores comunes de las variables de Adobe Analytics.
+* Ante un escenario concreto, identifique las prácticas recomendadas de validación de pruebas y depuración que se deben seguir.
+* Identifique cómo realizar el seguimiento de una llamada al servidor de Adobe Analytics a lo largo de su ciclo de vida (es decir, De la solicitud de señalización a la visualización en el informe).
+
+## Prepárate.
+
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
+
+**Sección 1**
+
+* [Cookies de Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=es)
+* [Añadir un elemento de datos, una regla y una biblioteca](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [Añadir el código de incrustación](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+
+**Sección 2**
+
+* [Validación de la regla de carga de página global en Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
+* [Referencia de objeto satélite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
+* [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
+
+**Sección 3**
+
+* [appendVisitorIDsTo (seguimiento entre dominios)](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html?lang=es){target="_blank"}
+* [s_objectID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/s-objectid.html){target="_blank"}
+* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
+
+**Sección 4**
+
+* [Añadir el código de incrustación](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+* [Información general sobre la extensión de Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html?lang=es){target="_blank"}
+* [Referencia de inclusión](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
+
+**Sección 5**
+
+* [Guía de exportación de Analytics](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=es){target="_blank"}
+* [Funcionamiento de las reglas de procesamiento](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
+* [API de Adobe Analytics](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+
+**Sección 6**
+
+* [Solución de problemas de implementación de JavaScript](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [Cambiar entornos de etiquetas con el Experience Cloud Debugger](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
+* [Parámetros de consulta de recopilación de datos](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html?lang=es){target="_blank"}
+
+## Renovar la certificación
+
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Adobe Analytics Developer Professional Renewal Exam - AD5-E831 que aparece a continuación.
+
+* [Examen de renovación profesional para desarrolladores de Adobe Analytics - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E831){target="_blank"}
+
 >[!NOTE]
 >
->Renovación profesional próximamente.
+>Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
+
++++
+
++++Profesional de negocios
+
+>[!NOTE]
+>
+>Renovación próximamente.
+
++++
 
 >[!TAB Experto y maestro]
 
