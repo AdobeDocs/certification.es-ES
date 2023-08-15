@@ -5,19 +5,19 @@ solution: Commerce
 product: Magento
 role: User
 level: Experienced
-badge: label="Examen AD0-E708" type="positivo"
+badge: label="Examen AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1443'
+source-wordcount: '1417'
 ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Commerce] Experto profesional de negocios
+# Recorrido de certificación para [!DNL Adobe Commerce] Experto profesional de negocios
 
-Aprenda a convertirse en un experto certificado en profesionales de Adobe.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Commerce] Experto profesional de negocios.
 
 ## Experiencia mínima
 
@@ -221,31 +221,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E708)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E708
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

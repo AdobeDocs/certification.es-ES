@@ -4,19 +4,19 @@ description: Aprenda a obtener la certificación de Adobe [!DNL Experience Manag
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Examen AD0-E125" type="positivo"
+badge: label="Examen AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '798'
 ht-degree: 7%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Experience Manager Forms] Experto de desarrollador
 
-Obtenga información sobre cómo obtener una certificación [!DNL Experience Manager Forms] Experto en desarrollo.
+Aprenda a obtener la certificación de Adobe [!DNL Experience Manager Forms] Experto en desarrollo.
 
 ## Experiencia mínima
 
@@ -163,31 +163,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E125)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E125
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

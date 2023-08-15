@@ -5,51 +5,51 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Examen AD0-E718" type="positivo"
+badge: label="Examen AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '850'
 ht-degree: 1%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Commerce] Maestro de arquitectos
+# Recorrido de certificación para [!DNL Adobe Commerce] Maestro de arquitectos
 
-Aprenda a convertirse en un maestro de arquitectos de Adobe certificado.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Commerce] Maestro de arquitectos.
 
 ## Experiencia mínima
 
-Debe tener al menos 3-5 años de experiencia liderando [!DNL Commerce] proyectos de desarrollo y son capaces de diseñar, integrar, implementar y explicar soluciones a problemas empresariales utilizando el Adobe [!DNL Commerce] junto con los servicios asociados.
+Debe tener al menos 3-5 años de experiencia liderando [!DNL Commerce] proyectos de desarrollo y son capaces de diseñar, integrar, implementar y explicar soluciones a problemas empresariales utilizando [!DNL Adobe Commerce] junto con los servicios asociados.
 
 Además, debe estar muy familiarizado con las siguientes actividades y tecnologías:
 
 * Ampliación de funciones principales
-* Configuración del Adobe [!DNL Commerce] completo
+* Configurar [!DNL Adobe Commerce] completo
 * Cree un modelo completo de cómo debería funcionar una extensión, los requisitos de la empresa para crear un modelo de cómo debería funcionar, sin tener que entrar en el código
 * Comprender las necesidades y funciones empresariales
 * Implicaciones de rendimiento de soluciones y extensiones
 * Lógica de contratos de servicio
 * GraphQL
 * Comprender el Compositor como herramienta de dependencia
-* Configuración de la instancia de trabajo del Adobe [!DNL Commerce] desde cero
+* Configuración de la instancia de trabajo del Adobe [!DNL Adobe Commerce] desde cero
 * Personalizar el tablero de administración, crear cuadrículas y formularios
 * Administración de caché e índice; crear índice personalizado
 * Crear nuevo tipo de caché
 * Solucionar y depurar varios problemas en el entorno
 * Ampliar y administrar esquema de base de datos
 * Características de seguridad, proporcionan una instalación segura y una extensión de desarrollo
-* Realizar servicios basados en servidor que [!DNL Commerce] conecta (Redis, gestión de configuración de Varnish)
+* Realizar servicios basados en servidor que [!DNL Adobe Commerce] conecta (Redis, gestión de configuración de Varnish)
 * Consciente de la mejor práctica estándar de codificación, Estándares de codificación, PSR, principio SOLID
-* Configuración y uso [!DNL Commerce] Conector de servicios (y servicios asociados)
+* Configuración y uso [!DNL Adobe Commerce] Conector de servicios (y servicios asociados)
 * Administración de contenido de ensayo
-* Explicación del Adobe [!DNL Commerce] toma el valor predeterminado, cuando su está disponible y no está disponible
-* Amplia comprensión de cualquier elemento relacionado [!DNL Commerce] sector
+* Comprensión [!DNL Adobe Commerce] toma el valor predeterminado, cuando su está disponible y no está disponible
+* Amplia comprensión de cualquier elemento relacionado [!DNL Adobe Commerce] sector
 * Diseño de arquitectura de proyecto
-* Optimizar el rendimiento del Adobe [!DNL Commerce] predeterminado
+* Optimizar el rendimiento de [!DNL Adobe Commerce] predeterminado
 * Creación y modificación de B2B
-* Protocolo AMQP y adaptadores en Adobe [!DNL Commerce] (S3)
+* Protocolo AMQP y adaptadores en [!DNL Adobe Commerce] (S3)
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ Además, debe estar muy familiarizado con las siguientes actividades y tecnolog�
 
 **Destinatarios a los que va dirigido:**
 
-* Software principal/[!DNL Commerce] Arquitecto
+* Software principal/[!DNL Adobe Commerce] Arquitecto
 * Arquitecto técnico
 * Arquitecto de soluciones
 * Responsable técnico
@@ -112,7 +112,7 @@ Sección 3: Configuración e implementación (22 %)
 * Supervisión y mejora del proceso de implementación
 * Solución de problemas de infraestructura y configuración
 
-Sección 4: Conceptos básicos de cumplimiento/seguridad (13 %)
+Sección 4: Conceptos básicos de cumplimiento y seguridad (13 %)
 
 * Comprender los conceptos básicos del cumplimiento de las leyes de privacidad y seguridad de pago
 * Identificación de aspectos comunes de seguridad de un Adobe [!DNL Commerce] proyecto
@@ -169,31 +169,16 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E718)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E718
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

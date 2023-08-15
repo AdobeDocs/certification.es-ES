@@ -4,19 +4,19 @@ description: Aprenda a convertirse en un experto profesional de Adobe certificad
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Examen AD0-E123" type="positivo"
+badge: label="Examen AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '697'
 ht-degree: 15%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Experience Manager Sites] Desarrollador profesional
 
-Aprenda a convertirse en un experto certificado en Profesionales del Adobe.
+Aprenda a obtener la certificación de Adobe [!DNL Experience Manager Sites] Desarrollador profesional.
 
 ## Experiencia mínima
 
@@ -130,24 +130,16 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 >
 >Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E123)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E123
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E123" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

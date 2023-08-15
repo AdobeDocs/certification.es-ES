@@ -3,14 +3,14 @@ title: Resumen de certificación de Experience Manager
 description: Descripción general de las opciones de certificación de Adobe Experience Manager
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 1%
 
 ---
 
-# Resumen de certificación de Experience Manager
+# Adobe [!DNL Experience Manager] Resumen de certificación
 
 Seleccione el nivel y la función para obtener más información sobre la certificación que le interesa.
 

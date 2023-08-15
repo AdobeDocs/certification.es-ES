@@ -5,23 +5,23 @@ solution: Commerce
 product: Magento
 role: Developer
 level: Experienced
-badge: label="Examen AD0-E710" type="positivo"
+badge: label="Examen AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1337'
 ht-degree: 1%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Commerce] Experto para desarrolladores front-end
+# Recorrido de certificación para [!DNL Adobe Commerce] Experto para desarrolladores front-end
 
-Obtenga información sobre cómo obtener la certificación de experto en Adobe Developer.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Commerce] Experto en desarrollo.
 
 >[!NOTE]
 >
->Se ha actualizado este examen Adobe Commerce Front End Developer Expert (AD0-E710). Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 18 de agosto de 2023. Si acaba de empezar, le recomendamos que tome la [versión más reciente de este examen](ac-e-fedeveloper0623.md).
+>Este examen [!DNL Adobe Commerce] Se ha actualizado Front-End Developer Expert (AD0-E710). Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 18 de agosto de 2023. Si acaba de empezar, le recomendamos que tome la [versión más reciente de este examen](ac-e-fedeveloper0623.md).
 
 ## Experiencia mínima
 
@@ -216,31 +216,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E710)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E710
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

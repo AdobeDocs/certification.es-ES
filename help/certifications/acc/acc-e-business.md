@@ -4,25 +4,25 @@ description: Aprenda a convertirse en un experto profesional certificado en Adob
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Examen AD0-E327" type="positivo"
+badge: label="Examen AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '914'
 ht-degree: 18%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Campaign Classic] Experto profesional de negocios
 
-Aprenda a convertirse en un experto certificado en profesionales de Adobe.
+Aprenda a obtener la certificación de Adobe [!DNL Campaign Classic] Experto profesional de negocios.
 
 ## Experiencia mínima
 
 Debería tener:
 
-* Al menos 2 años de [!DNL Campaign Classic] experiencia informática
+* Al menos 2 años de Adobe extensivo [!DNL Campaign Classic] experiencia informática
 * Experiencia de varios años en el desarrollo de campañas y tácticas de marketing mediante el uso de omnicanal digital
 * Experiencia en la interpretación/traducción de los requisitos empresariales a los entregables de Campaign procesables
 * Experiencia con métricas de marketing como ROI, tasas de pulsaciones y conversión
@@ -170,20 +170,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E327)
-
-### Opciones disponibles
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E327
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

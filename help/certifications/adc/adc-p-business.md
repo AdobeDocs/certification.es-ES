@@ -7,24 +7,24 @@ role: User
 badge: label="Examen AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Recorrido de certificación para profesionales de Adobe Document Cloud Business Professional
+# Recorrido de certificación para [!DNL Adobe Document Cloud] Profesional empresarial
 
-Aprenda a convertirse en un profesional profesional de Adobe profesional certificado.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Document Cloud] Profesional de negocios.
 
 ## Experiencia mínima
 
 Debería tener:
 
-* Al menos 0-12 meses de experiencia en Adobe Document Cloud
+* Al menos 0-12 meses de experiencia en [!DNL Adobe Document Cloud]
 * Poder identificar y comunicar las necesidades empresariales
-* Poder asesorar sobre la activación de productos en las soluciones de Adobe Document Cloud.
+* Poder realizar consejos de habilitación de productos sobre [!DNL Adobe Document Cloud] soluciones.
 
 >[!NOTE]
 >
@@ -131,20 +131,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-D106)
-
-### Opciones disponibles
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-D106
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

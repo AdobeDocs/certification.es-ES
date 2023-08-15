@@ -4,19 +4,19 @@ description: Obtenga información sobre cómo certificarse como Adobe [!DNL Audi
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
-badge: label="Examen AD0-E457" type="positivo"
+badge: label="Examen AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '940'
 ht-degree: 10%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Audience Manager] Experto profesional de negocios
+# Recorrido de certificación para [!DNL Adobe Audience Manager] Experto profesional de negocios
 
-Obtenga información sobre cómo obtener una certificación [!DNL Audience Manager] Experto profesional de negocios.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Audience Manager] Experto profesional de negocios.
 
 ## Experiencia mínima
 
@@ -166,31 +166,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E457)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E457
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

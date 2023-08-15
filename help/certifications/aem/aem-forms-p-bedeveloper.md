@@ -4,19 +4,19 @@ description: Aprenda a convertirse en un Adobe certificado AEM Forms Backend Dev
 solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Examen AD0-E127" type="positivo"
+badge: label="Examen AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '825'
 ht-degree: 8%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Experience Manager Forms] Backend Developer Professional
 
-Obtenga información sobre cómo obtener una certificación [!DNL Adobe AEM Forms] Backend Developer Professional.
+Aprenda a obtener la certificación de Adobe [!DNL Experience Manager Forms] Backend Developer Professional.
 
 ## Experiencia mínima
 
@@ -152,20 +152,16 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 >Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
 
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E127)
-
-### Opciones disponibles
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E127
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

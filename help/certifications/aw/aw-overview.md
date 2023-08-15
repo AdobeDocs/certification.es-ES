@@ -3,14 +3,14 @@ title: Resumen de certificación de Workfront
 description: Descripción general de las opciones de certificación de Adobe Workfront
 solution: Workfront
 exl-id: 0bd627c8-6ba2-49bb-b0e7-477d61b6ce3e
-source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 6%
 
 ---
 
-# Resumen de certificación de Workfront
+# Adobe [!DNL Workfront] Resumen de certificación
 
 **Profesional**
 

@@ -5,12 +5,12 @@ solution: Audience Manager
 product: Audience Manager
 role: User
 level: Experienced
-badge: label="Examen AD0-E458" type="positivo"
+badge: label="Examen AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '907'
 ht-degree: 13%
 
 ---
@@ -150,20 +150,16 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E458)
-
-### Opciones disponibles
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E458
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E458" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

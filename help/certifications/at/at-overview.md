@@ -3,18 +3,18 @@ title: Resumen de certificación de Target
 description: Descripción general de las opciones de certificación de Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 5%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
-# Resumen de certificación de Target
+# [!DNL Adobe Target] Información general sobre la certificación
 
 ## Novedades
 
-Se ha actualizado la certificación Adobe Target Architect Master.
+El [!DNL Adobe Target] Se ha actualizado la certificación de maestro de arquitectos.
 
 La versión actual es:
 

@@ -8,16 +8,16 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E600 y AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1729'
-ht-degree: 6%
+source-wordcount: '1570'
+ht-degree: 7%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Real-Time Customer Data Platform] Experto
 
-Aprenda a obtener la certificación de Adobe [!DNL Experience Platform] experto en Real-time Customer Data Platform (RTCDP).
+Aprenda a obtener la certificación de Adobe [!DNL Real-Time Customer Data Platform] Experto.
 
 ## Experiencia mínima
 
@@ -144,26 +144,19 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Haz el examen
+## Programar o realizar el examen AD0-E600
 
-El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y Examity.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* **PSI** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
-* **[!DNL Examity]** ofrece una opción en línea remota
+<span class="spectrum-Button-label has-no-wrap">
+   Ir al portal de Examity
+</span>
+</a>
 
-Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
-
-El nombre de su perfil en el Sistema de administración de credenciales de Adobe debe coincidir exactamente con su Id. de gobierno. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.
-
-Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
-
-### Número de examen: AD0-E600
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E600 newtab=true"}[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
 
 >[!ENDTABS]
 
@@ -223,11 +216,11 @@ Sección 3: Destinos (27 %)
 * [[!DNL Real-Time Customer Data Platform] página de inicio y paneles](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
 * [Monitorización de flujos de datos para destinos en la IU](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=es){target="_blank"}
 * [Crear y activar segmentos en el Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-* [Resumen de privacidad](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
+* [Información general de la privacidad](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Gobernanza de datos en CDP en tiempo real](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [Aplicar marco de gobernanza de datos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
 * [Introducción a la gobernanza de datos](https://video.tv.adobe.com/v/333350/){target="_blank"}
-* [Resumen de gobernanza de datos](https://video.tv.adobe.com/v/29708/){target="_blank"}
+* [Información general de gobernanza de datos](https://video.tv.adobe.com/v/29708/){target="_blank"}
 * [Demostración de control de datos](https://video.tv.adobe.com/v/36653/){target="_blank"}
 * [Clasificar datos mediante una etiqueta de gobernanza](https://video.tv.adobe.com/v/29709/){target="_blank"}
 * [Crear políticas de uso de datos](https://video.tv.adobe.com/v/32977/){target="_blank"}
@@ -283,31 +276,16 @@ Sección 3: Destinos (27 %)
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E601)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E601
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

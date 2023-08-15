@@ -4,22 +4,22 @@ description: Aprenda a obtener la certificación de profesional de Adobe Develop
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Examen AD0-E721" type="positivo"
+badge: label="Examen AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1057'
-ht-degree: 0%
+source-wordcount: '888'
+ht-degree: 1%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Commerce] Desarrollador front-end profesional
 
-Aprenda a obtener la certificación de profesional de Adobe Developer.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Commerce] Desarrollador profesional.
 
 >[!NOTE]
 >
->Este es el examen más reciente de Adobe Commerce Front End Developer Professional. Si ya ha empezado a estudiar o ha programado la [versión anterior](ac-p-fedeveloper.md) tiene hasta el 18 de agosto de 2023 para completarlo.
+>Este es el más reciente [!DNL Adobe Commerce] Examen profesional para desarrolladores front-end. Si ya ha empezado a estudiar o ha programado la [versión anterior](ac-p-fedeveloper.md) tiene hasta el 18 de agosto de 2023 para completarlo.
 
 ## Experiencia mínima
 
@@ -103,7 +103,7 @@ Sección 4: JavaScript (18 %)
 
 Sección 5: Configuración de administración y PageBuilder (6 %)
 
-* Demostrar la capacidad de personalizar el Page Builder y el contenido de CMS&quot;
+* Demostración de la capacidad de personalizar Page Builder y &quot;Contenido de CMS&quot;
 * Aplicar o programar una temática a un ámbito específico (sitio web, tienda, vista de tienda)
 * Aplicar cambios de diseño a categorías, productos y páginas de CMS mediante la configuración de administración
 * Describir los pasos para personalizar los correos electrónicos transaccionales
@@ -171,26 +171,18 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Prueba de práctica próximamente**
 
-**Realice el examen de certificación**
+## Acerca del examen de certificación
 
-El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y Examity.
+{{about-certification-exam}}
 
-* **PSI** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
-* **[!DNL Examity]** ofrece una opción en línea remota
+## Programar o realizar el examen AD0-E721
 
-Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-El nombre de su perfil en el Sistema de administración de credenciales de Adobe debe coincidir exactamente con su Id. de gobierno. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.
-
-Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
-
-### Número de examen: AD0-E721
-
-[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721 newtab=true"}
-
-Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
+<span class="spectrum-Button-label has-no-wrap">
+   Ir al portal de Examity
+</span>
+</a>
 
 >[!ENDTABS]
 

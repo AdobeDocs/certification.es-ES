@@ -7,22 +7,22 @@ role: User
 badge: label="Examen AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1425'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Marketo Engage] Experto profesional de negocios
 
-Aprenda a convertirse en un experto certificado en profesionales de Adobe.
+Aprenda a obtener la certificación de Adobe [!DNL Marketo Engage] Experto profesional de negocios.
 
 ## Experiencia mínima
 
 Debería tener:
 
-* Aproximadamente 18 meses de experiencia con [!DNL Marketo] funciones y capacidades necesarias para crear campañas de marketing y utilizar datos de comportamiento del cliente
+* Aproximadamente 18 meses de experiencia con el Adobe [!DNL Marketo Engage] funciones y capacidades necesarias para crear campañas de marketing y utilizar datos de comportamiento del cliente
 
 Debe ser un experto en marketing con experiencia en:
 
@@ -216,38 +216,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E559)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen de inglés
-</span>
-</a>
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer un examen de japonés
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E559
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

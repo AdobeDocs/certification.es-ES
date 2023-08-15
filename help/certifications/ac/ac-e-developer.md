@@ -4,19 +4,19 @@ description: Obtenga información sobre cómo obtener la certificación de exper
 solution: Commerce
 role: Developer
 level: Experienced
-badge: label="Examen AD0-E716" type="positivo"
+badge: label="Examen AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1854'
+source-wordcount: '1850'
 ht-degree: 2%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Commerce] Experto de desarrollador
+# Recorrido de certificación para [!DNL Adobe Commerce] Experto de desarrollador
 
-Obtenga información sobre cómo obtener la certificación de experto en Adobe Developer.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Commerce] Experto en desarrollo.
 
 ## Experiencia mínima
 
@@ -282,20 +282,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 {{practice-test}}
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E716)
-
-### Opciones disponibles
-
-**[!DNL Examity]** ( *en línea* )
+### Programar o realizar el examen AD0-E716
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

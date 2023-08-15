@@ -4,28 +4,28 @@ description: Aprenda a obtener una certificación de Arquitecto de Adobe Master 
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
-badge: label="Examen AD0-E556" type="positivo"
+badge: label="Examen AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '983'
 ht-degree: 1%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Marketo Engage] Maestro de arquitectos
 
-Aprenda a convertirse en un maestro de arquitectos de Adobe certificado.
+Aprenda a obtener la certificación de Adobe [!DNL Marketo Engage] Maestro de arquitectos.
 
-El Programa de Credenciales de Adobe ha lanzado una nueva certificación Adobe Marketo Engage Architect para los candidatos interesados en obtener el título de Master Certificado. Sustituye al anterior proceso de entrevista de certificación de Marketo Certified Solution Architect (MCSA). [Más información](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+El Programa de credenciales de Adobe ha lanzado un nuevo Adobe [!DNL Marketo Engage] Certificación Engage Architect para candidatos interesados en obtener el título de Master Certificado. Sustituye al anterior proceso de entrevista de certificación de Marketo Certified Solution Architect (MCSA). [Más información](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
 ## Experiencia mínima
 
 Debería tener:
 
-* Una certificación actual en [!DNL Marketo Engage] Experto certificado por profesional de negocios
-* Al menos cinco años de experiencia, preferiblemente con múltiples casos de [!DNL Marketo Engage]
+* Una certificación actual en Adobe [!DNL Marketo Engage] Experto certificado por profesional de negocios
+* Al menos cinco años de experiencia preferiblemente con múltiples casos de Adobe [!DNL Marketo Engage]
 * Comprensión del impacto empresarial y explicación/comunicación eficaz de su solución a las partes interesadas (técnicas y no técnicas) en diferentes niveles
 * La capacidad de conceptualizar una solución y traducirla en un [!DNL Marketo Engage] arquitectura, comprenda los procesos empresariales afectados por las integraciones
 * Familiaridad con los principios de arquitectura de una instancia
@@ -164,31 +164,16 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E556)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E556
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

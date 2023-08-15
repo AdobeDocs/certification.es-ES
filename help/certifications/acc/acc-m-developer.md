@@ -4,25 +4,25 @@ description: Aprenda a obtener la certificación de Arquitecto de Adobe Master e
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
-badge: label="Examen AD0-E328" type="positivo"
+badge: label="Examen AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1013'
-ht-degree: 13%
+source-wordcount: '1011'
+ht-degree: 12%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Campaign Classic] Maestro de arquitectos
 
-Aprenda a obtener la certificación de Arquitecto de Adobe Master en [!DNL Campaign Classic].
+Aprenda a obtener la certificación de Adobe [!DNL Campaign Classic] Maestro de arquitectos.
 
 ## Experiencia mínima
 
 Debería tener:
 
-* Experiencia con múltiples [!DNL Campaign] implementaciones
+* Experiencia con varios Adobes [!DNL Campaign Classic] implementaciones
 * Una comprensión de cómo funciona Adobe Campaign como solución de marketing digital y cómo la implementa en función de los requisitos del proyecto
 * La capacidad de crear un documento de diseño funcional
 * La capacidad de crear un ámbito funcional de trabajo para una instalación de Adobe Campaign
@@ -160,20 +160,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 >Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
 
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E328)
-
-### Opciones disponibles
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E328
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E328" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

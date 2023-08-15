@@ -4,19 +4,19 @@ description: Aprenda a obtener la certificación de profesional de Adobe Develop
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Examen AD0-E717" type="positivo"
+badge: label="Examen AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1351'
+source-wordcount: '1348'
 ht-degree: 1%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Commerce] Desarrollador profesional
 
-Aprenda a obtener la certificación de profesional de Adobe Developer.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Commerce] Desarrollador profesional.
 
 ## Experiencia mínima
 
@@ -245,20 +245,16 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E717)
-
-### Opciones disponibles
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E717
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E717" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

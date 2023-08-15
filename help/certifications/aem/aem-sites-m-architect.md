@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Examen AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1722'
+source-wordcount: '1723'
 ht-degree: 17%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 17%
 >
 >**Preguntas?** Consulte nuestra [FAQ](#AEM-FAQ) al final de esta página.
 
-Aprenda a obtener la certificación de Arquitecto Maestro.
+Aprenda a obtener la certificación de Adobe [!DNL Experience Manager Sites] Maestro de arquitectos.
 
 ## Experiencia mínima
 
@@ -213,13 +213,11 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 >
 >Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E117)
-
-### Opciones disponibles
+## Programar o realizar el examen AD0-E117
 
 >[!NOTE]
 >

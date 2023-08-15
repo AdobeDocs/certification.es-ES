@@ -4,14 +4,14 @@ description: Descripción general de las opciones de certificación para el Adob
 solution: Advertising
 product: Advertising Cloud
 exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
-source-git-commit: a366e8b2ba3fa0fa0a22b05ff26821a7f1fc66a4
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 2%
 
 ---
 
-# Resumen de certificación de publicidad
+# Resumen de certificación de Adobe Advertising
 
 El Adobe ofrece varias certificaciones para profesionales de Advertising Business.  Esta página contiene toda la información necesaria para empezar a utilizar el recorrido de certificación o para renovar el existente.
 

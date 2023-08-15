@@ -4,19 +4,19 @@ description: Obtenga información sobre cómo certificarse como Adobe [!DNL Adve
 solution: Advertising
 product: Advertising Cloud
 role: User
-badge: label="Examen AD0-E502" type="positivo"
+badge: label="Examen AD0-E502" type="positive"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Advertising DSP] Profesional empresarial
 
-Obtenga información sobre cómo obtener una certificación [!DNL Advertising DSP] Profesional de negocios.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Advertising DSP] Profesional de negocios.
 
 ## Experiencia mínima
 
@@ -28,7 +28,7 @@ Debería tener:
 Familiaridad con las siguientes herramientas y tecnologías:
 
 * Software de prueba/depuración de anuncios (VAST INSPECTOR, herramientas para desarrolladores Chrome)
-* Herramientas de Analytics (Adobe Analytics, Google Analytics)
+* Herramientas de Analytics ([!DNL Adobe Analytics], Google Analytics)
 * Software de etiquetado de terceros (Sizmek, Google tag manager)
 * Herramientas de calidad de medios de terceros (IAS, MOAT)
 * Exploradores principales
@@ -131,31 +131,16 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 >
 >Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
 
-## Acerca del examen
+## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Realiza el examen (AD0-E502)
-
-### Opciones disponibles
-
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E502" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E502
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

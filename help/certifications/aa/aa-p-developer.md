@@ -8,16 +8,16 @@ level: Experienced
 badge: label="Examen AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1141'
+source-wordcount: '1120'
 ht-degree: 10%
 
 ---
 
 # Recorrido de certificación para [!DNL Adobe Analytics] Desarrollador profesional
 
-Obtenga información sobre cómo obtener una certificación [!DNL Analytics] Desarrollador profesional.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Analytics] Desarrollador profesional.
 
 ## Experiencia mínima
 
@@ -170,35 +170,20 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 >
 >Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
 
-## Acerca del examen
-
-{{about-certification-exam}}
-
 ## Realizar una prueba de práctica
 
 {{practice-test}}
 
-## Realiza el examen (AD0-E213)
+## Acerca del examen de certificación
 
-### Opciones disponibles
+{{about-certification-exam}}
 
-{{PSI-note}}
-
-**PSI** (*centro de pruebas / opciones de examen de japonés (donde esté disponible)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *en línea* )
+## Programar o realizar el examen AD0-E213
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Hacer el examen
+   Ir al portal de Examity
 </span>
 </a>
 

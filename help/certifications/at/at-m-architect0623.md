@@ -4,22 +4,22 @@ description: Obtenga información sobre cómo obtener una certificación [!DNL A
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Examen AD0-E409" type="positivo"
+badge: label="Examen AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1112'
-ht-degree: 12%
+source-wordcount: '943'
+ht-degree: 14%
 
 ---
 
 # Recorrido de certificación para [!DNL Adobe Target] Maestro de arquitectos
 
-Aprenda a convertirse en un maestro de arquitectos de Adobe certificado.
+Obtenga información sobre cómo obtener una certificación [!DNL Adobe Target] Maestro de arquitectos.
 
 >[!NOTE]
 >
->Este es el examen de maestría de arquitectos de Adobe Target más reciente. Si ya ha empezado a estudiar o ha programado la [versión anterior](at-m-architect.md) tiene hasta el 8 de septiembre de 2023 para completarlo.
+>Este es el más reciente [!DNL Adobe Target] Examen de maestría de arquitectos. Si ya ha empezado a estudiar o ha programado la [versión anterior](at-m-architect.md) tiene hasta el 8 de septiembre de 2023 para completarlo.
 
 ## Experiencia mínima
 
@@ -187,26 +187,18 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Ahora que ha iniciado sesión correctamente, podrá acceder directamente a los siguientes vínculos.**
 
-**Realice el examen de certificación**
+## Acerca del examen de certificación
 
-El Adobe utiliza dos proveedores para administrar los exámenes controlados, PSI y Examity.
+{{about-certification-exam}}
 
-* **PSI** ofrece opciones de examen de japonés y centro de pruebas (cuando esté disponible)
-* **[!DNL Examity]** ofrece una opción en línea remota
+## Programar o realizar el examen AD0-E409
 
-Para programar, reprogramar o cancelar el examen, simplemente haga clic en el proveedor que elija y siga las instrucciones que aparecen en la pantalla. ¡Es así de simple!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-El nombre de su perfil en el Sistema de administración de credenciales de Adobe debe coincidir exactamente con su Id. de gobierno. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.
-
-Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
-
-### Número de examen: AD0-E409
-
-[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
+<span class="spectrum-Button-label has-no-wrap">
+   Ir al portal de Examity
+</span>
+</a>
 
 >[!ENDTABS]
 
