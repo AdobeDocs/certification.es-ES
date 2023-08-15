@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 10%
 
 ---
@@ -24,7 +24,7 @@ Obtenga información sobre cómo obtener una certificación [!DNL Analytics] Des
 Debería tener:
 
 * 6-12 meses de experiencia en [!DNL Adobe Analytics] implementación (aplicación web y móvil)
-* Experiencia en el papel de actor que ayuda a los equipos de implementación de Analytics a establecer un puente entre TI y la empresa para comprender cómo los requisitos empresariales se traducen en una solución técnica (SDR) y en función de los requisitos proporcionados por el analista
+* Experiencia apoyando a los equipos de implementación de Analytics en el puente entre TI y la empresa para comprender cómo los requisitos empresariales se traducen en una solución técnica (SDR) y en función de los requisitos proporcionados por el analista
 * Comprender qué tipo de variable es necesario, dónde y cómo recopilar los datos, diseñar el modelo de datos (capa de datos), configurar y mantener la solución de administración de etiquetas
 
 Experiencia con las siguientes tareas:
