@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
 workflow-type: tm+mt
-source-wordcount: '1120'
+source-wordcount: '1116'
 ht-degree: 10%
 
 ---
@@ -169,10 +169,6 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 >Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 >Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
-
-## Realizar una prueba de práctica
-
-{{practice-test}}
 
 ## Acerca del examen de certificación
 
