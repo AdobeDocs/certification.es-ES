@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bfde4e81ff7a942dca9b97cec28cef99c296dd1f
+source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '766'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Además, debe estar muy familiarizado con las siguientes actividades y tecnolog�
 
 * Nivel: Master (3-5 años de experiencia)
 * Puntuación superada: 30/50
-* Tiempo: 120 min
+* Tiempo: 100 min
 * Entrega: En línea con protección (requiere acceso a la cámara)
 * Idiomas disponibles: Inglés
 * Costo: 225 dólares (global) / 150 dólares (India)
@@ -111,12 +111,6 @@ Sección 3: Configuración e implementación (22 %)
 * Configuración de todos los Adobes [!DNL Commerce] Nube
 * Supervisión y mejora del proceso de implementación
 * Solución de problemas de infraestructura y configuración
-
-Sección 4: Conceptos básicos de cumplimiento y seguridad (13 %)
-
-* Comprender los conceptos básicos del cumplimiento de las leyes de privacidad y seguridad de pago
-* Identificación de aspectos comunes de seguridad de un Adobe [!DNL Commerce] proyecto
-* Identificar las prácticas recomendadas y los requisitos legales del cumplimiento de la accesibilidad
 
 >[!TAB Prepárate.]
 
