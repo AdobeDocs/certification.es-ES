@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '1060'
-ht-degree: 3%
+source-wordcount: '1804'
+ht-degree: 2%
 
 ---
 
@@ -158,6 +158,119 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el enlace de renovación de Marketo Engage Business Practitioner Expert que aparece a continuación.
 
 [!BADGE Toma el Adobe [!DNL Marketo Engage] Examen para la renovación de expertos para profesionales de negocios AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
+
+>[!TAB Principal]
+
+Actualmente, debe estar certificado (no caducado) en:
+
+* Adobe Marketo Engage Architect Master
+
+## Instrucciones para renovar la certificación:
+
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2**: revise los objetivos y recursos del examen
+* **Paso 3**: realice y apruebe el examen
+
+### Prepárese.
+
+**Detalles del examen:**
+
+* Nivel: Experto (3-5 años de experiencia)
+* Puntuación superada: 27/36
+* Tiempo: 72 min
+* Entrega: bajo demanda / sin procesador
+* Idiomas disponibles: Inglés
+* Coste: GRATIS
+* Identificador del examen: AD5-E834 - Adobe [!DNL Marketo Engage] Maestro de arquitectos
+
+**Alcance y objetivos:**
+
+Sección 1: Liderazgo del proyecto 16%
+
+* 1.1 Teniendo en cuenta un caso de estudio, identificar las partes interesadas adecuadas
+* 1.2 Evaluar un conjunto de requisitos y recomendar límites, presupuesto, recursos y ámbito del proyecto
+* 1.3 Dado un proceso modificado, determinar el impacto, la gestión del cambio y los requisitos de habilitación
+* 1.4 Teniendo en cuenta un conjunto de requisitos empresariales, evaluar, auditar y recomendar prioridades y plazos
+
+Sección 2: Diseño de arquitectura de Marketo 48 %
+
+* 2.1 Recopilar requisitos y necesidades y recomendar una gestión de posibles clientes y un diseño del ciclo de vida
+* 2.2 Revisar una implementación existente y proporcionar conclusiones
+* 2.3 Dada la necesidad empresarial, identifique la forma más eficiente de configurar la puntuación
+* 2.4 Revisar los flujos de trabajo existentes y recomendar acciones para escalar la ejecución de campañas de forma eficaz
+* 2.5 Describir los enfoques más eficaces para facilitar las operaciones de marketing y la gestión de clientes potenciales en varios países
+* 2.6 Ante un escenario concreto, evaluar el impacto y los requisitos para incorporar nuevas tecnologías a una instancia
+* 2.7 Identificar diferentes tipos de integraciones (Adobe Experience Cloud o productos externos) y cuándo utilizarlas
+* 2.8 Teniendo en cuenta un escenario o caso de estudio, identifique las diferentes etapas del ciclo de vida del posible cliente que se verán afectadas por los cambios o requisitos propuestos.
+* 2.9 Recomendar una lógica de campaña adecuada para satisfacer un requisito empresarial específico
+
+Sección 3: Informes y atribución 20 %
+
+* 3.1 Dado un modelo a revisar, explicar/articular el concepto de desvíos en el modelador del ciclo de vida
+* 3.2 Dada una campaña multicanal (publicidad en línea/contenido social orgánico), recomendar un enfoque para la creación de informes
+* 3.3 Validar que los informes de Marketo rastrean los cambios del ciclo vital
+* 3.4 Identificar las métricas que se deben usar en un tipo de informe determinado
+* 3.5 Identificar cómo rastrear la atribución multicanal para evaluar el ROI
+* 3.6 Identificar y describir los pros y los contras de diferentes modelos de atribución
+* 3.7 Dados los requisitos empresariales, describa los efectos de la configuración del canal en los informes
+
+Sección 4: Administración avanzada 16 %
+
+* 4.1 En función de un escenario, identificar los pasos adecuados para mejorar la gobernanza de la plataforma
+* 4.2 Dada la especificación de integración, recomendar un esquema de datos eficiente
+* 4.3 Evaluar una implementación y recomendar acciones para mejorar el rendimiento del correo electrónico
+* 4.4 Evaluar una implementación y recomendar acciones para mejorar la administración
+* 4.5 Recopilar información sobre una implementación y recomendar prácticas de seguridad
+* 4.6 Explicar la aplicabilidad de Workspace y las particiones para un escenario determinado
+
+### Prepárate.
+
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
+
+**Sección 1: Liderazgo del proyecto**
+
+* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Documentos de productos de Marketo](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=es){target="_blank"}
+* [Documentación: API de REST](https://developers.marketo.com/rest-api/){target="_blank"}
+* [Explicación de los modelos de ingresos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
+
+**Sección 2: Adobe [!DNL Marketo Engage] diseño arquitectónico**
+
+* [Instrucciones para crear una regla de sincronización personalizada](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
+* [La guía definitiva para la puntuación de posibles clientes](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [Scripts de correo electrónico](https://developers.marketo.com/email-scripting/){target="_blank"}
+* [Configuración inicial](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/initial-setup.html){target="_blank"}
+
+**Sección 3: Informes y atribución**
+
+* [Resumen del tipo de informe](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [Explicación de la atribución](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
+* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [El resumen de contenido predictivo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/predictive-content/the-predictive-content-summary.html){target="_blank"}
+
+**Sección 4: Operaciones avanzadas**
+
+* [Documentos de productos de Marketo](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=es){target="_blank"}
+* [Supresión de devoluciones suaves](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
+* [Explicación de espacios de trabajo y particiones de persona](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
+* [Explicación de los objetos personalizados de Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
+
+### Renovar la certificación
+
+Primero, asegúrese de haber iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}. A continuación, para renovar su Adobe [!DNL Marketo Engage] Certificación de Arquitecto Maestro, haga clic en el enlace de abajo.
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E834" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Haz el examen AD5-E834
+</span>
+</a>
 
 >[!NOTE]
 >

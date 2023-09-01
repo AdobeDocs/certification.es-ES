@@ -6,36 +6,35 @@ product: Marketo
 role: Data Architect
 badge: label="Examen AD0-E560" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
-source-git-commit: 5fb76199d2e15ef486f9b91e55e908d5d5e9704c
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '992'
 ht-degree: 1%
 
 ---
 
 
-<!--This is NOT updated with the AD0-E560 information-->
-
 # Recorrido de certificación para Adobe [!DNL Marketo Engage] Maestro de arquitectos
 
 Aprenda a obtener la certificación de Adobe [!DNL Marketo Engage] Maestro de arquitectos.
 
-El Programa de credenciales de Adobe ha lanzado un nuevo Adobe [!DNL Marketo Engage] Certificación Engage Architect para candidatos interesados en obtener el título de Master Certificado. Sustituye al anterior proceso de entrevista de certificación de Marketo Certified Solution Architect (MCSA). [Más información](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+>[!NOTE]
+>
+>Este es el más reciente [!DNL Adobe Marketo Engage] Examen de maestría de arquitectos. Si ya ha empezado a estudiar o ha programado la [versión anterior](ame-m-architect.md), debe completar el examen antes del 31 de octubre de 2023.
 
 ## Experiencia mínima
 
 Debería tener:
 
-* Una certificación actual en Adobe [!DNL Marketo Engage] Experto certificado por profesional de negocios
-* Al menos cinco años de experiencia preferiblemente con múltiples casos de Adobe [!DNL Marketo Engage]
+* Una certificación actual como Marketo Engage profesional experto certificado
+* Al menos cinco años de experiencia preferiblemente con múltiples instancias de Marketo Engage
 * Comprensión del impacto empresarial y explicación/comunicación eficaz de su solución a las partes interesadas (técnicas y no técnicas) en diferentes niveles
-* La capacidad de conceptualizar una solución y traducirla en un [!DNL Marketo Engage] arquitectura, comprenda los procesos empresariales afectados por las integraciones
+* La capacidad de conceptualizar una solución y traducirla en una arquitectura Marketo Engage, comprender los procesos empresariales afectados por las integraciones
 * Familiaridad con los principios de arquitectura de una instancia
 
 Además, debe estar familiarizado con las siguientes herramientas y tecnologías:
 
-* Adobe [!DNL Marketo Engage] funciones, funcionalidad y aplicaciones
+* Funciones, funcionalidades y aplicaciones de Adobe Marketo Engage
 * Sistemas de base de datos
 * Conectividad de API
 * plataforma CRM
@@ -68,15 +67,15 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 **Detalles del examen:**
 
-* Requisito previo: Adobe Certified Expert - [!DNL Marketo Engage] Experto en Profesional Empresarial
+* Requisito previo: Adobe actual (no caducado) [!DNL Marketo Engage] Certificación de experto en profesionales empresariales
 * Nivel: Master (3-5 años de experiencia)
 * Certificación de profesional
 * Puntuación superada: 30/50
-* Tiempo: 150 min
+* Tiempo: 100 min
 * Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
 * Idiomas disponibles: Inglés
 * Costo: 225 dólares (global) / 150 dólares (India)
-* Identificador del examen: AD0-E556
+* Identificador del examen: AD0-E560
 
 **Autoevaluación de preparación**
 
@@ -84,14 +83,14 @@ Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.c
 
 **Objetivos y ámbito del examen**
 
-Sección 1: Liderazgo del proyecto (16 %)
+**Sección 1: Liderazgo del proyecto (16 %)**
 
 * A partir de un caso práctico, identificar las partes interesadas adecuadas
 * Evaluar un conjunto de requisitos y recomendar límites, presupuesto, recursos y ámbito de proyectos
 * Dado un proceso modificado, determine quién necesita habilitación y un plan de despliegue de habilitación eficiente
 * Evaluar una auditoría y recomendar prioridades y plazos
 
-Sección 2: [!DNL Marketo Engage] Diseño de arquitectura (48%)
+**Sección 2: Diseño de arquitectura Marketo Engage (48%)**
 
 * Recopile los requisitos y las necesidades, y recomiende una administración de posibles clientes y un diseño del ciclo vital
 * Revisar una implementación existente y proporcionar conclusiones
@@ -103,17 +102,17 @@ Sección 2: [!DNL Marketo Engage] Diseño de arquitectura (48%)
 * Ante un escenario concreto, describa las distintas etapas del ciclo de vida de la persona afectadas por los cambios o requisitos propuestos
 * Evalúe un conjunto de requisitos y recomiende un enfoque para la lógica de campaña
 
-Sección 3: Informes y atribución (20 %)
+**Sección 3: Informes y atribución (20 %)**
 
 * Dado un modelo que se debe revisar, explique el concepto de desvíos en el modelador de ciclo vital
 * Dada una publicidad en línea o contenido social o orgánico, recomiende un método para informar
-* Ilustrar cómo se valida [!DNL Marketo Engage] creación de informes en seguimiento de cambios del ciclo vital
+* Ilustra cómo validar la creación de informes de Marketo Engage en el seguimiento de cambios del ciclo vital
 * Identificar métricas que se utilizarán en un tipo de informe determinado
 * Identifique cómo realizar un seguimiento de la atribución multicanal para evaluar el ROI
 * Identificar y describir los pros y los contras de diferentes modelos de atribución
 * Dados los requisitos empresariales, describa los efectos de la configuración del canal en los informes
 
-Sección 4: Operaciones avanzadas (16 %)
+**Sección 4: Operaciones avanzadas (16 %)**
 
 * En un escenario determinado, identifique los pasos adecuados para mejorar la administración o la gobernanza
 * Dado un conjunto de requisitos, recomiende un esquema de datos eficiente
@@ -142,6 +141,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 **Sección 2: Adobe [!DNL Marketo Engage] diseño arquitectónico**
 
+* [Información general de informes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
 * [Instrucciones para crear una regla de sincronización personalizada](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
 * [La guía definitiva para la puntuación de posibles clientes](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
@@ -161,19 +161,17 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
-
-
+>Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.
 
 ## Acerca del examen de certificación
 
 {{about-certification-exam}}
 
-## Programar o realizar el examen AD0-E556
+## Programar o realizar el examen AD0-E560
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir al portal de Examity
