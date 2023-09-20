@@ -7,10 +7,10 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 10%
+source-wordcount: '923'
+ht-degree: 9%
 
 ---
 
@@ -34,7 +34,7 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!NOTE]
 >
->Renovación profesional próximamente.
+>La renovación profesional está en desarrollo. Aquellos cuyas certificaciones estén caducando recibirán una extensión para que puedan seguir utilizando este método de renovación gratuita cuando esté disponible.
 
 >[!TAB Experto y maestro]
 

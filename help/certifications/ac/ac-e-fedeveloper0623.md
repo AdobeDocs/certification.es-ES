@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Examen AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1019'
 ht-degree: 1%
 
 ---
@@ -107,9 +107,9 @@ Sección 4: JavaScript (widgets de imagen, biblioteca de imágenes, módulo de d
 * Mostrar el uso de widgets de jQuery
 * Demostración del uso de componentes JS mediante XML de diseño
 
-Sección 5: Configuración de administración y PageBuilder (12 %)
+Sección 5: Configuración de administración y Page Builder (12 %)
 
-* Demostración de la capacidad de personalizar el contenido de Page Builder&quot;
+* Demostrar la capacidad de personalizar el contenido de Page Builder
 * Describir la optimización del front-end
 * Personalizar correos electrónicos transaccionales
 * Demostración del uso de las herramientas de desarrollo de administración
