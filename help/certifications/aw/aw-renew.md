@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: 032e1a6a773a5ede4b74b4a34a3e8079990d8d91
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -173,7 +173,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 * [Comprender las colas de solicitudes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Aprobación del trabajo](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
-* [Uso compartido de un proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
+* [Uso compartido de un proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=es){target="_blank"}
 * [Editar plantillas de proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
 * [Asignar tareas del plan del proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html){target="_blank"}
 * [Información general sobre tareas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html){target="_blank"}
@@ -324,7 +324,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación de Workfront Core Developer Professional - AD5-835 que aparece a continuación.
 
-* [Renovación de Workfront Core Developer Professional - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
+* [Renovación de Workfront Core Developer Professional - AD5-835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
