@@ -5,12 +5,12 @@ solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 recommendations: disable, exclude
-badge: label="Examen AD0-E600 y AD7-E601" type="positive"
+badge: label="Examen AD0-E600 y AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1404'
 ht-degree: 8%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 8%
 >[!IMPORTANT]
 >
 >El Adobe [!DNL Real-Time Customer Data Platform] La certificación de expertos requiere aprobar dos exámenes: **Adobe [!DNL Experience Platform] Fundamentos técnicos (AD0-E600)** y **Adobe [!DNL Real-Time CDP] Profesional técnico (AD7-E601)**.
+
+<br>
+
+[Ir a la información específica del requisito 1](#req-1)
+
+[Ir a la información específica del requisito 2](#req-2)
 
 <br>
 
@@ -56,12 +62,6 @@ Debería tener:
 * La capacidad para determinar qué atributos de perfil se necesitan
 * Conocimiento de la frecuencia de envío de segmentos a través de destinos
 * Conocimiento de la frecuencia con la que se actualiza el abono a segmentos
-
-<br>
-
-[Ir a la información de Requisito 1](#req-1)
-
-[Ir a Información para Requisito 2](#req-2)
 
 <br>
 
