@@ -7,18 +7,49 @@ role: Developer
 badge: label="Examen AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '825'
-ht-degree: 8%
+source-wordcount: '645'
+ht-degree: 11%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Experience Manager Forms] Backend Developer Professional
 
-Aprenda a obtener la certificación de Adobe [!DNL Experience Manager Forms] Backend Developer Professional.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Profesional (0-12 meses de experiencia)
+* Puntuación superada: 29/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 125 dólares (global) / 95 dólares (India)
+* Identificador del examen: AD0-E127
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* AEM Desarrollador de
+* Ingeniero de DevOps
+* AEM Arquitecto de
+* Ingeniero de nube
+* Ingeniero de confiabilidad del sitio
+* Gerente técnico
+* Ingeniero de operaciones de aplicación
+* Ingeniero de sistemas
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debe ser desarrollador de formularios back-end y tener lo siguiente:
 
@@ -40,45 +71,20 @@ Debe estar familiarizado con las siguientes tecnologías y entornos:
 * Zona protegida de desarrollo
 * Entorno local
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* AEM Desarrollador de
-* Ingeniero de DevOps
-* AEM Arquitecto de
-* Ingeniero de nube
-* Ingeniero de confiabilidad del sitio
-* Gerente técnico
-* Ingeniero de operaciones de aplicación
-* Ingeniero de sistemas
-
-**Detalles del examen:**
-
-* Nivel: Profesional (0-12 meses de experiencia)
-* Puntuación superada: 29/50
-* Tiempo: 100 min
-* Entrega: En línea con protección (requiere acceso a la cámara)
-* Idiomas disponibles: Inglés
-* Costo: 125 dólares (global) / 95 dólares (India)
-* Identificador del examen: AD0-E127
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Creación y administración de Forms (26 %)
+**Sección 1: Creación y administración de Forms (26 %)**
 
 * Ante un escenario concreto, identifique los pasos necesarios para crear AEM Forms
 * Describir el modelo de datos de Forms
 * Identificación de los pasos para personalizar AEM Forms
 * En un escenario determinado, identifique los pasos para utilizar Javascript ClientLib aprovechando la API de GuideBridge
 
-Sección 2: Procesos y flujos de trabajo (34 %)
+**Sección 2: Procesos y flujos de trabajo (34 %)**
 
 * Ante un escenario concreto, identifique los pasos de un flujo de trabajo de aprobación de formularios
 * Identificar las características de un paquete OSGi mediante la API de Document Services
@@ -87,7 +93,7 @@ Sección 2: Procesos y flujos de trabajo (34 %)
 * Ante un escenario concreto, manipule un PDF mediante los servicios de Forms o Assembler
 * Describir las formas de implementar los servicios JDBC
 
-Sección 3: Administración y resolución de problemas (21 %)
+**Sección 3: Administración y resolución de problemas (21 %)**
 
 * Identificar problemas generados en archivos de registro
 * Ante un escenario concreto, identifique los pasos para realizar actividades de administración
@@ -95,26 +101,34 @@ Sección 3: Administración y resolución de problemas (21 %)
 * AEM Describa los pasos para la configuración de Dispatcher de la para Forms
 * Describir los pasos para navegar por distintas consolas
 
-Sección 4: Extremos e integraciones de API (10 %)
+**Sección 4: Extremos e integraciones de API (10 %)**
 
 * AEM En un escenario concreto, describa el flujo para integrar Formulario de la con Adobe Experience Cloud
 * Identifique los pasos para generar varios servicios de extremos
 
-Sección 5: Comunicación interactiva (9 %)
+**Sección 5: Comunicación interactiva (9 %)**
 
 * En un escenario determinado, mostrar e implementar procesos para la comunicación interactiva
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+## Cómo obtener la certificación {#how-to-get-certified}
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{how-to-get-certified-intro}}
 
-**Preguntas de muestra**
++++Paso 1: Crear su cuenta
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+{{create-your-account}}
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Creación y administración de Forms**
 
@@ -143,16 +157,35 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Documentación de Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
 * [Guía de Adobe Experience Manager 6.4 de Forms](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+**Preguntas de muestra**
 
+{{sample-questions}}
 
-## Acerca del examen de certificación
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
+
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -165,10 +198,28 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+
+

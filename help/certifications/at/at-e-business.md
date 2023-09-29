@@ -7,18 +7,45 @@ role: User
 badge: label="Examen AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1238'
+source-wordcount: '1104'
 ht-degree: 1%
 
 ---
 
 # Recorrido de certificación para [!DNL Adobe Target] Experto profesional de negocios
 
-Obtenga información sobre cómo obtener una certificación [!DNL Adobe Target] Experto profesional de negocios.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Experto (1-3 años de experiencia)
+* Puntuación superada: 46/68
+* Tiempo: 136 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: inglés, japonés
+* Costo: 225 dólares (global) / 150 dólares (India)
+* Identificación del examen: AD0-E406 (inglés), AD0-E406-J (japonés)
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Optimización
+* Personalización
+* Analytics
+* Marketing digital y de productos
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debería tener:
 
@@ -66,34 +93,13 @@ Entornos:
 * Uso de Target para aplicaciones de una sola página
 * Correo electrónico
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* Optimización
-* Personalización
-* Analytics
-* Marketing digital y de productos
-
-**Detalles del examen:**
-
-* Nivel: Experto (1-3 años de experiencia)
-* Puntuación superada: 46/68
-* Tiempo: 136 min
-* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
-* Idiomas disponibles: Inglés
-* Costo: 225 dólares (global) / 150 dólares (India)
-* Identificador del examen: AD0-E406
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Planificación y estrategia (31 %)
+**Sección 1: Planificación y estrategia (31 %)**
 
 * Identificar los KPI empresariales y traducirlos correctamente en objetivos de optimización, dados los requisitos clave del negocio
 * Identifique oportunidades de optimización basadas en KPI empresariales y análisis de datos
@@ -105,7 +111,7 @@ Sección 1: Planificación y estrategia (31 %)
 * Evaluar los requisitos de audiencia
 * Determine las fuentes de informes de análisis adecuadas (por ejemplo, Target o Adobe Analytics).
 
-Sección 2: Configuración, ejecución y administración (42 %)
+**Sección 2: Configuración, ejecución y administración (42 %)**
 
 * Explicar el uso del Compositor de experiencias basadas en formularios frente al Compositor de experiencias visuales
 * Aplique procedimientos para crear una experiencia con VEC
@@ -122,7 +128,7 @@ Sección 2: Configuración, ejecución y administración (42 %)
 * Aplicar procedimientos para realizar el control de calidad de las actividades
 * Aplicar procedimientos para administrar Actividades y Audiencias dentro de Target
 
-Sección 3: Análisis e informes (17 %)
+**Sección 3: Análisis e informes (17 %)**
 
 * Defina y evalúe la configuración del informe para ayudar a establecer los elementos que aparecen en un informe
 * Evaluar y comparar [!DNL Adobe Target] Configuración de la calculadora de tamaño de muestra al planificar las actividades de Target y al validar los informes de actividades de Target
@@ -131,17 +137,31 @@ Sección 3: Análisis e informes (17 %)
 * Evaluar informes de rendimiento de las experiencias (MVT)
 * Determine la variación ganadora en función del alza observada, los niveles de confianza y los objetivos empresariales
 
-Sección 4: Resolución de problemas (10 %)
+**Sección 4: Resolución de problemas (10 %)**
 
 * Diagnosticar problemas de calificación de actividades
 * Utilice las herramientas de depuración del explorador (incluido el Experience Cloud Debugger) para comprobar la implementación
 * Verificar métricas e informes
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+## Cómo obtener la certificación {#how-to-get-certified}
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{how-to-get-certified-intro}}
+
++++Paso 1: Crear su cuenta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Planificación y estrategia**
 
@@ -179,19 +199,33 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 * [Solución de errores de actividad](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [Solución de errores de integración](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
-
-## Realizar una prueba de práctica
+**Realizar una prueba de práctica**
 
 {{practice-test}}
 
-## Acerca del examen de certificación
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -215,7 +249,23 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 [Instrucciones de programación en japonés](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

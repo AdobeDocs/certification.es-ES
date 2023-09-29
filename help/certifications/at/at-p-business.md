@@ -7,18 +7,45 @@ role: User
 badge: label="Examen AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 9%
+source-wordcount: '698'
+ht-degree: 11%
 
 ---
 
 # Recorrido de certificación para [!DNL Adobe Target] Profesional empresarial
 
-Obtenga información sobre cómo obtener una certificación [!DNL Adobe Target] Profesional de negocios.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Profesional (0-12 meses de experiencia)
+* Puntuación superada: 31/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: inglés, japonés
+* Costo: 125 dólares (global) / 95 dólares (India)
+* Identificación del examen: AD0-E408 (inglés), AD0-E408-J (japonés)
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Optimización
+* Personalización
+* Analytics
+* Marketing digital y de productos
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debería tener:
 
@@ -29,34 +56,13 @@ Debería tener:
 * Un conocimiento básico del flujo de trabajo de tres pasos (experiencias, direccionamiento y objetivos y configuración, incluidas todas las fuentes de informes)
 * La capacidad de leer y comprender los resultados de los informes de actividad
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* Optimización
-* Personalización
-* Analytics
-* Marketing digital y de productos
-
-**Detalles del examen:**
-
-* Nivel: Profesional (0-12 meses de experiencia)
-* Puntuación superada: 31/50
-* Tiempo: 100 min
-* Entrega: En línea con protección (requiere acceso a la cámara)
-* Idiomas disponibles: Inglés
-* Costo: 125 dólares (global) / 95 dólares (India)
-* Identificador del examen: AD0-E408
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Planificación y estrategia (26 %)
+**Sección 1: Planificación y estrategia (26 %)**
 
 * Identificar KPI empresariales
 * Dado un escenario de KPI empresariales y análisis de datos, identifique oportunidades para la optimización
@@ -67,7 +73,7 @@ Sección 1: Planificación y estrategia (26 %)
 * Ante un escenario concreto, evaluar los requisitos de audiencia
 * Describir las fuentes de informes de análisis adecuadas (por ejemplo, Target o Adobe Analytics).
 
-Sección 2: Configuración, ejecución y administración (50 %)
+**Sección 2: Configuración, ejecución y administración (50 %)**
 
 * Explicar el uso del Compositor de experiencias basadas en formularios frente al Compositor de experiencias visuales
 * Describir los procedimientos para crear una experiencia con VEC
@@ -84,7 +90,7 @@ Sección 2: Configuración, ejecución y administración (50 %)
 * Describa los procedimientos para realizar el control de calidad de la actividad
 * Describa los procedimientos para administrar Actividades y Audiencias dentro de Target
 
-Sección 3: Análisis e informes (16 %)
+**Sección 3: Análisis e informes (16 %)**
 
 * Describa la configuración para ayudar a establecer los elementos que aparecen en un informe
 * Describir la diferencia en [!DNL Adobe Target] Configuración de la calculadora de tamaño de muestra entre planificación y validación
@@ -93,23 +99,31 @@ Sección 3: Análisis e informes (16 %)
 * Describir las funciones de los informes de rendimiento de las experiencias (MVT)
 * Describa las prácticas recomendadas que deben seguirse en la ejecución de pruebas A/B.
 
-Sección 4: Resolución de problemas (8 %)
+**Sección 4: Resolución de problemas (8 %)**
 
 * Ante un escenario concreto, identifique los problemas de calificación de actividades
 * Identificar las funciones de las herramientas de depuración del explorador (incluido el Experience Cloud Debugger)
 * Identificación de métricas e informes
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+## Cómo obtener la certificación {#how-to-get-certified}
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{how-to-get-certified-intro}}
 
-**Preguntas de muestra**
++++Paso 1: Crear su cuenta
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+{{create-your-account}}
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Planificación y estrategia**
 
@@ -133,7 +147,7 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 
 **Sección 3: Análisis e informes**
 
-* [Configuración de informes](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [Configuración de informe](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 * [Información general sobre las pruebas A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
 
 **Sección 4: Solución de problemas**
@@ -141,16 +155,35 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * Guía para profesionales del negocio de [[!DNL Adobe Target] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Información general de Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+**Preguntas de muestra**
 
+{{sample-questions}}
 
-## Acerca del examen de certificación
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
+
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -163,7 +196,25 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
+[Instrucciones de programación en japonés](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

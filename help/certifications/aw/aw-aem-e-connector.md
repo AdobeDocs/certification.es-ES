@@ -6,18 +6,45 @@ role: Developer
 badge: label="Examen AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Workfront] para [!DNL Experience Manager] Experto en conectores mejorados
 
-Aprenda a convertirse en un experto certificado en Adobe.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Experto (1-3 años de experiencia)
+* Puntuación superada: 34/55
+* Tiempo: 110 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 225 dólares (global) / 150 dólares (India)
+* ID del examen: AD0-E906
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Asesores de soluciones para socios
+* Especialistas en implementación
+* Especialistas en integración
+* Desarrolladores o arquitectos
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debería haber obtenido una o más de las siguientes certificaciones:
 
@@ -36,34 +63,13 @@ Y, debería tener:
 * AEM AEM Comprensión de las taxonomías y el etiquetado de, los flujos de trabajo de, JCR, Sling, OSGi y las bases de datos
 * Comprensión de las prácticas recomendadas de administración del trabajo
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* Asesores de soluciones para socios
-* Especialistas en implementación
-* Especialistas en integración
-* Desarrolladores o arquitectos
-
-**Detalles del examen:**
-
-* Nivel: Experto (1-3 años de experiencia)
-* Puntuación superada: 34/55
-* Tiempo: 110 min
-* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
-* Idiomas disponibles: Inglés
-* Costo: 225 dólares (global) / 150 dólares (India)
-* ID del examen: AD0-E906
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Requisitos técnicos (25 %)
+**Sección 1: Requisitos técnicos (25 %)**
 
 * Uso [!DNL Workfront] Forms personalizado
 * Ante un escenario, mostrar la administración de documentos
@@ -71,14 +77,14 @@ Sección 1: Requisitos técnicos (25 %)
 * Ante un escenario concreto, identifique cómo se pasan los valores a [!DNL Workfront] formularios personalizados
 * Solucionar problemas de código del lado del servidor
 
-Sección 2: Configuración (26 %)
+**Sección 2: Configuración (26 %)**
 
 * Ilustrar las prácticas recomendadas para la administración de usuarios
 * AEM Aplique los conceptos de procedimiento necesarios para modificar los flujos de trabajo de recursos de existentes
 * Tome las decisiones necesarias para personalizar el esquema de metadatos para diferentes tipos de recursos
 * AEM Aplique los conceptos de procedimiento de la aplicación necesarios para implementar paquetes, recursos, esquemas de metadatos, etiquetado y permisos de OSGi.
 
-Sección 3: Prácticas comerciales (21 %)
+**Sección 3: Prácticas comerciales (21 %)**
 
 * Interprete las necesidades del cliente para recomendar las estrategias de flujo de trabajo adecuadas
 * Demostración de cómo configurar [!DNL Workfront] flujos de trabajo de aprobación y revisión
@@ -86,22 +92,30 @@ Sección 3: Prácticas comerciales (21 %)
 * Demostrar una comprensión del seguimiento de entregables como parte de la administración de campañas
 * Ante un escenario concreto, identifique las consideraciones clave de la administración de cambios para un [!DNL Workfront] implementación
 
-Sección 4: Instalación y configuración del conector (28 %)
+**Sección 4: Instalación y configuración del conector (28 %)**
 
 * AEM Validar requisitos previos dentro de la
 * Dado un caso de uso del cliente, identifique las funciones del conector que desea implementar
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+## Cómo obtener la certificación {#how-to-get-certified}
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{how-to-get-certified-intro}}
 
-**Preguntas de ejemplo**
++++Paso 1: Crear su cuenta
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+{{create-your-account}}
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Requisitos técnicos**
 
@@ -136,16 +150,35 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Configurar [!DNL Workfront] para [!DNL Experience Manager] conector mejorado](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] integración con Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+**Preguntas de muestra**
 
+{{sample-questions}}
 
-## Acerca del examen de certificación
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -158,7 +191,23 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

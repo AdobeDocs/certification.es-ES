@@ -8,18 +8,48 @@ level: Experienced
 badge: label="Examen AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1417'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
 
 # Recorrido de certificación para [!DNL Adobe Commerce] Experto profesional de negocios
 
-Obtenga información sobre cómo obtener una certificación [!DNL Adobe Commerce] Experto profesional de negocios.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Experto (1-3 años de experiencia)
+* Puntuación superada: 31/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 225 dólares (global) / 150 dólares (India)
+* Identificador del examen: AD0-E708
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Analista empresarial
+* Estratega comercial
+* Consultor
+* Gestor técnico de proyectos/Gestor técnico de cuentas
+* Arquitecto de aplicaciones/Arquitecto de soluciones/Especialista
+* Administrador de agencia/Director/Responsable/Consultor
+* Digital Marketing Director/Manager/Developer
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Usted debe tener aproximadamente 1-3 años de práctica [!DNL Commerce] y una amplia comprensión de la experiencia de comercio electrónico.
 
@@ -40,41 +70,13 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Herramientas de seguridad: cumplimiento de PCI, ADA, RGPD, etc
 * Arquitectura en la nube o local
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* Analista empresarial
-* Estratega comercial
-* Consultor
-* Gestor técnico de proyectos/Gestor técnico de cuentas
-* Arquitecto de aplicaciones/Arquitecto de soluciones/Especialista
-* Administrador de agencia/Director/Responsable/Consultor
-* Digital Marketing Director/Manager/Developer
-
-**Detalles del examen:**
-
-* Nivel: Experto (1-3 años de experiencia)
-* Puntuación superada: 31/50
-* Tiempo: 100 min
-* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
-* Idiomas disponibles: Inglés
-* Costo: 225 dólares (global) / 150 dólares (India)
-* Identificador del examen: AD0-E708
-
-**Autoevaluación de la preparación**
-
-Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Funciones principales/Configuración general (46 %)
+**Sección 1: Funciones principales/Configuración general (46 %)**
 
 * Identificación de las características de Adobe [!DNL Commerce] Open Source Edition y [!DNL Commerce] Edición
 * Distinguir las diferencias entre todas las ediciones de Adobe [!DNL Commerce] products
@@ -90,18 +92,18 @@ Sección 1: Funciones principales/Configuración general (46 %)
 * Configuración y modificación de correos electrónicos transaccionales
 * Explicar las funciones nativas del programa de fidelización y autoservicio de clientes en B2B
 
-Sección 2: Comercialización (10 %)
+**Sección 2: Comercialización (10 %)**
 
 * Demostrar la capacidad de crear promociones para satisfacer criterios comerciales específicos y cómo determina el precio final.
 * Demostración de la capacidad para administrar categorías y productos
 * Comprender las diferentes configuraciones de precios y cómo afectan al precio final
 
-Sección 3: Marketing digital (4 %)
+**Sección 3: Marketing digital (4 %)**
 
 * Prácticas recomendadas para SEO con funciones nativas
 * Evaluar métricas comunes en Google Analytics y BI
 
-Sección 4: Módulos adicionales y productos adicionales (18 %)
+**Sección 4: Módulos adicionales y productos adicionales (18 %)**
 
 * Describa la funcionalidad de B2B y cómo se relaciona con los escenarios B2B comunes
 * Aplicar los requisitos empresariales para sugerir una solución mediante MSI
@@ -111,25 +113,47 @@ Sección 4: Módulos adicionales y productos adicionales (18 %)
 * Aprenda a aplicar precios personalizados a un cliente B2B
 * Comprender las diferencias entre Adobes [!DNL Commerce] recomendaciones de productos nativos y de Adobe Sensei
 
-Sección 5: Arquitectura de sistemas (10 %)
+**Sección 5: Arquitectura de sistemas (10 %)**
 
 * Evaluar los requisitos para determinar qué sitios web, tiendas y vistas de tiendas son necesarios
 * Identificar y analizar métricas de rendimiento para realizar mejoras
 * Comprender los métodos disponibles para integrar sistemas externos con Adobe [!DNL Commerce]
 * Diferenciar entre enfoques sin encabezado y tradicionales
 
-Sección 6: Cumplimiento/Seguridad (12 %)
+**Sección 6: Cumplimiento/Seguridad (12 %)**
 
 * Demostración de cómo proteger el Adobe [!DNL Commerce] acceso a datos con funciones y permisos
 * Comprender los conceptos básicos del cumplimiento de las leyes de privacidad y seguridad de pago
 * Explicar los aspectos comunes de seguridad de un Adobe [!DNL Commerce] proyecto
 * Comprender los conceptos básicos de las leyes fiscales y cómo configurarlas
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+### Cuestionario de preparación
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{readiness}}
+
+[Responda al cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Cómo obtener la certificación {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Paso 1: Crear su cuenta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Características principales/configuración general**
 
@@ -209,19 +233,33 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 * [Seguridad](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
 * [Directrices fiscales por país](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
-
-## Realizar una prueba de práctica
+**Realizar una prueba de práctica**
 
 {{practice-test}}
 
-## Acerca del examen de certificación
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -234,7 +272,23 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

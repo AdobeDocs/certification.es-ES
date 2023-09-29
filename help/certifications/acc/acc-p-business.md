@@ -7,18 +7,48 @@ role: User
 badge: label="Examen AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1215'
-ht-degree: 15%
+source-wordcount: '1027'
+ht-degree: 18%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Campaign Classic] Profesional empresarial
 
-Aprenda a obtener la certificación de Adobe [!DNL Campaign Classic] Profesional de negocios.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Profesional (0-12 meses de experiencia)
+* Puntuación superada: 32/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 125 dólares (global) / 95 dólares (India)
+* ID del examen: AD0-E329
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Consultor empresarial
+* Analista empresarial
+* Administrador de interacción
+* Administrador de campañas
+* Comercial de base de datos
+* Profesional empresarial
+* Administrador de proyectos CRM
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debería tener:
 
@@ -36,41 +66,15 @@ Debería tener:
 * Experiencia con HTML básico y personalización
 * Administración del servicio de suscripción (inclusión/exclusión)
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
-
-**Destinatarios a los que va dirigido:**
-
-* Consultor empresarial
-* Analista empresarial
-* Administrador de interacción
-* Administrador de campañas
-* Comercial de base de datos
-* Profesional empresarial
-* Administrador de proyectos CRM
-
-**Detalles del examen:**
-
-* Nivel: Profesional (0-12 meses de experiencia)
-* Puntuación superada: 32/50
-* Tiempo: 100 min
-* Entrega: En línea con protección (requiere acceso a la cámara)
-* Idiomas disponibles: Inglés
-* Costo: 125 dólares (global) / 95 dólares (India)
-* ID del examen: AD0-E329
-
-**Autoevaluación de la preparación**
-
-Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
+{{exam-objectives}}
 
 **Objetivos y ámbito del examen**
 
-Sección 1: Creación de una campaña (29 %)
+**Sección 1: Creación de una campaña (29 %)**
 
 * Reconocer los diferentes conceptos y objetivos de marketing digital
 * Identificar y definir las principales funciones y estructura de la herramienta en relación con la interfaz de.
@@ -82,14 +86,14 @@ Sección 1: Creación de una campaña (29 %)
 * Reconocer dónde localizar los resultados o la salida del envío
 * Diferenciación entre diferentes tipos de error y advertencia (entrega, campaña y nivel de flujo de trabajo)
 
-Sección 2: Administración de flujos de trabajo y capacidades de la plataforma (16 %)
+**Sección 2: Administración de flujos de trabajo y capacidades de la plataforma (16 %)**
 
 * Ante un escenario, determine qué actividades de flujo de trabajo deben seleccionarse
 * Diferenciación entre flujos de trabajo técnicos y de campaña
 * Ante un escenario determinado, determine qué solución de flujo de trabajo es óptima para situaciones continuas, de espera, recurrentes y de anulación
 * Identificar las nuevas funciones y características de Campaign V8 en comparación con las versiones anteriores
 
-Sección 3: Operaciones de datos (20 %)
+**Sección 3: Operaciones de datos (20 %)**
 
 * Determinar cómo modificar columnas dentro de una vista para probar datos o resultados
 * Describa los objetivos de las actividades de segmentación del flujo de trabajo de unión, intersección, exclusión y división
@@ -98,7 +102,7 @@ Sección 3: Operaciones de datos (20 %)
 * Ante un escenario determinado, determine cómo segmentar una audiencia y almacenarla como una lista y celdas
 * En un determinado escenario, determine el mejor método para exportar datos a destinos configurándolos
 
-Sección 4: Configuración de envío (28 %)
+**Sección 4: Configuración de envío (28 %)**
 
 * Ante un escenario concreto, determine el tipo de envío correcto
 * Dados los requisitos empresariales, determine cómo crear plantillas
@@ -109,24 +113,40 @@ Sección 4: Configuración de envío (28 %)
 * Indique dónde/cómo probar el contenido de envío y la personalización
 * Diferenciar entre los distintos estados de envío que se producen durante el procesamiento y aplicar acciones
 
-Sección 5: Administración y presentación de informes (7 %)
+**Sección 5: Administración y presentación de informes (7 %)**
 
 * Identificar informes de OOTB comunes y dónde acceder a ellos
 * Determine qué informe OOTB se necesita en función de los requisitos de informes
 * Identificación de la funcionalidad de análisis descriptivo dentro de Adobe Campaign
 * Ante un escenario concreto, aplique las autorizaciones adecuadas para limitar/permitir el acceso a los objetos de Campaign
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+### Cuestionario de preparación
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{readiness}}
 
-**Preguntas de muestra**
+[Responda al cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"}
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+<br>
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+## Cómo obtener la certificación {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Paso 1: Crear su cuenta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Creación de una campaña**
 
@@ -171,16 +191,35 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Introducción al análisis descriptivo](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html){target="_blank"}
 * [Introducción a los permisos](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+**Preguntas de muestra**
 
+{{sample-questions}}
 
-## Acerca del examen de certificación
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -193,7 +232,23 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

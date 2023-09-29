@@ -6,9 +6,9 @@ product: Marketo
 role: Data Architect
 badge: label="Examen AD0-E560" type="positive"
 mini-toc-levels: 1
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '796'
 ht-degree: 1%
 
 ---
@@ -16,13 +16,52 @@ ht-degree: 1%
 
 # Recorrido de certificación para Adobe [!DNL Marketo Engage] Maestro de arquitectos
 
-Aprenda a obtener la certificación de Adobe [!DNL Marketo Engage] Maestro de arquitectos.
+{{intro}}
 
 >[!NOTE]
 >
 >Este es el más reciente [!DNL Adobe Marketo Engage] Examen de maestría de arquitectos. Si ya ha empezado a estudiar o ha programado la [versión anterior](ame-m-architect.md), debe completar el examen antes del 31 de octubre de 2023.
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Requisito previo: Adobe actual (no caducado) [!DNL Marketo Engage] Certificación de experto en profesionales empresariales
+* Nivel: Master (3-5 años de experiencia)
+* Certificación de profesional
+* Puntuación superada: 30/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 225 dólares (global) / 150 dólares (India)
+* Identificador del examen: AD0-E560
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Gerente de tecnología de marketing
+* Responsable de operaciones de marketing/sénior
+* Director de operaciones de marketing
+* Director/responsable sénior para operaciones de ingresos
+* Consultores de operaciones/tecnología/automatización de marketing
+* Tecnólogo de marketing
+* Administrador de campañas
+* Gestor de automatización de marketing
+* Marketing digital
+* Administrador de generación de demanda
+* Arquitecto de soluciones
+* Analista de sistemas empresariales
+* Administrador de CRM
+* CRM/Administrador de marketing del ciclo vital
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debería tener:
 
@@ -40,48 +79,11 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 * plataforma CRM
 * Plataformas tecnológicas de marketing
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
-
-**Destinatarios a los que va dirigido:**
-
-* Gerente de tecnología de marketing
-* Responsable de operaciones de marketing/sénior
-* Director de operaciones de marketing
-* Director/responsable sénior para operaciones de ingresos
-* Consultores de operaciones/tecnología/automatización de marketing
-* Tecnólogo de marketing
-* Administrador de campañas
-* Gestor de automatización de marketing
-* Marketing digital
-* Administrador de generación de demanda
-* Arquitecto de soluciones
-* Analista de sistemas empresariales
-* Administrador de CRM
-* CRM/Administrador de marketing del ciclo vital
-
-**Detalles del examen:**
-
-* Requisito previo: Adobe actual (no caducado) [!DNL Marketo Engage] Certificación de experto en profesionales empresariales
-* Nivel: Master (3-5 años de experiencia)
-* Certificación de profesional
-* Puntuación superada: 30/50
-* Tiempo: 100 min
-* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
-* Idiomas disponibles: Inglés
-* Costo: 225 dólares (global) / 150 dólares (India)
-* Identificador del examen: AD0-E560
-
-**Autoevaluación de preparación**
-
-Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
-
-**Objetivos y ámbito del examen**
+{{exam-objectives}}
 
 **Sección 1: Liderazgo del proyecto (16 %)**
 
@@ -121,17 +123,33 @@ Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.c
 * Recopilar información sobre la implementación de un cliente y recomendar prácticas de seguridad
 * Explicar la aplicabilidad de Workspace y las particiones para un escenario determinado
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+### Cuestionario de preparación
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{readiness}}
 
-**Preguntas de muestra**
+[Responda al cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+<br>
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+## Cómo obtener la certificación {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Paso 1: Crear su cuenta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Liderazgo del proyecto**
 
@@ -157,15 +175,36 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Supresión de devoluciones suaves](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [Explicación de espacios de trabajo y particiones de persona](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.
+<br>
 
-## Acerca del examen de certificación
+**Preguntas de muestra**
+
+{{sample-questions}}
+
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -178,7 +217,23 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

@@ -6,18 +6,47 @@ role: Developer
 badge: label="Examen AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Workfront Fusion] Desarrollador profesional
 
-Aprenda a obtener la certificación de Adobe [!DNL Workfront] Desarrollador profesional.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Profesional (0-12 meses de experiencia)
+* Puntuación superada: 33/51
+* Tiempo: 102 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 125 dólares (global) / 95 dólares (India)
+* ID del examen: AD0-E902
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Desarrollador, ingeniero de automatización
+* Automator, optimización de procesos y gestor de automatización
+* Asesores de integración, consultores, socios
+* Integradores/socios de sistemas
+* Analistas de negocio, analistas de negocio aplicados
+* Administrador del sistema (TI, IMS, tecnología, sistemas de conocimientos, administradores de IA)
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debería tener:
 
@@ -32,36 +61,13 @@ Debería tener:
 * Capacidad para administrar equipos y usuarios de la organización
 * Una comprensión del propósito y el uso de los conectores universales para la API de REST Oauth2
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* Desarrollador, ingeniero de automatización
-* Automator, optimización de procesos y gestor de automatización
-* Asesores de integración, consultores, socios
-* Integradores/socios de sistemas
-* Analistas de negocio, analistas de negocio aplicados
-* Administrador del sistema (TI, IMS, tecnología, sistemas de conocimientos, administradores de IA)
-
-**Detalles del examen:**
-
-* Nivel: Profesional (0-12 meses de experiencia)
-* Puntuación superada: 33/51
-* Tiempo: 102 min
-* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
-* Idiomas disponibles: Inglés
-* Costo: 125 dólares (global) / 95 dólares (India)
-* ID del examen: AD0-E902
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Conceptos técnicos básicos (39 %)
+**Sección 1: Conceptos técnicos básicos (39 %)**
 
 * Dado un [!DNL Fusion] con un formato de campo que debe estar en otro formato de campo, proporcione las posibles funciones que podrían utilizarse para transformar los datos correctamente
 * Dado un [!DNL Fusion] En un escenario que requiera que una función esté anidada dentro de otra función, seleccione la expresión formada correctamente
@@ -77,7 +83,7 @@ Sección 1: Conceptos técnicos básicos (39 %)
 * Identificar las distintas opciones de la variable [!DNL Fusion] configuración de escenario para satisfacer las necesidades de escenario
 * Dado un [!DNL Fusion] , seleccione el control de flujo adecuado y/o determine la combinación correcta de módulos de control de flujo
 
-Sección 2: Diseño y arquitectura de escenarios (35 %)
+**Sección 2: Diseño y arquitectura de escenarios (35 %)**
 
 * Dada una lista de pasos, elija la secuencia correcta para analizar JSON y convertirlo en paquetes
 * Dados un conjunto de requisitos, identifique el método de búsqueda de datos correcto
@@ -92,7 +98,7 @@ Sección 2: Diseño y arquitectura de escenarios (35 %)
 * Se proporciona una descripción de la necesidad de archivar un escenario durante más de 60 días y se selecciona la única manera posible (importar/exportar modelo)
 * Dado un ejemplo de Error 403: Prohibido, seleccione correctamente el origen del mensaje de error y la causa
 
-Sección 3: Pruebas y gestión de errores (16 %)
+**Sección 3: Pruebas y gestión de errores (16 %)**
 
 * Identificación de los elementos de un plan de prueba
 * Identificación de los elementos de un caso de prueba
@@ -101,24 +107,32 @@ Sección 3: Pruebas y gestión de errores (16 %)
 * Identificar cómo rastrear, leer y resolver ejecuciones incompletas
 * Dado un [!DNL Fusion] En un escenario en el que faltan datos necesarios, seleccione formas de gestionar los datos no válidos
 
-Sección 4: Uso de API (10 %)
+**Sección 4: Uso de API (10 %)**
 
 * Dada una API de terceros que devuelve un error 429: Demasiadas solicitudes, identifique una solución para evitar o gestionar el error
 * Dado un [!DNL Fusion] escenario en el que la nueva funcionalidad no está disponible en el [!DNL Workfront] , identifique la referencia y el tipo de módulo correctos para utilizar la nueva funcionalidad
 * Dado un sistema de terceros que no tiene una aplicación dedicada, identifique la aplicación HTTP y seleccione el módulo adecuado
 * Identificar la diferencia entre las operaciones de CRUD y otras capacidades comunes de las API de REST
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+## Cómo obtener la certificación {#how-to-get-certified}
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{how-to-get-certified-intro}}
 
-**Preguntas de muestra**
++++Paso 1: Crear su cuenta
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+{{create-your-account}}
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Conceptos técnicos básicos**
 
@@ -151,16 +165,35 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Aplicaciones y sus módulos](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Módulos en Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+**Preguntas de muestra**
 
+{{sample-questions}}
 
-## Acerca del examen de certificación
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -173,7 +206,23 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

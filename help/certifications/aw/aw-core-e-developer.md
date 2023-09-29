@@ -6,22 +6,50 @@ role: Developer
 badge: label="Examen AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1404'
 ht-degree: 0%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Workfront] Experto de desarrollador principal
 
-Aprenda a obtener la certificación de Adobe [!DNL Workfront] Experto en desarrolladores principales.
+{{intro}}
 
 >[!NOTE]
 >
 >Este examen, Adobe [!DNL Workfront] Se ha actualizado Core Developer Expert (AD0-E904). Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 6 de noviembre de 2023. Si acaba de empezar, le recomendamos que tome la [versión más reciente de este examen (AD0-907)](aw-core-e-developer-23-08.md).
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Experto (1-3 años de experiencia)
+* Puntuación superada: 36/64
+* Tiempo: 130 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 225 dólares (global) / 150 dólares (India)
+* Identificador del examen: AD0-E904
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* [!DNL Workfront] Administradores del sistema especializados en implementación y configuración de instancias nuevas o actualizadas
+* Diseñador/arquitecto de procesos
+* Analista empresarial
+* Asesor técnico
+* Consultor de configuración
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y pueden:
 
@@ -32,39 +60,13 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y pu
 * Comprender y aplicar los casos de uso de marketing y PMO
 * Recomendar y crear informes compatibles con los procesos de los clientes
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* [!DNL Workfront] Administradores del sistema especializados en implementación y configuración de instancias nuevas o actualizadas
-* Diseñador/arquitecto de procesos
-* Analista empresarial
-* Asesor técnico
-* Consultor de configuración
-
-**Detalles del examen:**
-
-* Nivel: Experto (1-3 años de experiencia)
-* Puntuación superada: 36/64
-* Tiempo: 130 min
-* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
-* Idiomas disponibles: Inglés
-* Costo: 225 dólares (global) / 150 dólares (India)
-* Identificador del examen: AD0-E904
-
-**Autoevaluación de la preparación**
-
-Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Administración y configuración del sistema principal (17 %)
+**Sección 1: Administración y configuración del sistema principal (17 %)**
 
 * En un escenario determinado, describa las formas de compartir permisos y acceso de forma eficaz.
 * Dado un diagrama, seleccione el orden de acceso correcto de la jerarquía.
@@ -75,7 +77,7 @@ Sección 1: Administración y configuración del sistema principal (17 %)
 * Ante un escenario concreto, recomendar si un equipo debe ser estándar, Kanban o Scrum.
 * Ante un escenario determinado, determine la práctica recomendada para implementar guiones gráficos personalizados de equipo de Agile.
 
-Sección 2: Admisión, formularios personalizados y administración de proyectos (17 %)
+**Sección 2: Admisión, formularios personalizados y administración de proyectos (17 %)**
 
 * Ante un escenario concreto, identifique las áreas de configuración necesarias para admitir las asignaciones de trabajo.
 * Ante un escenario concreto, identifique la configuración necesaria.
@@ -83,7 +85,7 @@ Sección 2: Admisión, formularios personalizados y administración de proyectos
 * Dado un escenario, describa lo que debe hacerse para solucionar los errores de informes y cálculos.
 * Ante un escenario concreto, identifique los elementos de apoyo que se prestan a las plantillas.
 
-Sección 3: Funcionalidad estratégica: gestión de carteras y programas, gestión de recursos (13 %)
+**Sección 3: Funcionalidad estratégica: gestión de carteras y programas, gestión de recursos (13 %)**
 
 * En un escenario determinado, determine cómo capturar los KPI posteriores al proyecto que se reflejan en Portfolio Optimizer.
 * Dado un escenario, ajuste el caso empresarial para reflejar un cambio en el ámbito del proyecto.
@@ -93,14 +95,14 @@ Sección 3: Funcionalidad estratégica: gestión de carteras y programas, gesti�
 * Dado un escenario, determine la causa raíz.
 * Ante un escenario determinado, determine por qué un usuario está sobreasignado.
 
-Sección 4: Administración de documentos y prueba (13 %)
+**Sección 4: Administración de documentos y prueba (13 %)**
 
 * Ante un escenario, demuestre cuándo utilizar la administración de documentos en lugar de la revisión
 * Ante un escenario concreto, identifique las prácticas recomendadas para utilizar el visor de pruebas, la configuración y la funcionalidad de marcado
 * En un escenario concreto, muestre cómo editar y establecer permisos en un archivo.
 * Ante un escenario concreto, mostrar cómo configurar el almacenamiento de documentos externos con restricciones de seguridad
 
-Sección 5: Informes (13 %)
+**Sección 5: Informes (13 %)**
 
 * En un escenario determinado, describa las formas de combinar varias columnas de datos en una sola columna.
 * Dado un informe o filtro, demuestre las ventajas de utilizar valores comodín.
@@ -108,7 +110,7 @@ Sección 5: Informes (13 %)
 * En un escenario concreto, describa cómo la creación de informes facilita la ejecución eficiente del trabajo.
 * Si se da un escenario, ilustre [!DNL Workfront] Creación de informes para supervisar y mejorar la adopción de usuarios.
 
-Sección 6: Metodología / prácticas recomendadas / casos de uso (20 %)
+**Sección 6: Metodología / prácticas recomendadas / casos de uso (20 %)**
 
 * Dado un escenario dentro de [!DNL Workfront], muestre la funcionalidad para configurar el seguimiento de entregas que forman parte de una sola campaña.
 * Dado un escenario dentro de [!DNL Workfront], demostrar la funcionalidad en torno a la priorización estratégica y la justificación del trabajo.
@@ -118,7 +120,7 @@ Sección 6: Metodología / prácticas recomendadas / casos de uso (20 %)
 * Ante un escenario concreto, recomiende un marco de trabajo para la gobernanza en torno a la administración del sistema al expandir la instancia de un cliente.
 * Ante un escenario concreto, identifique las áreas que se deben tener en cuenta al expandir la instancia de un cliente para permitir que equipos adicionales trabajen juntos.
 
-Sección 7: Consultoría de negocios (8%)
+**Sección 7: Consultoría de negocios (8%)**
 
 * En una situación concreta, describa el proceso necesario para apoyar plenamente ese esfuerzo.
 * En un escenario determinado, explique cómo adaptar un flujo de trabajo existente para satisfacer un cambio reciente en un proceso empresarial crítico en curso.
@@ -126,11 +128,33 @@ Sección 7: Consultoría de negocios (8%)
 * Ante un escenario concreto, identifique las consideraciones clave de la administración de cambios para un [!DNL Workfront] implementación
 * Ante un escenario, proporcione una recomendación.
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+### Cuestionario de preparación
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{readiness}}
+
+[Responda al cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+
+<br>
+
+## Cómo obtener la certificación {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Paso 1: Crear su cuenta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Administración y configuración del sistema principal**
 
@@ -191,19 +215,33 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 * [Definición de objetivos para el Adobe [!DNL Workfront] implementación](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 * [Práctica recomendada - Planificador de recursos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
-
-## Realizar una prueba de práctica
+**Realizar una prueba de práctica**
 
 {{practice-test}}
 
-## Acerca del examen de certificación
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -216,7 +254,23 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

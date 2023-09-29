@@ -7,48 +7,24 @@ role: User
 badge: label="Examen AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 12%
+source-wordcount: '686'
+ht-degree: 16%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Experience Manager] Profesional empresarial
 
-Aprenda a obtener la certificación de Adobe [!DNL Experience Manager] Profesional de negocios.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
 
-Debería tener:
+{{exam-description}}
 
-* Al menos 0-12 meses de experiencia utilizando y configurando Adobe Cloud Manager
-* AEM Experiencia de al menos 0-12 meses con características y capacidades de necesarias para atraer a los desarrolladores y encontrar soluciones comerciales
-* Al menos 0-12 meses de experiencia en la configuración, implementación y administración de tareas de integración continua/implementación continua
+<br>
 
-Si se siente cómodo trabajando en Adobe Managed Services y Adobe [!DNL Experience Manager] as a Cloud Service y son capaces de configurar el Adobe [!DNL Experience Manager] entornos e infraestructura.
-
-Además, debería tener:
-
-* AEM La capacidad de usar productos de la para administrar contenido y dirigir las experiencias digitales
-* Una comprensión de los módulos presentes
-* Una perspectiva más detallada de módulos como Sites, Assets y Forms
-
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
-
->[!BEGINTABS]
-
->[!TAB Prepárese.]
-
-**Destinatarios a los que va dirigido:**
-
-* Asesor de soluciones
-* Experiencia del consumidor
-* Propietario del producto para una solución que se está diseñando e implementando, analista empresarial, arquitecto de soluciones
-
-**Detalles del examen:**
+### Detalles del examen {#exam-details}
 
 * Nivel: Profesional (0-12 meses de experiencia)
 * Puntuación superada: 33/50
@@ -58,22 +34,52 @@ Además, debería tener:
 * Costo: 125 dólares (global) / 95 dólares (India)
 * Identificador del examen: AD0-E126
 
-**Objetivos y ámbito del examen**
+<br>
 
-Sección 1: Educación (22%)
+### Destinatarios previstos {#intended-audience}
+
+* Asesor de soluciones
+* Experiencia del consumidor
+* Propietario del producto para una solución que se está diseñando e implementando, analista empresarial, arquitecto de soluciones
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
+
+Debería tener:
+
+* Al menos 0-12 meses de experiencia utilizando y configurando Adobe Cloud Manager
+* AEM Experiencia de al menos 0-12 meses con características y capacidades de necesarias para atraer a los desarrolladores y encontrar soluciones comerciales
+* Al menos 0-12 meses de experiencia en la configuración, implementación y administración de tareas de integración continua/implementación continua
+
+Debe sentirse cómodo trabajando en Adobe Managed Services y Adobe [!DNL Experience Manager] as a Cloud Service y son capaces de configurar el Adobe [!DNL Experience Manager] entornos e infraestructura.
+
+Además, debería tener:
+
+* AEM La capacidad de usar productos de la para administrar contenido y dirigir las experiencias digitales
+* Una comprensión de los módulos presentes
+* Una perspectiva más detallada de módulos como Sites, Assets y Forms
+
+<br>
+
+### Objetivos y ámbito del examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sección 1: Educación (22%)**
 
 * AEM Identificación de características y capacidades de
 * AEM Descripción de características que satisfacen las necesidades comerciales
 * Describir los conceptos procedimentales necesarios para llevar a cabo la formación de los editores de contenido
 
-Sección 2: Arquitectura (22 %)
+**Sección 2: Arquitectura (22 %)**
 
 * Identifique la arquitectura de la información adecuada para satisfacer las necesidades comerciales mediante un entorno local o de Adobe alojado (en la nube)
 * AEM Describir cómo se conecta la con los servicios de terceros
 * Identificar dónde definir funciones y permisos
 * Ante un escenario, defina los enfoques de almacenamiento en caché disponibles
 
-Sección 3: Análisis de negocio (43%)
+**Sección 3: Análisis de negocio (43%)**
 
 * AEM Ante un escenario concreto, identifique módulos estándar de que aborden los problemas empresariales de los clientes
 * AEM Identificar conceptos de administración de contenido para módulos de
@@ -82,22 +88,30 @@ Sección 3: Análisis de negocio (43%)
 * Si se da un escenario, describa un enfoque correcto para cumplir los objetivos comerciales sin salirse del presupuesto o del ámbito
 * Identificar formas de conectar los objetivos empresariales con el equipo de desarrollo
 
-Sección 4: Configuración e implementación (13 %)
+**Sección 4: Configuración e implementación (13 %)**
 
 * AEM Identificación de prácticas recomendadas para utilizar componentes de contenido
 * Ante un escenario, identifique la implementación correcta de una función
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+## Cómo obtener la certificación {#how-to-get-certified}
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{how-to-get-certified-intro}}
 
-**Preguntas de muestra**
++++Paso 1: Crear su cuenta
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+{{create-your-account}}
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Educación**
 
@@ -138,16 +152,35 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Integración con Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html?lang=es){target="_blank"}
 * [AEM [!DNL Sites] vídeos y tutoriales](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=es){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+**Preguntas de muestra**
 
+{{sample-questions}}
 
-## Acerca del examen de certificación
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -160,7 +193,23 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

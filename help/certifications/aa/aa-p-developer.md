@@ -8,18 +8,44 @@ level: Experienced
 badge: label="Examen AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1116'
-ht-degree: 10%
+source-wordcount: '946'
+ht-degree: 12%
 
 ---
 
 # Recorrido de certificación para [!DNL Adobe Analytics] Desarrollador profesional
 
-Obtenga información sobre cómo obtener una certificación [!DNL Adobe Analytics] Desarrollador profesional.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Profesional (0-12 meses de experiencia)
+* Puntuación superada: 31/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: $125 (global) y $95 (India)
+* ID del examen: AD0-E213
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Especialistas en implementación/ingenieros
+* Desarrolladores
+* Arquitectos
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debería tener:
 
@@ -27,7 +53,7 @@ Debería tener:
 * Experiencia apoyando a los equipos de implementación de Analytics en el puente entre TI y la empresa para comprender cómo los requisitos empresariales se traducen en una solución técnica (SDR) y en función de los requisitos proporcionados por el analista
 * Comprender qué tipo de variable es necesario, dónde y cómo recopilar los datos, diseñar el modelo de datos (capa de datos), configurar y mantener la solución de administración de etiquetas
 
-Experiencia con las siguientes tareas:
+También debe tener experiencia con las siguientes tareas:
 
 * Interpretación de un documento de diseño de soluciones (DRS) y comprensión del propósito de todos [!DNL Adobe Analytics] variables recopiladas
 * Explicación y trabajo con Adobe (Experience Platform) Launch
@@ -41,44 +67,24 @@ Experiencia con las siguientes tareas:
 * Realizar informes básicos desde Analysis Workspace y comprender los resultados de datos disponibles desde [!DNL Adobe Analytics] Data Warehouse
 * Experiencia básica con Adobe Experience Platform Launch (Adobe Launch)
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* Especialistas en implementación/ingenieros
-* Desarrolladores
-* Arquitectos
-
-**Detalles del examen:**
-
-* Nivel: Profesional (0-12 meses de experiencia)
-* Puntuación superada: 31/50
-* Tiempo: 100 min
-* Entrega: En línea con protección (requiere acceso a la cámara)
-* Idiomas disponibles: Inglés
-* Costo: $125 (global) y $95 (India)
-* ID del examen: AD0-E213
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Análisis en el ecosistema de Adobe Experience Cloud (14 %)
+**Sección 1: Análisis en el ecosistema de Adobe Experience Cloud (14 %)**
 
 * Identificación de las funciones y capacidades de Adobe Experience Cloud ID.
 * Identificar los usuarios de Adobe Launch.
 * Identificar cómo habilitar/admitir [!DNL Adobe Analytics] en el ecosistema de Adobe Experience Cloud.
 
-Sección 2: Estrategia y diseño de Analytics basados en un SDR (12 %)
+**Sección 2: Estrategia y diseño de Analytics basados en un SDR (12 %)**
 
 * Dada una Referencia de diseño de la solución, identifique qué objetos de datos deben rellenarse.
 * Dado que forma parte de un documento de especificaciones técnicas, identifique cómo implementar la captura de datos.
 
-Sección 3: Implementación y configuración de Analytics (30 %)
+**Sección 3: Implementación y configuración de Analytics (30 %)**
 
 * Identificación de los pasos para la implementación [!DNL Adobe Analytics] Código.
 * Identifique funciones de código de implementación mínimo para el seguimiento de Analytics.
@@ -87,41 +93,49 @@ Sección 3: Implementación y configuración de Analytics (30 %)
 * Identificar las características de una capa de datos y los valores de dicha capa.
 * Identifique las funciones de App Measurement para funciones de seguimiento como el seguimiento de vínculos y el seguimiento del comercio electrónico.
 
-Sección 4: Sistemas Tag Management (18 %)
+**Sección 4: Sistemas Tag Management (18 %)**
 
 * Identifique si se han cumplido los requisitos mediante auditorías de etiquetas.
 * Identifique los pasos para configurar el etiquetado de sitios web con Adobe Launch.
 * Ante un escenario concreto, identifique cómo habilitar, modificar y solucionar problemas de extensiones en Adobe Launch.
 * Identificar cómo crear reglas y elementos de datos.
 
-Sección 5: Componentes de [!DNL Adobe Analytics] (8 %)
+**Sección 5: Componentes de [!DNL Adobe Analytics] (8 %)**
 
 * Identificar las funciones de [!DNL Adobe Analytics] API (fuente de datos, almacén, fuentes de datos, informes).
 * Identificar las características de las reglas de procesamiento.
 
-Sección 6: Pruebas, validación y resolución de problemas (18 %)
+**Sección 6: Pruebas, validación y resolución de problemas (18 %)**
 
 * Identificar el significado de los errores comunes de JavaScript.
 * Identificar el significado de lo común [!DNL Adobe Analytics] errores de variables.
 * Ante un escenario concreto, identifique las prácticas recomendadas de validación de pruebas y depuración que se deben seguir.
 * Identificación de cómo realizar el seguimiento de un [!DNL Adobe Analytics] llamada al servidor (por ejemplo, De la solicitud de señalización a la visualización en el informe).
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+## Cómo obtener la certificación {#how-to-get-certified}
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{how-to-get-certified-intro}}
 
-**Preguntas de muestra**
++++Paso 1: Crear su cuenta
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+{{create-your-account}}
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Análisis en el ecosistema de Adobe Experience Cloud**
 
 * [Servicio de Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
-* [Preguntas más frecuentes](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
+* [Preguntas frecuentes](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
 * [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Información general sobre etiquetas](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es){target="_blank"}
 
@@ -162,15 +176,41 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Seguimiento de componentes donde se hizo clic con [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html?lang=es){target="_blank"}
 * [[!DNL Adobe Analytics] Depuración de implementación: herramientas](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+**Preguntas de muestra**
 
-## Acerca del examen de certificación
+{{sample-questions}}
+
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**Realizar una prueba de práctica**
+
+{{practice-test}}
+
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -183,10 +223,27 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 ¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+

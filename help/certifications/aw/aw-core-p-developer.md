@@ -6,18 +6,50 @@ role: Developer
 badge: label="Examen AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 2%
+source-wordcount: '819'
+ht-degree: 3%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Workfront] Core Developer Professional
 
-Aprenda a obtener la certificación de Adobe [!DNL Workfront] Desarrollador principal profesional.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Profesional (0-12 meses de experiencia)
+* Puntuación superada: 44/70
+* Tiempo: 140 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 125 dólares (global) / 95 dólares (India)
+* Identificador del examen: AD0-E905
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Asesor técnico
+* Administrador del sistema
+* Gestor de proyecto
+* Coordinador del proyecto
+* Estratega
+* Gerente de recursos
+* Analista
+* especialista en TI
+* [!DNL Workfront] asesor de implementación/responsable
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debería tener:
 
@@ -36,55 +68,25 @@ Y, debería tener:
 * Familiaridad con los conectores nativos y otros Adobes [!DNL Workfront] productos y servicios
 * Familiaridad con la administración de proyectos, incluidos los conceptos de agile y waterfall, y administración de recursos
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* Asesor técnico
-* Administrador del sistema
-* Gestor de proyecto
-* Coordinador del proyecto
-* Estratega
-* Gerente de recursos
-* Analista
-* especialista en TI
-* [!DNL Workfront] asesor de implementación/responsable
-
-**Detalles del examen:**
-
-* Nivel: Profesional (0-12 meses de experiencia)
-* Puntuación superada: 44/70
-* Tiempo: 140 min
-* Entrega: En línea con protección (requiere acceso a la cámara)
-* Idiomas disponibles: Inglés
-* Costo: 125 dólares (global) / 95 dólares (India)
-* Identificador del examen: AD0-E905
-
-**Autoevaluación de la preparación**
-
-Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
-
-**Objetivos y ámbito del examen**
-
-Sección 1. Estrategia e ingesta (24%)
+**Sección 1. Estrategia e ingesta (24%)**
 
 * Uso de portafolios y programas
 * Usar colas de solicitudes
 * Uso de formularios personalizados
 * Usar aprobaciones básicas
 
-Sección 2. Presupuesto y planificación (11 %)
+**Sección 2. Presupuesto y planificación (11 %)**
 
 * Usar el Planificador de recursos
 * Ante un escenario/conjunto de requisitos, aplique las configuraciones para configurar una plantilla de proyecto
 
-Sección 3. Experiencia del usuario (25 %)
+**Sección 3. Experiencia del usuario (25 %)**
 
 * Ilustrar las prácticas recomendadas para la administración de usuarios al crear la experiencia del usuario adecuada
 * Ante un escenario concreto, aplique la configuración correcta para los derechos de acceso y uso compartido en todo el sistema
@@ -92,13 +94,13 @@ Sección 3. Experiencia del usuario (25 %)
 * Demostración de cómo crear y utilizar plantillas de horas
 * Describa el propósito y el valor de los conectores, complementos y complementos
 
-Sección 4. Métricas y creación de informes (16 %)
+**Sección 4. Métricas y creación de informes (16 %)**
 
 * Describir conceptos básicos para crear, enviar y personalizar informes
 * Explicar cómo crear y personalizar paneles
 * Demostración de cómo configurar vistas funcionales de informes
 
-Sección 5. Ejecución (24 %)
+**Sección 5. Ejecución (24 %)**
 
 * Demostración de cómo configurar flujos de trabajo de aprobación y revisión
 * Reconocer el propósito de crear un problema para un proyecto
@@ -107,17 +109,33 @@ Sección 5. Ejecución (24 %)
 * Identificación de las formas de introducir las horas [!DNL Workfront]
 * Identificación de los elementos de seguimiento financiero en [!DNL Workfront]
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+### Cuestionario de preparación
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{readiness}}
 
-**Preguntas de ejemplo**
+[Responda al cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+<br>
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+## Cómo obtener la certificación {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Paso 1: Crear su cuenta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Estrategia e ingesta**
 
@@ -160,17 +178,35 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Crear un equipo Agile](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [Seguimiento de costes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+**Preguntas de muestra**
 
+{{sample-questions}}
 
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-## Acerca del examen de certificación
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -183,7 +219,23 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

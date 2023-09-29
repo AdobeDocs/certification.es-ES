@@ -7,18 +7,45 @@ role: Developer
 badge: label="Examen AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1174'
-ht-degree: 12%
+source-wordcount: '979'
+ht-degree: 14%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Campaign Classic] Desarrollador profesional
 
-Aprenda a obtener la certificación de Adobe [!DNL Campaign Classic] Desarrollador profesional.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Profesional (0-12 meses de experiencia)
+* Puntuación superada: 33/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 125 dólares (global) / 95 dólares (India)
+* Identificador del examen: AD0-E331
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Consultor asociado
+* Consultor técnico junior
+* Ingeniero de tecnología de marketing junior
+* Desarrollador de Campaign junior
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debería tener:
 
@@ -27,38 +54,13 @@ Debería tener:
 * Una comprensión básica de la automatización de marketing
 * Comprensión de los conceptos de base de datos relacional
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* Consultor asociado
-* Consultor técnico junior
-* Ingeniero de tecnología de marketing junior
-* Desarrollador de Campaign junior
-
-**Detalles del examen:**
-
-* Nivel: Profesional (0-12 meses de experiencia)
-* Puntuación superada: 33/50
-* Tiempo: 100 min
-* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
-* Idiomas disponibles: Inglés
-* Costo: 125 dólares (global) / 95 dólares (India)
-* Identificador del examen: AD0-E331
-
-**Autoevaluación de la preparación**
-
-Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Configuración del sistema (25 %)
+**Sección 1: Configuración del sistema (25 %)**
 
 * Mostrar la configuración de todo el sistema de las opciones en el nodo Administración
 * Aplicar el proceso para ampliar el esquema de destinatario OOTB
@@ -74,7 +76,7 @@ Sección 1: Configuración del sistema (25 %)
 * Describa el caso práctico comercial del Centro de mensajes
 * Identificación de la funcionalidad de importación de datos de API V8
 
-Sección 2: Personalización (16 %)
+**Sección 2: Personalización (16 %)**
 
 * Aplique el proceso para editar esquemas de Campaign
 * Identifique la configuración para garantizar la extensión de esquema correcta o configurar esquemas personalizados
@@ -85,14 +87,14 @@ Sección 2: Personalización (16 %)
 * Identificar los casos de uso para la administración de contenido
 * Aplicar al proceso para actualizar los formularios OOTB
 
-Sección 3: Seguridad operativa (10%)
+**Sección 3: Seguridad operativa (10%)**
 
 * Describir el proceso para agregar grupos de usuarios y funciones
 * Aplique el proceso para traducir la matriz de administración de usuarios con los derechos de usuario y la jerarquía correctos
 * Identificar y definir los permisos correctos
 * Identificar la zona de seguridad de un grupo de usuarios
 
-Sección 4: Flujos de trabajo técnicos (29 %)
+**Sección 4: Flujos de trabajo técnicos (29 %)**
 
 * Aplicar el proceso de importación y exportación
 * Identificar las diferentes fuentes de datos a las que puede acceder un flujo de trabajo
@@ -108,12 +110,12 @@ Sección 4: Flujos de trabajo técnicos (29 %)
 * Aplicar el proceso para configurar alertas y aprobaciones
 * Identificación de tipos de bases de datos de Campaign
 
-Sección 5: Mantenimiento de instancias (4 %)
+**Sección 5: Mantenimiento de instancias (4 %)**
 
 * Identificar errores de diferentes registros de servicio
 * Explicar lecturas de mapa de calor del flujo de trabajo
 
-Sección 6: Configuración de la campaña (14 %)
+**Sección 6: Configuración de la campaña (14 %)**
 
 * Aplique el proceso para crear campañas con plantillas de campaña
 * Describir el proceso de creación de aprobaciones
@@ -122,17 +124,33 @@ Sección 6: Configuración de la campaña (14 %)
 * Defina el proceso para crear el proceso avanzado en flujos de trabajo
 * Describir métodos de ejecución de flujo de trabajo
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+### Cuestionario de preparación
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{readiness}}
 
-**Preguntas de muestra**
+[Responda al cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+<br>
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
+## Cómo obtener la certificación {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Paso 1: Crear su cuenta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Configuración del sistema**
 
@@ -182,17 +200,35 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Introducción a los flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=es){target="_blank"}
 * [Ejecución del flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+**Preguntas de muestra**
 
+{{sample-questions}}
 
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
 
-## Acerca del examen de certificación
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -205,7 +241,23 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

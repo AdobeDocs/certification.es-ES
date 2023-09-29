@@ -8,18 +8,53 @@ level: Experienced
 badge: label="Examen AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '671'
 ht-degree: 1%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Commerce] Maestro de arquitectos
 
-Obtenga información sobre cómo obtener una certificación [!DNL Adobe Commerce] Maestro de arquitectos.
 
-## Experiencia mínima
+{{intro}}
+
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Master (3-5 años de experiencia)
+* Puntuación superada: 30/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 225 dólares (global) / 150 dólares (India)
+* Identificador del examen: AD0-E722
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Software principal/[!DNL Adobe Commerce] Arquitecto
+* Arquitecto técnico
+* Arquitecto de soluciones
+* Responsable técnico
+* Experto técnico
+* Desarrollador de pila completa
+* Ingeniero jefe
+* Arquitecto técnico asociado
+* Desarrollador back-end sénior
+* Ingeniero de software back-end
+* Consultor técnico sénior
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debe tener al menos 3-5 años de experiencia liderando [!DNL Commerce] proyectos de desarrollo y son capaces de diseñar, integrar, implementar y explicar soluciones a problemas empresariales utilizando [!DNL Adobe Commerce] junto con los servicios asociados.
 
@@ -51,45 +86,13 @@ Además, debe estar muy familiarizado con las siguientes actividades y tecnolog�
 * Creación y modificación de B2B
 * Protocolo AMQP y adaptadores en [!DNL Adobe Commerce] (S3)
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* Software principal/[!DNL Adobe Commerce] Arquitecto
-* Arquitecto técnico
-* Arquitecto de soluciones
-* Responsable técnico
-* Experto técnico
-* Desarrollador de pila completa
-* Ingeniero jefe
-* Arquitecto técnico asociado
-* Desarrollador back-end sénior
-* Ingeniero de software back-end
-* Consultor técnico sénior
-
-**Detalles del examen:**
-
-* Nivel: Master (3-5 años de experiencia)
-* Puntuación superada: 30/50
-* Tiempo: 100 min
-* Entrega: En línea con protección (requiere acceso a la cámara)
-* Idiomas disponibles: Inglés
-* Costo: 225 dólares (global) / 150 dólares (India)
-* Identificador del examen: AD0-E722
-
-**Autoevaluación de la preparación**
-
-Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Diseño (46 %)
+**Sección 1: Diseño (46 %)**
 
 * Diseñar e implementar soluciones óptimas para el Adobe [!DNL Commerce] para satisfacer las necesidades empresariales
 * Diseño de flujos lógicos y técnicos
@@ -97,7 +100,7 @@ Sección 1: Diseño (46 %)
 * Integrar Adobe [!DNL Commerce] con sistemas y servicios externos
 * Solución de problemas de flujos de diseño
 
-Sección 2 - Revisión (32 %)
+**Sección 2: Revisión (32 %)**
 
 * Revisar y refactorizar el Adobe existente [!DNL Commerce] personalizaciones
 * Utilizar [!DNL Commerce] marcos de prueba en todo el flujo de trabajo
@@ -105,18 +108,38 @@ Sección 2 - Revisión (32 %)
 * Solucionar problemas para identificar la causa raíz de los problemas con el Adobe [!DNL Commerce]
 * Aplicar estándares de codificación
 
-Sección 3: Configuración e implementación (22 %)
+**Sección 3: Configuración e implementación (22 %)**
 
 * Configuración del Adobe [!DNL Commerce] y asegúrese de que el proyecto esté configurado de forma óptima
 * Configuración de todos los Adobes [!DNL Commerce] Nube
 * Supervisión y mejora del proceso de implementación
 * Solución de problemas de infraestructura y configuración
 
->[!TAB Prepárate.]
+### Cuestionario de preparación
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+{{readiness}}
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+[Responda al cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
+
+<br>
+
+## Cómo obtener la certificación {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Paso 1: Crear su cuenta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Diseño**
 
@@ -149,15 +172,27 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 * [Información general sobre inicialización y bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Resumen de servicios rápidos](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
++++
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+<br>
 
++++Paso 3: Programar y pagar el examen
 
+{{schedule-and-pay}}
 
-## Acerca del examen de certificación
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -170,7 +205,23 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

@@ -7,18 +7,48 @@ role: User
 badge: label="Examen AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '914'
-ht-degree: 18%
+source-wordcount: '761'
+ht-degree: 22%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Campaign Classic] Experto profesional de negocios
 
-Aprenda a obtener la certificación de Adobe [!DNL Campaign Classic] Experto profesional de negocios.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Experto (1-3 años de experiencia)
+* Puntuación superada: 32/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 225 dólares (global) / 150 dólares (India)
+* ID del examen: AD0-E327
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* Consultor empresarial
+* Analista empresarial
+* Administrador de interacción
+* Administrador de campañas
+* Comercial de base de datos
+* Profesional empresarial
+* Administrador de proyectos CRM
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debería tener:
 
@@ -29,41 +59,13 @@ Debería tener:
 * Comprensión de la aplicación de tipología, administración de acceso, tecnologías web y marketing de bases de datos
 * Conocimiento de las directrices legales y éticas para el marketing
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* Consultor empresarial
-* Analista empresarial
-* Administrador de interacción
-* Administrador de campañas
-* Comercial de base de datos
-* Profesional empresarial
-* Administrador de proyectos CRM
-
-**Detalles del examen:**
-
-* Nivel: Experto (1-3 años de experiencia)
-* Puntuación superada: 32/50
-* Tiempo: 100 min
-* Entrega: En línea con protección (requiere acceso a la cámara) o centro de pruebas con protección
-* Idiomas disponibles: Inglés
-* Costo: 225 dólares (global) / 150 dólares (India)
-* ID del examen: AD0-E327
-
-**Autoevaluación de la preparación**
-
-Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Administración de campañas (20 %)
+**Sección 1: Administración de campañas (20 %)**
 
 * Aplicar las prácticas recomendadas para crear una campaña
 * Ante un escenario concreto, determine la plantilla de campaña correcta
@@ -71,14 +73,14 @@ Sección 1: Administración de campañas (20 %)
 * Describir asignaciones de destino
 * Explicar cómo configurar aplicaciones web y formularios web
 
-Sección 2: Administración del flujo de trabajo (22 %)
+**Sección 2: Administración del flujo de trabajo (22 %)**
 
 * Evaluar un conjunto determinado de requisitos de la campaña y recomendar el curso de acción
 * Ante un escenario concreto, analizar errores de flujo de trabajo
 * Dados un conjunto de requisitos de campaña, determine el diseño correcto de un flujo de trabajo de marketing
 * Aplicar prácticas recomendadas al ejecutar flujos de trabajo
 
-Sección 3: Gestión de datos (24 %)
+**Sección 3: Gestión de datos (24 %)**
 
 * Explicar los conceptos básicos de las bases de datos relacionales
 * Determinar las diferentes fuentes de datos a las que puede acceder un flujo de trabajo
@@ -88,29 +90,51 @@ Sección 3: Gestión de datos (24 %)
 * Aplicar los pasos para configurar un filtro predefinido
 * Dados los requisitos empresariales, identifique el formulario de entrada adecuado
 
-Sección 4: Gestión de envíos (14 %)
+**Sección 4: Gestión de envíos (14 %)**
 
 * Aplique los pasos para crear/configurar envíos
 * En un escenario determinado, seleccione y configure la audiencia de prueba adecuada para las aprobaciones
 * Analizar e interpretar las auditorías de envío
 
-Sección 5: Informes (12 %)
+**Sección 5: Informes (12 %)**
 
 * En un escenario determinado, determine los informes adecuados que se van a generar
 * Interpretación de informes integrados
 * Explicar el impacto de la limpieza/depuración de registros en los informes
 
-Sección 6: Administración (8 %)
+**Sección 6: Administración (8 %)**
 
 * En un escenario determinado, explique el impacto de la depuración de registros en los informes
 * Dados los requisitos comerciales, conceda las autorizaciones y los accesos adecuados
 * Siga los pasos para habilitar SFTP a través del panel de control
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+### Cuestionario de preparación
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{readiness}}
+
+[Responda al cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Cómo obtener la certificación {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Paso 1: Crear su cuenta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Administración de campañas**
 
@@ -157,20 +181,33 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 * [Introducción a los permisos](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 * [Acerca de la administración SFTP](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html?lang=es){target="_blank"}
 
+<br>
 
->[!TAB Obtenga la certificación]
-
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
-
-## Realizar una prueba de práctica
+**Realizar una prueba de práctica**
 
 {{practice-test}}
 
-## Acerca del examen de certificación
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -183,7 +220,23 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 

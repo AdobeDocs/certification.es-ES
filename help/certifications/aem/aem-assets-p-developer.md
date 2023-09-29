@@ -7,18 +7,49 @@ role: Developer
 badge: label="Examen AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 4%
+source-wordcount: '630'
+ht-degree: 6%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Experience Manager] Assets Developer Professional
 
-Aprenda a obtener la certificación de Adobe [!DNL Experience Manager] Assets Developer Professional.
+{{intro}}
 
-## Experiencia mínima
+## Descripción del examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Profesional (0-12 meses de experiencia)
+* Puntuación superada: 30/50
+* Tiempo: 100 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idiomas disponibles: Inglés
+* Costo: 125 dólares (global) / 95 dólares (India)
+* Identificador del examen: AD0-E129
+
+<br>
+
+### Destinatarios previstos {#intended-audience}
+
+* AEM Desarrolladores de
+* Ingenieros de DevOps
+* AEM Arquitectos de
+* Ingenieros de nube
+* Ingenieros de confiabilidad del sitio
+* Directores técnicos
+* Ingenieros de operaciones de aplicaciones
+* Ingenieros de sistemas
+
+<br>
+
+### Experiencia mínima {#minimum-experience}
 
 Debe sentirse cómodo trabajando en Adobe Managed Services y Adobe [!DNL Experience Manager as a Cloud Service]y pueden configurar el Adobe de [!DNL Experience Manager] entornos e infraestructura.
 
@@ -41,42 +72,13 @@ Además, debe tener experiencia con las siguientes tecnologías y entornos:
 * Zona protegida de desarrollo
 * Entorno local
 
->[!NOTE]
->
->Su certificación es válida durante dos años a partir de la fecha de su aprobación. Se recomienda utilizar la versión más reciente cuando sea posible, ya que cubre las funciones más recientes del producto.
+<br>
 
->[!BEGINTABS]
+### Objetivos y ámbito del examen {#exam-objectives}
 
->[!TAB Prepárese.]
+{{exam-objectives}}
 
-**Destinatarios a los que va dirigido:**
-
-* AEM Desarrolladores de
-* Ingenieros de DevOps
-* AEM Arquitectos de
-* Ingenieros de nube
-* Ingenieros de confiabilidad del sitio
-* Directores técnicos
-* Ingenieros de operaciones de aplicaciones
-* Ingenieros de sistemas
-
-**Detalles del examen:**
-
-* Nivel: Profesional (0-12 meses de experiencia)
-* Puntuación superada: 30/50
-* Tiempo: 100 min
-* Entrega: En línea con protección (requiere acceso a la cámara)
-* Idiomas disponibles: Inglés
-* Costo: 125 dólares (global) / 95 dólares (India)
-* Identificador del examen: AD0-E129
-
-**Autoevaluación de preparación**
-
-Complete la [cuestionario de disponibilidad en línea](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} para ver si su experiencia actual coincide con la calificación mínima recomendada.
-
-**Objetivos y ámbito del examen**
-
-Sección 1: Flujos de trabajo de recursos (24 %)
+**Sección 1: Flujos de trabajo de recursos (24 %)**
 
 * Explicar el proceso para personalizar los flujos de trabajo OOTB
 * Identifique cuándo crear o personalizar flujos de trabajo de recursos para implementar los requisitos del cliente
@@ -84,7 +86,7 @@ Sección 1: Flujos de trabajo de recursos (24 %)
 * Diferenciación entre flujos de trabajo en la nube y locales
 * Describe cómo utilizar la consola Flujo de trabajo para monitorizar el estado y el progreso
 
-Sección 2: Organización de recursos y consola de recursos (22 %)
+**Sección 2: Organización de recursos y consola de recursos (22 %)**
 
 * Muestra cómo crear y organizar recursos en colecciones
 * Demostración de cómo organizar recursos mediante etiquetas
@@ -92,36 +94,52 @@ Sección 2: Organización de recursos y consola de recursos (22 %)
 * AEM Describa cómo configurar y generar informes de recursos de
 * Describe cómo administrar permisos de usuario en carpetas de recursos
 
-Sección 3: Metadatos de los recursos (24 %)
+**Sección 3: Metadatos de los recursos (24 %)**
 
 * Definición de esquemas de metadatos
 * Dado un escenario, determine cómo ajustar el esquema de metadatos adecuado
 * En un escenario determinado, determine cómo se pueden aprovechar los perfiles de metadatos para satisfacer los requisitos
 * Comprender cómo funcionan los esquemas de metadatos en cascada
 
-Sección 4: Tipos de recursos (18 %)
+**Sección 4: Tipos de recursos (18 %)**
 
 * Describir las funciones de OOTB disponibles para los tipos de recursos
 * Explicar fragmentos de contenido y modelos de fragmentos de contenido
 * Demostrar cómo y cuándo utilizar las variaciones de fragmentos de contenido
 
-Sección 5: Conjuntos de funciones y capacidades de recursos (12 %)
+**Sección 5: Conjuntos de funciones y capacidades de recursos (12 %)**
 
 * Describa los casos de uso comunes y las ventajas de utilizar Brand Portal
 * Describa los casos de uso comunes y las ventajas de utilizar Dynamic Media
 * AEM Describa las opciones para aprovechar las ventajas de utilizar el Creative Cloud de
 
->[!TAB Prepárate.]
+<br>
 
-No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+### Cuestionario de preparación
 
-Estos son algunos recursos sugeridos para ayudarle a prepararse:
+{{readiness}}
 
-**Preguntas de muestra**
+[Responda al cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
-Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos que se encuentran en el examen real. No es necesario iniciar sesión. Los resultados de las preguntas de ejemplo no se almacenan y no predicen los resultados reales de la prueba.
+<br>
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+## Cómo obtener la certificación {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Paso 1: Crear su cuenta
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Paso 2: Prepárese para su examen
+
+**Materiales de estudio**
+
+{{study-materials-intro}}
 
 **Sección 1: Flujos de trabajo de recursos**
 
@@ -152,16 +170,35 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 * [Formatos de archivo compatibles](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
 * [Perfiles de vídeo de Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
->[!TAB Obtenga la certificación]
+<br>
 
->[!IMPORTANT]
->
->Las siguientes secciones y vínculos funcionarán **solamente**  después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Además, el nombre de su perfil en la variable [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} debe coincidir exactamente con su Id. oficial. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.*
+**Preguntas de muestra**
 
+{{sample-questions}}
 
-## Acerca del examen de certificación
+[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+
++++
+
+<br>
+
++++Paso 3: Programar y pagar el examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Paso 4: Antes y después del examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Paso 5: Realiza el examen
 
 {{about-certification-exam}}
 
@@ -174,7 +211,23 @@ Las preguntas de ejemplo le permiten ver el tipo y el formato de los elementos q
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Paso 6: Administrar las insignias
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renovación de la certificación
+
+{{renewing-intro}}
+
+<br>
 
 ## Preguntas
 
