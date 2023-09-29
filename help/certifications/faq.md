@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 94ee089f972ff95b8ca75c08668e4b5cbacc77ea
 workflow-type: tm+mt
-source-wordcount: '2643'
+source-wordcount: '3097'
 ht-degree: 1%
 
 ---
@@ -243,6 +243,69 @@ No, solo debe completar los requisitos enumerados para la solución. Su certific
 +++¿Necesito revisar los cursos o simplemente puedo empezar a tomar evaluaciones?
 
 Las evaluaciones se basan en los Cursos en Experience League y revisarlos preparará a los candidatos para aprobarlos con éxito. Sin embargo, el requisito clave para la renovación es solo aprobar las evaluaciones.
+
++++
+
+>[!TAB  Cupones]
+
++++¿Cuándo caducan los vales de examen? ¿Por cuánto tiempo son buenos?
+
+Los cupones de examen de Adobe caducan 12 meses después de la compra. Los cupones no se pueden extender más allá de su fecha de vencimiento. Las inscripciones para el examen deben ser programadas, pagadas y tomadas antes de la fecha de vencimiento del comprobante de examen.
+
++++
+
++++¿Pueden devolverse los cupones por crédito o reembolso?
+
+_Todas las ventas son finales._ No se aceptan devoluciones ni reembolsos. Los vales de examen de Adobe se adquieren en un nivel de examen, no para exámenes específicos, y eso proporciona flexibilidad.
+
+* Ejemplo: Cuando compra 10 cupones de examen a nivel de Adobe Certified Expert y los distribuye, no tiene que saber con antelación ni planificar quién tomará qué examen de experto.
+* Los administradores pueden asignar el cupón a un usuario y ver si el cupón se ha visto, si se ha canjeado o si el examen está programado o ha tenido lugar.
+
++++
+
++++¿Qué tipo de pagos se aceptan?
+
+El pago se puede realizar mediante (todas las principales) tarjetas de crédito. Los pagos con tarjeta de crédito requieren la aceptación de un contrato de click-wrap en línea. Las diferentes opciones de pago son:
+
+* Alambre, pedido de compra o ACH: cree un pedido de compra en el sistema Xvoucher que se pueda imprimir y enviar al departamento de cuentas a pagar. Ese pedido se aprobará al recibir la transferencia bancaria o el cheque.
+* Tarjeta de crédito: Se aceptan todas las principales tarjetas de crédito.
+* Xwallet: Esto restará la cantidad del pedido de su grupo de Xwallet.
+
++++
+
++++¿Hay un número mínimo o máximo de cupones que puedo comprar?
+
+No, no hay mínimo ni máximo. Las compras de los clientes están limitadas a los fondos disponibles, como el límite de la tarjeta de crédito o el saldo de la cuenta bancaria para transferencias bancarias.
+
++++
+
++++¿Cuánto tiempo tardaré en tener acceso a los vales después de realizar mi pedido?
+
+Los cupones estarán disponibles inmediatamente después de la compra si paga con tarjeta de crédito o Xwallet.
+
+* Si realiza la compra por su cuenta, los códigos de cupón se proporcionarán en pantalla y en el correo electrónico.
+* Si compras para otros, inicia sesión en tu cuenta de Xvoucher y distribuye los cupones a tus usuarios finales desde allí.
+* Si se paga por cable o orden de compra, los pedidos de cupón se liberarán cuando Xvoucher haya recibido los fondos.
+
+[Ayuda en línea](https://help.xvoucher.com/){target="_blank"}
+
++++
+
++++¿Cómo puedo acceder a mi cuenta de Xvoucher?
+
+Simplemente inicia sesión en tu cuenta [aquí](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+
++++
+
++++¿Cómo puedo acceder a mi cupón de Adobe?
+
+Cuando se te asigne un cupón, recibirás un correo electrónico de support@xvoucher.com con un código de cupón e instrucciones sobre cómo canjearlo. Si no ha recibido un correo electrónico, compruebe su carpeta de correo no deseado. Si aún no encuentra el correo electrónico, puede iniciar sesión en su cuenta de Xvoucher.
+
++++
+
++++¿Pueden devolverse los cupones por crédito o reembolso?
+
+Todas las ventas son finales. No se aceptan devoluciones ni reembolsos. Los cupones para exámenes de Adobe se adquieren en un nivel de examen, no para exámenes específicos, lo que proporciona una gran flexibilidad.
 
 +++
 
