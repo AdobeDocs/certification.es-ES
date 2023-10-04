@@ -6,10 +6,10 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
+source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 3%
+source-wordcount: '1292'
+ht-degree: 12%
 
 ---
 
@@ -31,9 +31,100 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!TAB Profesional]
 
+## Debe tener lo siguiente **activo** certificación:
+
+Adobe Experience Manager Developer Professional
+
+## Instrucciones para renovar la certificación:
+
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2**: revise los objetivos y recursos del examen
+* **Paso 3**: realice y apruebe el examen
+
+### Prepárese.
+
+**Detalles del examen:**
+
+* Nivel: Experto (0-12 meses de experiencia)
+* Puntuación superada: 26/34
+* Tiempo: 68 minutos
+* Entrega: bajo demanda / sin procesador
+* Idiomas disponibles: Inglés
+* Coste: GRATIS
+* ID del examen: Adobe AD5-E837 [!DNL Experience Manager] Desarrollador profesional
+
+**Alcance y objetivos:**
+
+**Sección 1: Configuraciones (26 %)**
+
+AEM AEM Reconocer el propósito de las configuraciones de Dispatcher y el almacenamiento en caché Determinar los pasos correctos para configurar varios sitios en la sección de configuración de OSGi Explicar cómo crear y administrar configuraciones de OSGi Determinar los pasos correctos para administrar los índices de OAK personalizados Determinar los pasos correctos para configurar la integración de OOTB SAML o IMS
+
+**AEM Sección 2: Desarrollo de la (40 %)**
+
+Determinar los pasos correctos para implementar los componentes basados en componentes principales Conectar la funcionalidad de componentes, incluidos HTL, modelos y servicios. Dado un escenario, determine los pasos correctos para desarrollar flujos de trabajo. Dado un escenario, describa el propósito de los fragmentos de contenido o de experiencia
+
+**Sección 3: Generación e implementación (12 %)**
+
+Definir la estructura del proyecto de Maven Configurar proyectos a partir de arquetipos
+
+**Sección 4: Mantenimiento del entorno (22 %)**
+
+AEM AEM AEM AEM En un escenario determinado, determine los pasos necesarios para depurar los problemas en entornos de Explicar las versiones de mantenimiento de la Identificar cómo configurar las versiones en varias topologías Determinar los pasos necesarios en torno a la planificación y la migración a la as a Cloud Service
+
+### Prepárate.
+
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
+
+**Sección 1**
+
+* [Configurar Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=es){target="_blank"}
+* [Explicación del almacenamiento en caché](https://experienceleague.adobe.com/docs/experience-manager-learn/ams/dispatcher/understanding-cache.html){target="_blank"}
+* [Reutilización del contenido: administrador de varios sitios y Live Copy](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview.html){target="_blank"}
+* [Configurar OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=es){target="_blank"}
+* [Búsqueda de contenido e indexación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/indexing.html?lang=es){target="_blank"}
+* [Controlador de autenticación SAML 2.0](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/saml-2-0-authenticationhandler.html?lang=es){target="_blank"}
+
+**Sección 2**
+
+* [Uso de componentes principales](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/using.html){target="_blank"}
+* [Componente Teaser](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/teaser.html){target="_blank"}
+* [Personalización de componentes principales](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/customizing.html?lang=es){target="_blank"}
+* [La API de uso de Java de HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/content/java-use-api.html){target="_blank"}
+* [Conceptos básicos de componentes](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
+* [Modelos de Sling](https://sling.apache.org/documentation/bundles/models.html){target="_blank"}
+* [Ciclo de vida del componente OSGi](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/osgi-services/lifecycle.html){target="_blank"}
+* [Especificación de HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/content/specification.html){target="_blank"}
+* [Desarrollo y ampliación de flujos de trabajo](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows.html){target="_blank"}
+* [Modelos de fragmentos de contenido](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html){target="_blank"}
+* [Fragmentos de experiencias](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/experience-fragments.html){target="_blank"}
+* [API de GraphQL de AEM para su uso con fragmentos de contenido](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html?lang=es){target="_blank"}
+
+**Sección 3**
+
+* [Estructura del proyecto de AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=es){target="_blank"}
+* [Filtro de Workspace](https://jackrabbit.apache.org/filevault/filter.html){target="_blank"}
+* [Arquetipo de AEM Project](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/using.html?lang=es){target="_blank"}
+
+**Sección 4**
+
+* [Credenciales de servicio](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials.html?lang=es){target="_blank"}
+* [Problemas de cola de replicación](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17467.html?lang=es){target="_blank"}
+* [Información de versión](https://docs.mktossl.com/docs/experience-manager-cloud-service/content/release-notes/home.html){target="_blank"}
+* [Implementaciones recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/recommended-deploys.html){target="_blank"}
+* [Introducción al Recorrido AEM de migración para la migración a los as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [Uso del Analizador de prácticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
+
+### Renovar la certificación
+
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el botón de abajo.
+
+[!BADGE Toma el Adobe [!DNL Experience Manager] Developer Professional AD5-E837]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true&quot;}
+
 >[!NOTE]
 >
->Renovación profesional próximamente.
+>Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
 >[!TAB Experto y maestro]
 
