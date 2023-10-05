@@ -4,9 +4,9 @@ description: Aprenda a obtener la certificación en el Adobe. Encuentre todos lo
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 84e304f413b4c0b33159203b9c55eda3a9776ac1
 workflow-type: tm+mt
-source-wordcount: '1414'
+source-wordcount: '1471'
 ht-degree: 1%
 
 ---
@@ -37,11 +37,17 @@ Ejemplo:
 
 >[!TAB Realización del examen]
 
+**Su Adobe ID**
+
 Su [perfil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} El nombre que aparece en el Sistema de administración de credenciales de Adobe debe coincidir exactamente con su Id. de gobierno. Si no se tiene información idéntica o si hay alguna discrepancia, el médico cancelará el examen y le exigirá que vuelva a programar su cita además de pagar un cargo adicional por examen.
+
+**Cancelación y reprogramación**
 
 Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
 
 Ni el soporte de Adobe ni la revisión pueden procesar las solicitudes de reprogramación y cancelación. Las cancelaciones de menos de 48 horas están sujetas a una tarifa de reprogramación además de la tarifa del examen.
+
+**Después del examen**
 
 Una vez que complete un examen, recibirá un pase provisional o suspenderá. La puntuación final puede tardar hasta 72 horas en rellenarse. Encontrará el informe de resultados y de puntuación en la pestaña Historial de la [Administrador de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -49,9 +55,19 @@ Si no supera un examen de certificación de Adobe en su primer intento, debe esp
 
 >[!TAB Coste de exámenes]
 
-Estos son los costos actuales de los exámenes de certificación.
+**Precios de exámenes de certificación**
 
-![Insignia de coste del examen](/help/certifications/assets/exam_costs_new.png)
+| Certificación de Adobe | Precio (USD) | India Precio (USD) |
+| ------- | ------- | ------- |
+| Adobe Certified Professional | $125 | $95 |
+| Adobe Certified Expert | $225 | $150 |
+| Adobe Certified Master | $225 | $150 |
+
+**Precios de renovación**
+
+La mayoría de las renovaciones de certificación son **gratuito**. Para las certificaciones que no tienen una opción de renovación gratuita, debe volver a realizar el examen de certificación completo para renovar su certificación.
+
+**Pagar el examen**
 
 Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un cupón de examen, vaya a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
