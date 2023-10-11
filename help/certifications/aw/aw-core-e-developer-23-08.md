@@ -5,13 +5,13 @@ solution: Workfront
 role: Developer
 badge: label="Examen AD0-E907" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 9a00f28ae304479db525eb88677f0bfe582e2589
+exl-id: dc74de79-c945-47a4-a13b-e027182919a5
+source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
 workflow-type: tm+mt
-source-wordcount: '1685'
+source-wordcount: '1683'
 ht-degree: 0%
 
 ---
-
 
 # Recorrido de certificación para Adobe [!DNL Workfront] Experto de desarrollador principal
 
@@ -193,7 +193,7 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y de
 **Sección 4: Administración de documentos y prueba**
 
 * [Resumen de revisión](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proofing-basics.html){target="_blank"}
-* [Comprender la diferencia entre un documento y una prueba](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
+* [Comprender la diferencia entre un documento y una prueba](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html){target="_blank"}
 * [Práctica recomendada: revisión](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [Resumen de integración de AEM Assets](https://experienceleague.adobe.com/docs/workfront/using/documents/wf-aem-integrations/wf-aem-essentials/aem-asset-integrations.html){target="_blank"}
 * [Vinculación de documentos desde aplicaciones externas](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}

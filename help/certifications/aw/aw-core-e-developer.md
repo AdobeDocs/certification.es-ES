@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E904" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1400'
 ht-degree: 0%
 
 ---
@@ -158,7 +158,7 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y pu
 
 **Sección 1: Administración y configuración del sistema principal**
 
-* [Configuración del sistema: grupos y usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html%3Flang%3Dsv){target="_blank"}
+* [Configuración del sistema: grupos y usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
 * [Cómo funcionan juntos los niveles de acceso y los permisos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Estados del proyecto del sistema](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
 * [Kick-Start](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
@@ -184,7 +184,7 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y pu
 
 **Sección 4: Administración de documentos y prueba**
 
-* [Comprender la diferencia entre un documento y una prueba](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
+* [Comprender la diferencia entre un documento y una prueba](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html){target="_blank"}
 * [Práctica recomendada: revisión](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [Editar proyectos](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [Vinculación de documentos desde aplicaciones externas](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
