@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 9%
+source-wordcount: '2061'
+ht-degree: 10%
 
 ---
 
@@ -147,11 +147,96 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 +++
 
-+++[!DNL Adobe Analytics] Profesional empresarial
+## Instrucciones para renovar la certificación:
+
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2**: revise los objetivos y recursos del examen
+* **Paso 3**: realice y apruebe el examen
+
+### Prepárese.
+
+**Detalles del examen:**
+
+* Puntuación superada: 26/35
+* Tiempo: 70 min
+* Coste: GRATIS/sin procesar
+* Envío: a la carta
+* Idiomas disponibles: Inglés
+* Requisito previo: certificación actual (no caducada) de Adobe Analytics Business Practitioner Professional
+* Identificador del examen: AD5-E832
+
+**Alcance y objetivos**
+
+Sección 1: Análisis de negocio
+
+1.1 Dada una necesidad o pregunta empresarial, identificar la estrategia de creación de informes más adecuada para realizar un análisis 4% 1.2 Analizar datos para responder preguntas comerciales y recomendar nuevas hipótesis de optimización 4% 1.3 Identificar canales de conversión (como concepto para comprender el análisis empresarial) 4% 1.4 Interpretar referencia de diseño de soluciones (SDR) para determinar qué datos están disponibles en los informes 4% 1.5 Analizar datos de informes para resumir y extraer conclusiones 6% 1.6 Investigar periféricos y anomalías en los informes 4%
+
+Sección 2: Informes y tableros para proyectos
+
+2.1 Considere las ventajas de utilizar una herramienta de creación de informes basada en un escenario determinado 2% 2.2 Compare la visualización de visitas en el orden previsto y el flujo y los tipos de variables adecuados para la creación de informes 4% 2.3 Aplique el proceso para programar Proyectos y Data Warehouse 2% 2.4 Aplique el proceso para compartir Proyectos y paneles de Reporting and Analytics para diferentes usuarios o grupos (el uso compartido ha cambiado) 2% 2.5 Aplique el proceso para establecer Alertas 2% 2.6 Aplique el proceso para buscar las dimensiones/componentes (predefinidos y personalizados) 4% 2.7 Aplique el proceso para crear una visualización 6% 2.8 Dado un escenario, determine el elemento apropiado a utilizar 6% 2.9 Aplicar el proceso para crear, configurar y utilizar cuadros de resultados móviles al 2%
+
+Sección 3: Segmentación y métricas calculadas
+
+3.1 Determinar cómo desarrollar y configurar segmentos mediante las prácticas recomendadas 6% 3.2 Aplicar el proceso para compartir segmentos con otros usuarios de la organización 4% 3.3 Comparar segmentos 4% 3.4 Aplicar segmentos a proyectos y componentes 4% 3.5 Aplicar el proceso para generar métricas calculadas o segmentadas 4%
+
+Sección 4: Conocimiento general de la herramienta y resolución de problemas
+
+4.1 Analizar informes y diferenciar un problema de calidad de datos de un problema de implementación 4% 4.2 Definir diferentes tipos de dimensiones y parámetros existentes en Adobe Analytics (evars, props y eventos) 4% 4.3 Determinar cómo introducir y extraer datos de Adobe Analytics 2% 4.4 Identificar información de direcciones URL de marketing 2%
+
+Sección 5: Administración
+
+5.1 Aplicar el proceso para configurar los informes del canal de marketing con reglas de procesamiento del canal de marketing 2% 5.2 Aplicar el proceso para configurar el importador de clasificaciones y el generador de reglas 2% 5.3 Aplicar el proceso para configurar un grupo de informes virtuales basado en un segmento existente 2% 5.4 Usar la interfaz de usuario del administrador del administrador de fuentes de datos 2% 5.5 Comprender el control de datos 2%
+
+## Prepárate.
+
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
+
+Sección 1
+
+[Resumen de análisis de contribución](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=es)
+[Información general de Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=es)
+[Canal de conversión](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+[Dimensiones de entrada](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+
+Sección 2
+
+[Compartir proyectos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=es)
+[Resumen de componentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=es)
+[Generador de alertas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+[Crear un informe de valoración móvil](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=es)
+
+Sección 3
+
+[Comparación de segmentos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=es)
+[Crear métricas](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=es)
+[Uso de filtros desplegables en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=es)
+[Etiquetar segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+
+Sección 4
+
+[Solución de problemas de picos y caídas de datos](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+[Eventos personalizados](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=es)
+[Descargar archivos de PDF o CSV](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=es)
+[Guía para principiantes sobre los parámetros de URL](https://www.semrush.com/blog/url-parameters/)
+
+Sección 5
+
+[Reglas de procesamiento de canales de marketing](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+[Resumen de clasificaciones](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=es)
+[Crear grupos de informes virtuales](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=es)
+[Preguntas frecuentes sobre normas de privacidad](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+
+## Renovar la certificación
+
+Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) que aparece a continuación.
+
+* [AD5-E832 Examen de renovación profesional para profesionales de Adobe Analytics Business](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->Renovación próximamente.
+>Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
 +++
 
