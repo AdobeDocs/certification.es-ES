@@ -6,13 +6,13 @@ product: Marketo
 role: Data Architect
 badge: label="Examen AD0-E560" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '848'
 ht-degree: 1%
 
 ---
-
 
 # Recorrido de certificación para Adobe [!DNL Marketo Engage] Maestro de arquitectos
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Este es el más reciente [!DNL Adobe Marketo Engage] Examen de maestría de arquitectos. Si ya ha empezado a estudiar o ha programado la [versión anterior](ame-m-architect.md), debe completar el examen antes del 31 de octubre de 2023.
+>Este es el Adobe más reciente [!DNL Marketo Engage] Examen de maestría de arquitectos. Si ya ha empezado a estudiar o ha programado la [versión anterior](ame-m-architect.md), debe completar el examen antes del 31 de octubre de 2023.
 
 ## Descripción del examen {#exam-description}
 
@@ -30,7 +30,11 @@ ht-degree: 1%
 
 ### Detalles del examen {#exam-details}
 
-* Requisito previo: Adobe actual (no caducado) [!DNL Marketo Engage] Certificación de experto en profesionales empresariales
+>[!IMPORTANT]
+>
+>Esta certificación tiene un requisito previo. DEBE tener un Adobe activo (no caducado) [!DNL Marketo Engage] Profesional empresarial **Experto** Certificación para tomar el Adobe [!DNL Marketo Engage] Examen de maestría de arquitectos.
+
+* Requisito previo: Adobe activo (no caducado) [!DNL Marketo Engage] Certificación de experto en profesionales empresariales
 * Nivel: Master (3-5 años de experiencia)
 * Certificación de profesional
 * Puntuación superada: 30/50
@@ -209,6 +213,10 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 {{about-certification-exam}}
 
 ## Programar o realizar el examen AD0-E560
+
+>[!IMPORTANT]
+>
+>Esta certificación tiene un requisito previo. DEBE tener un Adobe activo (no caducado) [!DNL Marketo Engage] Profesional empresarial **Experto** Certificación para tomar el Adobe [!DNL Marketo Engage] Examen de maestría de arquitectos.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
