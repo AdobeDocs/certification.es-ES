@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+hidefromtoc: true
+source-git-commit: 3b78b716c20aa0319ac892947b22523dd607c522
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 8%
@@ -277,7 +278,7 @@ Estos son los recursos sugeridos:
 * [Examen de muestra](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Documentación del producto](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Compatibilidad con Adobe - [!DNL Experience Cloud] Audiencias](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
-* [[!DNL Experience Cloud] Formación y asistencia de](https://helpx.adobe.com/es/support/experience-cloud.html){target="_blank"}
+* Formación y asistencia de [[!DNL Experience Cloud] ](https://helpx.adobe.com/es/support/experience-cloud.html){target="_blank"}
 * [Experience League - [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
 **Reinicie la certificación**
