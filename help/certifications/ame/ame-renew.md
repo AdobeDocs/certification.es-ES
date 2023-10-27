@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: b6f4b0796e4d67efe7457f582fb97f9b4d5727db
+source-git-commit: 63a6ec27ef65f9c5a68539d1d8ffcd3395cef753
 workflow-type: tm+mt
 source-wordcount: '2812'
 ht-degree: 2%
@@ -299,7 +299,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el Adobe [!DNL Marketo Engage] Vínculo de renovación de experto profesional empresarial a continuación.
 
-[!BADGE Toma el Adobe [!DNL Marketo Engage] Examen para la renovación de expertos para profesionales de negocios AD5-E836]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Toma el Adobe [!DNL Marketo Engage] Examen para la renovación de expertos para profesionales de negocios AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
 >[!NOTE]
 >
