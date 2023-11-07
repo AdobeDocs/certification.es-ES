@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
+source-git-commit: 93a9fd071d4a4564ae86a2ca15ac8d57b52b79e6
 workflow-type: tm+mt
 source-wordcount: '2462'
 ht-degree: 2%
@@ -156,7 +156,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 **Section3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
-* [Información general de SEO](https://experienceleague.adobe.com/docs/commerce-admin/maketing/seo/seo-overview.html){target="_blank"}
+* [Información general de SEO](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
 * [Experiencias de tienda mejoradas](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
 * [Conformidad con PCI](https://business.adobe.com/products/magento/pci-compliance.html){target="_blank"}
 * [Descubra la diferencia entre el marketing omnicanal y multicanal](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
