@@ -1,9 +1,9 @@
 ---
-title: Resumen de certificación de Real-Time CDP
+title: Información general sobre las conexiones de Real-Time CDP
 description: Descripción general de las opciones de certificación de Adobe Real-Time CDP
 solution: Real-Time Customer Data Platform
-exl-id: 389377d8-5a73-418a-afb4-9428d3aef990
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: 763724d3-1fac-421f-b166-b4aea210872f
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 13%
