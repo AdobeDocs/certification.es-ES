@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
 workflow-type: tm+mt
-source-wordcount: '946'
+source-wordcount: '958'
 ht-degree: 12%
 
 ---
@@ -111,6 +111,14 @@ También debe tener experiencia con las siguientes tareas:
 * Identificar el significado de lo común [!DNL Adobe Analytics] errores de variables.
 * Ante un escenario concreto, identifique las prácticas recomendadas de validación de pruebas y depuración que se deben seguir.
 * Identificación de cómo realizar el seguimiento de un [!DNL Adobe Analytics] llamada al servidor (por ejemplo, De la solicitud de señalización a la visualización en el informe).
+
+<br>
+
+### Cuestionario de preparación
+
+{{readiness}}
+
+[Responda al cuestionario de preparación en línea](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
 
 <br>
 
