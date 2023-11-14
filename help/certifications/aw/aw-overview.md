@@ -2,27 +2,15 @@
 title: Resumen de certificación de Workfront
 description: Descripción general de las opciones de certificación de Adobe Workfront
 solution: Workfront
-exl-id: 0bd627c8-6ba2-49bb-b0e7-477d61b6ce3e
-source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
+exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
+source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '43'
+ht-degree: 6%
 
 ---
 
 # Adobe [!DNL Workfront] Resumen de certificación
-
-## Novedades
-
-El Adobe [!DNL Workfront] Se ha actualizado el examen de certificación de desarrollador (principal) experto.
-
-La versión actual es: [Adobe [!DNL Workfront] Desarrollador (principal) (AD0-E904)](/help/certifications/aw/aw-core-e-developer.md)
-
-Si ya ha programado o ha comenzado a estudiar para el examen actual, por favor asegúrese de programar y completar el examen **antes del 6 de noviembre de 2023**.
-
-Sin embargo, si acaba de empezar con su certificación, le recomendamos que tome la **NUEVO** versión del examen: [Adobe [!DNL Workfront] Desarrollador (principal) (AD0-E907)](/help/certifications/aw/aw-core-e-developer-23-08.md)
-
-## Todos los exámenes disponibles para Workfront
 
 **Profesional**
 
@@ -32,8 +20,7 @@ Sin embargo, si acaba de empezar con su certificación, le recomendamos que tome
 
 **Experto**
 
-* [Desarrollador (principal): a partir del 6 de noviembre de 2023](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
-* [Desarrollador (principal): NUEVO](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
+* [Desarrollador (principal)](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
 * [AEM Conector mejorado de](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 Visite la [Renovar la certificación](/help/certifications/renew.md) para ver si hay una opción de renovación disponible para este producto.
