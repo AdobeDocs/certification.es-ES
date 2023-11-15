@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ac78ed0e7e27acd7c206d23fe5dda80ff0435208
+source-git-commit: 46fc51ee1e293ba63d09ad2fb39c0763ce9a45b0
 workflow-type: tm+mt
-source-wordcount: '3755'
+source-wordcount: '3753'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ Sección 1: Ingesta y planificación (29 %)
 Sección 2: Ejecutar (59 %)
 
 * Crear aprobaciones de un solo uso para Workfront y cuándo se utilizaría una aprobación. (Tenga en cuenta las aprobaciones de proyectos y tareas, las aprobaciones de varias rutas y las aprobaciones de varias etapas).
-* En un escenario determinado, identifique la información que los tipos de fecha transmiten a un jefe de proyecto. (Considere Las Fechas Planificadas, Las Fechas Reales, Las Fechas Manuales, Las Fechas De Compromiso Y Las Fechas De Estimación)
+* En un escenario determinado, identifique la información que los tipos de fecha transmiten a un jefe de proyecto. (Tenga En Cuenta Las Fechas Planificadas, Las Fechas Reales, Las Fechas De Compromiso Y Las Fechas Estimadas).
 * Dado un escenario, determine cómo afectan las distintas restricciones de tarea a la cronología del proyecto cuando se utilizan. (Considere la posibilidad de comprender lo que hacen las distintas restricciones de tarea, saber cuáles son las distintas restricciones de tarea y cuándo utilizar las distintas restricciones de tarea)
 * En un escenario determinado, se muestra cómo buscar equipos de proyecto y cómo notificarles las asignaciones de trabajo, actualizaciones o finalización de elementos de trabajo. (Tenga en cuenta los tipos de notificación, las notificaciones del equipo del proyecto, la pestaña Personas, las actualizaciones de proyectos/tareas, cuándo y por qué suscribirse a un objeto de trabajo y cómo modificar las notificaciones de correo electrónico individuales).
 * Identificar las distintas formas de administrar un proyecto. (Considere cascada, Agile, SCRUM y Kanban).
 * En un escenario concreto, describa cómo proporcionar a las partes interesadas la información que necesitan. (Puede exportar informes, exportar archivos, realizar envíos recurrentes, etc.)
-* Dado un escenario, determine cómo afectan los tipos de fecha y las duraciones a las condiciones del proyecto. (Considere el inicio planificado, el inicio proyectado, la fecha de compromiso de los individuos, etc.)
+* Dado un escenario, determine cómo afectan los tipos de fecha y las duraciones a las condiciones del proyecto. (Considere el inicio planificado, el inicio proyectado, la fecha de compromiso del individuo, etc.)
 * En un escenario determinado, determine cómo implementar o modificar cambios en los estados personalizados de nivel de sistema o de grupo
 * En un escenario determinado, describa los pasos para crear un informe y determine el tipo de informe necesario.
 * En un escenario determinado, determine cuándo se debe utilizar un problema en un proyecto.
