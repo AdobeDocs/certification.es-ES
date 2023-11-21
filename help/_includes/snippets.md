@@ -1,5 +1,5 @@
 ---
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
 source-wordcount: '1741'
 ht-degree: 0%
@@ -218,3 +218,5 @@ Su insignia sirve como prueba tangible de su aptitud con los productos de Adobe 
 ## Renovación de la certificación {#renewing-intro}
 
 Las certificaciones caducan al cabo de dos años. Para mantener su certificación, debe renovarla antes de que caduque. Visite la [Renovar la certificación](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} para obtener más información.
+
+<!--divider-->

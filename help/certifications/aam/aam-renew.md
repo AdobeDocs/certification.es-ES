@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1171'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,11 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Inicie sesión primero:** Los siguientes vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Para compartir un vínculo:** Si desea compartir el enlace a un examen de renovación o evaluación con un compañero, por favor, enlácelo a la página general de renovación del examen, no a la URL del propio examen, para evitar problemas de inicio de sesión.
 
 >[!BEGINTABS]
 
@@ -185,7 +189,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 * [AAM: Fundamentos técnicos](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
 * [AAM Serie de integración de](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
 * [AAM: Funciones avanzadas](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [ Formación y recursos de Launch](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+* [Formación y recursos de Launch](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### Renovar la certificación
 

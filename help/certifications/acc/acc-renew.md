@@ -7,9 +7,9 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: 6dd7acd3d261e0b2b5a4ebab171b02c864d48cd9
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1979'
+source-wordcount: '2020'
 ht-degree: 15%
 
 ---
@@ -26,7 +26,11 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Inicie sesión primero:** Los siguientes vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Para compartir un vínculo:** Si desea compartir el enlace a un examen de renovación o evaluación con un compañero, por favor, enlácelo a la página general de renovación del examen, no a la URL del propio examen, para evitar problemas de inicio de sesión.
 
 >[!BEGINTABS]
 

@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 63a6ec27ef65f9c5a68539d1d8ffcd3395cef753
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '2812'
+source-wordcount: '2843'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,11 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!IMPORTANT]
 >
->Las siguientes secciones y vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Inicie sesión primero:** Los siguientes vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Para compartir un vínculo:** Si desea compartir el enlace a un examen de renovación o evaluación con un compañero, por favor, enlácelo a la página general de renovación del examen, no a la URL del propio examen, para evitar problemas de inicio de sesión.
 
 >[!BEGINTABS]
 
@@ -299,7 +303,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el Adobe [!DNL Marketo Engage] Vínculo de renovación de experto profesional empresarial a continuación.
 
-[!BADGE Toma el Adobe [!DNL Marketo Engage] Examen para la renovación de expertos para profesionales de negocios AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Toma el Adobe [!DNL Marketo Engage]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >

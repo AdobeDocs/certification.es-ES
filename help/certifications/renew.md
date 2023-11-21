@@ -6,10 +6,10 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: a568e3c5d837b5c92ebb4eefdde1f0504c41ab4d
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 3%
+source-wordcount: '375'
+ht-degree: 2%
 
 ---
 
@@ -41,6 +41,9 @@ La mayoría de las certificaciones se pueden renovar **gratuito**. Algunas certi
 
 Las certificaciones que se encuentran en los enlaces a continuación pueden renovarse de forma gratuita, ya sea a través del aprendizaje continuo o realizando un examen de renovación bajo demanda. Si no encuentra su certificación aquí, tendrá que renovarla retomando el examen de certificación completo.
 
+>[!NOTE]
+>
+>Si desea compartir el enlace a un examen de renovación o evaluación con un compañero, por favor, enlácelo a la página general de renovación del examen, no a la URL del propio examen, para evitar problemas de inicio de sesión.
 
 * [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}
