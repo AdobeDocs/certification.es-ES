@@ -1,6 +1,6 @@
 ---
 title: Preguntas frecuentes
-description: Obtenga respuestas a preguntas sobre el Programa de credenciales de experiencia digital de Adobe. Obtenga información sobre las ventajas de la certificación, cómo registrarse y con quién puede ponerse en contacto.
+description: Obtenga respuestas a preguntas acerca del programa de credenciales de Adobe Digital Experience. Obtenga información sobre las ventajas de la certificación, cómo registrarse y con quién puede ponerse en contacto.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
