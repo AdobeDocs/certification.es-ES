@@ -4,7 +4,7 @@ description: Introducción a las  [!DNL Experience Cloud]  certificaciones Obten
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 9c08c3f3b8f9571c70118cb4d23de01b019a4162
+source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 3%
@@ -17,11 +17,8 @@ Las certificaciones de Adobe están diseñadas para validar los conocimientos y 
 
 >[!TIP]
 >
->**Nuestra venta de fin de año comienza Cyber Monday!** Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre.
-><br>
->Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}. Utilice el código promocional Holiday2023 al cerrar la compra.
-><br>
->Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.
+>**Nuestra venta de fin de año comienza Cyber Monday!**<br>
+>Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre. Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es). Usar código de promoción **Vacaciones2023** en el cierre de compra. <br><i>Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.</i>
 
 >[!BEGINTABS]
 
