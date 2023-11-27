@@ -8,14 +8,18 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E600 y AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
 workflow-type: tm+mt
-source-wordcount: '1385'
-ht-degree: 9%
+source-wordcount: '1601'
+ht-degree: 7%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Real-Time Customer Data Platform] Experto
+
+>[!IMPORTANT]
+>
+>El Adobe [!DNL Experience Platform] Actualmente, la certificación de experto requiere aprobar dos exámenes: **Adobe [!DNL Experience Platform] Fundamentos técnicos (AD0-E600)** y **Adobe [!DNL Real-Time CDP] Profesional técnico (AD7-E601)**. A partir del 15 de enero de 2024, se iniciará un nuevo examen, que será solo el examen requerido para esta certificación.
 
 {{intro}}
 
@@ -62,6 +66,14 @@ Debería tener:
 <br>
 
 ## #1 de requisitos: Información para el Adobe [!DNL Experience Platform] Fundamentos técnicos (AD0-E600) {#req-1}
+
+>[!IMPORTANT]
+>
+>La programación para el examen AD0-E600 se ha puesto en espera. Este examen se está actualizando actualmente y se publicará el **15 de enero de 2024**. Después de esa fecha, esta certificación solo requerirá aprobar un examen, en lugar de los dos exámenes requeridos actualmente.
+>
+><br>
+>
+>**Si ya ha programado el examen AD0-E600**, le recomendamos encarecidamente que cancele su cita y vuelva a programar cuando se publique el nuevo examen. Si tiene alguna pregunta, póngase en contacto con [Soporte de certificación](mailto:certif@adobe.com){target="_blank"}.
 
 El examen AD0-E600 valida las habilidades y conocimientos que cubren las características básicas y las tareas de Adobe que se realizan con frecuencia [!DNL Experience Platform] a nivel de experto.
 
@@ -204,6 +216,18 @@ El examen AD0-E600 valida las habilidades y conocimientos que cubren las caracte
 <br>
 
 ## #2 de requisitos: Información para el Adobe [!DNL Real-Time CDP] Profesional técnico (AD7-E601) {#req-2}
+
+>[!IMPORTANT]
+>
+>Este examen se está actualizando actualmente y se publicará el **15 de enero de 2024**. Después de esa fecha, esta certificación solo requerirá aprobar un examen, en lugar de los dos exámenes requeridos actualmente.
+>
+><br>
+>
+>**Si no ha realizado ninguno de los exámenes requeridos actualmente,** le recomendamos encarecidamente que espere al examen actualizado. De esa manera, puedes hacer un examen en lugar de dos.
+>
+><br>
+>
+>**Si ya ha pasado el Adobe AD0-E600 [!DNL Experience Platform] Technical Foundations Exam y se han estado preparando para el examen AD7-E601**, le sugerimos que mantenga su cita, ya que aprobar el examen AD7-E601 le otorgará el Adobe [!DNL Experience Platform] Certificación de experto en fundaciones técnicas. Si tiene alguna pregunta, póngase en contacto con [Soporte de certificación](mailto:certif@adobe.com){target="_blank"}.
 
 El examen AD7-E601 abarca la creación, administración y comprensión del perfil del cliente, la segmentación, los destinos entre fuentes y otros temas. El examen valida las habilidades y los conocimientos básicos necesarios para utilizar CDP en tiempo real para la segmentación de audiencia, las exportaciones de destino y la activación en tiempo real para perfiles unificados que se adhieran a las normas de datos y privacidad. Los candidatos deben tener experiencia con las plataformas de datos del cliente (CDP) y conocimientos de Adobe [!DNL Experience Platform].
 
