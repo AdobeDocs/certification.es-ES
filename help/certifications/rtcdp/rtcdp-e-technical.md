@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E600 y AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1404'
-ht-degree: 8%
+source-wordcount: '1385'
+ht-degree: 9%
 
 ---
 
@@ -22,10 +22,6 @@ ht-degree: 8%
 ## Descripción del examen {#exam-description}
 
 {{exam-description}}
-
->[!IMPORTANT]
->
->El Adobe [!DNL Real-Time Customer Data Platform] La certificación de expertos requiere aprobar dos exámenes: **Adobe [!DNL Experience Platform] Fundamentos técnicos (AD0-E600)** y **Adobe [!DNL Real-Time CDP] Profesional técnico (AD7-E601)**.
 
 <br>
 
@@ -303,7 +299,7 @@ Sección 3: Destinos (27 %)
 * [Guía de IU del Generador de segmentos](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=es){target="_blank"}
 * [Segmentación en tiempo real CDP edición B2B](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
 * [Generación de segmentos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
-* [Resumen del generador de segmentos](https://video.tv.adobe.com/v/333301/){target="_blank"}
+* [Información general del generador de segmentos](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [Crear segmento](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [Creación de segmentos basados en contenido](https://video.tv.adobe.com/v/333302/){target="_blank"}
 * [Creación de segmentos de conversión](https://video.tv.adobe.com/v/333303/){target="_blank"}
@@ -323,7 +319,7 @@ Sección 3: Destinos (27 %)
 * [Espacio de trabajo de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [Crear una nueva conexión de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
 * [Real-time CDP: destinos](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
-* [Información general de destino](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
+* [Información general de destino](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=es){target="_blank"}
 * [Creación de un destino y activación de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [Información general de Activation](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [Resumen del catálogo de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}

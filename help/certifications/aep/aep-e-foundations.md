@@ -7,13 +7,13 @@ role: Developer
 badge: label="Examen AD0-E600 y AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1424'
-ht-degree: 8%
+source-wordcount: '1318'
+ht-degree: 9%
 
 ---
-
 
 # Recorrido de certificación para Adobe [!DNL Experience Platform] Experto
 
@@ -23,9 +23,7 @@ ht-degree: 8%
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->El Adobe [!DNL Experience Platform] Actualmente, la certificación de experto requiere aprobar dos exámenes: **Adobe [!DNL Experience Platform] Fundamentos técnicos (AD0-E600)** y **Adobe [!DNL Real-Time CDP] Profesional técnico (AD7-E601)**. A partir del 1 de noviembre de 2023, se iniciará un nuevo examen, que será solo el examen requerido para esta certificación.
+
 
 <br>
 
@@ -209,8 +207,6 @@ El examen AD0-E600 valida las habilidades y conocimientos que cubren las caracte
 
 ## #2 de requisitos: Información para el Adobe [!DNL Real-Time CDP] Profesional técnico (AD7-E601) {#req-2}
 
-El examen AD7-E601 abarca la creación, administración y comprensión del perfil del cliente, la segmentación, los destinos entre fuentes y otros temas. El examen valida las habilidades y los conocimientos básicos necesarios para utilizar CDP en tiempo real para la segmentación de audiencia, las exportaciones de destino y la activación en tiempo real para perfiles unificados que se adhieran a las normas de datos y privacidad. Los candidatos deben tener experiencia con las plataformas de datos del cliente (CDP) y conocimientos de Adobe [!DNL Experience Platform].
-
 <br>
 
 ### Detalles del examen AD7-E601
@@ -303,7 +299,7 @@ Sección 3: Destinos (27 %)
 * [Guía de IU del Generador de segmentos](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=es){target="_blank"}
 * [Segmentación en tiempo real CDP edición B2B](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
 * [Generación de segmentos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
-* [Resumen del generador de segmentos](https://video.tv.adobe.com/v/333301/){target="_blank"}
+* [Información general del generador de segmentos](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [Crear segmento](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [Creación de segmentos basados en contenido](https://video.tv.adobe.com/v/333302/){target="_blank"}
 * [Creación de segmentos de conversión](https://video.tv.adobe.com/v/333303/){target="_blank"}
@@ -323,7 +319,7 @@ Sección 3: Destinos (27 %)
 * [Espacio de trabajo de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [Crear una nueva conexión de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
 * [Real-time CDP: destinos](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
-* [Información general de destino](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
+* [Información general de destino](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=es){target="_blank"}
 * [Creación de un destino y activación de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [Información general de Activation](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [Resumen del catálogo de destino](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
