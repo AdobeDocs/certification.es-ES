@@ -4,7 +4,7 @@ description: Obtenga información acerca de  [!DNL Experience Cloud]  la certifi
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 4de79881e1a06c70a2759b7397f87335cbe8a77c
+source-git-commit: f3c825b8306646b870970f767db9060435865815
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 9%
@@ -19,9 +19,7 @@ Obtenga información sobre la certificación en Adobe y lo que aportarle.
 
 >[!TIP]
 >
->**Nuestra venta de fin de año comienza Cyber Monday!**<br>
->Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre. Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe). Usar código de promoción **Vacaciones2023** en el cierre de compra.<br>
-><i>Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.</i>
+>**Nuestra venta de fin de año comienza Cyber Monday!** <br><br> Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre. Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe). Usar código de promoción **Vacaciones2023** en el cierre de compra. <br><br> <i>Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.</i>
 
 El Programa de credenciales de experiencia digital de Adobe se creó para ayudarle a probar sus habilidades en el Adobe [!DNL Experience Cloud] productos. Obtener la Certificación de Adobe le permite mostrar su experiencia e impresionar a los clientes y empleadores por igual.
 
