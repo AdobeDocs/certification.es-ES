@@ -6,10 +6,11 @@ product: Magento
 role: Developer
 badge: label="Examen AD0-E721" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 1%
+source-wordcount: '682'
+ht-degree: 0%
 
 ---
 
@@ -179,12 +180,6 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 * [Guía de configuración](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
 * [Variables de compilación](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Commerce en infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
-**Realizar una prueba de práctica**
-
-{{practice-test}}
 
 +++
 
