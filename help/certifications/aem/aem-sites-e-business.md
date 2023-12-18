@@ -7,10 +7,10 @@ role: User
 badge: label="Examen AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '981'
-ht-degree: 12%
+source-wordcount: '716'
+ht-degree: 2%
 
 ---
 
@@ -74,7 +74,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Herramientas de monitorización
 * Versiones
 * Centro de personalización y contexto
-* Editor SPA
+* SPA Editor de
 * Etiquetado
 * Uso del explorador
 * Comprensión general de la web
@@ -143,10 +143,10 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 **Sección 1: Educación**
 
-* [Guía del usuario sobre desarrollo en AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [AEM Guía del usuario sobre desarrollo de.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [AEM Obtenga información acerca de las funciones de 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [AEM [!DNL Sites] vídeos y tutoriales](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=es){target="_blank"}
-* [Inicios](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=es){target="_blank"}
+* [Lanzamientos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=es){target="_blank"}
 * [Primeros pasos para los autores](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
 * [Recomendaciones para la edición de contenido](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
 * [Crear y organizar páginas](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html){target="_blank"}
@@ -161,8 +161,8 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * [Integración de soluciones](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html){target="_blank"}
 * [[!DNL Experience Cloud] resumen de integraciones](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html){target="_blank"}
 * [Administración de funciones y permisos de usuario](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html){target="_blank"}
-* [Roles y permisos](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html){target="_blank"}
-* [Usuarios, roles y permisos](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html?lang=es){target="_blank"}
+* [Funciones y permisos](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html){target="_blank"}
+* [Usuarios, funciones y permisos](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html?lang=es){target="_blank"}
 * [Administrar usuarios, grupos y funciones de usuario](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html){target="_blank"}
 * [Almacenar contenido protegido en caché](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=es){target="_blank"}
 * [Capítulo 1: Conceptos, patrones y antipatrones de Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"}
@@ -172,11 +172,11 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 **Sección 3: Análisis de negocio**
 
 * [AEM Desarrollar sitios web globales en el sector de la](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
-* [AEM conceptos principales de la](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=es){target="_blank"}
+* [AEM conceptos principales de la](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html){target="_blank"}
 * [Resumen de componentes](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
 * [Arquitectura de contenido](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
 * [Administración de proyectos: lista de comprobación de prácticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
-* [Consideraciones a tener en cuenta a medida que se definen los proyectos](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html){target="_blank"}
+* [Consideraciones a medida que se amplían los proyectos](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html){target="_blank"}
 * [Enfoque de entrega y planificación](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"}
 * [Prototipado de experiencias del usuario](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html){target="_blank"}
 * [Gestión de contratos legales](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=es){target="_blank"}
@@ -189,10 +189,10 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 **Sección 4: Configuración e implementación**
 
-* [Guía del usuario sobre desarrollo en AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
+* [AEM Guía del usuario sobre desarrollo de.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 * [AEM Desarrollo: directrices y prácticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=es){target="_blank"}
-* [Información general sobre componentes](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
-* [Instrucciones de los componentes](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
+* [Resumen de componentes](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
+* [Directrices de componentes](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
 * [Componentes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html){target="_blank"}
 * [Funciones de localización de los componentes principales](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=es){target="_blank"}
 * [Función de búsqueda](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
@@ -238,14 +238,14 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 ## Programar o realizar el examen AD0-E121-J (japonés)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir al portal de exámenes - Examen de japonés
 </span>
 </a>
-
-[Instrucciones de programación en japonés](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

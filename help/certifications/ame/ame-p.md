@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -221,14 +221,14 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 ## Programar o realizar el examen AD0-E555-J (japonés)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir al portal de exámenes - Examen de japonés
 </span>
 </a>
-
-[Instrucciones de programación en japonés](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

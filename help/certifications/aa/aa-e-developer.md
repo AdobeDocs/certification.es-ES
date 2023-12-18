@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Examen AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 12%
+source-wordcount: '707'
+ht-degree: 1%
 
 ---
 
@@ -150,19 +150,19 @@ Entornos:
 **Sección 1: Explicación de Analytics en el ecosistema de Adobe Experience Cloud**
 
 * [Notas técnicas de Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=es){target="_blank"}
-* [Configuración de Analytics y Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=es){target="_blank"}
+* [Configuración de Analytics e ID de Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=es){target="_blank"}
 * [Vídeos y tutoriales de Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=es){target="_blank"}
 
 **Sección 2: Estrategia y diseño basados en una referencia de diseño de solución (DEG)**
 
-* [Administrar recursos](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
+* [Administración de recursos](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
 * [[!DNL Adobe Analytics] Documentación](https://experienceleague.adobe.com/docs/analytics.html?lang=es)
 
 **Sección 3: Implementación y configuración de Analytics**
 
-* [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
+* [Implementación [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
 * [Explicación y creación de grupos de informes](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=es){target="_blank"}
-* [Configuración del seguimiento de vínculos para [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html?lang=es){target="_blank"}
+* [Configuración del seguimiento de vínculos para [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
 
 **Sección 4: Sistemas de gestión de etiquetas**
 
@@ -222,14 +222,14 @@ Entornos:
 
 ## Programar o realizar el examen AD0-E209-J (japonés)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir al portal de exámenes - Examen de japonés
 </span>
 </a>
-
-[Instrucciones de programación en japonés](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

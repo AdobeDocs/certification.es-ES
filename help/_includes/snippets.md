@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -138,8 +138,8 @@ Hay descuentos por lotes disponibles:
 | Cantidad | Descuento |
 |---|---|
 | 10-24 | 20 % |
-| 25-49 | 25% |
-| 50+ | 33% |
+| 25 a 49 | 25 % |
+| 50+ | 33 % |
 
 Descuentos para socios: Los socios de nivel Bronce y superiores obtienen descuentos en todos los exámenes y clases de certificación de Adobe. Puede obtener más información sobre estos descuentos y cómo acceder a las ventajas de los socios en el Portal de socios de soluciones.
 
@@ -220,3 +220,9 @@ Su insignia sirve como prueba tangible de su aptitud con los productos de Adobe 
 Las certificaciones caducan al cabo de dos años. Para mantener su certificación, debe renovarla antes de que caduque. Visite la [Renovar la certificación](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} para obtener más información.
 
 <!--divider-->
+
+## Detalles del examen de japonés {#Japanese-exam-details}
+
+Por favor programe su examen entre el domingo - jueves 5 pm - 2 am ET para asegurarse de que podamos asignar un monitor de habla japonesa. Si programa fuera de este horario, no podemos garantizar un monitor de habla japonesa.
+
+[Instrucciones de programación en japonés](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
