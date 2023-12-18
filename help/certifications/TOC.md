@@ -1,11 +1,11 @@
 ---
 user-guide-title: Certificación de Adobe
 breadcrumb-title: Certificación de Adobe
-user-guide-description: Obtenga información acerca de  [!DNL Experience Cloud]  la certificación en Adobe. Descubra lo que puede aportarle obtener la certificación.
-source-git-commit: c6d68f61d64619341f7ccdfb4e887993ac2cfbc2
+user-guide-description: Más información [!DNL Experience Cloud] Certificación en el Adobe. Descubra lo que puede aportarle obtener la certificación.
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 47%
+ht-degree: 32%
 
 ---
 
@@ -141,6 +141,7 @@ ht-degree: 47%
          + [Desarrollador (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [Gestor de proyecto](/help/certifications/aw/aw-p-project-manager.md)
          + [Desarrollador (principal)](/help/certifications/aw/aw-core-p-developer.md)
+         + [Desarrollador (principal): NUEVO](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + Experto {#aw-expert}
          + [Desarrollador (principal)](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM conector de](/help/certifications/aw/aw-aem-e-connector.md)
@@ -149,4 +150,4 @@ ht-degree: 47%
 + Oculto {#hidden}
    + [Verificador de examen de elegibilidad de reinicio de certificación](exam-eligibility-check.md)
    + [Información general de Experience Platform](/help/certifications/aep/aep-overview.md)
-   + [Desarrollador)](/help/certifications/aep/aep-e-foundations.md)
+   + [Developer)](/help/certifications/aep/aep-e-foundations.md)

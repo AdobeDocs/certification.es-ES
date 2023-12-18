@@ -7,10 +7,10 @@ role: User
 badge: label="Examen AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '883'
-ht-degree: 17%
+source-wordcount: '779'
+ht-degree: 1%
 
 ---
 
@@ -157,17 +157,17 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 **Sección 1: Análisis de negocio**
 
 * [Que [!DNL Adobe Analytics] ¿Debo usar esta herramienta?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=es){target="_blank"}
-* Documentación de [[!DNL Adobe Analytics] ](https://helpx.adobe.com/es/support/analytics.html){target="_blank"}
-* [Información sobre la recopilación de datos](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=es){target="_blank"}
-* [Resumen de la fuente de datos de Analytics](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=es){target="_blank"}
+* [[!DNL Adobe Analytics] Documentación](https://helpx.adobe.com/es/support/analytics.html){target="_blank"}
+* [Acerca de la recopilación de datos](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=es){target="_blank"}
+* [Resumen de fuente de datos de Analytics](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=es){target="_blank"}
 
 **Sección 2: Creación de informes y tableros para proyectos**
 
 * [Introducción a Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=es){target="_blank"}
 * [[!DNL Adobe Analytics] Paneles: información general](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=es){target="_blank"}
-* [Información general sobre Proyectos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=es){target="_blank"}
-* [Resumen de las visualizaciones](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=es){target="_blank"}
-* [Resumen de las alertas inteligentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=es){target="_blank"}
+* [Resumen de proyectos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=es){target="_blank"}
+* [Información general sobre visualizaciones](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=es){target="_blank"}
+* [Resumen de las alertas inteligentes](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **Sección 3: Segmentación y métrica calculada**
 
@@ -177,13 +177,13 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 **Sección 4: Conocimiento general de la herramienta y solución de problemas**
 
 * [Guía de herramientas de Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}
-* [Información general de Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=es){target="_blank"}
+* [Información general de Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **Sección 5: Administración**
 
 * [Guía de administración de Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
-* [Preguntas frecuentes](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [Flujo de trabajo del generador de reglas de clasificación](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=es){target="_blank"}
+* [Preguntas más frecuentes](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
+* [Flujo de trabajo del Generador de reglas de clasificación](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=es){target="_blank"}
 
 **Realizar una prueba de práctica**
 

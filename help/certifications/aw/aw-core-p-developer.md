@@ -6,16 +6,20 @@ role: Developer
 badge: label="Examen AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 3%
+source-wordcount: '736'
+ht-degree: 0%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>Este examen, Adobe [!DNL Workfront] Se ha actualizado Core Developer Professional (AD0-E905). Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 26 de febrero de 2024. Si acaba de empezar, le recomendamos que tome la [versión más reciente de este examen (AD0-E908)](aw-core-p-developer-23-12.md).
 
 ## Descripción del examen {#exam-description}
 
@@ -144,7 +148,7 @@ Y, debería tener:
 * [Crear una cola de solicitudes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
 * [Comprender las colas de solicitudes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Información general sobre formularios personalizados](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [Creación y uso compartido de un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
+* [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
 **Sección 2: Presupuesto y planificación**
 
@@ -160,13 +164,13 @@ Y, debería tener:
 * [Práctica recomendada: incorporación y adopción](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Creación de un perfil de usuario individual](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [Configuración del sistema: grupos y usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
-* [Uso compartido de un proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=es){target="_blank"}
+* [Compartir un proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=es){target="_blank"}
 * [Cómo funcionan juntos los niveles de acceso y los permisos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Importación de datos en el Adobe [!DNL Workfront] uso de una plantilla de KickStart](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
 **Sección 4: Métricas e informes**
 
-* [Crear un informe personalizado](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
+* [Creación de un informe personalizado](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
 * [Envío y uso compartido de informes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
 * [Práctica recomendada: Informes personalizados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
@@ -211,6 +215,10 @@ Y, debería tener:
 {{about-certification-exam}}
 
 ## Programar o realizar el examen AD0-E905
+
+>[!NOTE]
+>
+>Este examen, Adobe [!DNL Workfront] Se ha actualizado Core Developer Professional (AD0-E905). Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 26 de febrero de 2024. Si acaba de empezar, le recomendamos que tome la [versión más reciente de este examen (AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
