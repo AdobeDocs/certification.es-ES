@@ -1,13 +1,13 @@
 ---
 title: Página de inicio de la certificación
-description: Obtenga información acerca de  [!DNL Experience Cloud]  la certificación en Adobe. Descubra lo que puede aportarle obtener la certificación.
+description: Más información [!DNL Experience Cloud] Certificación en el Adobe. Descubra lo que puede aportarle obtener la certificación.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 9%
+source-wordcount: '498'
+ht-degree: 5%
 
 ---
 
@@ -17,9 +17,14 @@ Obtenga información sobre la certificación en Adobe y lo que aportarle.
 
 ![Titular](/help/certifications/assets/home_banner_smallwide.png)
 
->[!TIP]
+>[!NOTE]
 >
->**Nuestra venta de fin de año comienza Cyber Monday!** <br><br> Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre. Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe). Usar código de promoción **Vacaciones2023** en el cierre de compra. <br><br> <i>Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.</i>
+>El Adobe de está cerrado del 22 de diciembre de 2023 al 1 de enero de 2024. Espere un retraso en la respuesta a las solicitudes de asistencia durante este período. Agradecemos su paciencia.
+
+>[!BEGINSHADEBOX]
+>
+>**50% de descuento en la venta de cupones!** <br><br> Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre. Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe). Usar código de promoción **Vacaciones2023** en el cierre de compra. <br><br> <i>Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.</i>
+>[!ENDSHADEBOX]
 
 El Programa de credenciales de experiencia digital de Adobe se creó para ayudarle a probar sus habilidades en el Adobe [!DNL Experience Cloud] productos. Obtener la Certificación de Adobe le permite mostrar su experiencia e impresionar a los clientes y empleadores por igual.
 
@@ -44,7 +49,7 @@ El Programa de credenciales de experiencia digital de Adobe está diseñado para
 
 Libere su potencial profesional hoy mismo aprendiendo sobre el Programa de credenciales de Adobe Digital Experience.
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Introducción</span></a>
+<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Primeros pasos</span></a>
 
 
 ## Ver todas las certificaciones

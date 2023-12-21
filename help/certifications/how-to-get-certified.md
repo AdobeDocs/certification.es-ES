@@ -4,10 +4,10 @@ description: Aprenda a obtener la certificación en el Adobe. Encuentre todos lo
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1550'
-ht-degree: 1%
+source-wordcount: '1503'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 1%
 
 Aprenda a obtener la certificación en el Adobe. Encuentre todos los recursos que necesita antes, durante y después de obtener la certificación.
 
->[!TIP]
+>[!NOTE]
 >
->**Nuestra venta de fin de año comienza Cyber Monday!** <br><br> Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre. Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe). Usar código de promoción **Vacaciones2023** en el cierre de compra. <br><br> <i>Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.</i>
+>El Adobe de está cerrado del 22 de diciembre de 2023 al 1 de enero de 2024. Espere un retraso en la respuesta a las solicitudes de asistencia durante este período. Agradecemos su paciencia.
+
+>[!BEGINSHADEBOX]
+>
+>**50% de descuento en la venta de cupones!** <br><br> Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre. Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe). Usar código de promoción **Vacaciones2023** en el cierre de compra. <br><br> <i>Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
@@ -63,9 +68,9 @@ Si no supera un examen de certificación de Adobe en su primer intento, debe esp
 
 | Certificación de Adobe | Precio (USD) | India Precio (USD) |
 | ------- | ------- | ------- |
-| Adobe Certified Professional | $125 | $95 |
-| Adobe Certified Expert | $225 | $150 |
-| Adobe Certified Master | $225 | $150 |
+| Adobe Certified Professional | 125 $ | 95 $ |
+| Adobe Certified Expert | 225 $ | 150 $ |
+| Adobe Certified Master | 225 $ | 150 $ |
 
 **Precios de renovación**
 
@@ -92,8 +97,8 @@ Nota: Los descuentos por lotes no se pueden combinar con ninguna otra oferta o d
 | Cantidad | % de descuento |
 | ------- | ------- |
 | 10-24 | 20 % |
-| 25-49 | 25% |
-| 50+ | 33% |
+| 25 a 49 | 25 % |
+| 50+ | 33 % |
 
 >[!TAB Proveedores de certificación]
 
@@ -101,7 +106,7 @@ El equipo de Credenciales de Adobe se asocia con proveedores para ayudar a respa
 
 | Nombre de proveedor | Descripción | Página de asistencia/correo electrónico |
 | ------- | ------- | ------- |
-| Con Credibilidad | Sistema de administración de distintivos | [Asistencia de](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
+| Con Credibilidad | Sistema de administración de distintivos | [Asistencia](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Examity | Proveedor de envío de prueba (solo procesamiento en línea) | [Correo electrónico](mailto:support@examity.com){target="_blank"} o 855-Examity (855-392-6489) |
 | Xvoucher - Centro de Cupones de Certificación Adobe | Centro de cupones para la compra de cupones individuales o globales | [Correo electrónico](mailto:support@xvoucher.com){target="_blank"} o [Ayuda en línea](https://help.xvoucher.com/hc/en-us) |
 
@@ -110,7 +115,7 @@ Otros recursos del proveedor:
 **Examity**
 
 * [Guía de Proctoring en línea de Examity](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
-* [Preguntas más frecuentes](https://www.examity.com/faq/test-takers/){target="_blank"}
+* [FAQ](https://www.examity.com/faq/test-takers/){target="_blank"}
 * [Examinar los requisitos del sistema del usuario](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
