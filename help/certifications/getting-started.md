@@ -4,7 +4,7 @@ description: Introducción a [!DNL Experience Cloud] certificaciones. Obtenga in
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
+source-git-commit: fa645594bc1c3996182282abfede63267de5d238
 workflow-type: tm+mt
 source-wordcount: '825'
 ht-degree: 1%
@@ -20,8 +20,13 @@ Las certificaciones de Adobe están diseñadas para validar los conocimientos y 
 >El Adobe de está cerrado del 22 de diciembre de 2023 al 1 de enero de 2024. Espere un retraso en la respuesta a las solicitudes de asistencia durante este período. Agradecemos su paciencia.
 
 >[!BEGINSHADEBOX]
->
->**50% de descuento en la venta de cupones!** <br><br> Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre. Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe). Usar código de promoción **Vacaciones2023** en el cierre de compra. <br><br> <i>Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.</i>
+
+**50% de descuento en la venta de cupones!**
+
+Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre. Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe). Usar código de promoción **Vacaciones2023** en el cierre de compra.
+
+<i>Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.</i>
+
 >[!ENDSHADEBOX]
 
 >[!BEGINTABS]
