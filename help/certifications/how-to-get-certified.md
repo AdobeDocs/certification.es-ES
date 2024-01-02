@@ -4,9 +4,9 @@ description: Aprenda a obtener la certificación en el Adobe. Encuentre todos lo
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1402'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,6 @@ ht-degree: 0%
 # Cómo obtener la certificación{#how}
 
 Aprenda a obtener la certificación en el Adobe. Encuentre todos los recursos que necesita antes, durante y después de obtener la certificación.
-
->[!NOTE]
->
->El Adobe de está cerrado del 22 de diciembre de 2023 al 1 de enero de 2024. Espere un retraso en la respuesta a las solicitudes de asistencia durante este período. Agradecemos su paciencia.
-
->[!BEGINSHADEBOX]
-
-**50% de descuento en la venta de cupones!**
-
-Obtenga un 50% de descuento en los cupones de los exámenes de certificación del Programa de credenciales de experiencia digital de Adobe, desde el 27 de noviembre hasta el 31 de diciembre. Esta oferta solo es válida cuando realiza la compra a través de [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe). Usar código de promoción **Vacaciones2023** en el cierre de compra.
-
-<i>Esta oferta solo está disponible para el periodo de tiempo mencionado y solo se aplica a nuevos pedidos y no se puede aplicar a compras realizadas anteriormente. Los códigos de cupón son válidos durante un año a partir de la fecha de compra.</i>
-
->[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
