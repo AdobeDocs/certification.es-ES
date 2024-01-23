@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: dcad25077afd7883333326939ce8751eee191f36
+source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
 workflow-type: tm+mt
-source-wordcount: '1657'
+source-wordcount: '2241'
 ht-degree: 0%
 
 ---
@@ -304,6 +304,138 @@ Para renovar su Adobe [!DNL Commerce] Certificación de desarrollador profesiona
 2. Haga clic en el botón de abajo para ir al portal de exámenes y realizar el examen (AD5-E839)
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ir al portal de Examity
+</span>
+</a>
+
+>[!NOTE]
+>
+>Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
+
++++Adobe [!DNL Commerce] Desarrollador front-end profesional
+
+## Debe tener lo siguiente **activo** certificación para renovar mediante este método:
+
+Adobe [!DNL Commerce] Desarrollador front-end profesional
+
+## Instrucciones para renovar la certificación:
+
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2**: revise los objetivos y recursos del examen
+* **Paso 3**: realice y apruebe el examen
+
+## Prepárese.
+
+**Detalles del examen:**
+
+* Nivel: Profesional (0-12 meses de experiencia)
+* Puntuación superada: 26/34
+* Tiempo: 68 min
+* Entrega: bajo demanda / sin procesador
+* Idiomas disponibles: Inglés
+* Coste: GRATIS
+* ID del examen: Adobe AD5-E844 [!DNL Commerce] Renovación profesional para desarrolladores front-end
+
+**Alcance y objetivos:**
+
+**Sección 1: Administración de temáticas (jerarquía de temáticas, configuración de imágenes, traducciones) (14 %)**
+
+* Describir Adobe [!DNL Commerce] estructura de carpetas de temas
+* Demostrar la capacidad de crear temáticas nuevas o ampliar las existentes
+* Demostrar la capacidad de añadir frases de traducción personalizadas
+
+**Sección 2: XML y plantillas de diseño (30 %)**
+
+* Mostrar la capacidad de trabajar con instrucciones XML de diseño básicas
+* Demostración de la capacidad de utilizar diseños de página existentes
+* Describir los pasos para ampliar y anular XML
+* Demostrar la capacidad de crear y personalizar plantillas
+* Describir la seguridad de la plantilla (salida de escape)
+
+**Sección 3: Estilos (22 %)**
+
+* Describir el propósito de styles-m.less, styles-l.less, print.less
+* Describa la diferencia entre archivos parciales específicos (_extensions.less,_extend.less,_theme.less,_widgets.less,_module.less,)
+* Ante un escenario concreto, se debe demostrar la capacidad de anular o ampliar Magento LESS
+* Describir los conceptos básicos de LESS
+* Explicar la jerarquía de estilos (biblioteca, módulos y temas)
+* Explicar la compilación del lado del cliente y del lado del servidor
+
+**Sección 4: JavaScript (18 %)**
+
+* Demostrar la capacidad de inicializar y llamar a componentes de JavaScript
+* Demostración del uso de RequireJS
+* Describir el uso de mixins
+* Describir cómo añadir una traducción en JS
+* Describir el uso de Knockout JS
+* Describir el uso de los widgets de jQuery
+
+**Sección 5: Configuración de administración y PageBuilder (8 %)**
+
+* Demostración de la capacidad de personalizar el Page Builder y el contenido de CMS
+* Describir los pasos para personalizar los correos electrónicos transaccionales
+
+**Sección 6: Herramientas (CLI y Grunt) (8 %)**
+
+* Describir el uso de los comandos básicos bin/Magento
+* Describir el uso de los comandos del Compositor (instalar, actualizar, requerir, quitar)
+* Diferenciación entre el caso de uso adecuado para los modos de implementación
+* Describa las herramientas adicionales que proporciona la nube (rápidamente, descargando base de datos, implementación de contenido)
+
+## Prepárate.
+
+No es necesario completar la formación antes de realizar el examen, y la formación por sí sola no le proporcionará los conocimientos y habilidades necesarios para aprobar el examen. Una combinación de formación y experiencia laboral exitosa es crítica para proporcionarle el repositorio necesario para aprobar el examen.
+
+Estos son algunos recursos sugeridos para ayudarle a prepararse:
+
+**Sección 1**
+
+* [Ejemplo de diccionario de traducción de temas](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
+* [Estructura del tema](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
+* [Configurar propiedades del tema](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
+* [Uso de un diccionario para personalizar cadenas](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+
+**Sección 2**
+
+* [referenceBlock y referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
+* [Instrucciones de diseño](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
+* [Anular un diseño](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [discusión](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
+* [Crear un nuevo diseño](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
+* [Anulación de un diseño](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
+* [Tutorial de personalización de plantillas](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
+* [magento2/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
+* [Herencia del tema](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [Ejecución de scripts en sitios múltiples (XSS)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+
+**Sección 3**
+
+* [CSS en diseño interactivo](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* [Personalizar estilos de temas](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
+* [Ampliar estilos principales](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
+* [Anular estilos principales](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
+* [Modo de compilación](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
+
+**Sección 4**
+
+* [Llamar a e inicializar JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [mixins](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
+* [Ámbito de mixin](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
+* [Cadenas de tema](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [Mapa de enlaces](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
+* [Inicializar el widget de acordeón](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
+
+## Renovar la certificación
+
+Para renovar su Adobe [!DNL Commerce] Certificación profesional para desarrolladores front-end:
+
+1. Inicie sesión en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}
+
+2. Haga clic en el botón de abajo para ir al portal de exámenes y realizar el examen (AD5-E844)
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ir al portal de Examity
