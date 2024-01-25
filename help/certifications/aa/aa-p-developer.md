@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Examen AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
+source-git-commit: 63240c83879075315fb13635e06d9c1cbcf2a37d
 workflow-type: tm+mt
-source-wordcount: '958'
-ht-degree: 12%
+source-wordcount: '824'
+ht-degree: 1%
 
 ---
 
@@ -142,14 +142,14 @@ También debe tener experiencia con las siguientes tareas:
 
 **Sección 1: Análisis en el ecosistema de Adobe Experience Cloud**
 
-* [Servicio de Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
+* [Servicio de identidad de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
 * [Preguntas frecuentes](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
-* [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [AEM Guía del usuario de creación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Información general sobre etiquetas](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es){target="_blank"}
 
 **Sección 2: Estrategia y diseño de Analytics basados en una referencia de diseño de solución**
 
-* [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
+* [Implementación [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
 * [Guía de administración de Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
 * [Variables de lista](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
 * [eVars de comercialización y métodos de búsqueda de productos](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
@@ -159,7 +159,7 @@ También debe tener experiencia con las siguientes tareas:
 * [Guía de Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}
 * [Sugerencia rápida: Paso de datos a reglas de Launch](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 * [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [Cómo se recopilan los datos de Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
+* [Recopilación de datos de análisis](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
 
 **Sección 4: Sistemas de gestión de etiquetas**
 
@@ -191,6 +191,12 @@ También debe tener experiencia con las siguientes tareas:
 {{sample-questions}}
 
 [Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**Realizar una prueba de práctica**
+
+{{practice-test}}
 
 <br>
 
