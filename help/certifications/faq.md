@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
+source-wordcount: '2341'
 ht-degree: 1%
 
 ---
@@ -51,7 +51,7 @@ A veces hay varias versiones de un examen. Es mejor tomar la última versión.
 
 [!DNL Examity] tiene soporte disponible por chat, correo electrónico y teléfono. El soporte de Adobe no puede ayudar con los problemas técnicos que ocurren durante el examen.
 
-[!DNL Examity] Asistencia de: `adobepartnersupport@examity.com`
+[!DNL Examity] Compatibilidad: `adobepartnersupport@examity.com`
 
 El recurso de ayuda más rápido es a través de su chat. Todos los candidatos deben asegurarse de que su equipo cuenta con los requisitos adecuados del sistema antes de realizar el examen.
 
@@ -84,8 +84,8 @@ Para los candidatos que suspenden el examen de certificación de Adobe en su pri
 +++¿Cómo puedo obtener una copia de mi informe de puntuación?
 
 * Paso 1: Inicie sesión en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Inicie sesión con su ID o correo electrónico y contraseña.
-* Paso 2: Haga clic en Transcripciones.
-* Paso 3: Desplácese por el historial de transcripciones y seleccione el informe que desee ver. Puede hacer que el informe se le envíe por correo electrónico o verlo en pantalla.
+* Paso 2: Haga clic en Historial.
+* Paso 3: Desplácese por el historial y seleccione el informe que desee ver. Puede hacer que el informe se le envíe por correo electrónico o verlo en pantalla.
 
 +++
 
