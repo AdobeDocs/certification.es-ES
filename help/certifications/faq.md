@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
+source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2342'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Para los candidatos que suspenden el examen de certificación de Adobe en su pri
 
 * Paso 1: Inicie sesión en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Inicie sesión con su ID o correo electrónico y contraseña.
 * Paso 2: Haga clic en Historial.
-* Paso 3: Desplácese por el historial y seleccione el informe que desee ver. Puede hacer que el informe se le envíe por correo electrónico o verlo en pantalla.
+* Paso 3: Desplácese por el historial de transcripciones y seleccione el informe que desee ver. Puede hacer que el informe se le envíe por correo electrónico o verlo en pantalla.
 
 +++
 
