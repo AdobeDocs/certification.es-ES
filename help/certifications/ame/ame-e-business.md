@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d91f73b3d70ad04a864c196d3a9fb802475392ae
+source-git-commit: 352e6c3a35bb1429a187800519bedc9495e8f7cd
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '891'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ Debe ser un experto en marketing con experiencia en:
 
 Además, debe estar familiarizado con las siguientes herramientas y tecnologías:
 
-* Adobe [!DNL Marketo Engage]
+* Adobe[!DNL Marketo Engage]
 * Formato de archivo CSV y Excel
 * Conceptos de API
 * Conceptos básicos de CRM
@@ -165,13 +165,11 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 **Sección 1: Administración y mantenimiento**
 
 * [Explicación de la [!DNL Salesforce] Sincronización](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
-* [[!DNL Marketo]: Administración para profesionales de la empresa](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
 * [Exportación de una lista de todos [!DNL Marketo] Nombres de campos de API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
 * [Glosario de tipo de campo personalizado](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
 * [Seleccione su idioma, configuración regional y zona horaria](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
 * [Explicación de espacios de trabajo y particiones de persona](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [Resumen de pista de auditoría](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
-
 
 **Sección 2: Administración de actividades/campañas de marketing**
 
@@ -188,7 +186,6 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 * [Explicación de los programas de eventos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
 * [Crear un webhook](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
 
-
 **Sección 3: Gestión de clientes potenciales**
 
 * [Establecer un valor de campo de formulario oculto](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
@@ -199,7 +196,6 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 * [Tokens de déclencheur para momentos interesantes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
 * [Explicación de los modelos de ingresos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
-
 **Sección 4: Gestión de datos**
 
 * [Cambiar valor de datos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
@@ -207,7 +203,6 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 * [Políticas de retención de datos de Marketo Activities](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
 * [Creación de una segmentación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [Uso de filtros de segmento en una lista inteligente](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
-
 
 **Sección 5: Informes**
 
