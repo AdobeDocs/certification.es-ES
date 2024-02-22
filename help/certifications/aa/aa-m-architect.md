@@ -8,10 +8,10 @@ role: Data Architect,Developer
 badge: label="Examen AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 27%
+source-wordcount: '436'
+ht-degree: 5%
 
 ---
 
@@ -113,7 +113,7 @@ Además, es responsable de traducir los requisitos comerciales a especificacione
 
 **Sección 1: Detección**
 
-* [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
+* [Implementación [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
 * [[!DNL Analytics] Guía de componentes](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=es){target="_blank"}
 * [Información general sobre etiquetas](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es){target="_blank"}
 * [[!DNL Analytics] Notas técnicas](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=es){target="_blank"}
@@ -126,15 +126,15 @@ Además, es responsable de traducir los requisitos comerciales a especificacione
 * [[!DNL Analytics] Guía de herramientas](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}
 * [SDK para iOS 4.x para soluciones de Experience Cloud](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=es){target="_blank"}
 * [[!DNL Analytics] Guía de importación](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=es){target="_blank"}
-* [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
-* [[!DNL Analytics] Tutoriales](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=es){target="_blank"}
+* [Implementación [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
+* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=es){target="_blank"}
 * [Funciones administrativas](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
-* [Información general de Admin Console](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
+* [Introducción al Admin Console](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [Administrar usuarios individualmente](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
 
 **Sección 3: Ejecución posterior**
 
-* [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
+* [Implementación [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
 * [[!DNL Analytics] Guía de componentes](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=es){target="_blank"}
 * [[!DNL Analytics] Guía del administrador](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
 * [La capa de datos impulsada por evento](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
@@ -148,11 +148,9 @@ Además, es responsable de traducir los requisitos comerciales a especificacione
 
 <br>
 
-**Preguntas de muestra**
+**Realizar una prueba de práctica**
 
-{{sample-questions}}
-
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+{{practice-test}}
 
 +++
 

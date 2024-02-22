@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 14%
+source-wordcount: '611'
+ht-degree: 2%
 
 ---
 
@@ -63,7 +63,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Herramientas de conversión de flujo de trabajo
 * Herramientas de Dispatcher
 * Red de entrega de contenido (CDN)
-* Analizador de prácticas recomendadas
+* Best Practices Analyzer
 * AEM Modernización de
 * Explorador del repositorio
 * Consola de desarrollador
@@ -144,7 +144,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 * [[!DNL Experience Manager] Guía del usuario as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
 * [Guía de migración para Adobe [!DNL Experience Manager] as a Cloud Service para socios](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
-* [Cambios importantes en AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html?lang=es){target="_blank"}
+* [AEM Cambios importantes en la as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"}
 
 **Sección 2: Diseño**
 
@@ -153,20 +153,26 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 **Sección 3: Implementación**
 
-* [Prueba de calidad del código](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html){target="_blank"}
-* [Añadir un nombre de dominio personalizado](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html){target="_blank"}
+* [Prueba de calidad de código](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html){target="_blank"}
+* [Adición de un nombre de dominio personalizado](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html){target="_blank"}
 * [Configuración de DNS](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html){target="_blank"}
 
 **Sección 4: Migración**
 
 * [Ejecución de la herramienta de transferencia de contenido en una instancia de publicación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html){target="_blank"}
-* [Requisitos previos para la herramienta de transferencia de contenido](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
-* [Depuración de AEM as a Cloud Service mediante registros](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=es){target="_blank"}
+* [Requisitos previos para la herramienta de transferencia de contenido](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html?lang=es){target="_blank"}
+* [AEM Depuración de registros as a Cloud Service con](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=es){target="_blank"}
 
 **Sección 5: Implementación**
 
 * [Uso de la canalización de CI/CD en Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
-* [Implementación en AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=es){target="_blank"}
+* [AEM Implementación en el as a Cloud Service de](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
+
+<br>
+
+**Realizar una prueba de práctica**
+
+{{practice-test}}
 
 +++
 
