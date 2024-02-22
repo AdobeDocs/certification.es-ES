@@ -4,9 +4,9 @@ description: Aprenda a obtener la certificación en el Adobe. Encuentre todos lo
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Ejemplo:
 
 * [Cómo registrarse para un examen controlado en línea](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [Cómo iniciar el examen y conectarse al monitor](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Examinar los requisitos del sistema del usuario](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB Realización del examen]
 
@@ -43,9 +44,11 @@ Su [perfil](https://www.certmetrics.com/adobe/candidate/demographics.aspx){targe
 
 **Cancelación y reprogramación**
 
-Las cancelaciones y reprogramaciones son posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
+Las cancelaciones y la reprogramación suelen ser posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
 
 Ni el soporte de Adobe ni la revisión pueden procesar las solicitudes de reprogramación y cancelación. Las cancelaciones de menos de 48 horas están sujetas a una tarifa de reprogramación además de la tarifa del examen.
+
+Si usted no puede reprogramar su examen, a pesar de que es más de 48 horas antes de su examen, eso puede ser debido a que hay una nueva versión del examen. Si su cita fue para la versión anterior del examen, usted no podrá reprogramar su cita para el examen. Le recomendamos que acuda a la cita del examen si es posible. Si no puede, tendrá que cancelar su examen y programar una nueva cita para tomar el nuevo examen.
 
 **Después del examen**
 

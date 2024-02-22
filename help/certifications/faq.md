@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '2342'
+source-wordcount: '2485'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,16 @@ Para obtener más información, consulte la [!DNL Examity] página para administ
 +++¿Con quién puedo ponerme en contacto si tengo preguntas o problemas con la certificación?
 
 Para preguntas sobre el registro de exámenes, pagos de exámenes, entrega de exámenes, centros de pruebas, comentarios sobre exámenes, preguntas sobre exámenes, experiencia de pruebas, adaptaciones de pruebas o preguntas sobre el portal de certificación, póngase en contacto con `certif@adobe.com`.
+
++++
+
++++¿Puedo cancelar o reprogramar mi cita del examen?
+
+Las cancelaciones y la reprogramación suelen ser posibles si se inician antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
+
+Ni el soporte de Adobe ni la revisión pueden procesar las solicitudes de reprogramación y cancelación. Las cancelaciones de menos de 48 horas están sujetas a una tarifa de reprogramación además de la tarifa del examen.
+
+Si usted no puede reprogramar su examen, a pesar de que es más de 48 horas antes de su examen, eso puede ser debido a que hay una nueva versión del examen. Si su cita fue para la versión anterior del examen, usted no podrá reprogramar su cita para el examen. Le recomendamos que acuda a la cita del examen si es posible. Si no puede, tendrá que cancelar su examen y programar una nueva cita para tomar el nuevo examen.
 
 +++
 
