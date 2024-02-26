@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
 workflow-type: tm+mt
-source-wordcount: '769'
-ht-degree: 8%
+source-wordcount: '686'
+ht-degree: 1%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 8%
 * Puntuación superada: 30/50
 * Tiempo: 100 min
 * Entrega: En línea con protección (requiere acceso a la cámara)
-* Idiomas disponibles: Inglés
+* Idiomas disponibles: inglés, japonés
 * Costo: 225 dólares (global) / 150 dólares (India)
-* Identificador del examen: AD0-E124
+* Identificación del examen: AD0-E124 (inglés), AD0-E124-J (japonés)
 
 <br>
 
@@ -140,7 +140,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 **Sección 1: Configuración de Adobe Experience Manager**
 
 * [Conceptos básicos de configuración](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
-* [Solución de problemas de AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
+* [AEM Solución de problemas](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
 * [AEM Configuración de OSGi en el](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=es){target="_blank"}
 
 **Sección 2: Administrar la API de Cloud Manager y Cloud Manager**
@@ -152,14 +152,14 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 **Sección 3: Configuración de la infraestructura de proxy web**
 
 * [Configuraciones de Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
-* [Rendimiento del almacenamiento en caché](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
+* [Rendimiento de almacenamiento en caché](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
 
 **Sección 4: Generación e implementaciones**
 
-* [Implementación de código](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
-* [Configurar canalizaciones de producción](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
-* [Cómo trabajar con paquetes](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=es){target="_blank"}
-* [Estructura del proyecto de AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=es){target="_blank"}
+* [Implementación de código](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=es){target="_blank"}
+* [Configuración de canalizaciones de producción](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
+* [Cómo trabajar con paquetes](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
+* [AEM Estructura del proyecto de](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=es){target="_blank"}
 
 **Sección 5: Monitorización e informes sobre métricas de calidad**
 
@@ -170,7 +170,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 **Sección 6: Funcionamiento del Admin Console**
 
-* [Compatibilidad con IMS para AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
+* [AEM Compatibilidad con IMS para el uso de as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [AEM Grupos de usuarios y usuarios de IMS de](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=es){target="_blank"}
 
 +++
@@ -197,12 +197,23 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{about-certification-exam}}
 
-## Programar o realizar el examen AD0-E124
+## Programar o realizar el examen AD0-E124 (Inglés)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ir al portal de Examity
+   Ir al portal de exámenes - examen de inglés
+</span>
+</a>
+
+## Programar o realizar el examen AD0-E124-J (japonés)
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ir al portal de exámenes - Examen de japonés
 </span>
 </a>
 
