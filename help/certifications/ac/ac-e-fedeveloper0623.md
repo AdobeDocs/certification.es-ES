@@ -6,10 +6,11 @@ product: Magento
 role: Developer
 badge: label="Examen AD0-E720" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
+source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 1%
+source-wordcount: '794'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +27,7 @@ ht-degree: 1%
 ### Detalles del examen {#exam-details}
 
 * Nivel: Experto (1-3 años de experiencia)
-* Puntuación superada: 33/50
+* Puntuación superada: 29/50
 * Tiempo: 100 min
 * Entrega: En línea con protección (requiere acceso a la cámara)
 * Idiomas disponibles: Inglés
@@ -158,7 +159,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 
 **Sección 1: Administración de temáticas (jerarquía de temáticas, configuración de imágenes, traducciones)**
 
-* [Temáticas](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
+* [Temas](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
 * [Plantillas](https://developer.adobe.com/commerce/frontend-core/guide/templates/)
 * [Añadir variables personalizadas](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html?lang=en)
 * [Traducciones](https://developer.adobe.com/commerce/frontend-core/guide/translations/)
