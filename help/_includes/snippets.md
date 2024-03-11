@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Pagar por cupón: Para comprar un cupón de examen, diríjase a: Centro de Certi
 
 **Compra de un cupón**
 
-Usted puede pagar por un examen con un cupón. Para adquirir un cupón de examen, vaya a la [Centro de cupones de certificación de Adobe](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}.
+Usted puede pagar por un examen con un cupón. Para adquirir un cupón de examen, vaya a la [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 Puedes aplicar el código de cupón cuando programes tu examen. Consulte a continuación la información sobre descuentos en cupones.
 
