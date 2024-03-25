@@ -6,16 +6,21 @@ product: Customer Journey Analytics
 role: User
 badge: label="Examen AD0-E608" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 17%
+source-wordcount: '372'
+ht-degree: 0%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Customer Journey Analytics] Profesional empresarial
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/375) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -102,37 +107,20 @@ El candidato ideal con una cualificación mínima es un analista con al menos 6 
 
 {{study-materials-intro}}
 
-**Sección 1: Componentes**
-
-* [Resumen de las visualizaciones](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Información general de las vistas de datos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=es){target="_blank"}
-* [Información general de Filtros](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html?lang=es){target="_blank"}
-* Configuración de componentes de [atribución](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/attribution.html){target="_blank"}
-
-**Sección 2: Informes**
-
-* [Resumen de visita en orden previsto](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/fallout/fallout-flow.html){target="_blank"}
-* [Resumen de calendario e intervalos de fechas](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-date-ranges/calendar.html){target="_blank"}
-* [Información general sobre conexiones](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=es){target="_blank"}
-
-**Sección 3: Distribución**
-
-* [Programar proyectos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/t-schedule-report.html?lang=es){target="_blank"}
-* [Compartir proyectos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/share-projects.html?lang=es){target="_blank"}
-* [Depurar proyectos de](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/curate.html){target="_blank"}
-
-**Sección 4: Análisis de datos**
-
-* [Uso de los datos de grupos de informes de Adobe en Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/aa-data-in-cja.html){target="_blank"}
-* [Modelos de atribución de Analytics y ventanas retroactivas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en%22%3ehttps://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html){target="_blank"}
-* [Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=es){target="_blank"}
-* [Operadores de filtro](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/operators.html){target="_blank"}
-
-<br>
-
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Guía de preparación del examen**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/375" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ver guía de preparación del examen
+</span>
+</a>
 
 +++
 

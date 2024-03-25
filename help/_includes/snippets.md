@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1800'
 ht-degree: 0%
 
 ---
@@ -226,3 +226,11 @@ Las certificaciones caducan al cabo de dos años. Para mantener su certificació
 Por favor programe su examen entre el domingo - jueves 5 pm - 2 am ET para asegurarse de que podamos asignar un monitor de habla japonesa. Si programa fuera de este horario, no podemos garantizar un monitor de habla japonesa.
 
 [Instrucciones de programación en japonés](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## Realice un curso gratuito {#take-course}
+
+Este curso gratuito y bajo demanda le ayuda a prepararse para su examen con explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
+
+## Guía de preparación del examen {#exam-prep-guide}
+
+La Guía gratuita de preparación para exámenes proporciona un camino personalizado a través del proceso de preparación para exámenes, incluyendo los materiales de estudio en profundidad que necesitarás para tener éxito en tu examen.

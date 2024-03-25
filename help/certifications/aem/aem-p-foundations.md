@@ -7,16 +7,20 @@ role: User
 badge: label="Examen AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 13%
+source-wordcount: '374'
+ht-degree: 1%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Experience Manager] Technical Foundations Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/368) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -124,32 +128,16 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{study-materials-intro}}
 
-**Sección 1: Creación de contenido**
+**Guía de preparación del examen**
 
+{{exam-prep-guide}}
 
-* [AEM Guía del usuario de implementación de.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=es){target="_blank"}
-* [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
-* [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
+<a href="https://app.rockinfo.com/courses/playScorm/368" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-**Sección 2: Implementación**
-
-* [AEM Componentes de la: conceptos básicos](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
-* [Tutorials AEM para Headless en la](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=es){target="_blank"}
-* [Creación de plantillas de página  ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
-* [Uso de bibliotecas del lado del cliente](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=es){target="_blank"}
-
-**Sección 3: Configuración e implementación**
-
-* [Consola web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
-* [Estructura del proyecto de AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html#embedding-3rd-party-packages){target="_blank"}
-* [El administrador de paquetes](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html#what-are-packages){target="_blank"}
-
-**Sección 4: Mantenimiento y administración de usuarios**
-
-* [Administrar usuarios, grupos y funciones de usuario](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html#add-a-user){target="_blank"}
-* [Administración de usuarios y seguridad](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=es){target="_blank"}
-* [Ajustes de configuración de OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
+<span class="spectrum-Button-label has-no-wrap">
+   Ver guía de preparación del examen
+</span>
+</a>
 
 +++
 

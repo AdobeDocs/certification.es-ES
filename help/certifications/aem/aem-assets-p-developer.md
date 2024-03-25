@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Recorrido de certificación para Adobe [!DNL Experience Manager] Assets Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/364) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -137,44 +141,20 @@ Además, debe tener experiencia con las siguientes tecnologías y entornos:
 
 +++Paso 2: Prepárese para su examen
 
-**Materiales de estudio**
-
-{{study-materials-intro}}
-
-**Sección 1: Flujos de trabajo de recursos**
-
-* [Creación de modelos de flujo de trabajo](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-
-**Sección 2: Organización de recursos y consola de recursos**
-
-* [Vídeos y tutoriales de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=es){target="_blank"}
-* [Buscar facetas](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
-* [Informes de recursos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
-
-**Sección 3: Metadatos de los recursos**
-
-* [Esquemas de metadatos](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
-* [Comprender los conceptos de metadatos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
-* [Perfiles de metadatos](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Pulse%20o%20haga clic%20the,and%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
-
-**Sección 4: Tipos de activos**
-
-* [Administración de recursos de vídeo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
-* [Modelos de fragmento de contenido](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
-* [Variaciones: Creación de contenido de fragmentos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
-
-**Sección 5: Conjuntos de funciones y capacidades de los recursos**
-
-* [Información general de [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
-* [Formatos de archivo compatibles](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
-* [Perfiles de vídeo de Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
-
-<br>
-
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Guía de preparación del examen**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/364" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ver guía de preparación del examen
+</span>
+</a>
 
 +++
 

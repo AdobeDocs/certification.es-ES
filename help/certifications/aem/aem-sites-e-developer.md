@@ -7,16 +7,20 @@ role: Developer
 badge: label="Examen AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: dddfd2d13bd27666a4a17e4c8002b91b555381ee
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '561'
-ht-degree: 2%
+source-wordcount: '496'
+ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager Sites] Experto de desarrollador
+# Recorrido de certificación para Adobe [!DNL Experience Manager] Experto para desarrolladores de sitios
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/369) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -128,44 +132,20 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{study-materials-intro}}
 
-**Sección 1: Configuración**
-
-* [Introducción a Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html){target="_blank"}
-* [Información general de Dispatcher](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [Vídeos y tutoriales de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=es){target="_blank"}
-* [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-* [AEM Guía del usuario de implementación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=es){target="_blank"}
-* [AEM Guía del usuario de administración de.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-
-**AEM Sección 2: Desarrollo de la**
-
-* [AEM Guía del usuario sobre desarrollo de.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [Introducción a AEM Sites: Tutorial de WKND](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=es){target="_blank"}
-* [AEM Guía del usuario de creación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [AEM Guía del usuario de administración de.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
-
-**Sección 3: Generación e implementación**
-
-* [Introducción a los componentes principales](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=es){target="_blank"}
-* [AEM Guía del usuario sobre desarrollo de.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [AEM Guía del usuario de administración de.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Adobe [!DNL Experience Manager as a Cloud Service] Vídeos y Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=es){target="_blank"}
-* [AEM Guía del usuario de implementación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=es){target="_blank"}
-
-**Sección 4: Mantenimiento del entorno**
-
-* [[!DNL Experience Manager as a Cloud Service] documentación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
-* [AEM Vídeos y tutoriales de la fundación](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
-* [Implementación y mantenimiento](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html){target="_blank"}
-* [AEM Guía del usuario de administración de.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [AEM Guía del usuario de implementación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=es){target="_blank"}
-
-<br>
-
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Guía de preparación del examen**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/369" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ver guía de preparación del examen
+</span>
+</a>
 
 +++
 

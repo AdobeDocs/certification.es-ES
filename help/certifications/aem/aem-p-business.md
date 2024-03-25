@@ -7,16 +7,20 @@ role: User
 badge: label="Examen AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 16%
+source-wordcount: '475'
+ht-degree: 0%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Experience Manager] Profesional empresarial
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/366) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -113,52 +117,27 @@ Además, debería tener:
 
 {{study-materials-intro}}
 
-**Sección 1: Educación**
+**Guía de preparación del examen**
 
-* [Información general de guía de creación](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Conceptos básicos de configuración](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring.html){target="_blank"}
-* [Actualización a AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/upgrading/upgrade.html?lang=es){target="_blank"}
-* [AEM Obtenga Información Acerca De Las Funcionalidades De.5](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] as a Cloud Service: terminología](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/terminology.html){target="_blank"}
-* [[!DNL Experience Manager] documentación as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
-* [Administración de recursos mediante Adobe Asset Link](https://helpx.adobe.com/es/enterprise/using/manage-assets-using-adobe-asset-link.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Sección 2: Arquitectura**
+<a href="https://app.rockinfo.com/courses/playScorm/366" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Guía del usuario de administración de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
-* [Información general de Dispatcher](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-**Sección 3: Análisis de negocio**
-
-* [Guía del usuario de administración de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/managing/home.html){target="_blank"}
-* [Guía del usuario de administración de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Guía de Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-* [Guía del usuario de creación de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5 Guía de Communities](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [Guía del usuario sobre desarrollo en AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6,5 [!DNL Forms] Guía](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Guía del usuario de administración de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/managing/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentación](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
-* [[!DNL AEM Screens] Guía de prácticas recomendadas y](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=es){target="_blank"}
-
-**Sección 4: Configuración e implementación**
-
-* [Guía del usuario de creación de AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/home.html){target="_blank"}
-* [Guía del usuario sobre desarrollo en AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
-* [Guía del usuario de administración de AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [AEM Desarrollo: directrices y prácticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=es){target="_blank"}
-* [Integración con Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html?lang=es){target="_blank"}
-* [AEM [!DNL Sites] vídeos y tutoriales](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=es){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   Ver guía de preparación del examen
+</span>
+</a>
 
 **Preguntas de muestra**
 
 {{sample-questions}}
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ver preguntas de ejemplo
+</span>
+</a>
 
 +++
 

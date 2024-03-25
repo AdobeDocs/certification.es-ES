@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Recorrido de certificación para Adobe [!DNL Experience Manager Forms] Backend Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/367) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -130,40 +134,27 @@ Debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{study-materials-intro}}
 
-**Sección 1: Creación y administración de Forms**
+**Guía de preparación del examen**
 
-* [Guía de Adobe Experience Manager 6.5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Integración de datos de AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
-* [Tutoriales y vídeos de AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
-* [AEM Guía del usuario sobre desarrollo de.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Sección 2: Procesos y flujos de trabajo**
+<a href="https://app.rockinfo.com/courses/playScorm/367" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Guía de Adobe Experience Manager 6.5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Guía de Adobe Experience Manager 6.4 Forms](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-* [Administrar extremos](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
-
-**Sección 3: Administración y resolución de problemas**
-
-* [Solucionar problemas de instalación con archivos de registro | CREATIVE CLOUD](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
-* [AEM Guía del usuario de administración de.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [Notas de la versión de Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html){target="_blank"}
-* [Guía de Adobe Experience Manager 6.5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Información general de Dispatcher](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [AEM Guía del usuario de creación de.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-
-**Sección 4: Extremos e integraciones de API**
-
-* [Documentación as a Cloud Service del Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=es){target="_blank"}
-* [Guía de Adobe Experience Manager 6.4 Forms](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   Ver guía de preparación del examen
+</span>
+</a>
 
 **Preguntas de muestra**
 
 {{sample-questions}}
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ver preguntas de ejemplo
+</span>
+</a>
 
 +++
 

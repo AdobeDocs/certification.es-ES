@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,16 @@ ht-degree: 0%
 # Recorrido de certificación para Adobe [!DNL Commerce] Desarrollador profesional
 
 {{intro}}
+
+>[!NOTE]
+>
+>Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
+>
+>* **Curso:** Tome una [curso de formación](https://app.rockinfo.com/courses/106) que incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
+>
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/382) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en su examen.
+>
+>Si se le solicita que inicie sesión, utilice su Adobe ID.
 
 ## Descripción del examen {#exam-description}
 
@@ -172,94 +182,31 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{study-materials-intro}}
 
-**Sección 1: Trabajo con el administrador**
-
-* [Diseños](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Funciones del usuario](https://docs.magento.com/user-guide/system/permissions-user-roles.html){target="_blank"}
-* [Introducción a los componentes de IU](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
-* [Archivos de configuración para implementación](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Extensibilidad y modularidad](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-
-**Sección 2: Arquitectura**
-
-* [Extensibilidad y modularidad](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-* [Archivos de configuración para implementación](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Herramienta de línea de comandos](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [Eventos y observadores](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [Introducción a los sistemas de administración](https://docs.magento.com/user-guide/system/tools.html){target="_blank"}
-* [Plantillas](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [Traducciones](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [Reescrituras de URL](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
-* [Configurar almacenamiento en caché](https://devdocs.magento.com/guides/v2.4/config-guide/cache.html){target="_blank"}
-* [Configuración y uso de Barniz](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-* [Tiendas y vistas de sitios web](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
-* [Sitio, tienda y vista de ámbito](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [Creación de categorías](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"}
-* [Estructura del sitio y la tienda](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-
-**Sección 3: Fundamentos del marketing digital y el comercio electrónico**
-
-* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
-* [Eventos y observadores](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [Navegación por capas](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
-* [Información general sobre atributos del producto](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [Resumen del esquema declarativo](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
-
-**Sección 4: Diseño/IU**
-
-* [Páginas](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Diseños](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Hojas de estilos en cascada](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
-* [Temas](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Introducción a JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
-* [Estándares de codificación](https://devdocs.magento.com/guides/v2.4/coding-standards/bk-coding-standards.html){target="_blank"}
-* [Almacenamiento en caché de página](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
-
-**Sección 5: Pago y envío y ventas**
-
-* [Gestión de pedidos y operaciones](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [Carro de compras](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [Reglas de precios del carrito](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [Personalizar cierre de compra](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
-* [Común [!DNL Commerce] Tablas](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/common-mage-tables.html){target="_blank"}
-* [Adición de una nueva integración de pagos](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [Moneda](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-
-**Sección 6: Catálogo**
-
-* [Resumen de categorías](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
-* [Crear un producto](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [Promociones](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Bloques dinámicos](https://docs.magento.com/user-guide/cms/dynamic-blocks.html){target="_blank"}
-* [Reglas de precios de catálogo](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
-* [Precios avanzados](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
-
-**Sección 7: Adobe [!DNL Commerce] Arquitectura de nube**
-
-* [[!DNL Commerce] en infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=es){target="_blank"}
-* [Arquitectura de nube para [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
-* [Arquitectura de inicio](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/starter-architecture.html){target="_blank"}
-* [Arquitectura profesional](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
-* [Arquitectura a escala](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
-
-**Sección 8: Configuración del Adobe [!DNL Commerce] Nube**
-
-* [Información general sobre archivos de configuración](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
-* [Propiedades para la configuración de aplicaciones](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
-* [Configuración de variables de entorno para la implementación](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/configure-env-yaml.html){target="_blank"}
-* [Adobe [!DNL Commerce] Descripción del producto en la nube](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
-
-**Sección 9: [!DNL Commerce] Herramienta CLI de nube (parte de administración)**
-
-* [CLI de nube](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
-* [Administrar ramas con la CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
-* [Configurar servicios](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
-
-<br>
-
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Realice un curso**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Seguir el curso
+</span>
+</a>
+
+**Guía de preparación del examen**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ver guía de preparación del examen
+</span>
+</a>
 
 +++
 

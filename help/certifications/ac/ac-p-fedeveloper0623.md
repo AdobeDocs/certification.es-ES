@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Recorrido de certificación para Adobe [!DNL Commerce] Desarrollador front-end profesional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/384) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -142,50 +146,20 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 
 {{study-materials-intro}}
 
-**Sección 1: Administración de temáticas (jerarquía de temáticas, configuración de imágenes, traducciones)**
-
-* [Temas](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Diseños](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [Localización](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
-* [Traducciones](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-
-**Sección 2: Diseño, XML y plantillas**
-
-* [Tareas de personalización comunes](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [Desarrollo de componentes](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Seguridad](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
-
-**Sección 3: Estilos**
-
-* [Estándares de codificación](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
-* [{less}](https://lesscss.org/){target="_blank"}
-* [Estándar de codificación LESS](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
-* [Personalizar estilos de temas](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-
-**Sección 4: JavaScript**
-
-* [Introducción a JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [Conceptos de componentes de IU](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/){target="_blank"}
-* [Observables (KnockOutJS)](https://knockoutjs.com/documentation/observables.html){target="_blank"}
-
-**Sección 5: Configuración de administración y PageBuilder**
-
-* [Páginas](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
-* [¿Qué es Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
-* [Paquete JavaScript](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
-
-**Sección 6: Herramientas (CLI y Grunt)**
-
-* [Guía de configuración](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [Variables de compilación](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [Commerce en infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Guía de preparación del examen**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/384" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ver guía de preparación del examen
+</span>
+</a>
 
 +++
 

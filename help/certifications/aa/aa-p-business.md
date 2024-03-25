@@ -7,16 +7,20 @@ role: User
 badge: label="Examen AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 16%
+source-wordcount: '505'
+ht-degree: 0%
 
 ---
 
 # Recorrido de certificación para Adobe [!DNL Analytics] Profesional empresarial
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/391) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -125,37 +129,27 @@ Debe tener un mínimo de 3 meses de experiencia en [!DNL Adobe Analytics] y la s
 
 {{study-materials-intro}}
 
-**Sección 1: Análisis de negocio**
+**Guía de preparación del examen**
 
-* [Guía de herramientas de Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}
-* [Guía de componentes de Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=es){target="_blank"}
-* [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
-* [Ayuda de Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=es){target="_blank"}
+{{exam-prep-guide}}
 
-**Sección 2: Creación de informes y tableros para proyectos**
+<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Guía de administración de Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
-* [Guía de herramientas de Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}
-* [Información general de visualización](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
-* [Guía de componentes de Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=es){target="_blank"}
-* [Guía de Customer Journey Analytics](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-**Sección 3: Segmentación y métricas calculadas**
-
-* [Guía de componentes de Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=es){target="_blank"}
-
-**Sección 4: Conocimiento general de la herramienta y solución de problemas**
-
-* [Implementación de  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=es){target="_blank"}
-* [Guía de componentes de Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=es){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   Ver guía de preparación del examen
+</span>
+</a>
 
 **Preguntas de muestra**
 
 {{sample-questions}}
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ver preguntas de ejemplo
+</span>
+</a>
 
 +++
 
