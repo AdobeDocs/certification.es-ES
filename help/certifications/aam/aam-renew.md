@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!TAB Profesional]
 
+## Instrucciones para renovar la certificación:
+
+* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 2**: revise los objetivos y recursos del examen
+* **Paso 3**: realice y apruebe el examen
+
 ### Adobe [!DNL Audience Manager] Profesional de negocios Examen de renovación profesional
 
 Actualmente, debe estar certificado (no caducado) en:
 
 * Adobe [!DNL Audience Manager] Profesional empresarial
-
-### Instrucciones para renovar la certificación:
-
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
-* **Paso 2**: revise los objetivos y recursos del examen
-* **Paso 3**: realice y apruebe el examen
 
 ### Prepárese.
 
@@ -163,15 +163,15 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 >[!TAB Experto]
 
-Actualmente, debe estar certificado (no caducado) en:
-
-* Adobe Audience Manager Business Practitioner Expert
-
-### Instrucciones para renovar la certificación:
+## Instrucciones para renovar la certificación:
 
 * **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
 * **Paso 2**: revise los objetivos y recursos del examen
 * **Paso 3**: realice y apruebe el examen
+
+### Actualmente, debe estar certificado (no caducado) en:
+
+* Adobe Audience Manager Business Practitioner Expert
 
 ### Prepárese.
 
@@ -244,15 +244,15 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 >[!TAB Principal]
 
-### Actualmente, debe estar certificado (no caducado) en:
-
-* Maestro de Adobe Audience Manager Architect
-
-### Instrucciones para renovar la certificación
+## Instrucciones para renovar la certificación
 
 * **Paso 1** - Revisar los objetivos del examen
 * **Paso 2** - Revisar los recursos
 * **Paso 3** - Realiza y aprueba el examen
+
+### Actualmente, debe estar certificado (no caducado) en:
+
+* Maestro de Adobe Audience Manager Architect
 
 ### Prepárese.
 
