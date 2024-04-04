@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 856946800cb9911550c2c79555350e1f250d1665
+source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
 workflow-type: tm+mt
-source-wordcount: '1714'
+source-wordcount: '1729'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!TAB Profesional]
 
-## Adobe [!DNL Audience Manager] Profesional de negocios Examen de renovación profesional
+### Adobe [!DNL Audience Manager] Profesional de negocios Examen de renovación profesional
 
 Actualmente, debe estar certificado (no caducado) en:
 
@@ -60,9 +60,9 @@ Actualmente, debe estar certificado (no caducado) en:
 * Coste: GRATIS
 * Identificador del examen: Adobe AD5-E852 [!DNL Audience Manager] Profesional de negocios Examen de renovación profesional
 
-### Objetivos y ámbito del examen**
+### Objetivos y ámbito del examen
 
-**Creación y distribución de segmentos 32 %**
+**Sección 1: Creación y distribución de segmentos (32 %)**
 
 * Identificar formas de utilizar datos de primeras, segundas y terceras partes para fines de segmentación y análisis
 * Describir el proceso básico para la activación de los objetivos empresariales o de campaña
@@ -70,27 +70,27 @@ Actualmente, debe estar certificado (no caducado) en:
 * Identificación de los distintos tipos de destinos
 * Identificación de los distintos tipos de fuentes
 
-**Creación de rasgos 16 %**
+**Sección 2: Creación de características (16 %)**
 
 * En un escenario determinado, identifique señales, rasgos, segmentos y audiencias
 * Identificación de los usos de diferentes tipos de rasgos
 
-**Informes y mediciones 16 %**
+**Sección 3: Informes y mediciones (16 %)**
 
 * Ante un escenario, genere informes para medir los objetivos de activación o campaña
 * En un escenario determinado, compare audiencias según las tasas de coincidencia
 
-**Solución de problemas al 10 %**
+**Sección 4: Resolución de problemas (10 %)**
 
 * En un escenario determinado, solucione los problemas de datos entrantes de diferentes fuentes y tipos de fuentes
 * Validar formato para archivos de datos de entrada
 
-**Taxonomía 12 %**
+**Sección 5: Taxonomía (12 %)**
 
 * Identificar las prácticas recomendadas para la estructura de carpetas organizadas mediante una nomenclatura clara y coherente
 * Clasificar rasgos y segmentos en carpetas utilizando una nomenclatura coherente y clara
 
-**Combinación de perfiles, sincronización de ID y Audience Marketplace 14 %**
+**Sección 6: Combinación de perfiles, sincronización de ID y Audience Marketplace (14 %)**
 
 * Organice los rasgos de usuario en un único perfil unificado para crear audiencias basadas en el hogar o el dispositivo
 * Identificar la activación mediante Audience Marketplace
@@ -161,18 +161,13 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 >
 >Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
-
-
-
-<!--divider-->
-
 >[!TAB Experto]
 
 Actualmente, debe estar certificado (no caducado) en:
 
 * Adobe Audience Manager Business Practitioner Expert
 
-## Instrucciones para renovar la certificación:
+### Instrucciones para renovar la certificación:
 
 * **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
 * **Paso 2**: revise los objetivos y recursos del examen
@@ -188,9 +183,9 @@ Actualmente, debe estar certificado (no caducado) en:
 * Entrega: bajo demanda / sin procesador
 * Idiomas disponibles: Inglés
 * Coste: GRATIS
-* ID del examen: AD5-E826 - Renovación de experto para profesionales de Adobe Audience Manager
+* ID del examen: AD5-E826 - Examen de renovación de expertos para profesionales de Adobe Audience Manager
 
-**Objetivos y ámbito del examen**
+### Objetivos y ámbito del examen
 
 **Sección 1: Creación y distribución de segmentos (25 %)**
 
@@ -229,7 +224,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 [!BADGE Preguntas de muestra]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-**Recursos:**
+### Recursos:
 
 * [Adobe [!DNL Audience Manager] Documentación del producto](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Compatibilidad con Adobes: audiencias de Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
@@ -249,11 +244,11 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 >[!TAB Principal]
 
-Actualmente, debe estar certificado (no caducado) en:
+### Actualmente, debe estar certificado (no caducado) en:
 
 * Maestro de Adobe Audience Manager Architect
 
-## Instrucciones para renovar la certificación
+### Instrucciones para renovar la certificación
 
 * **Paso 1** - Revisar los objetivos del examen
 * **Paso 2** - Revisar los recursos
@@ -269,11 +264,11 @@ Actualmente, debe estar certificado (no caducado) en:
 * Entrega: bajo demanda / sin procesador
 * Idiomas disponibles: Inglés
 * Coste: GRATIS
-* ID del examen: AD5-E825 - Renovación del máster de arquitectos de Adobe Audience Manager
+* ID del examen: AD5-E825 - Examen para la renovación maestra de arquitectos de Adobe Audience Manager
 
-**Alcance y objetivos:**
+## Objetivos y ámbito del examen:
 
-Sección 1: Análisis de la implementación (28 %)
+**Sección 1: Análisis de la implementación (28 %)**
 
 * AAM Determine cómo guiar y admitir la implementación de la como producto independiente o como parte de una solución en la nube
 * AAM Analice las opciones de destino salientes y recomiende un enfoque de implementación de
@@ -281,14 +276,14 @@ Sección 1: Análisis de la implementación (28 %)
 * Identifique funciones como el visor de perfiles de visitante, las etiquetas, RBAC, etc., para alinearlas con los objetivos empresariales
 * Determine cómo diseñar y probar los píxeles necesarios para crear segmentos y rasgos
 
-Sección 2: Diseño de soluciones y Recommendations (17 %)
+**Sección 2: Diseño de soluciones y Recommendations (17 %)**
 
 * AAM Determinar las capacidades de la audiencia en función del caso práctico del cliente para la audiencia y la activación
 * Aplique conceptos de procedimiento para utilizar soluciones de identidad de audiencia para complementar la arquitectura de diseño
 * Identificar datos de atributo y comportamiento y asignarlos a casos de uso empresariales específicos
 * Aplicar conceptos de procedimiento para diseñar la taxonomía de carpetas y la convención de nombres
 
-Sección 3: Segmentación y activación (31 %)
+**Sección 3: Segmentación y activación (31 %)**
 
 * Aplicar conceptos de procedimiento para crear destinos en [!DNL Audience Manager]
 * Identificar señales para crear rasgos basados en reglas, integrados y algorítmicos
@@ -297,12 +292,12 @@ Sección 3: Segmentación y activación (31 %)
 * Aplicar conceptos de procedimiento para crear un modelo algorítmico o predictivo
 * Determinar la lógica de segmentación en función de los casos de uso
 
-Sección 4: Privacidad y administración de datos (7 %)
+**Sección 4: Privacidad y administración de datos (7 %)**
 
 * Recomendar [!DNL Audience Manager] capacidades en relación con la gobernanza, la privacidad y la seguridad
 * Identificar políticas de datos de clientes que estén en línea con las regulaciones gubernamentales
 
-Sección 5: Rendimiento e informes (17 %)
+**Sección 5: Rendimiento e informes (17 %)**
 
 * AAM Determine cómo configurar informes en para recopilar señales, rasgos y rendimiento de segmentos según los requisitos empresariales.
 
