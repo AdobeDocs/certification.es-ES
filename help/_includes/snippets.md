@@ -1,5 +1,5 @@
 ---
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
 source-wordcount: '1800'
 ht-degree: 0%
@@ -227,9 +227,13 @@ Por favor programe su examen entre el domingo - jueves 5 pm - 2 am ET para asegu
 
 [Instrucciones de programación en japonés](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
+<!--divider-->
+
 ## Realice un curso gratuito {#take-course}
 
 Este curso gratuito y bajo demanda le ayuda a prepararse para su examen con explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
+
+<!--divider-->
 
 ## Guía de preparación del examen {#exam-prep-guide}
 

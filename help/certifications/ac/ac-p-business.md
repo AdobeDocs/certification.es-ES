@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/383) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
+>
+>**Curso**: Si acaba de empezar, la variable [Curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>
+>**Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/383) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación.
+>
+>_Si se le solicita que inicie sesión, utilice su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -137,6 +143,17 @@ Además, debe tener una comprensión básica de la experiencia de comercio elect
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Realice un curso**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Siga el curso de Adobe Commerce Foundations
+</span>
+</a>
 
 **Guía de preparación del examen**
 
