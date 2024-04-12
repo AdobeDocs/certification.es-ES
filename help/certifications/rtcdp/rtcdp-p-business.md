@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->**Curso:** Si acaba de empezar, o necesita un refresco, tome nuestro [Curso de Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Curso:** Si acaba de empezar, o necesita un refresco, tome nuestro [Curso de Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->**Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/377) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/377) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación.
 >
 >_Si se le solicita que inicie sesión, utilice su Adobe ID._
 
