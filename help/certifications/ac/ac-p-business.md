@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->**Curso**: Si acaba de empezar, la variable [Curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Cursos**: Tome la [Curso profesional para profesionales de Adobe Commerce Business](https://app.rockinfo.com/courses/105) para explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. Si acaba de empezar, el [Curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->**Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/383) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/383) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación.
 >
 >_Si se le solicita que inicie sesión, utilice su Adobe ID._
 
@@ -148,23 +148,15 @@ Además, debe tener una comprensión básica de la experiencia de comercio elect
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[Siga el curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148)
 
-<span class="spectrum-Button-label has-no-wrap">
-   Siga el curso de Adobe Commerce Foundations
-</span>
-</a>
+[Realice el curso profesional para profesionales de Adobe Commerce Business](https://app.rockinfo.com/courses/105)
 
 **Guía de preparación del examen**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/383" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ver guía de preparación del examen
-</span>
-</a>
+[Ver guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/383)
 
 +++
 

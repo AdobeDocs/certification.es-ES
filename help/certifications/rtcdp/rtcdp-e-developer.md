@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="Examen AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 3%
@@ -21,6 +21,18 @@ ht-degree: 3%
 ## Descripción del examen {#exam-description}
 
 {{exam-description}}
+
+<br>
+
+### Detalles del examen {#exam-details}
+
+* Nivel: Experto (1-3 años de experiencia)
+* Puntuación superada: 45/68
+* Tiempo: 136 min
+* Entrega: En línea con protección (requiere acceso a la cámara)
+* Idioma: inglés
+* Costo: 225 dólares (global) / 150 dólares (India)
+* Identificador del examen: AD0-E605
 
 <br>
 
@@ -66,18 +78,6 @@ Debe sentirse cómodo en estos entornos:
 
 * AEP
 * Red perimetral
-
-<br>
-
-### Detalles del examen {#exam-details}
-
-* Nivel: Experto (1-3 años de experiencia)
-* Puntuación superada: 45/68
-* Tiempo: 136 min
-* Entrega: En línea con protección (requiere acceso a la cámara)
-* Idioma: inglés
-* Costo: 225 dólares (global) / 150 dólares (India)
-* Identificador del examen: AD0-E605
 
 <br>
 
@@ -178,7 +178,7 @@ Debe sentirse cómodo en estos entornos:
 **Sección 3**
 
 * [Configure un flujo de datos para introducir datos por lotes desde una fuente de almacenamiento en la nube en la IU](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage.html#activate-inbound-data-for-profile-population){target="_blank"}
-* [Información general de API de servidor de red perimetral](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=es){target="_blank"}
+* [Información general sobre API de Edge Network Server](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=es){target="_blank"}
 * [Ingesta de datos mediante el SDK web de Adobe Experience Platform](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepwebsdk.html){target="_blank"}
 * [Transmitir datos con API HTTP](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html?lang=es){target="_blank"}
 * [Introducción al reenvío de eventos](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/getting-started.html){target="_blank"}
