@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -115,14 +115,14 @@ Los candidatos también deben poder:
 
 {{exam-objectives}}
 
-**Sección 1: Optimización de campañas y Recorridos**
+**Sección 1: Optimización de la campaña y el Recorrido (48 %)**
 
 * Ante un escenario concreto, identifique cómo crear un Recorrido de cliente
 * Ante un escenario concreto, determine cómo validar un Recorrido de cliente
 * Dado un escenario sobre después de ejecutar un Recorrido, identifique cómo evaluar el Recorrido del cliente
 * Dado un escenario, identifique cuándo utilizar un evento unitario o un evento empresarial
 
-**Sección 2: Offer decisioning**
+**Sección 2: Offer decisioning (12 %)**
 
 * Identificar cómo crear una colección de ofertas
 * Identificación de las fases del offer decisioning
@@ -131,7 +131,7 @@ Los candidatos también deben poder:
 * Ante un escenario concreto, identifique cuándo utilizar el offer decisioning o la personalización a escala
 * Ante un escenario concreto, diferencie entre ofertas estáticas y dinámicas
 
-**Sección 3: Creación de contenido**
+**Sección 3: Creación de contenido (20 %)**
 
 * Identificar cómo usar Assets Essentials
 * Ante un escenario concreto, identifique cómo añadir campos personalizados a los correos electrónicos
@@ -141,7 +141,7 @@ Los candidatos también deben poder:
 * Identificación de los tipos de fragmentos
 * Identificar cómo crear una plantilla de correo electrónico
 
-**Sección 4: Fundamentos de AEP**
+**Sección 4: Fundamentos de AEP (20 %)**
 
 * Ante un escenario concreto, determine cuándo utilizar distintos tipos de datos
 * Identifique dónde revisar los atributos de perfiles y la pertenencia a audiencias
