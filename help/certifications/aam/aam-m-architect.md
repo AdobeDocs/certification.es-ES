@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Examen AD0-E454" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 15%
+source-wordcount: '557'
+ht-degree: 3%
 
 ---
 
@@ -38,8 +38,6 @@ ht-degree: 15%
 <br>
 
 ### Destinatarios previstos {#intended-audience}
-
-**Destinatarios a los que va dirigido:**
 
 * [!DNL Audience Manager] Consultor
 * Arquitecto de varias soluciones
@@ -139,30 +137,30 @@ Además, debería poder completar las siguientes tareas:
 
 **Sección 1: Análisis de la implementación**
 
-* Guía de [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager] Guía](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Integración de Analytics](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=es){target="_blank"}
-* [Servicio de Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
+* [Servicio de identidad de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
 
 **Sección 2: Diseño de soluciones y Recommendations**
 
-* Guía de [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager] Guía](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * Tutoriales de [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Sección 3: Segmentación y activación**
 
-* Guía de [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager] Guía](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=es){target="_blank"}
 * Tutoriales de [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Sección 4: Privacidad y administración de datos**
 
-* Guía de [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager] Guía](https://docs.adobe.com/content/help/es-ES/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [[!DNL Audience Manager] API DE REST](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
 * [Guía de administración de Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=es){target="_blank"}
 
 **Sección 5: Rendimiento e informes**
 
-* [Servicio de Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
+* [Servicio de identidad de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es){target="_blank"}
 
 +++
 
