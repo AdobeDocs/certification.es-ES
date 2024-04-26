@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevo curso disponible:** El [Curso profesional para desarrolladores principales de Adobe Workfront](https://app.rockinfo.com/courses/231) incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. _Si se le solicita que inicie sesión, utilice su Adobe ID._
+>Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
+>
+>* **Nuevo curso disponible:** El [Curso profesional para desarrolladores principales de Adobe Workfront](https://app.rockinfo.com/courses/231) incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
+>
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/596) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en su examen.
+>
+>_Si se le solicita que inicie sesión, utilice su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -128,88 +134,6 @@ Los candidatos calificados también deben tener:
 
 {{study-materials-intro}}
 
-**Sección 1**
-
-* [Creación y administración de programas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/create-and-manage-programs/create-and-manage-programs.html){target="_blank"}
-* [Eliminar y desactivar portafolios](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/create-and-manage-portfolios/delete-deactivate-portfolios.html){target="_blank"}
-* [Información general de Portfolio Optimizer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
-* [Crear una cola de solicitudes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
-* [Crear reglas de enrutamiento](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-routing-rules.html){target="_blank"}
-* [Crear temas de cola](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics.html){target="_blank"}
-* [Consideraciones para utilizar la lógica de visualización y la lógica de omisión](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/display-or-skip-logic-custom-form.html#considerations-for-using-display-logic-and-skip-logic){target="_blank"}
-* [Organizar y obtener una vista previa de un formulario con el diseñador de formularios](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/form-designer/design-a-form/organize-a-form.html){target="_blank"}
-* [Crear y compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
-* [Compartir un formulario personalizado](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/manage-custom-forms/share-access-to-a-custom-form.html){target="_blank"}
-* [Resumen del proceso de aprobación](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html){target="_blank"}
-* [Crear y administrar plantillas de flujo de trabajo automatizado](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/create-manage-automated-workflow-templates.html){target="_blank"}
-* [Crear grupos de temas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-topic-groups.html){target="_blank"}
-* [Crear y administrar colas de solicitudes](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html){target="_blank"}
-
-**Sección 2**
-
-* [Introducción a la administración de recursos](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-management/get-started-resource-management.html){target="_blank"}
-* [Resumen de plantilla de proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/project-template-overview.html){target="_blank"}
-* [Compartir una plantilla](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-template.html)
-* [Compartir plantillas de proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html){target="_blank"}
-* [Revisar la disponibilidad y asignación de recursos mediante el Planificador de recursos de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-availability-allocation-resource-planner.html){target="_blank"}
-
-**Sección 3**
-
-* [Práctica recomendada: Paneles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/dashboards-bp.html){target="_blank"}
-* [Práctica recomendada: plantillas de diseño](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/layout-templates-bp.html){target="_blank"}
-* [Creación y administración de plantillas de diseño](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/create-and-manage-layout-templates.html){target="_blank"}
-* [Cuándo y cómo desactivar o eliminar usuarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
-* [Información general sobre nuevos niveles de acceso](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview.html){target="_blank"}
-* [Concesión de acceso a proyectos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/configure-access/grant-access-projects.html){target="_blank"}
-* [Uso compartido de informes en Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/share-report.html){target="_blank"}
-* [Conversión de un problema o una solicitud en un proyecto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/create-a-project-from-a-request.html){target="_blank"}
-* [Práctica recomendada: unidades organizativas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/organizational-units-bp.html){target="_blank"}
-* [Crear y modificar niveles de acceso personalizados](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels.html){target="_blank"}
-* [Exportación de datos desde el Adobe [!DNL Workfront] mediante Kick-Starts](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/export-data-from-wf-via-kick-starts.html){target="_blank"}
-* [Iniciar el importador de datos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts-data-importer.html){target="_blank"}
-* [Administrar tipos de horas](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/hour-types.html){target="_blank"}
-* [Adobe [!DNL Workfront] para Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html){target="_blank"}
-* [Adobe [!DNL Workfront] complemento para aplicaciones de Creative Cloud](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html){target="_blank"}
-* [Configurar Adobe [!DNL Workfront] para Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html){target="_blank"}
-* [Crear y administrar hojas de horas en el Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-and-manage-timesheets.html){target="_blank"}
-* [Información general sobre horarios](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/schedules-overview.html){target="_blank"}
-
-**Sección 4**
-
-* [Uso de formato condicional en vistas](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-conditional-formatting-views.html){target="_blank"}
-* [Introducción a los informes en Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-basics/get-started-reports-workfront.html){target="_blank"}
-* [Agregar un gráfico a un informe](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/add-chart-report.html)
-* [Acceso a objetos y áreas por tipo de licencia](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/access-to-objects-and-areas-by-license-type.html){target="_blank"}
-* [Incrustar una página web externa en un panel](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/embed-external-web-page-dashboard.html){target="_blank"}
-* [Información general sobre paneles de lienzo](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/canvas-dashboards-overview.html){target="_blank"}
-* [Crear un tablero](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/create-dashboard.html){target="_blank"}
-* [Creación de secciones personalizadas](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/create-custom-tabs.html){target="_blank"}
-* [Crear o editar vistas en Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/create-edit-views.html){target="_blank"}
-* [Editar configuración del informe](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/edit-report-settings.html){target="_blank"}
-
-**Sección 5**
-
-* [Conversión de un problema en una tarea en Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
-* [Conversión de un problema en un proyecto en Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html){target="_blank"}
-* [Crear problemas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html){target="_blank"}
-* [Explicación de los objetos de Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
-* [Definición de tipos de solicitud para un proyecto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/define-request-types-for-project.html){target="_blank"}
-* [Administrar estados de grupo](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/manage-group-statuses.html){target="_blank"}
-* [[!DNL Workfront] documentación](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%){target="_blank"}
-* [Usar un estado personalizado como estado predeterminado para un grupo](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/use-custom-statuses-as-default-statuses-group.html){target="_blank"}
-* [Configurar la caída de tarjetas](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
-* [Usar tarjetas conectadas en tableros](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
-* [Registrar tiempo](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time.html){target="_blank"}
-* [Resumen de facturación e ingresos](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
-* [Calcular índice de rendimiento de costes (CPI)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-cpi.html){target="_blank"}
-* [Administrar tipos de horas](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/hour-types.html){target="_blank"}
-* [Mover problemas](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/move-issues.html){target="_blank"}
-* [Resumen de funciones de prueba](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
-* [Revisión y aprobación de una prueba](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
-* [Configuración de una prueba con un flujo de trabajo automatizado en [!DNL Workfront] Proof](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/automated-workflow-in-wf-proof/set-up-proof-auto-workflow.html){target="_blank"}
-
-<br>
-
 **Realizar una prueba de práctica**
 
 {{practice-test}}
@@ -219,6 +143,12 @@ Los candidatos calificados también deben tener:
 {{take-course}}
 
 [Realice el curso Adobe Workfront Core Developer - Professional](https://app.rockinfo.com/courses/231)
+
+**Guía de preparación del examen**
+
+{{exam-prep-guide}}
+
+[Ver guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/596)
 
 +++
 
