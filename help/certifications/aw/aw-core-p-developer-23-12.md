@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Recorrido de certificación para Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuevo curso disponible:** El [Curso profesional para desarrolladores principales de Adobe Workfront](https://app.rockinfo.com/courses/231) incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. _Si se le solicita que inicie sesión, utilice su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -51,10 +55,10 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-El Adobe [!DNL Workfront] Core Developer Certified Professional tiene:
+Aunque este examen no requiere conocimientos de programación/codificación, requiere al menos 3-6 meses de experiencia práctica en el uso del Adobe [!DNL Workfront]
 
-* Nota: Aunque este examen no requiere conocimientos de programación/codificación.
-* Al menos de 3 a 6 meses de experiencia práctica con Adobe [!DNL Workfront]
+Los candidatos calificados también deben tener:
+
 * Experiencia con el Adobe [!DNL Workfront] funcionalidad y conectividad mediante admisión, aprobación, planificación, ejecución y sistema de informes
 * Comprensión exhaustiva del Adobe [!DNL Workfront] tipos de objeto, incluidos formularios personalizados y flujos de trabajo de aprobación, plantillas, duraciones, esfuerzo de trabajo/horas planificadas
 * Comprensión exhaustiva del Adobe [!DNL Workfront] Configuración, incluidos los niveles de acceso, las plantillas de diseño, las preferencias de proyecto y otros métodos para lograr la simplicidad del diseño del usuario final
@@ -69,19 +73,19 @@ El Adobe [!DNL Workfront] Core Developer Certified Professional tiene:
 
 {{exam-objectives}}
 
-**Sección 1: Estrategia e ingesta 23%**
+**Sección 1: Estrategia e ingesta (23 %)**
 
 * Uso de Portfolio y programas
 * Usar colas de solicitudes
 * Usar Forms personalizado
 * Usar aprobaciones básicas
 
-**Sección 2: Presupuesto y planificación 11%**
+**Sección 2: Presupuesto y planificación (11%)**
 
 * Usar el Planificador de recursos
 * Ante un escenario/conjunto de requisitos, aplique las configuraciones para configurar una plantilla de proyecto
 
-**Sección 3: Experiencia del usuario del 25 %**
+**Sección 3: Experiencia del usuario (25 %)**
 
 * Ilustrar las prácticas recomendadas para la administración de usuarios al crear la experiencia del usuario adecuada
 * Ante un escenario concreto, aplique la configuración correcta para los derechos de acceso y uso compartido en todo el sistema
@@ -89,13 +93,13 @@ El Adobe [!DNL Workfront] Core Developer Certified Professional tiene:
 * Demostración de cómo crear y utilizar plantillas de horas
 * Describa el propósito y el valor de los conectores, complementos y complementos
 
-**Sección 4: Métricas e informes 16 %**
+**Sección 4: Métricas e informes (16 %)**
 
 * Describir conceptos básicos para crear, enviar y personalizar informes
 * Explicar cómo crear y personalizar paneles
 * Demostración de cómo configurar vistas funcionales de informes
 
-**Sección 5: Ejecución 24%**
+**Sección 5: Ejecución (24 %)**
 
 * Demostración de cómo configurar flujos de trabajo de aprobación y revisión
 * Reconocer el propósito de crear un problema para un proyecto
@@ -209,6 +213,12 @@ El Adobe [!DNL Workfront] Core Developer Certified Professional tiene:
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Realice un curso**
+
+{{take-course}}
+
+[Realice el curso Adobe Workfront Core Developer - Professional](https://app.rockinfo.com/courses/231)
 
 +++
 
