@@ -9,9 +9,9 @@ badge: label="Examen AD0-E600 y AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1474'
 ht-degree: 0%
 
 ---
@@ -136,7 +136,7 @@ El examen AD0-E600 valida las habilidades y conocimientos que cubren las caracte
 
 <br>
 
-+++Paso 2: Prepárese para su examen
++++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
 
 **Materiales de estudio**
 
@@ -306,7 +306,7 @@ Sección 3: Destinos (27 %)
 
 <br>
 
-+++Paso 2: Prepárese para su examen
++++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
 
 **Materiales de estudio**
 

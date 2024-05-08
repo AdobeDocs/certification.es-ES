@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '594'
 ht-degree: 1%
 
 ---
@@ -87,7 +87,7 @@ Debe tener una comprensión básica de los flujos de datos, los objetivos empres
 * Determine la estructura adecuada para crear rasgos y segmentos que utilicen una nomenclatura clara y coherente
 * Determinar la técnica correcta para mantener una plataforma organizada mediante una estructura de carpetas clara
 
-**Sección 6: Combinación de perfiles, sincronización de ID y Audience Marketplace**
+**Sección 6: Combinación de perfiles, sincronización de ID y Audience Marketplace (14 %)**
 
 * Organice los rasgos de usuario en un único perfil unificado para crear audiencias basadas en el hogar o el dispositivo
 * Identificar la activación mediante Audience Marketplace
@@ -106,7 +106,7 @@ Debe tener una comprensión básica de los flujos de datos, los objetivos empres
 
 <br>
 
-+++Paso 2: Prepárese para su examen
++++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
 
 **Materiales de estudio**
 

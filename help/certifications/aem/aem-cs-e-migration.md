@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '565'
 ht-degree: 1%
 
 ---
@@ -138,7 +138,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 <br>
 
-+++Paso 2: Prepárese para su examen
++++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
 
 **Materiales de estudio**
 

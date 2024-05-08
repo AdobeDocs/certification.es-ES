@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 68fc4c19e0dc551baff9a3c8056249dd49ef8c38
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,7 @@ Debería tener:
 
 <br>
 
-+++Paso 2: Prepárese para su examen
++++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
 
 **Materiales de estudio**
 
@@ -158,7 +158,7 @@ Debería tener:
 * [Ampliación o creación de esquemas](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html#extending-or-creating-schemas){target="_blank"}
 * [Estructura del esquema](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
 * [Lista de [!DNL Campaign Classic] opciones](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html){target="_blank"}
-* [Configuración de las cuentas externas](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html){target="_blank"}
+* [Configuración de las cuentas externas](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html?lang=es){target="_blank"}
 * [Reglas de tipología](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html#typology-rules){target="_blank"}
 
 **Sección 2: Personalización**
@@ -193,7 +193,7 @@ Debería tener:
 **Sección 6: Configuración de la campaña**
 
 * [Creación y configuración de plantillas de campaña](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-templates.html){target="_blank"}
-* [Configuración y administración del proceso de aprobación](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html){target="_blank"}
+* [Configuración y administración del proceso de aprobación](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html?lang=es){target="_blank"}
 * [Pista de auditoría](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=es){target="_blank"}
 * [Uso de plantillas](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
 * [Introducción a los flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=es){target="_blank"}

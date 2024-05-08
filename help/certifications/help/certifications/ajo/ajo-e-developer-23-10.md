@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E606" type="neutral"
 exl-id: null
-source-git-commit: b114bb411e6881bea4fc3f8cd90720fe0f695bc1
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 7%
+source-wordcount: '650'
+ht-degree: 1%
 
 ---
 
@@ -122,7 +122,7 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 <br>
 
-+++Paso 2: Prepárese para su examen
++++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
 
 **Materiales de estudio**
 
@@ -145,7 +145,7 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 **Sección 4: Creación de contenido**
 
 * [Guía de AJO, canal SMS, privacidad, configuración, Recorridos, expresiones, administración de contenido, seguimiento y monitorización, canal de notificaciones push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
-* [Tutoriales de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es){target="_blank"}
+* [Tutorials de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es){target="_blank"}
 
 **Sección 5: Modelado de datos**
 

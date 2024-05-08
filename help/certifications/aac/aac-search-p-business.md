@@ -8,10 +8,10 @@ role: User
 badge: label="Examen AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 6%
+source-wordcount: '585'
+ht-degree: 1%
 
 ---
 
@@ -130,7 +130,7 @@ También debe tener experiencia trabajando con las siguientes funciones:
 
 <br>
 
-+++Paso 2: Prepárese para su examen
++++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
 
 **Materiales de estudio**
 
@@ -149,7 +149,7 @@ También debe tener experiencia trabajando con las siguientes funciones:
 
 * [[!DNL Analytics] Guía de herramientas](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=es){target="_blank"}
 * [Introducción a [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=es){target="_blank"}
-* [[!DNL Campaign] Creación de informes](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
+* [[!DNL Campaign] Informes](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
 * [Crear [!DNL Analytics] Perfiles para Adobe [!DNL Advertising] Activación y creación de informes](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
 * [Informar sobre [!DNL Advertising] datos en Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
 * [Procesamiento de intervalo de tiempo](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=es){target="_blank"}

@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '510'
 ht-degree: 0%
 
 ---
@@ -123,7 +123,7 @@ Debe tener un mínimo de 3 meses de experiencia en [!DNL Adobe Analytics] y la s
 
 <br>
 
-+++Paso 2: Prepárese para su examen
++++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
 
 **Materiales de estudio**
 

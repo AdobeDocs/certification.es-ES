@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 1f2b18bdcf9e6903e68b99ad81d5aa35a4e19a29
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -152,7 +152,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 <br>
 
-+++Paso 2: Prepárese para su examen
++++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
 
 **Materiales de estudio**
 
