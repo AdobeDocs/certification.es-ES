@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="Examen AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -55,7 +55,9 @@ Debería tener:
 * 1-2 años de experiencia en el campo de la tecnología de marketing
 * De 3 a 6 meses de experiencia con la activación de audiencias
 * Experiencia con lógica booleana, jerga de marketing digital, análisis de datos y estrategias
-* Conocimiento de los objetivos y KPI empresariales, familiaridad con las pilas de tecnología de marketing digital y varias integraciones de plataforma, y comprensión de los flujos de datos (tipos de ID, sincronizaciones de ID, seguimiento de píxeles, destinos basados en personas)
+* Conocimiento de los objetivos y KPI empresariales
+* Familiaridad con las pilas de tecnología de marketing digital y varias integraciones de plataforma
+* Una comprensión de los flujos de datos (tipos de ID, sincronizaciones de ID, seguimiento de píxeles, destinos basados en personas)
 
 Debe estar familiarizado con las siguientes tecnologías y entornos:
 
@@ -132,7 +134,7 @@ Entornos:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

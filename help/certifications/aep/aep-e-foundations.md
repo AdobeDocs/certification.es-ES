@@ -8,7 +8,7 @@ badge: label="Examen AD0-E600 y AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 1%
@@ -125,7 +125,7 @@ El examen AD0-E600 valida las habilidades y conocimientos que cubren las caracte
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 
@@ -134,7 +134,7 @@ El examen AD0-E600 valida las habilidades y conocimientos que cubren las caracte
 **Sección 1: Modelado de datos**
 
 * [Explicación de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=es){target="_blank"}
-* [Resumen/Adobe del esquema y XDM [!DNL Experience Platform]: Modelado e ingesta de datos](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [Esquema y descripción general/Adobe de XDM [!DNL Experience Platform]: Modelado e ingesta de datos](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Datos de modelo en esquemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [Resumen del esquema y XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=es){target="_blank"}
 
@@ -265,7 +265,7 @@ Sección 3: Destinos (27 %)
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

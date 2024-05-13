@@ -6,7 +6,7 @@ role: Developer
 badge: label="Examen AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Curso:** El [Adobe Workfront Project Manager - Curso profesional](https://app.rockinfo.com/courses/230) incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/609) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en su examen.
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/609) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en su examen.
 >
 >_Si se le solicita que inicie sesión, utilice su Adobe ID._
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 Debería tener:
 
-* Comprensión del proceso de trabajo desde la solicitud de trabajo inicial hasta la finalización o ha estado expuesto a la administración de proyectos o de trabajo
+* Comprensión del proceso de trabajo desde la solicitud de trabajo inicial hasta su finalización o ha estado expuesto a la administración de proyectos o trabajos
 * Ha completado un curso de formación autoguiada o un bootcamp, o ha sido [!DNL Workfront] durante 6-12 meses para que comprendan la funcionalidad básica
 * Una comprensión de cómo configurar, rastrear y monitorizar los datos de informes
 
@@ -133,7 +133,7 @@ Debería tener:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Curso de formación recomendado**
 

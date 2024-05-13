@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E327" type="neutral"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '596'
 ht-degree: 3%
@@ -122,7 +122,7 @@ Debería tener:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

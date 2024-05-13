@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-D106" type="neutral"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%
@@ -92,7 +92,7 @@ Debería tener:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

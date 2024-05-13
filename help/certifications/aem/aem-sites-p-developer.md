@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Curso:** Tome una [curso de formación](https://app.rockinfo.com/courses/105) que incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/381) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en su examen.
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/381) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en su examen.
 >
 >Si se le solicita que inicie sesión, utilice su Adobe ID.
 
@@ -73,7 +73,7 @@ Debe ser desarrollador de aplicaciones y tener:
 * AEM Reconocer el propósito de las configuraciones y el almacenamiento en caché de Dispatcher de la
 * AEM Determinar los pasos correctos para configurar varios sitios en el sitio de la
 * Explique cómo crear y administrar configuraciones de OSGi
-* Determine los pasos correctos para administrar los índices OAK personalizados
+* Determine los pasos correctos para administrar los índices Oak personalizados
 * Determine los pasos correctos para configurar la integración de OOTB SAML o IMS
 
 **AEM Sección 2: Desarrollo de la (40 %)**
@@ -109,7 +109,7 @@ Debe ser desarrollador de aplicaciones y tener:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

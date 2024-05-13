@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/372) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/372) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -65,7 +65,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Creación de PDF forms (estáticos/dinámicos, interactivos y no interactivos)
 * Enlace de datos XML o esquema
 * Crear fragmento de formulario
-* Crear un formulario adaptable
+* Creación de un formulario adaptable
 * Depuración de formularios complejos
 * Configuración y realización del envío de formularios
 * AEM Creación e implementación de instancias de para formularios adaptables
@@ -73,7 +73,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Capacidad para integrar con servicios de datos
 * Implementación de flujo de trabajo
 * AEM Comprensión básica de Forms Workbench (JEE) para crear procesos y servicios de larga duración y corta duración.
-* Desarrollar clientlibs de javascript mediante la API de GuideBridge
+* Desarrollar clientlibs de JavaScript mediante la API de GuideBridge
 * Basado en Sign v Government CAC saber qué entorno de AEM Forms basado en escritorio o servidor utilizar
 * Comprensión básica de Java/J2EE y JavaScript para escribir lógica y llamar a distintos servicios.
 * Rellenar previamente un formulario adaptable
@@ -96,7 +96,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Generar Forms
 * Configuración del modelo de datos de Forms
 * Personalizar AEM Forms
-* Desarrollo y uso de Javascript ClientLib aprovechando la API de GuideBridge
+* Desarrollo y uso de JavaScript ClientLib aprovechando la API de GuideBridge
 
 **Sección 2: Procesos y flujos de trabajo (34 %)**
 
@@ -146,7 +146,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

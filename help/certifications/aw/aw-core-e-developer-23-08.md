@@ -6,7 +6,7 @@ role: Developer
 badge: label="Examen AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '950'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/611) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/611) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -114,7 +114,7 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y de
 **Sección 6: Metodología / prácticas recomendadas / casos de uso (22 %)**
 
 * Dado un escenario dentro de [!DNL Workfront], muestre la funcionalidad para configurar el seguimiento de entregas que forman parte de una sola campaña.
-* Dado un escenario dentro de [!DNL Workfront], demostrar la funcionalidad en torno a la priorización estratégica y la justificación del trabajo .
+* Dado un escenario dentro de [!DNL Workfront], demostrar la funcionalidad en torno a la priorización estratégica y la justificación del trabajo.
 * Dado un escenario dentro de [!DNL Workfront], mostrar la funcionalidad en torno a las finanzas, la utilización, las previsiones, las tasas de facturación y los registros
 * Dado un escenario dentro de [!DNL Workfront], muestran la funcionalidad en torno a la configuración del flujo de trabajo y las aprobaciones.
 * Ante un escenario concreto, recomiende un marco de trabajo para la gobernanza en torno a la administración del sistema al expandir la instancia de un cliente.
@@ -152,7 +152,7 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y de
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

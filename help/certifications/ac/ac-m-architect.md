@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/388) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/388) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -82,7 +82,7 @@ Además, debe estar muy familiarizado con las siguientes actividades y tecnolog�
 * Consciente de la mejor práctica estándar de codificación, Estándares de codificación, PSR, principio SOLID
 * Configuración y uso [!DNL Adobe Commerce] Conector de servicios (y servicios asociados)
 * Administración de contenido de ensayo
-* Comprensión [!DNL Adobe Commerce] toma el valor predeterminado, cuando su está disponible y no está disponible
+* Comprensión [!DNL Adobe Commerce] toma el valor predeterminado, cuando está disponible y no está disponible
 * Amplia comprensión de cualquier elemento relacionado [!DNL Adobe Commerce] sector
 * Diseño de arquitectura de proyecto
 * Optimizar el rendimiento de [!DNL Adobe Commerce] predeterminado
@@ -138,7 +138,7 @@ Además, debe estar muy familiarizado con las siguientes actividades y tecnolog�
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

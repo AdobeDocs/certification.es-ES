@@ -1,15 +1,15 @@
 ---
 title: Nueva certificación para desarrolladores front-end Professional
-description: Aprenda a obtener la certificación de profesional de Adobe Developer para el Adobe [!DNL Commerce] .
+description: Aprenda a obtener la certificación de profesional de Adobe Developer para el Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="Examen AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso**: Si acaba de empezar o necesita un repaso, tome nuestra [Curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Curso**: Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Esto proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/384) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/384) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación.
 >
 >_Si se le solicita que inicie sesión, utilice su Adobe ID._
 
@@ -106,7 +106,7 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 * Describa la diferencia entre archivos parciales específicos (_extensions.less,_extend.less,_theme.less,_widgets.less,_module.less)
 * Ante un escenario, demuestre la capacidad de anular o ampliar [!DNL Magento] MENOS
 * Describir los conceptos básicos de LESS
-* Explicar la jerarquía de estilos ( biblioteca, módulos y temas)
+* Explicar la jerarquía de estilos (biblioteca, módulos y temas)
 * Explicar la compilación del lado del cliente y del lado del servidor
 
 **Sección 4: JavaScript (18 %)**
@@ -118,7 +118,7 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 * Describir el uso de Knockout JS
 * Describir el uso de los widgets de jQuery
 
-**Sección 5: Configuración de administración y PageBuilder (6 %)**
+**Sección 5: Configuración de administración y Page Builder (6 %)**
 
 * Demostración de la capacidad de personalizar Page Builder y &quot;Contenido de CMS&quot;
 * Aplicar o programar una temática a un ámbito específico (sitio web, tienda, vista de tienda)
@@ -127,7 +127,7 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 
 **Sección 6: Herramientas (CLI y Grunt) (8 %)**
 
-* Describir el uso de los comandos básicos de bin/magento
+* Describir el uso de los comandos básicos bin/Magento
 * Describir el uso de los comandos del Compositor (instalar, actualizar, requerir, quitar)
 * Diferenciación entre el caso de uso adecuado para los modos de implementación
 * Describa las herramientas adicionales que proporciona la nube (rápidamente, descargando base de datos, implementación de contenido)
@@ -146,7 +146,7 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

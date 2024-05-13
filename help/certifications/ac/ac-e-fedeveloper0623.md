@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '735'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/385) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/385) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -102,7 +102,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Demostración de la capacidad de anular o ampliar Magento LESS
 * Explicar los conceptos básicos de LESS
 * Demostración de la capacidad de aplicar estilo a los correos electrónicos
-* Explicar la jerarquía de estilos ( biblioteca, módulos y temas)
+* Explicar la jerarquía de estilos (biblioteca, módulos y temas)
 * Demostrar la capacidad de implementar y personalizar los componentes de biblioteca LESS
 * Identificar las diferencias entre la compilación del lado del cliente y la del lado del servidor y cómo funciona
 
@@ -155,7 +155,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

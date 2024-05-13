@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/366) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/366) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 Debería tener:
 
 * Al menos 0-12 meses de experiencia utilizando y configurando Adobe Cloud Manager
-* AEM Experiencia de al menos 0-12 meses con características y capacidades de necesarias para atraer a los desarrolladores y encontrar soluciones comerciales
+* AEM Al menos 0-12 meses de experiencia con las funciones y capacidades necesarias para involucrar a los desarrolladores en la búsqueda de soluciones comerciales
 * Al menos 0-12 meses de experiencia en la configuración, implementación y administración de tareas de integración continua/implementación continua
 
 Debe sentirse cómodo trabajando en Adobe Managed Services y Adobe [!DNL Experience Manager] as a Cloud Service y son capaces de configurar el Adobe [!DNL Experience Manager] entornos e infraestructura.
@@ -111,7 +111,7 @@ Además, debería tener:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

@@ -7,7 +7,7 @@ level: Experienced
 badge: label="Examen AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '858'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/387) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/387) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -148,14 +148,14 @@ Debe tener al menos 1-3 años de experiencia con el Adobe [!DNL Commerce] y est�
 * Describir cómo actualizar variables de nube mediante la IU
 * Describir la administración del entorno mediante la IU
 * Demostración de la comprensión de la bifurcación mediante la IU
-* Identificación de funcionalidades de Adobe commerce Cloud Plan
+* Identificar las capacidades del plan Adobe Commerce Cloud
 
 **Sección 9: [!DNL Commerce] Herramienta CLI de nube (administración de la parte) (6 %)**
 
 * Demuestre cómo comprender la actualización de variables de nube mediante CLI
-* Demostrar la comprensión de la administración del entorno mediante CLI (funciones exclusivas de CLI: activar correos electrónicos, entornos de rebase, instantáneas, volcado de la base de datos, configuración del entorno local).
+* Demuestre su comprensión de la administración del entorno mediante CLI (funciones exclusivas de CLI: activar correos electrónicos, entornos de rebase, instantánea, volcado de la base de datos, configuración del entorno local)
 * Demostración de la comprensión de la bifurcación mediante CLI
-* ¿Desea mostrar cómo solucionar problemas en Cloud Services? (My SQL, Redis, túnel:información)
+* ¿Desea mostrar cómo solucionar problemas de servicios en la nube? (My SQL, Redis, túnel:información)
 
 <br>
 
@@ -179,7 +179,7 @@ Debe tener al menos 1-3 años de experiencia con el Adobe [!DNL Commerce] y est�
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

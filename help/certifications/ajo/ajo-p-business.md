@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '933'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 >
 >Ya hay disponibles cursos gratuitos a petición para ayudarle a prepararse para el examen. Comience su recorrido de aprendizaje hoy mismo eligiendo el curso que mejor se adapte a su nivel de experiencia.
 >
->* El [Curso de Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) le presentaremos Adobe Experience Cloud, un completo conjunto de herramientas de marketing digital que se basan en la única plataforma diseñada para la personalización a escala.
+>* El [Curso de Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) presenta Adobe Experience Cloud, un completo conjunto de herramientas de marketing digital creadas sobre la única plataforma diseñada para la personalización a escala.
 >* El [Curso de Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113) proporciona una base de conocimiento sobre esta aplicación específica.
 >* El [Curso profesional para profesionales de Adobe Journey Optimizer Business](https://app.rockinfo.com/courses/107) se basa en el curso Foundations y le ayuda a prepararse para el examen de certificación de nivel profesional.
->* El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/588) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en su examen.
+>* El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/588) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en su examen.
 >
 >_Si se le solicita que inicie sesión, utilice su Adobe ID._
 
@@ -84,7 +84,7 @@ Los candidatos deben poder:
 * Comprender y utilizar diferentes actividades en Recorrido
 * Depuración básica: mediante el modo de prueba o sistema de informes (no se requiere servicio de consultas)
 * recopilar y documentar los requisitos de recorrido con la empresa
-* Conozca las prácticas recomendadas en torno a los recorridos y canales (por ejemplo, el mejor momento para enviar, el mejor canal para utilizar, los mejores patrones de diseño de recorridos para diferentes casos de uso, cuándo utilizar mensajes transaccionales y de marketing)
+* Conozca las prácticas recomendadas sobre recorridos y canales (por ejemplo, el mejor momento para enviar, el mejor canal para utilizar, los mejores patrones de diseño de recorridos para diferentes casos de uso, cuándo utilizar mensajes transaccionales y de marketing)
 * Comprender los conceptos de capacidad de entrega (por ejemplo, diferentes devoluciones, calentamiento)
 * Comprender la frecuencia, reglas de fatiga
 * Previsualizar conjuntos de datos
@@ -99,7 +99,7 @@ Los candidatos también deben poder:
 * Cargar y convertir automáticamente el HTML para correo electrónico (nuevo conversor html)
 * Creación de un experimento de contenido
 * Medir los resultados de un experimento de contenido
-* Etiquetado/filtro/recorridos de búsqueda, campañas y mucho más
+* Etiquetar/filtrar/buscar recorridos, campañas y mucho más
 * Creación de un fragmento a partir de una plantilla
 * Acción personalizada
 * Creación de contenido en Assets Essentials
@@ -167,7 +167,7 @@ Los candidatos también deben poder:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

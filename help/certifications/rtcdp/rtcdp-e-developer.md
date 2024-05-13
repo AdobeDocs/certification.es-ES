@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Examen AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 8e20ec297693b463b2065e70c6f057e03c3cee60
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/617) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/617) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -100,7 +100,7 @@ Debe sentirse cómodo en estos entornos:
 * Describir cómo funciona el ensamblado de perfiles
 * Describir el funcionamiento del gráfico de identidad
 * Describir la composición del perfil
-* Diferenciación entre el perfil de Edge y el de Hub
+* Diferenciación entre perfil de Edge y Hub
 
 **Ingesta de datos (13 %)**
 
@@ -112,7 +112,7 @@ Debe sentirse cómodo en estos entornos:
 
 * Describa las diferentes formas de crear audiencias y segmentos dentro de CDP
 * Explicar los distintos tipos de segmentación y cómo funcionan
-* Muestre una comprensión de cómo aplicar casos de uso a la activación de segmentos/audiencias
+* Demostración y comprensión de cómo aplicar casos de uso a la activación de segmentos/audiencias
 
 **Activación (12 %)**
 
@@ -146,7 +146,7 @@ Debe sentirse cómodo en estos entornos:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

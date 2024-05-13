@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/530) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/530) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-Debe tener experiencia como consultor de implementación en una función híbrida con unos 2 años de experiencia en [!DNL Adobe Analytics] implementación. Actúa como puente entre la TI y la empresa, traduce los requisitos comerciales a una solución técnica (SDR) y, en función de los requisitos proporcionados por el analista, comprende qué tipo de variable es necesaria, dónde y cómo recopilar los datos, diseñar el modelo de datos (capa de datos), configurar y mantener la solución de administración de etiquetas.
+Debe tener experiencia como consultor de implementación en una función híbrida con unos 2 años de experiencia en [!DNL Adobe Analytics] implementación. Actúa como puente entre la TI y la empresa, traduce los requisitos comerciales a una solución técnica (SDR) y, según los requisitos proporcionados por el analista, comprende qué tipo de variable es necesaria, dónde y cómo recopilar los datos, diseñar el modelo de datos (capa de datos), configurar y mantener la solución de administración de etiquetas.
 
 Usted, como desarrollador de Analytics, rara vez implementa las etiquetas en la página; en su lugar, las implementa TI o el integrador de sistemas.
 
@@ -121,7 +121,7 @@ Entornos:
 * Solucionar errores de JavaScript
 * Solucionar problemas [!DNL Adobe Analytics] variables
 * Prácticas recomendadas de prueba y depuración
-* Solución de problemas de [!DNL Adobe Analytics] llamadas al servidor en todo el ciclo de vida (es decir, desde la solicitud de señalización hasta la visualización en el informe)
+* Solución de problemas de [!DNL Adobe Analytics] llamada al servidor en todo su ciclo de vida (es decir, desde la solicitud de señalización hasta la visualización en el informe)
 
 <br>
 
@@ -145,7 +145,7 @@ Entornos:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

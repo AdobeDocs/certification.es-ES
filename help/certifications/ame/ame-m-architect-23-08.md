@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Examen AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '736'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 0%
 Debería tener:
 
 * Una certificación actual como Marketo Engage profesional experto certificado
-* Al menos cinco años de experiencia preferiblemente con múltiples instancias de Marketo Engage
+* Al menos cinco años de experiencia, preferiblemente con múltiples instancias de Marketo Engage
 * Comprensión del impacto empresarial y explicación/comunicación eficaz de su solución a las partes interesadas (técnicas y no técnicas) en diferentes niveles
 * La capacidad de conceptualizar una solución y traducirla en una arquitectura Marketo Engage, comprender los procesos empresariales afectados por las integraciones
 * Familiaridad con los principios de arquitectura de una instancia
@@ -145,7 +145,7 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

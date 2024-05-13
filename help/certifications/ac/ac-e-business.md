@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/386) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
-
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/386) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -91,7 +90,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Demostración de la capacidad de importar/exportar Adobes [!DNL Commerce] entidades
 * Comprender cómo configurar de forma nativa el carro y el cierre de compra
 * Evaluar los métodos de envío nativos disponibles en Adobe [!DNL Commerce] y cómo se aplican a los casos de uso comunes
-* Explicación de las formas de crear y publicar contenido estilizado con el Adobe [!DNL Commerce] Funciones de CMS, incluido PageBuilder
+* Explicación de las formas de crear y publicar contenido estilizado con el Adobe [!DNL Commerce] Funciones de CMS, incluido Page Builder
 * Uso de herramientas nativas para gestionar el ciclo de vida del pedido
 * Demostrar la capacidad de configurar las diversas opciones de regalos (tarjetas de regalo, envoltorio para regalos, dar mensajes)
 * Configuración y modificación de correos electrónicos transaccionales
@@ -128,7 +127,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 **Sección 6: Cumplimiento/Seguridad (12 %)**
 
 * Demostración de cómo proteger el Adobe [!DNL Commerce] acceso a datos con funciones y permisos
-* Comprender los conceptos básicos del cumplimiento de las leyes de privacidad y seguridad de pago
+* Comprender los conceptos básicos del cumplimiento de las leyes de privacidad y la seguridad de pago
 * Explicar los aspectos comunes de seguridad de un Adobe [!DNL Commerce] proyecto
 * Comprender los conceptos básicos de las leyes fiscales y cómo configurarlas
 
@@ -154,7 +153,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

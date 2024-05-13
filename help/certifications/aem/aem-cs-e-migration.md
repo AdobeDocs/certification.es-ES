@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/373) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/373) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -59,7 +59,7 @@ Debería tener:
 * AEM AEM Comprensión de los cambios generales en la arquitectura y las funciones al pasar de cualquier servicio de (autogestionado, AMS o cualquier nube de terceros) a la nube de as a Cloud Service.
 * 1-3 años de experiencia en el desarrollo de aplicaciones web con Adobe [!DNL Experience Manager]
 * Experiencia práctica con AEM Forms, Assets y Sites
-* AEM La capacidad de guiar a los clientes a través del proceso de migración, asesorándoles y participando en todas las fases de un proyecto de
+* AEM La capacidad de guiar a los clientes a través del proceso de migración, asesorándolos y participando en todas las fases de un proyecto de
 
 Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
@@ -105,7 +105,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 **Sección 3: Implementación (16 %)**
 
-* Configure las canalizaciones de Cloud Manager y vincule el a los entornos
+* Configurar las canalizaciones de Cloud Manager y vincularlas a los entornos
 * Aprovisionar entornos AEMaaCS (desarrollo, fase, producción, publicación, vista previa)
 * Administre el proceso de implementación con la ayuda de la CLI de E/S de Adobe
 
@@ -119,7 +119,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 **Sección 5: Implementación (16 %)**
 
-* Combinar varios proyectos en uno solo para implementarlos a través de la canalización de Adobe
+* Combinar varios proyectos en uno único para implementarlos a través de la canalización de Adobe
 * Administrar scripts de informes para permisos de usuario/grupo
 * Configuración de SDK locales
 * AEM as a Cloud Service Actualice las configuraciones en función de los modos de ejecución disponibles en las
@@ -138,7 +138,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

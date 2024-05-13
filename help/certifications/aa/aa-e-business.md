@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/533) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/533) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -60,15 +60,15 @@ ht-degree: 0%
 Debería tener:
 
 * 2 años de experiencia en análisis digital con experiencia en marketing
-* Una comprensión exhaustiva de las métricas y dimensiones de análisis digital
-* Una comprensión del valor comercial de las tecnologías web
+* Una comprensión exhaustiva de las métricas y dimensiones de Digital Analytics
+* Comprensión del valor comercial de las tecnologías web
 * La capacidad de convertir los requisitos empresariales en métricas o KPI
 * La capacidad de generar e interpretar informes
 * La capacidad de comunicar resultados y puede proponer un curso de acción basado en el análisis de los informes
 * Ayudó a los clientes a comprender cómo extraer/extraer la información que desean (por ejemplo, ayudarles a definir sus preguntas comerciales)
 * Una comprensión de cómo funciona la tecnología y de la implementación de un cliente (por ejemplo, dónde se encuentran los datos, cómo se pueden recopilar, cómo se rastrea) desde un punto de vista funcional
 * Al menos un año de [!DNL Adobe Analytics] experiencia práctica
-* Una comprensión básica de cómo el análisis digital está filtrando/estructurando datos
+* Una comprensión básica de cómo Digital Analytics está filtrando/estructurando datos
 * Un conocimiento de la integración de [!DNL Adobe Analytics] con otras soluciones de Adobe
 
 Además, debe estar familiarizado con las siguientes tecnologías y entornos:
@@ -76,7 +76,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * cliente FTP
 * Actual [!DNL Adobe Analytics] Funciones de Workspace y otras opciones de creación de informes fuera de Workspace (por ejemplo, programar proyectos e informes)
 * Herramientas de depuración relevantes para [!DNL Adobe Analytics] (Monitor de paquetes, como un Adobe Debugger, herramientas para desarrolladores de exploradores, Charles)
-* Admin Console (consola de administración de Analytics Reports Suite y Admin Console de Experience Cloud)
+* Admin Console (Admin Console de Analytics Reports Suite y Admin Console de Experience Cloud)
 * Fundamentos/conceptos básicos de Adobe Launch
 * SPA Comprensión básica del sitio web de aplicaciones,
 * IU de Mobile Services
@@ -152,7 +152,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

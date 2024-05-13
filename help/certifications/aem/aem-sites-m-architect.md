@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Examen AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '644'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/374) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/374) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -64,7 +64,7 @@ Además, debe tener la capacidad de realizar las siguientes tareas:
 * Defina un modelo de contenido para contenido/recursos que pueda satisfacer requisitos futuros
 * Define las plantillas y los componentes necesarios en función de los requisitos empresariales
 * Identifique cuándo utilizar componentes principales/funciones/listos para usar en lugar de componentes personalizados
-* Diseñar estrategias de almacenamiento en caché, equilibrio de carga y seguridad (Dispatcher, firewall, CDN).
+* Diseñar estrategias de almacenamiento en caché, equilibrio de carga y seguridad (Dispatcher, cortafuegos, CDN).
 * Proporcionar estimaciones de esfuerzo de alto nivel para la configuración inicial y la entrega de funciones
 * Establecer la función y los casos de uso de la internacionalización
 * Defina estrategias para admitir sitios múltiples y en varios idiomas
@@ -137,7 +137,7 @@ Además, debe tener la capacidad de realizar las siguientes tareas:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '649'
 ht-degree: 1%
 
 ---
@@ -80,7 +80,7 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 **Sección 2: Journey Orchestration (22 %)**
 
-* En un escenario determinado, los clientes de destinatario deben utilizar un recorrido de varios canales y pasos
+* En un escenario determinado, los clientes de destinatario deben seguir un recorrido de varios canales y pasos
 * Interpretación de informes y depuración de métricas de rendimiento
 * Ante un escenario concreto, determine los casos de uso adecuados para un tipo de recorrido
 * Preparar casos de prueba (por ejemplo, experimentación o recorrido multicanal)
@@ -121,7 +121,7 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

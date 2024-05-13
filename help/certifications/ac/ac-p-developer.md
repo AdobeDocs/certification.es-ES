@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cursos:** Tome el [Curso profesional para desarrolladores de Adobe Commerce](https://app.rockinfo.com/courses/92) que incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. Si acaba de empezar, el [Curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/382) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en su examen.
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/382) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en su examen.
 >
 >Si se le solicita que inicie sesión, utilice su Adobe ID.
 
@@ -146,7 +146,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Reconoce los conocimientos básicos de administración de usuarios en la nube e IU de incorporación
 * Describir la administración del entorno mediante la IU
 * Describir la bifurcación mediante la IU
-* Identificación de funcionalidades de Adobe commerce Cloud Plan
+* Identificar las capacidades del plan Adobe Commerce Cloud
 
 **Sección 9: [!DNL Commerce] Herramienta CLI de nube (administración de la parte) (6 %)**
 
@@ -176,7 +176,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 <br>
 
-+++Paso 2: Prepárese para su examen con nuestros materiales de estudio gratuitos
++++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
 **Materiales de estudio**
 

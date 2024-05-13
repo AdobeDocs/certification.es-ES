@@ -1,5 +1,5 @@
 ---
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '1804'
 ht-degree: 0%
@@ -237,4 +237,4 @@ Nuestros cursos gratuitos a la carta le ayudan a prepararse para su examen. Los 
 
 ## Guía de preparación del examen {#exam-prep-guide}
 
-La Guía gratuita de preparación para exámenes proporciona un camino personalizado a través del proceso de preparación para exámenes, incluyendo los materiales de estudio en profundidad que necesitarás para tener éxito en tu examen.
+La Guía gratuita de preparación para exámenes proporciona un camino personalizado a través del proceso de preparación para exámenes, incluyendo los materiales de estudio en profundidad que necesita para tener éxito en su examen.
