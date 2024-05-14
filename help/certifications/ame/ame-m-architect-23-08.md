@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Examen AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Recorrido de certificación para Adobe [!DNL Marketo Engage] Maestro de arquitectos
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/619) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -151,35 +155,15 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 {{study-materials-intro}}
 
-**Sección 1: Liderazgo del proyecto**
-
-* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Documentos de productos de Marketo](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=es){target="_blank"}
-* [Documentación: API de REST](https://developers.marketo.com/rest-api/){target="_blank"}
-
-**Sección 2: Adobe [!DNL Marketo Engage] diseño arquitectónico**
-
-* [Información general de informes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
-* [Instrucciones para crear una regla de sincronización personalizada](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [La guía definitiva para la puntuación de posibles clientes](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
-
-**Sección 3: Informes y atribución**
-
-* [Resumen del tipo de informe](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [Explicación de la atribución](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
-* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-
-**Sección 4: Operaciones avanzadas**
-
-* [Documentos de productos de Marketo](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=es){target="_blank"}
-* [Supresión de devoluciones suaves](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [Explicación de espacios de trabajo y particiones de persona](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
-
-<br>
-
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Guía de preparación del examen**
+
+{{exam-prep-guide}}
+
+[Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/619)
 
 +++
 
