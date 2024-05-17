@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '445'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/368) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
+>
+>* **Curso:** Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>
+>* **Guía de preparación para exámenes:**  El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/368) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
+>
+>_Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -127,6 +133,12 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 **Materiales de estudio**
 
 {{study-materials-intro}}
+
+**Realice un curso**
+
+{{take-course}}
+
+[Siga el curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
 **Guía de preparación del examen**
 
