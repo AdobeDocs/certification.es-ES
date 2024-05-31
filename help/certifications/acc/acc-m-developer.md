@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Examen AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 7a4da86f05dffd04ec46b82f8b47871c8d736723
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '620'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/635) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/254) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -143,7 +143,7 @@ Debería tener:
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/635)
+[Ver guía de preparación del examen](https://app.rockinfo.com/courses/254)
 
 +++
 

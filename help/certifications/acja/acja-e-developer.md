@@ -7,7 +7,7 @@ product: Customer Journey Analytics
 badge: label="Examen AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/376) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/132) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -131,12 +131,7 @@ Usted debe tener 12-24 meses de experiencia en el Adobe [!DNL Customer Journey A
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/376" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ver guía de preparación del examen
-</span>
-</a>
+[Ver guía de preparación del examen](https://app.rockinfo.com/courses/132)
 
 +++
 

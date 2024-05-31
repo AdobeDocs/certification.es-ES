@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Examen AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: c8bd9375a8d9022b6f5cb87a3deb5084bff5ac41
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/374) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/130) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -147,12 +147,7 @@ Además, debe tener la capacidad de realizar las siguientes tareas:
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/374" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ver guía de preparación del examen
-</span>
-</a>
+[Ver guía de preparación del examen](https://app.rockinfo.com/courses/130)
 
 +++
 

@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Curso:** Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/375) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/131) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
 >
 >_Si se le solicita que inicie sesión, utilice su Adobe ID._
 
@@ -132,12 +132,7 @@ El candidato ideal con una cualificación mínima es un analista con al menos 6 
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/375" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ver guía de preparación del examen
-</span>
-</a>
+[Ver guía de preparación del examen](https://app.rockinfo.com/courses/131)
 
 +++
 

@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E327" type="neutral"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: d9c2badb16c24d51e834841b27b2b0947bc6d889
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/630) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/253) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -140,7 +140,7 @@ Debería tener:
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/630)
+[Ver guía de preparación del examen](https://app.rockinfo.com/courses/253)
 
 +++
 

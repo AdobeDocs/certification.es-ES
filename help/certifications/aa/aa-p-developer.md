@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Examen AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '720'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/532) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/217) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -144,17 +144,15 @@ También debe tener experiencia con las siguientes tareas:
 
 {{study-materials-intro}}
 
+**Realizar una prueba de práctica**
+
+{{practice-test}}
+
 **Guía de preparación del examen**
 
 {{exam-prep-guide}}
 
-[Ver la Guía de preparación para exámenes](https://app.rockinfo.com/courses/playScorm/532)
-
-<br>
-
-**Realizar una prueba de práctica**
-
-{{practice-test}}
+[Ver la Guía de preparación para exámenes](https://app.rockinfo.com/courses/217)
 
 +++
 
