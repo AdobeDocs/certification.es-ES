@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/618) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/247) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -74,7 +74,7 @@ Debería tener:
 
 Además, debe estar familiarizado con las siguientes herramientas y tecnologías:
 
-* Adobe[!DNL Marketo Engage]
+* Adobe [!DNL Marketo Engage]
 * Excel o Google Sheets/Doc
 
 <br>
@@ -85,12 +85,20 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 **Sección 1: Creación y gestión de programas (39 %)**
 
-* Dada una necesidad o pregunta empresarial, identifique una estrategia de informes adecuada para realizar un análisis
-* Analizar datos para responder preguntas comerciales
-* Identificar canales de conversión (como concepto para comprender el análisis empresarial)
-* Consulte la Referencia de diseño de la solución (SDR) para determinar qué datos están disponibles en los informes
-* Analizar los datos del informe para resumir y extraer conclusiones
-* Reconocimiento de periféricos y anomalías en los informes
+* Identifique cuándo utilizar cada uno de los 4 tipos de programas.
+* Identificar por qué/cuándo utilizar el programa de eventos.
+* Identificar por qué/cuándo utilizar el programa predeterminado.
+* Identificar las características especiales del programa de participación.
+* Identificar las características especiales del programa de correo electrónico.
+* Reconoce lo que se puede clonar.
+* Identificar las ventajas de las etiquetas personalizadas.
+* Identificar el propósito de los canales.
+* Describa la importancia de los costes del periodo.
+* Reconocer el concepto de utilizar la puntuación de posibles clientes.
+* Explicación de los límites de comunicación.
+* Reconocer la pertenencia y adquisición del programa.
+* Comprender las preferencias del cliente (suscripción, comunicación).
+* Aplique las prácticas recomendadas para su revisión antes del lanzamiento.
 
 **Sección 2: Creación de activos (19 %)**
 
@@ -159,7 +167,7 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/playScorm/618)
+[Ver guía de preparación del examen](https://app.rockinfo.com/courses/247)
 
 +++
 
