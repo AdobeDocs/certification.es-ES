@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 1%
+source-wordcount: '595'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,13 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nuevo curso disponible:** El servicio gratuito a la carta [Curso de experto para desarrolladores de Adobe Journey Optimizer](https://app.rockinfo.com/courses/147) incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. _Si se le solicita que inicie sesión, utilice su Adobe ID._
+>Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
+>
+>* **Curso:** El servicio gratuito a la carta [Curso de experto para desarrolladores de Adobe Journey Optimizer](https://app.rockinfo.com/courses/147) incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
+>
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/143) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en su examen.
+>
+>_Si se le solicita que inicie sesión, utilice su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -131,44 +137,17 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Realice el curso de experto en desarrolladores de Adobe Journey Optimizer
-</span>
-</a>
-
-**Recursos de estudio**
-
-**Sección 1: Administración y configuración**
-
-* [Experience Platform, Control de acceso, Guía de zonas protegidas](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=es){target="_blank"}
-* [Guía de AJO, Configuración, canal SMS, Recorridos](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
-* [API de AJO](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
-
-**Sección 2: Journey Orchestration**
-
-* [Guía de AJO, Recorridos, expresiones, seguimiento y monitorización](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
-
-**Sección 3: Offer decisioning**
-
-* [Guía de AJO, Gestión de decisiones, Referencia de API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
-
-**Sección 4: Creación de contenido**
-
-* [Guía de AJO, canal SMS, privacidad, configuración, Recorridos, expresiones, administración de contenido, seguimiento y monitorización, canal de notificaciones push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
-* [Tutorials de Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=es){target="_blank"}
-
-**Sección 5: Modelado de datos**
-
-* [Guía de AJO, Configuración, Audiencias, perfiles e identidad, Administración de datos](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
-* [Experience Platform, Conjuntos de datos, Guía de conectores de origen, Tutorials de API, Guía del servicio de ID de Platform, IU de segmentación, Tutorials de IU](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es){target="_blank"}
-
-<br>
+[Realice el curso de experto en desarrolladores de Adobe Journey Optimizer](https://app.rockinfo.com/courses/147)
 
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Guía de preparación del examen**
+
+{{exam-prep-guide}}
+
+[Ver guía de preparación del examen](https://app.rockinfo.com/courses/143)
 
 +++
 
