@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '577'
 ht-degree: 0%
 
 ---
@@ -152,16 +152,9 @@ Debe estar familiarizado con las siguientes tecnologías y entornos:
 
 [Ver guía de preparación del examen](https://app.rockinfo.com/courses/123)
 
-**Preguntas de muestra**
+**Realizar una prueba de práctica**
 
-{{sample-questions}}
-
-<a href="https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ver preguntas de ejemplo
-</span>
-</a>
+{{practice-test}}
 
 +++
 

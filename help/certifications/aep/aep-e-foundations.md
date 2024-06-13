@@ -6,12 +6,13 @@ product: Experience Platform
 role: Developer
 badge: label="Examen AD0-E600 y AD7-E601" type="neutral"
 hidefromtoc: true
+hide: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
 workflow-type: tm+mt
 source-wordcount: '1069'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -136,7 +137,7 @@ El examen AD0-E600 valida las habilidades y conocimientos que cubren las caracte
 * [Explicación de esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=es){target="_blank"}
 * [Esquema y descripción general/Adobe de XDM [!DNL Experience Platform]: Modelado e ingesta de datos](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Datos de modelo en esquemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
-* [Resumen del esquema y XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=es){target="_blank"}
+* [Resumen del esquema y XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
 **Sección 2: Ingesta de datos**
 
@@ -296,7 +297,7 @@ Sección 3: Destinos (27 %)
 **Sección 2: Segmentación**
 
 * [Servicio de segmentación en Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
-* [Guía de IU del Generador de segmentos](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=es){target="_blank"}
+* [Guía de IU del Generador de segmentos](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
 * [Segmentación en tiempo real CDP edición B2B](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
 * [Generar segmentos](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
 * [Resumen del generador de segmentos](https://video.tv.adobe.com/v/333301/){target="_blank"}
