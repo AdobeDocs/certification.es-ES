@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 2dccb15126e43c102ab9afdbd99f75c73e315deb
 workflow-type: tm+mt
 source-wordcount: '1864'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -109,7 +109,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1**
 
-* [Cookies de Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=es)
+* [Cookies de Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
 * [Añadir un elemento de datos, una regla y una biblioteca](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
 * [Añadir el código de incrustación](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 
@@ -133,7 +133,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 5**
 
-* [Guía de exportación de Analytics](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=es){target="_blank"}
+* [Guía de exportación de Analytics](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [Funcionamiento de las reglas de procesamiento](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 * [API de Adobe Analytics](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
@@ -171,7 +171,7 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 **Detalles del examen:**
 
-* Puntuación superada: 26/35
+* Puntuación superada: 27/35
 * Tiempo: 70 min
 * Coste: GRATIS/sin procesar
 * Envío: a la carta
@@ -233,37 +233,37 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 1**
 
-* [Resumen de los análisis de contribución](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=es)
+* [Resumen de análisis de contribución](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
 * [Información general de Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=es)
 * [Canal de conversión](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [Dimensiones de entrada](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
 **Sección 2**
 
-* [Compartir proyectos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=es)
-* [Resumen de componentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=es)
-* [Generador de alertas](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html?lang=es)
-* [Creación de un cuadro de resultados móvil](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=es)
+* [Compartir proyectos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+* [Resumen de componentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+* [Generador de alertas](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
+* [Creación de un cuadro de resultados móvil](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **Sección 3**
 
-* [Comparación de segmentos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=es)
-* [Crear métricas](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=es)
-* [Uso de filtros desplegables en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=es)
+* [Comparación de segmentos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
+* [Crear métricas](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+* [Uso de filtros desplegables en Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
 * [Etiquetar segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
 **Sección 4**
 
 * [Solución de problemas de picos y caídas de datos](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
-* [Eventos personalizados](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=es)
-* [Descarga de archivos PDF o CSV](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=es)
+* [Eventos personalizados](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
+* [Descargar archivos de PDF o CSV](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
 * [Guía para principiantes sobre los parámetros de URL](https://www.semrush.com/blog/url-parameters/)
 
 **Sección 5**
 
-* [Reglas de procesamiento de canales de marketing](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html?lang=es)
-* [Resumen general de las clasificaciones](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=es)
-* [Crear un grupo de informes virtuales](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=es)
+* [Reglas de procesamiento de canales de marketing](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [Resumen de clasificaciones](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+* [Crear grupos de informes virtuales](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
 * [Preguntas frecuentes sobre normas de privacidad](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## Renovar la certificación
@@ -313,7 +313,7 @@ Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de 
 | Cursos para Experto y Maestro | Evaluación del curso |
 | ------- | ------- |
 | [Atribución de valor de Adobe Analytics a puntos de contacto digital en el Recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es){target="_blank"} | [EA ADR-201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
-| [Exportar y democratizar datos de Adobe Analytics: lecciones 5 y 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=es){target="_blank"} | [EA ADR-202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
+| [Exportar y democratizar datos de Adobe Analytics: lecciones 5 y 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [EA ADR-202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
 | [Filtrado de datos con fechas y segmentación personalizadas: lección 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es){target="_blank"} | [EA ADR-203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
 | [Implementación guiada de Analytics: lección 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=es){target="_blank"} | [EA ADR-204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
 | [Implementación y medición de la búsqueda interna del sitio - Lección 3 y 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [EA ADR-205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
