@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
+source-git-commit: a12c353cfa46d2610a90cad52dbbd9ea125af16e
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -122,11 +122,15 @@ Debe tener una comprensión básica de los flujos de datos, los objetivos empres
 
 [Ver guía de preparación del examen](https://app.rockinfo.com/courses/245)
 
-**Preguntas de muestra**
+**Realizar una prueba de práctica**
 
-{{sample-questions}}
+Le recomendamos que realice la prueba de práctica gratuita antes de comenzar. Tendrás acceso ilimitado a todas las pruebas de práctica disponibles para los exámenes de Adobe de nivel experto.
 
-[Ver preguntas de ejemplo](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
+Todas nuestras pruebas de práctica se desarrollan a partir del mismo modelo que los exámenes en vivo. La prueba de práctica le ayudará a comprender los temas tratados en el examen en vivo.
+
+Recuerde que aprobar un examen de práctica no garantiza que aprobará el examen de certificación.
+
+[Realizar prueba de práctica](https://scorpion.caveon.com/launchpad/ad4-e458-adobe-audience-manager-business-practitioner-professional-practice-exam)
 
 +++
 
