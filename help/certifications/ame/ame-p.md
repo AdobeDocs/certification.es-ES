@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
+source-git-commit: 8102211f100b326a62f51081f34db145320fe231
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/247) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
+>
+>* **Curso**: Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Esto proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>
+>* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/247) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en su examen.
+>
+>_Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -74,7 +80,7 @@ Debería tener:
 
 Además, debe estar familiarizado con las siguientes herramientas y tecnologías:
 
-* Adobe [!DNL Marketo Engage]
+* Adobe[!DNL Marketo Engage]
 * Excel o Google Sheets/Doc
 
 <br>
@@ -162,6 +168,12 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Realice un curso**
+
+{{take-course}}
+
+[Siga el curso de Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261)
 
 **Guía de preparación del examen**
 
