@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
+source-git-commit: 9724d768dc56c7bb67ae709ab623ca5ae173150f
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -146,7 +146,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 **Sección 6**
 
 * [Casos generales de uso de las reglas de combinación de perfiles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
-* [Información general sobre las reglas de combinación de Perfiles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
+* [Resumen de reglas de combinación de perfiles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
 * [Introducción a las reglas de combinación de perfiles](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en){target="_blank"}
 * [Crear, cotizar y administrar fuentes de datos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
 * [Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html?lang=en){target="_blank"}
@@ -316,7 +316,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Renovación maestra de arquitectos de Adobe Audience Manager - AD5-E825.
 
-[!BADGE Realice el examen de renovación de Adobe Audience Manager Architect Master AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Realice el examen de renovación de Adobe Audience Manager Architect Master AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825&amp;cid=358899 newtab=true"}
 
 >[!NOTE]
 >
