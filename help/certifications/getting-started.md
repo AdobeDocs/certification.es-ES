@@ -7,7 +7,7 @@ exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -38,7 +38,7 @@ Adobe [!DNL Experience Cloud] ofrece tres niveles diferentes de certificación: 
 
 Estos niveles reflejan una progresión de la competencia y el conocimiento, con la certificación profesional siendo la certificación de nivel de entrada, Experto siendo el nivel intermedio, y Maestro siendo el nivel más alto de certificación.
 
-| Insignia | Descripción |
+| Distintivo | Descripción |
 | ------- | ------- |
 | ![Insignia profesional](/help/certifications/assets/professional-badge-Xsmall.png) | **Certificaciones profesionales** validar que un candidato tenga una comprensión fundamental de las soluciones de marketing digital de Adobe. El examen de certificación abarca conceptos básicos y funcionalidades del Adobe [!DNL Experience Cloud]. |
 | ![Distintivo de experto](/help/certifications/assets/expert-badge-Xsmall.png) | **Certificaciones de expertos** son para profesionales que tienen una comprensión más avanzada de las soluciones de marketing digital de Adobe. El examen de certificación abarca conceptos y funcionalidades más complejos del Adobe [!DNL Experience Cloud], incluidas la implementación y la resolución de problemas. |
@@ -53,7 +53,7 @@ Los exámenes de certificación de Adobe se personalizan a tres funciones difere
 | Logotipo | Descripción |
 | ------- | ------- |
 | ![Distintivo de profesional empresarial](/help/certifications/assets/business_practitioner_blk_small.png) | **Profesionales empresariales** son responsables de diseñar, ejecutar y administrar campañas de marketing mediante Adobe [!DNL Experience Cloud] soluciones. Deben tener una comprensión básica de las soluciones de marketing digital de Adobe, así como experiencia en marketing y publicidad. La certificación de Profesional Empresarial valida su capacidad para utilizar de forma eficaz las soluciones de marketing digital de Adobe para lograr los objetivos empresariales. |
-| ![Distintivo de desarrollador](/help/certifications/assets/developer_blk_small.png) | **Desarrolladores** son responsables de implementar e integrar el Adobe [!DNL Experience Cloud] en la pila tecnológica de una organización. Deben tener experiencia en desarrollo de software y dominio de tecnologías web, como API de HTML, CSS, JavaScript y RESTful. La certificación para desarrolladores valida su capacidad para implementar y personalizar de forma eficaz las soluciones de marketing digital de Adobe para satisfacer los requisitos comerciales. |
+| ![Distintivo de desarrollador](/help/certifications/assets/developer_blk_small.png) | **Desarrolladores** son responsables de implementar e integrar el Adobe [!DNL Experience Cloud] en la pila tecnológica de una organización. Deben tener experiencia en desarrollo de software y dominio de tecnologías web, como HTML, CSS, JavaScript y API de RESTful. La certificación para desarrolladores valida su capacidad para implementar y personalizar de forma eficaz las soluciones de marketing digital de Adobe para satisfacer los requisitos comerciales. |
 | ![Distintivo de arquitecto](/help/certifications/assets/architect_blk_small.png) | **Arquitectos** son responsables de diseñar e implementar soluciones de nivel empresarial mediante Adobe [!DNL Experience Cloud] soluciones. Deben tener un amplio conocimiento de las soluciones de marketing digital de Adobe y experiencia en arquitectura, integración y personalización de software. El certificado de arquitecto valida su capacidad para diseñar e implementar soluciones complejas utilizando las soluciones de marketing digital de Adobe. |
 
 {style="table-layout:auto"}
