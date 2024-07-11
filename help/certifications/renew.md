@@ -1,12 +1,11 @@
 ---
 title: Programa de renovación de certificaciones de Adobe
 description: Obtenga información sobre cómo renovar su certificación antes de que caduque.
-solution: Real-Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 2b18ae63bce685f340fc7075519b7b61904f9056
+source-git-commit: f7321b31b536441ff327fc1ed3d44563a252a980
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
