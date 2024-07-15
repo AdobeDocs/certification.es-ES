@@ -4,7 +4,7 @@ description: Descripción general de las opciones de certificación para los usu
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 44%
+ht-degree: 23%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 44%
 
 **Experience Manager**
 
-* [Arquitecto (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
+* [Arquitecto (sitios)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
 **Marketo Engage**
 
@@ -43,4 +43,3 @@ ht-degree: 44%
 >
 >* [Certificaciones técnicas de expertos](expert.md)
 >* [Certificaciones técnicas profesionales](professional.md)
-

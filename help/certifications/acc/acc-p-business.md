@@ -1,6 +1,6 @@
 ---
 title: Profesional de negocios Certificación profesional
-description: Aprenda a convertirse en un profesional de negocios de Adobe certificado en [!DNL Campaign Classic].
+description: Aprenda a convertirse en un profesional de negocios de Adobe certificado en  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Campaign Classic] Profesional empresarial
+# Recorrido de certificación para el Adobe [!DNL Campaign Classic] Profesional de negocios
 
 {{intro}}
 
@@ -74,7 +74,7 @@ Debería tener:
 
 **Objetivos y ámbito del examen**
 
-**Sección 1: Creación de una campaña (29 %)**
+**Sección 1: Crear una campaña (29%)**
 
 * Reconocer los diferentes conceptos y objetivos de marketing digital
 * Identificar y definir las principales funciones y estructura de la herramienta en relación con la interfaz de.
@@ -86,14 +86,14 @@ Debería tener:
 * Reconocer dónde localizar los resultados o la salida del envío
 * Diferenciación entre diferentes tipos de error y advertencia (entrega, campaña y nivel de flujo de trabajo)
 
-**Sección 2: Administración de flujos de trabajo y capacidades de la plataforma (16 %)**
+**Sección 2: Administración de flujos de trabajo y capacidades de la plataforma (16%)**
 
 * Ante un escenario, determine qué actividades de flujo de trabajo deben seleccionarse
 * Diferenciación entre flujos de trabajo técnicos y de campaña
 * Ante un escenario determinado, determine qué solución de flujo de trabajo es óptima para situaciones continuas, de espera, recurrentes y de anulación
 * Identificar las nuevas funciones y características de Campaign V8 en comparación con las versiones anteriores
 
-**Sección 3: Operaciones de datos (20 %)**
+**Sección 3: operaciones de datos (20%)**
 
 * Determinar cómo modificar columnas dentro de una vista para probar datos o resultados
 * Describa los objetivos de las actividades de segmentación del flujo de trabajo de unión, intersección, exclusión y división
@@ -113,7 +113,7 @@ Debería tener:
 * Indique dónde/cómo probar el contenido de envío y la personalización
 * Diferenciar entre los distintos estados de envío que se producen durante el procesamiento y aplicar acciones
 
-**Sección 5: Administración y presentación de informes (7 %)**
+**Sección 5: Administración y creación de informes (7%)**
 
 * Identificar informes de OOTB comunes y dónde acceder a ellos
 * Determine qué informe OOTB se necesita en función de los requisitos de informes
@@ -148,46 +148,46 @@ Debería tener:
 
 {{study-materials-intro}}
 
-**Sección 1: Creación de una campaña**
+**Sección 1: Generar una campaña**
 
 * [Introducción a Adobe Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html){target="_blank"}
 * [Canales de comunicación](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
 * [Introducción a las campañas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=es){target="_blank"}
 * [Introducción a la personalización](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=es){target="_blank"}
-* [Diseño y ejecución de campañas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
+* [Diseñar y ejecutar campañas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 * [Acerca de las plantillas](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=es){target="_blank"}
 
-**Sección 2: Administración del flujo de trabajo y capacidades de la plataforma**
+**Sección 2: administración de flujos de trabajo y capacidades de la plataforma**
 
-* [Segmentación de actividades en flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
+* [Actividades de segmentación en flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
 * [Actividades de control de flujo en flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html){target="_blank"}
 * [Actividades de acción en flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
-* [Propiedades de flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
+* [Propiedades del flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
 * [Introducción a los flujos de trabajo](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html){target="_blank"}
 
-**Sección 3: Operaciones de datos**
+**Sección 3: operaciones de datos**
 
-* [Adobe Campaign Workspace](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=es){target="_blank"}
+* [espacio de trabajo de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=es){target="_blank"}
 * [Introducción a los flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=es){target="_blank"}
-* [Segmentación de actividades en flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
+* [Actividades de segmentación en flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
 * [Introducción a los perfiles](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html){target="_blank"}
 * [Introducción a las campañas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=es){target="_blank"}
-* [Trabajo con fuentes y destinos](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [Trabajar con orígenes y destinos](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
 
 **Sección 4: Configuración de envío**
 
-* [Creación y diseño de envíos de correos electrónicos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=es){target="_blank"}
+* [Crear y diseñar envíos de correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=es){target="_blank"}
 * [Canales de comunicación](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
 * [Acerca de las direcciones semilla](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html){target="_blank"}
 * [Introducción al seguimiento de mensajes](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html){target="_blank"}
 * [Introducción a la personalización](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=es){target="_blank"}
-* [Diseño y ejecución de campañas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
+* [Diseñar y ejecutar campañas de marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 
-**Sección 5: Administración y presentación de informes**
+**Sección 5: Administración e informes**
 
-* [Acerca de los informes sobre envíos](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
+* [Acerca de los informes sobre las entregas](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [Introducción a los informes](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
-* [Introducción a la monitorización de entregas](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=es){target="_blank"}
+* [Introducción a la supervisión de envíos](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=es){target="_blank"}
 * [Introducción al análisis descriptivo](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=es){target="_blank"}
 * [Introducción a los permisos](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
@@ -252,4 +252,4 @@ Debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

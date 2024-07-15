@@ -1,6 +1,6 @@
 ---
 title: Profesional de negocios Certificación profesional
-description: Aprenda a convertirse en un profesional de negocios certificado en Adobe [!DNL Experience Manager].
+description: Aprenda a obtener la certificación de Profesional Empresarial en el Adobe  [!DNL Experience Manager].
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager] Profesional empresarial
+# Recorrido de certificación para el Adobe [!DNL Experience Manager] Profesional de negocios
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso:** Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Curso:** Si acaba de empezar o necesita un repaso, siga el curso de [Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acceder a explicaciones de conceptos clave, guías de productos y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/122) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/122) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación.
 >
 >_Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
@@ -62,7 +62,7 @@ Debería tener:
 * AEM Al menos 0-12 meses de experiencia con las funciones y capacidades necesarias para involucrar a los desarrolladores en la búsqueda de soluciones comerciales
 * Al menos 0-12 meses de experiencia en la configuración, implementación y administración de tareas de integración continua/implementación continua
 
-Debe sentirse cómodo trabajando en Adobe Managed Services y Adobe [!DNL Experience Manager] as a Cloud Service y son capaces de configurar el Adobe [!DNL Experience Manager] entornos e infraestructura.
+Debería sentirse cómodo trabajando en Managed Services de Adobe y en el as a Cloud Service de Adobe [!DNL Experience Manager], y puede configurar entornos e infraestructura de Adobe [!DNL Experience Manager].
 
 Además, debería tener:
 
@@ -82,7 +82,7 @@ Además, debería tener:
 * AEM Descripción de características que satisfacen las necesidades comerciales
 * Describir los conceptos procedimentales necesarios para llevar a cabo la formación de los editores de contenido
 
-**Sección 2: Arquitectura (22 %)**
+**Sección 2: Arquitectura (22%)**
 
 * Identifique la arquitectura de la información adecuada para satisfacer las necesidades comerciales mediante un entorno local o de Adobe alojado (en la nube)
 * AEM Describir cómo se conecta la con los servicios de terceros
@@ -98,7 +98,7 @@ Además, debería tener:
 * Si se da un escenario, describa un enfoque correcto para cumplir los objetivos comerciales sin salirse del presupuesto o del ámbito
 * Identificar formas de conectar los objetivos empresariales con el equipo de desarrollo
 
-**Sección 4: Configuración e implementación (13 %)**
+**Sección 4: Configuración e implementación (13%)**
 
 * AEM Identificación de prácticas recomendadas para utilizar componentes de contenido
 * Ante un escenario, identifique la implementación correcta de una función
@@ -123,20 +123,20 @@ Además, debería tener:
 
 {{study-materials-intro}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
-[Siga el curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Asista al curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/122)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/122)
 
 
-**Preguntas de muestra**
+**Preguntas de ejemplo**
 
 {{sample-questions}}
 
@@ -202,4 +202,4 @@ Además, debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

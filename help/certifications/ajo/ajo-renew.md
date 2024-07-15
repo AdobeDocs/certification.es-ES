@@ -1,6 +1,6 @@
 ---
 title: Renovación de certificación
-description: Aprenda a renovar su Adobe [!DNL Journey Optimizer] certificación antes de que caduque.
+description: Obtenga información sobre cómo renovar la certificación de Adobe [!DNL Journey Optimizer] antes de que caduque.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -8,12 +8,12 @@ hidefromtoc: true
 exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Renovar el Adobe [!DNL Journey Optimizer] certificación
+# Renovar la certificación de Adobe [!DNL Journey Optimizer]
 
 Cuando pasas un examen de certificación, tu certificación es válida por dos años.
 
@@ -21,11 +21,11 @@ Nos complace anunciar que ahora puede renovar su certificación mediante un nuev
 
 >[!IMPORTANT]
 >
->**Inicie sesión primero:** Los siguientes vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Inicie sesión primero:** Los siguientes vínculos funcionarán **solo** después de que **inicie sesión correctamente** en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Para compartir un vínculo:** Si desea compartir el enlace a un examen de renovación o evaluación con un compañero, por favor, enlácelo a la página general de renovación del examen, no a la URL del propio examen, para evitar problemas de inicio de sesión.
+>**Para compartir un vínculo:** Si desea compartir el vínculo a un examen de renovación o evaluación con un compañero, vincule a la página general de renovación del examen, no a la dirección URL del propio examen, para evitar problemas de inicio de sesión.
 
 >[!NOTE]
 >Renovación de los expertos próximamente.
@@ -34,4 +34,4 @@ Nos complace anunciar que ahora puede renovar su certificación mediante un nuev
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

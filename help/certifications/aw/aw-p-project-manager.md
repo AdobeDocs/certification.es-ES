@@ -1,6 +1,6 @@
 ---
 title: Certificación de Project Manager Professional
-description: Aprenda a obtener la certificación de gestor de proyectos de Adobe profesional en Adobe [!DNL Workfront].
+description: Aprenda a obtener la certificación de Adobe Project Manager Professional en Adobe  [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Examen AD0-E903" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Workfront] Gerente de proyecto profesional
+# Recorrido de certificación para el Adobe [!DNL Workfront] Project Manager Professional
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso:** El [Adobe Workfront Project Manager - Curso profesional](https://app.rockinfo.com/courses/230) incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
+>* **Curso:** El [Administrador de proyectos de Adobe Workfront - Curso profesional](https://app.rockinfo.com/courses/230) incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/229) proporciona una ruta adaptada a través del proceso de preparación del examen, incluidos los materiales que necesitará para tener éxito en el examen.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/229) proporciona una ruta adaptada a través del proceso de preparación para exámenes, incluidos los materiales que necesitarás para tener éxito en tu examen.
 >
->_Si se le solicita que inicie sesión, utilice su Adobe ID._
+>_Si se le pide que inicie sesión, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 Debería tener:
 
 * Comprensión del proceso de trabajo desde la solicitud de trabajo inicial hasta su finalización o ha estado expuesto a la administración de proyectos o trabajos
-* Ha completado un curso de formación autoguiada o un bootcamp, o ha sido [!DNL Workfront] durante 6-12 meses para que comprendan la funcionalidad básica
+* Se ha completado la formación autoguiada para el bootcamp o ha sido usuario de [!DNL Workfront] durante 6-12 meses para que entienda la funcionalidad básica
 * Una comprensión de cómo configurar, rastrear y monitorizar los datos de informes
 
 <br>
@@ -71,7 +71,7 @@ Debería tener:
 
 {{exam-objectives}}
 
-**Sección 1: Ingesta y planificación (30 %)**
+**Sección 1: Ingesta y planificación (30%)**
 
 * Identificar las distintas formas de recibir notificaciones de una solicitud de trabajo
 * Dada una solicitud, revise los datos personalizados para determinar la acción adecuada
@@ -79,14 +79,14 @@ Debería tener:
 * En un escenario determinado, determine la configuración de tareas adecuada para planificar la ejecución de una tarea en un lapso de tiempo específico
 * Identificar formas de localizar datos clave en un proyecto
 * Identificar diferentes formas de rastrear el riesgo del proyecto
-* Identificación de la jerarquía correcta de objetos en [!DNL Workfront]
+* Identificar la jerarquía correcta de objetos en [!DNL Workfront]
 * Identifique el campo adecuado para ver un recurso asignado específico
 * Dado un perfil, determine los informes/paneles de entrada o planificación que son útiles para el perfil durante la fase de entrada de trabajo o planificación del proyecto/proceso de trabajo
 
-**Sección 2: Ejecutar (50 %)**
+**Sección 2: Ejecutar (50%)**
 
 * Identificar formas de comprender, aplicar y medir los hitos de un proyecto
-* Crear [!DNL Workfront] Aprobaciones de un solo uso y cuándo se utilizaría una aprobación
+* Crear [!DNL Workfront] aprobaciones de un solo uso y cuándo se usaría una aprobación
 * Identificar cómo el sistema utiliza los distintos tipos de fechas
 * En un escenario determinado, identifique la información que los tipos de fecha transmiten a un jefe de proyecto
 * Dado un escenario, determine cómo afectan las distintas restricciones de tarea a la cronología del proyecto cuando se utilizan
@@ -94,17 +94,17 @@ Debería tener:
 * En un escenario determinado, describa cómo cargar un documento y generar una prueba
 * Identificar las diferentes formas de administrar un proyecto
 * Ante un escenario determinado, determine la desviación planificada para un rol específico dentro de un proyecto individual
-* Ante un escenario concreto, busque el elemento financiero específico en [!DNL Workfront]
+* Dado un escenario, busque el elemento financiero específico en [!DNL Workfront]
 * Dado un gráfico Gantt, explicar las relaciones de objeto en el gráfico
 * Comparar diferencias entre condición y estado de progreso
-* Identificar cómo [!DNL Workfront] equipos y [!DNL Workfront] grupos se pueden utilizar
+* Identificar cómo se pueden usar los equipos [!DNL Workfront] y los grupos [!DNL Workfront]
 * En un escenario concreto, describa cómo proporcionar a las partes interesadas la información que necesitan
 * Dado un escenario, determine cómo afectan los tipos de fecha y las duraciones a las condiciones del proyecto
 * Dado un escenario, determine los estados personalizados que son necesarios
 * Identificar los distintos tipos de informes disponibles en [!DNL Workfront]
 * Ante un escenario concreto, describa los pasos para crear un informe personalizado
 
-**Sección 3: Cierre (20 %)**
+**Sección 3: Cierre (20%)**
 
 * Dado un estado de objeto particular, determine qué actividades deben ejecutarse o qué acciones deben activarse
 * Dado un escenario, determine el tipo de informe y el elemento de informe que se utilizará para modificar una lista de tareas o un informe
@@ -137,7 +137,7 @@ Debería tener:
 
 **Curso de formación recomendado**
 
-[Formación del equipo principal para los planificadores del nuevo [!DNL Workfront] experiencia](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+[Entrenamiento de equipo básico para planificadores en la nueva [!DNL Workfront] experiencia](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
 **Materiales de estudio**
 
@@ -147,17 +147,17 @@ Debería tener:
 
 {{practice-test}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
 [Realice el curso Adobe Workfront Project Manager - Professional](https://app.rockinfo.com/courses/230)
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/229)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/229)
 
 +++
 
@@ -214,4 +214,4 @@ Debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

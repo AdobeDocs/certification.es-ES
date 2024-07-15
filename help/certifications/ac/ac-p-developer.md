@@ -1,6 +1,6 @@
 ---
 title: Certificación de Developer Professional
-description: Aprenda a obtener la certificación de profesional de Adobe Developer en Adobe [!DNL Commerce].
+description: Aprenda a obtener la certificación de profesional de Adobe Developer en el Adobe  [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Commerce] Desarrollador profesional
+# Recorrido de certificación para el desarrollador profesional del Adobe [!DNL Commerce]
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Cursos:** Tome el [Curso profesional para desarrolladores de Adobe Commerce](https://app.rockinfo.com/courses/92) que incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. Si acaba de empezar, el [Curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Cursos:** Realice el [Curso para desarrolladores profesionales de Adobe Commerce](https://app.rockinfo.com/courses/92) que incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. Si acaba de empezar, el curso [Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/136) proporciona una ruta adaptada a través del proceso de preparación del examen, incluidos los materiales que necesitará para tener éxito en el examen.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/136) proporciona una ruta adaptada a través del proceso de preparación para exámenes, incluidos los materiales que necesitarás para tener éxito en tu examen.
 >
 >Si se le solicita que inicie sesión, utilice su Adobe ID.
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-Deberías estar cómodo trabajando en Adobe [!DNL Commerce] y tener una comprensión básica del Adobe [!DNL Commerce] desarrollo de administración, arquitectura, EAV/base de datos, diseño/interfaz de usuario, cierre de compra y ventas, y catálogo.
+Debería sentirse cómodo trabajando en el Adobe [!DNL Commerce] y tener una comprensión básica del desarrollo administrativo del Adobe [!DNL Commerce], la arquitectura, EAV/base de datos, el diseño/interfaz de usuario, el cierre de compra y las ventas, y el catálogo.
 
 Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
@@ -76,16 +76,16 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{exam-objectives}}
 
-**Sección 1: Trabajo con el administrador (5 %)**
+**Sección 1: Trabajando con el administrador (5%)**
 
 * Describir cómo funciona la ACL con funciones y recursos
 * Identifique los componentes que se utilizarán al crear o modificar la cuadrícula o el formulario de administración
 * Identifique los archivos que se utilizarán al crear una configuración de tienda/administrador y los elementos de menú
 
-**Sección 2: Arquitectura (29 %)**
+**Sección 2: Arquitectura (29%)**
 
-* Describir [!DNL Magento] estructura de archivos
-* Describir [!DNL Magento] Comandos CLI
+* Describir la estructura de archivos de [!DNL Magento]
+* Describir comandos CLI de [!DNL Magento]
 * Describir la funcionalidad de cron
 * En un escenario concreto, describa el uso del archivo di.xml
 * Ante un escenario, cree controladores
@@ -95,10 +95,10 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Describa el complemento, la preferencia, los observadores del evento y los interceptores.
 * Describir rutas de módulos personalizados
 * Describir reescrituras de URL
-* Describa el [!DNL Magento] sistema de almacenamiento en caché
+* Describir el sistema de almacenamiento en caché [!DNL Magento]
 * Describir las tiendas, los sitios web y las vistas de las tiendas (comprensión básica)
 
-**Sección 3: EAV/base de datos (13 %)**
+**Sección 3: EAV/base de datos (13%)**
 
 * En un escenario determinado, cambiar/agregar/quitar conjuntos de atributos o atributos
 * Describir diferentes tipos de atributos
@@ -106,14 +106,14 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Describir modelos, modelos de recursos y colecciones
 * Describir los conceptos básicos del valor de atributo de entidad (EAV)
 
-**Sección 4: Diseño/IU (15 %)**
+**Sección 4: Diseño/IU (15%)**
 
 * Aplicar cambios a tipos de producto existentes y crear nuevos
 * Modificación y ampliación de entidades de catálogo existentes
 * Demostrar la capacidad de administrar índices y personalizar la salida de precios
 * Explicar cómo el inventario de varias fuentes afecta al stock (nivel de programa)
 
-**Sección 5: Pago y envío y ventas (8%)**
+**Sección 5: Cierre de compra y ventas (8%)**
 
 * Describir componentes del carro
 * Describir una regla de promoción de carrito
@@ -122,36 +122,36 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * En un escenario determinado, configure los métodos de pago y envío
 * Ante un escenario concreto, configurar reglas fiscales, divisas, carro de compras o cierre de compra
 
-**Sección 6: Catálogo (8 %)**
+**Sección 6: Catálogo(8%)**
 
 * Identificar los conceptos básicos de administración de categorías y administración de productos
 * Describir tipos de productos
 * Describir las reglas de precios
 * Describir tipos de precios
 
-**Sección 7: Adobe [!DNL Commerce] Arquitectura en la nube (12 %)**
+**Sección 7: Adobe [!DNL Commerce] Arquitectura en la nube (12%)**
 
-* Definir Adobe [!DNL Commerce] flujo de trabajo arquitectura/entorno
+* Definir el flujo de trabajo de entorno/arquitectura del Adobe [!DNL Commerce]
 * Describa los archivos, los permisos y la estructura del proyecto en la nube
-* Enumerar los servicios disponibles en el Adobe [!DNL Commerce] en la nube
+* Servicios de lista disponibles en el Adobe [!DNL Commerce] en la nube
 * Describir cómo acceder a diferentes tipos de registros
 * Describir los pasos para la aplicación de parches (identificar en qué carpeta se van a colocar los parches)
 * Describir cómo mantener y actualizar las herramientas de ECE
 * Identifique cuándo llamar a soporte *Archivos y limitaciones Yaml (DIY vs tickets de soporte)
 
-**Sección 8: Configuración del Adobe [!DNL Commerce] Nube (4 %)**
+**Sección 8: Configuración/Configuración Del Adobe [!DNL Commerce] Nube (4%)**
 
-* Identificar cómo configurar el Adobe [!DNL Commerce] Nube
+* Identificar cómo configurar el Adobe [!DNL Commerce] Cloud
 * Defina la solución de problemas básica de la nube (jerarquía de IU y variables web, configuraciones y prioridad)
 * Reconoce los conocimientos básicos de administración de usuarios en la nube e IU de incorporación
 * Describir la administración del entorno mediante la IU
 * Describir la bifurcación mediante la IU
 * Identificar las capacidades del plan Adobe Commerce Cloud
 
-**Sección 9: [!DNL Commerce] Herramienta CLI de nube (administración de la parte) (6 %)**
+**Sección 9: [!DNL Commerce] Herramienta de CLI de nube (administrando parte) (6%)**
 
-* Describir las características exclusivas del Adobe [!DNL Commerce] Herramienta CLI de nube (funciones exclusivas de CLI: activar correos electrónicos, entornos de rebase, instantánea, volcado de la base de datos, configuración del entorno local)
-* Describir la bifurcación mediante el Adobe [!DNL Commerce] Herramienta CLI de nube
+* Describa las características exclusivas de la herramienta CLI de la nube de Adobe [!DNL Commerce] (características exclusivas de CLI: activar correos electrónicos, entornos de rebase, instantánea, volcado de la base de datos, configuración del entorno local).
+* Describir la bifurcación mediante la herramienta CLI de nube de Adobe [!DNL Commerce]
 * ¿Identificar formas de conectarse a los servicios en la nube? (My SQL, Redis, túnel:información)
 
 <br>
@@ -186,7 +186,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{practice-test}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
@@ -204,11 +204,11 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 </span>
 </a>
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/136)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/136)
 
 +++
 
@@ -265,4 +265,4 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

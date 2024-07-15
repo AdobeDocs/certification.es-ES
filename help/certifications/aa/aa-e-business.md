@@ -1,6 +1,6 @@
 ---
 title: Certificación de profesional empresarial
-description: Obtenga información sobre cómo obtener la certificación como [!DNL Adobe Analytics] Experto profesional de negocios
+description: Aprenda a obtener la certificación como experto profesional  [!DNL Adobe Analytics] de negocios
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para [!DNL Adobe Analytics] Experto profesional de negocios
+# Recorrido de certificación para [!DNL Adobe Analytics] experto en profesionales empresariales
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/220) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/220) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -67,15 +67,15 @@ Debería tener:
 * La capacidad de comunicar resultados y puede proponer un curso de acción basado en el análisis de los informes
 * Ayudó a los clientes a comprender cómo extraer/extraer la información que desean (por ejemplo, ayudarles a definir sus preguntas comerciales)
 * Una comprensión de cómo funciona la tecnología y de la implementación de un cliente (por ejemplo, dónde se encuentran los datos, cómo se pueden recopilar, cómo se rastrea) desde un punto de vista funcional
-* Al menos un año de [!DNL Adobe Analytics] experiencia práctica
+* Al menos un año de experiencia práctica de [!DNL Adobe Analytics]
 * Una comprensión básica de cómo Digital Analytics está filtrando/estructurando datos
 * Un conocimiento de la integración de [!DNL Adobe Analytics] con otras soluciones de Adobe
 
 Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 * cliente FTP
-* Actual [!DNL Adobe Analytics] Funciones de Workspace y otras opciones de creación de informes fuera de Workspace (por ejemplo, programar proyectos e informes)
-* Herramientas de depuración relevantes para [!DNL Adobe Analytics] (Monitor de paquetes, como un Adobe Debugger, herramientas para desarrolladores de exploradores, Charles)
+* Funciones actuales de Workspace [!DNL Adobe Analytics] y otras opciones de informes fuera de Workspace (por ejemplo: programar proyectos e informes)
+* Herramientas de depuración relevantes para [!DNL Adobe Analytics] (monitor de paquetes como un Adobe Debugger, herramientas para desarrolladores de exploradores, Charles)
 * Admin Console (Admin Console de Analytics Reports Suite y Admin Console de Experience Cloud)
 * Fundamentos/conceptos básicos de Adobe Launch
 * SPA Comprensión básica del sitio web de aplicaciones,
@@ -95,7 +95,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Demostración de la comprensión de Adobe Launch
 * Demostrar la comprensión de las integraciones comunes en el ecosistema de Adobe Experience Cloud
 
-**Sección 2: Creación de informes y tableros para proyectos (30 %)**
+**Sección 2: Informes y tableros para proyectos (30%)**
 
 * Considere las ventajas de utilizar una herramienta de creación de informes basada en un escenario determinado
 * Comparar la visualización de visitas en el orden previsto y flujo y los tipos de variables adecuados para la creación de informes
@@ -107,7 +107,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * En un escenario determinado, determine el elemento apropiado que debe utilizar
 * Aplique el proceso para crear, configurar y utilizar cuadros de resultados móviles
 
-**Sección 3: Segmentación y métricas calculadas (22 %)**
+**Sección 3: Segmentación y métricas calculadas (22%)**
 
 * Determine cómo desarrollar y configurar segmentos
 * Aplique el proceso para compartir segmentos con otros miembros de la organización
@@ -115,19 +115,19 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Aplicación de segmentos a proyectos y componentes
 * Aplique el proceso para generar métricas calculadas o segmentadas
 
-**Sección 4: Conocimiento general de la herramienta y solución de problemas (12 %)**
+**Sección 4: conocimiento general de la herramienta y solución de problemas (12%)**
 
 * Analizar informes e identificar problemas de calidad de datos
 * Defina diferentes tipos de dimensiones y parámetros existentes en [!DNL Adobe Analytics] (eVars, props y eventos)
 * Determinar cómo introducir y extraer datos de [!DNL Adobe Analytics]
 * Identificación de información de direcciones URL de marketing
 
-**Sección 5: Administración (10 %)**
+**Sección 5: Administración (10%)**
 
-* Aplique el proceso para configurar el [!UICONTROL Canal de marketing] informes con [!UICONTROL Canal de marketing] reglas de procesamiento
+* Aplique el proceso para configurar los informes de [!UICONTROL Canal de mercadotecnia] con las reglas de procesamiento de [!UICONTROL Canal de mercadotecnia]
 * Aplique el proceso para configurar el Importador de clasificaciones y el Generador de reglas
 * Aplique el proceso para configurar un grupo de informes virtuales basado en un segmento existente
-* Utilice el [!UICONTROL Fuente de datos] IU de administración del responsable
+* Usar la interfaz de usuario del administrador de [!UICONTROL Fuente de datos]
 * Comprensión de la gobernanza de datos
 
 <br>
@@ -162,11 +162,11 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/220)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/220)
 
 +++
 
@@ -234,5 +234,5 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
 

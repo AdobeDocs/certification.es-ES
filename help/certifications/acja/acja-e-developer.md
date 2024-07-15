@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto
-description: Aprenda a obtener la certificación de experto en Adobe [!DNL Customer Journey Analytics]
+description: Aprenda a obtener la certificación de experto en el Adobe  [!DNL Customer Journey Analytics]
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Customer Journey Analytics] Experto de desarrollador
+# Recorrido de certificación para el Adobe [!DNL Customer Journey Analytics] Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/132) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/132) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-Usted debe tener 12-24 meses de experiencia en el Adobe [!DNL Customer Journey Analytics]y poder realizar las siguientes tareas:
+Debe tener entre 12 y 24 meses de experiencia en el Adobe [!DNL Customer Journey Analytics] y poder realizar las siguientes tareas:
 
 * Leer y comprender el esquema XDM (clases)
 * Demostración de estar familiarizado con la interfaz de plataforma
@@ -66,7 +66,7 @@ Usted debe tener 12-24 meses de experiencia en el Adobe [!DNL Customer Journey A
 * Configuración de conexiones con identidades principales (ID de persona)
 * Configuración de conexiones con varios conjuntos de datos
 * Configuración de una vista de datos (configuración de métrica/dimensión)
-* Configuración del Adobe [!DNL Customer Journey Analytics]
+* Configurar Adobe [!DNL Customer Journey Analytics]
 * Transformar datos dentro de las dimensiones y métricas
 * Analizar conceptos básicos de Workspace (visualizaciones, configuración de atribución, filtros, métricas calculadas)
 * Comprender la gobernanza de datos en CJA (DULE)
@@ -80,24 +80,24 @@ Usted debe tener 12-24 meses de experiencia en el Adobe [!DNL Customer Journey A
 
 {{exam-objectives}}
 
-**Sección 1: Conexiones (22 %)**
+**Sección 1: Conexiones (22%)**
 
 * Diseño de conexiones de CJA con la configuración adecuada
 * Crear conexiones de CJA a partir de conjuntos de datos XDM disponibles en AEP mediante simulador de pruebas
 
-**Sección 2: Vistas de datos (30 %)**
+**Sección 2: Vistas de datos (30%)**
 
 * Configuración de vistas de datos para informes y análisis
 * Modificación de componentes en vistas de datos
 
-**Sección 3: Validación de datos y resolución de problemas (34 %)**
+**Sección 3: Validación de datos y solución de problemas (34 %)**
 
 * Validar que los datos se rellenen de forma precisa y completa.
 * Resolución de problemas de conexiones y vistas de datos
 * Generar o solucionar problemas de componentes
 * Monitorizar el uso de la licencia
 
-**Sección 4: Informes y activación (14 %)**
+**Sección 4: Informes y activación (14%)**
 
 * Utilice Analysis Workspace para mostrar los recorridos de los clientes en canales múltiples con las visualizaciones adecuadas
 * Envío de los miembros de un filtro de CJA a una audiencia de RTCDP
@@ -127,11 +127,11 @@ Usted debe tener 12-24 meses de experiencia en el Adobe [!DNL Customer Journey A
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/132)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/132)
 
 +++
 
@@ -188,4 +188,4 @@ Usted debe tener 12-24 meses de experiencia en el Adobe [!DNL Customer Journey A
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

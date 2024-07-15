@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto
-description: Aprenda a obtener la certificación de Adobe [!DNL Journey Optimizer] Experto en desarrollo.
+description: Aprenda a obtener la certificación de Adobe [!DNL Journey Optimizer] Experto en desarrolladores.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Journey Optimizer] Experto de desarrollador
+# Recorrido de certificación para el Adobe [!DNL Journey Optimizer] Developer Expert
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso:** El servicio gratuito a la carta [Curso de experto para desarrolladores de Adobe Journey Optimizer](https://app.rockinfo.com/courses/147) incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
+>* **Curso:** El [Curso para desarrolladores expertos de Adobe Journey Optimizer](https://app.rockinfo.com/courses/147), gratuito y bajo demanda, incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/143) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en su examen.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/143) proporciona una ruta adaptada a través del proceso de preparación para exámenes, que incluye los materiales de estudio detallados que necesitarás para tener éxito en tu examen.
 >
->_Si se le solicita que inicie sesión, utilice su Adobe ID._
+>_Si se le pide que inicie sesión, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -76,7 +76,7 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 {{exam-objectives}}
 
-**Sección 1: Administración y configuración (20 %)**
+**Sección 1: Administración y configuración (20%)**
 
 * Identificar qué permisos son necesarios para realizar varias tareas
 * Describa el concepto de zona protegida y cómo se pueden utilizar los datos en las unidades de negocio
@@ -84,18 +84,18 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 * Determinar la aplicación adecuada de Eventos/Acciones/Fuentes de datos
 * Identifique cuándo utilizar las API específicas de AJO: regulación, límite, supresión, copia de objeto, ejecución de mensaje interactivo
 
-**Sección 2: Journey Orchestration (22 %)**
+**Sección 2: Journey Orchestration (22%)**
 
 * En un escenario determinado, los clientes de destinatario deben seguir un recorrido de varios canales y pasos
 * Interpretación de informes y depuración de métricas de rendimiento
 * Ante un escenario concreto, determine los casos de uso adecuados para un tipo de recorrido
 * Preparar casos de prueba (por ejemplo, experimentación o recorrido multicanal)
 
-**Sección 3: Offer decisioning (16 %)**
+**Sección 3: Offer decisioning (16%)**
 
 * Demostrar y comprender la creación y administración de ofertas y componentes
 * Demostración de cómo utilizar perfiles de prueba para ejecutar la simulación de ofertas
-* Explicar la diferencia entre Offer Hub y la API de Edge
+* Explicar la diferencia entre el Centro de ofertas y la API de Edge
 * Aplicar el proceso para crear decisiones
 * Aplique el proceso para añadir ofertas en diferentes canales
 
@@ -105,7 +105,7 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 * Interpretar las funciones de ayuda y la sintaxis de personalización para mostrar lo que se mostraría.
 * Demostración y comprensión de la validación, prueba, depuración y publicación de un recorrido
 
-**Sección 5: Modelado de datos (18 %)**
+**Sección 5: Modelado de datos (18%)**
 
 * Diferenciación entre esquemas de perfil y tipo de evento
 * Explicar cómo configurar las fuentes de datos y la ingesta de datos
@@ -133,21 +133,21 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 {{study-materials-intro}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
-[Realice el curso de experto en desarrolladores de Adobe Journey Optimizer](https://app.rockinfo.com/courses/147)
+[Realice el curso Adobe Journey Optimizer Developer Expert](https://app.rockinfo.com/courses/147)
 
 **Realizar una prueba de práctica**
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/143)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/143)
 
 +++
 
@@ -204,4 +204,4 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

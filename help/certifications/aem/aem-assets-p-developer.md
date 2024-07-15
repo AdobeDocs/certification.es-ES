@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager] Assets Developer Professional
+# Recorrido de certificación para el Adobe [!DNL Experience Manager] Assets Developer Professional
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso:** Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Curso:** Si acaba de empezar o necesita un repaso, siga el curso de [Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acceder a explicaciones de conceptos clave, guías de productos y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/120) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/120) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación.
 >
 >_Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-Debe sentirse cómodo trabajando en Adobe Managed Services y Adobe [!DNL Experience Manager as a Cloud Service]y pueden configurar el Adobe de [!DNL Experience Manager] entornos e infraestructura.
+Debería sentirse cómodo trabajando en Managed Services de Adobe y en el Adobe [!DNL Experience Manager as a Cloud Service], y puede configurar los entornos y la infraestructura del Adobe [!DNL Experience Manager].
 
 Debería tener:
 
@@ -98,26 +98,26 @@ Además, debe tener experiencia con las siguientes tecnologías y entornos:
 
 **Sección 2: Organización de recursos y consola de recursos (22 %)**
 
-* Muestra cómo crear y organizar recursos en colecciones
-* Demostración de cómo organizar recursos mediante etiquetas
+* Demostración para crear y organizar Assets en colecciones
+* Demostración de cómo organizar Assets mediante etiquetas
 * Identifique cómo aprovechar los filtros y facetas de búsqueda de OOTB
 * AEM Describa cómo configurar y generar informes de recursos de
 * Describe cómo administrar permisos de usuario en carpetas de recursos
 
-**Sección 3: Metadatos de los recursos (24 %)**
+**Sección 3: metadatos de recursos (24%)**
 
 * Definición de esquemas de metadatos
 * Dado un escenario, determine cómo ajustar el esquema de metadatos adecuado
 * En un escenario determinado, determine cómo se pueden aprovechar los perfiles de metadatos para satisfacer los requisitos
 * Comprender cómo funcionan los esquemas de metadatos en cascada
 
-**Sección 4: Tipos de recursos (18 %)**
+**Sección 4: Tipos de recursos (18%)**
 
 * Describir las funciones de OOTB disponibles para los tipos de recursos
 * Explicar fragmentos de contenido y modelos de fragmentos de contenido
 * Demostrar cómo y cuándo utilizar las variaciones de fragmentos de contenido
 
-**Sección 5: Conjuntos de funciones y capacidades de recursos (12 %)**
+**Sección 5: Conjuntos de características y capacidades de recursos (12 %)**
 
 * Describa los casos de uso comunes y las ventajas de utilizar Brand Portal
 * Describa los casos de uso comunes y las ventajas de utilizar Dynamic Media
@@ -147,21 +147,21 @@ Además, debe tener experiencia con las siguientes tecnologías y entornos:
 
 +++Paso 2: Prepárese para su examen con estos materiales de estudio gratuitos
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
-[Siga el curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Asista al curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
 **Realizar una prueba de práctica**
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/120)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/120)
 
 
 +++
@@ -219,4 +219,4 @@ Además, debe tener experiencia con las siguientes tecnologías y entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

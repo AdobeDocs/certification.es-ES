@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto profesional empresarial
-description: Aprenda a obtener la certificación como experto en profesionales empresariales en [!DNL Experience Manager Sites].
+description: Aprenda a obtener la certificación como experto profesional empresarial en  [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager Sites] Experto profesional de negocios
+# Recorrido de certificación para el Adobe [!DNL Experience Manager Sites] experto profesional empresarial
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/127) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/127) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -60,7 +60,7 @@ Debería tener:
 * AEM Experiencia con características y capacidades de la necesarias para atraer a los desarrolladores y encontrar soluciones empresariales
 * AEM La capacidad de utilizar productos de la para administrar contenido y dirigir las experiencias digitales
 * Una comprensión de los módulos presentes
-* Una perspectiva más detallada de los módulos como [!DNL Sites], [!DNL Assets], y [!DNL Forms]
+* Una perspectiva más detallada de módulos como [!DNL Sites], [!DNL Assets] y [!DNL Forms]
 
 Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
@@ -77,7 +77,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Administración de varios sitios
 * Herramientas de monitorización
 * Versiones
-* Centro de personalización y contexto
+* Personalization y Context Hub
 * SPA Editor de
 * Etiquetado
 * Uso del explorador
@@ -96,7 +96,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * AEM Recomendar cómo aprovechar las funciones de la para satisfacer las necesidades empresariales
 * Aplique los conceptos de procedimiento necesarios para llevar a cabo la formación de editores de contenido
 
-**Sección 2: Arquitectura (24 %)**
+**Sección 2: Arquitectura (24%)**
 
 * AEM Recomendar una arquitectura de la información para aprovechar las funciones estándar de la para satisfacer las necesidades empresariales mediante un entorno local o alojado en el Adobe (en la nube)
 * AEM Describir cómo se integra la con los servicios de terceros
@@ -112,7 +112,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Determine cómo cumplir los objetivos principales de la empresa sin salirse del presupuesto o del ámbito
 * Determine cómo se deben responder las preguntas de los desarrolladores con respecto a los objetivos comerciales
 
-**Sección 4: Configuración e implementación (16 %)**
+**Sección 4: Configuración e implementación (16%)**
 
 * AEM Determine cómo configurar y utilizar componentes de contenido para mostrar prácticas recomendadas de uso de la
 * Compruebe la implementación correcta de las funciones y busque y describa los errores que se producen
@@ -149,11 +149,11 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/127)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/127)
 
 +++
 
@@ -221,4 +221,4 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto profesional empresarial
-description: Aprenda a convertirse en un experto profesional de Adobe certificado en [!DNL Marketo Engage].
+description: Aprenda a convertirse en un experto profesional certificado en Adobe en  [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Marketo Engage] Experto profesional de negocios
+# Recorrido de certificación para el Adobe [!DNL Marketo Engage] experto profesional empresarial
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/144) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/144) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-* Aproximadamente 18 meses de experiencia con el Adobe [!DNL Marketo Engage] funciones y capacidades necesarias para crear campañas de marketing y utilizar datos de comportamiento del cliente
+* Aproximadamente 18 meses de experiencia con las características y capacidades de Adobe [!DNL Marketo Engage] necesarias para crear campañas de marketing y utilizar los datos de comportamiento de los clientes
 
 Debe ser un experto en marketing con experiencia en:
 
@@ -70,7 +70,7 @@ Debe ser un experto en marketing con experiencia en:
 
 Además, debe estar familiarizado con las siguientes herramientas y tecnologías:
 
-* Adobe [!DNL Marketo Engage]
+* Adobe[!DNL Marketo Engage]
 * Formato de archivo CSV y Excel
 * Conceptos de API
 * Conceptos básicos de CRM
@@ -84,7 +84,7 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 {{exam-objectives}}
 
-**Sección 1: Administración y mantenimiento (12 %)**
+**Sección 1: Administración y mantenimiento (12%)**
 
 * Determinar el proceso de asignación entre Marketo y CRM
 * Identificar qué ha pasado con un recurso mediante la pista de auditoría
@@ -103,14 +103,14 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 * Proporcione ejemplos de uso para diferentes tipos de tokens
 * Resumir la utilidad de los webhooks en Marketo y cómo se utilizan
 * Identificar y aplicar el uso adecuado del BPM
-* Explicar las ventajas de los recursos globales y cómo utilizarlos
+* Explicar las ventajas de Global Assets y cómo utilizarlas
 * Mostrar las capacidades de los formularios
 * Realizar y analizar una estrategia de prueba A/B
 * Identificar dónde se ha hecho referencia a un programa o recurso con &quot;Utilizado por&quot;
 * Solución de problemas de comunicación
 * Uso de la información del proveedor de seminarios web en un programa de eventos
 
-**Sección 3: Gestión de clientes potenciales (12 %)**
+**Sección 3: Administración de clientes potenciales (12%)**
 
 * Describir los puntos de decisión clave al definir el modelo del ciclo vital
 * Aplicar prácticas recomendadas sobre la puntuación de posibles clientes
@@ -118,14 +118,14 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 * Interpretación del registro de actividades del posible cliente
 * Ante un escenario concreto, identifique el origen de la creación
 
-**Sección 4: Administración de datos (10 %)**
+**Sección 4: Administración de datos (10%)**
 
 * Demostración de cómo configurar un programa de administración de datos
 * Analizar la calidad de los datos de una instancia
 * Identifique algunos elementos clave de la política de retención de datos de Marketo en relación con las listas inteligentes
 * Resumir cómo funciona la segmentación
 
-**Sección 5: Informes (4 %)**
+**Sección 5: Informes (4%)**
 
 * Dado el resultado de una campaña, determine cómo configurar un programa para proporcionar los mejores informes
 * Ante un escenario concreto, poder investigar y asignar el programa de adquisición adecuado
@@ -170,11 +170,11 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/144)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/144)
 
 +++
 
@@ -242,5 +242,5 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
 

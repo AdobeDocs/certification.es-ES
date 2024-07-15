@@ -1,6 +1,6 @@
 ---
 title: Certificación profesional
-description: Aprenda a obtener la certificación de profesional de Adobe en [!DNL Customer Journey Analytics]
+description: Aprenda a convertirse en un profesional de Adobe certificado en  [!DNL Customer Journey Analytics]
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Customer Journey Analytics] Profesional empresarial
+# Recorrido de certificación para el Adobe [!DNL Customer Journey Analytics] Profesional de negocios
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso:** Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Curso:** Si acaba de empezar o necesita un repaso, asista al curso [Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acceder a explicaciones de conceptos clave, guías de productos y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/131) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/131) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación.
 >
->_Si se le solicita que inicie sesión, utilice su Adobe ID._
+>_Si se le pide que inicie sesión, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -75,19 +75,19 @@ El candidato ideal con una cualificación mínima es un analista con al menos 6 
 * Creación de un subconjunto de datos utilizando los componentes y filtros adecuados
 * Creación de componentes que no sean de administración para abordar preguntas comerciales
 
-**Sección 2: Informes (32 %)**
+**Sección 2: Informes (32%)**
 
 * Determine las visualizaciones o tablas adecuadas para abordar las preguntas comerciales
 * Determine qué vista de datos utilizar en función de las fuentes de datos, identidades e intervalos de fechas
 * Determinar cómo utilizar y aplicar intervalos de fechas
 
-**Sección 3: Distribución (12 %)**
+**Sección 3: Distribución (12%)**
 
 * Programar y compartir informes con partes interesadas clave
 * Depurar los campos disponibles en un informe o panel determinado
 * Organizar proyectos de forma lógica
 
-**Sección 4: Análisis de datos (26 %)**
+**Sección 4: Análisis de datos (26%)**
 
 * Realizar análisis exploratorios e interpretar los resultados para proporcionar perspectivas
 * Evaluar audiencias para compartirlas con otras herramientas de AEP
@@ -117,7 +117,7 @@ El candidato ideal con una cualificación mínima es un analista con al menos 6 
 
 {{practice-test}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
@@ -128,11 +128,11 @@ El candidato ideal con una cualificación mínima es un analista con al menos 6 
 </span>
 </a>
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/131)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/131)
 
 +++
 
@@ -189,4 +189,4 @@ El candidato ideal con una cualificación mínima es un analista con al menos 6 
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

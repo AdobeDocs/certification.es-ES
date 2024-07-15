@@ -1,6 +1,6 @@
 ---
 title: Certificación de maestro de arquitectos
-description: Aprenda a obtener la certificación de Arquitecto de Adobe en Adobe [!DNL Commerce].
+description: Aprenda a obtener la certificación de arquitecto de Adobe en el Adobe  [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Data Architect
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Commerce] Maestro de arquitectos
+# Recorrido de certificación para el Adobe [!DNL Commerce] Arquitecto Maestro
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/142) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/142) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -59,35 +59,35 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-Debe tener al menos 3-5 años de experiencia liderando [!DNL Commerce] proyectos de desarrollo y son capaces de diseñar, integrar, implementar y explicar soluciones a problemas empresariales utilizando [!DNL Adobe Commerce] junto con los servicios asociados.
+Debe tener al menos 3-5 años de experiencia liderando [!DNL Commerce] proyectos de desarrollo y puede diseñar, integrar, implementar y explicar soluciones a problemas de la empresa utilizando [!DNL Adobe Commerce] junto con los servicios asociados.
 
 Además, debe estar muy familiarizado con las siguientes actividades y tecnologías:
 
 * Ampliación de funciones principales
-* Configurar [!DNL Adobe Commerce] completo
+* Configurar [!DNL Adobe Commerce] completamente
 * Cree un modelo completo de cómo debería funcionar una extensión, los requisitos de la empresa para crear un modelo de cómo debería funcionar, sin tener que entrar en el código
 * Comprender las necesidades y funciones empresariales
 * Implicaciones de rendimiento de soluciones y extensiones
 * Lógica de contratos de servicio
 * GraphQL
 * Comprender el Compositor como herramienta de dependencia
-* Configuración de la instancia de trabajo del Adobe [!DNL Adobe Commerce] desde cero
+* Configurar y configurar la instancia de trabajo del Adobe [!DNL Adobe Commerce] desde cero
 * Personalizar el tablero de administración, crear cuadrículas y formularios
 * Administración de caché e índice; crear índice personalizado
 * Crear nuevo tipo de caché
 * Solucionar y depurar varios problemas en el entorno
 * Ampliar y administrar esquema de base de datos
 * Características de seguridad, proporcionan una instalación segura y una extensión de desarrollo
-* Realizar servicios basados en servidor que [!DNL Adobe Commerce] conecta (Redis, gestión de configuración de Varnish)
+* Realizar servicios basados en servidor que [!DNL Adobe Commerce] conecte (Redis, Varnish configuration management)
 * Consciente de la mejor práctica estándar de codificación, Estándares de codificación, PSR, principio SOLID
-* Configuración y uso [!DNL Adobe Commerce] Conector de servicios (y servicios asociados)
+* Configurar y usar [!DNL Adobe Commerce] Services Connector (y servicios asociados)
 * Administración de contenido de ensayo
-* Comprensión [!DNL Adobe Commerce] toma el valor predeterminado, cuando está disponible y no está disponible
-* Amplia comprensión de cualquier elemento relacionado [!DNL Adobe Commerce] sector
+* Comprender los valores predeterminados de [!DNL Adobe Commerce], cuando está disponible y no está disponible
+* Amplia comprensión de cualquier dominio [!DNL Adobe Commerce] relacionado
 * Diseño de arquitectura de proyecto
-* Optimizar el rendimiento de [!DNL Adobe Commerce] predeterminado
+* Optimizar rendimiento de [!DNL Adobe Commerce] predeterminado
 * Creación y modificación de B2B
-* Protocolo AMQP y adaptadores en [!DNL Adobe Commerce] (S3)
+* Adaptadores y protocolo AMQP en [!DNL Adobe Commerce] (S3)
 
 <br>
 
@@ -95,26 +95,26 @@ Además, debe estar muy familiarizado con las siguientes actividades y tecnolog�
 
 {{exam-objectives}}
 
-**Sección 1: Diseño (46 %)**
+**Sección 1: Diseño (46%)**
 
-* Diseñar e implementar soluciones óptimas para el Adobe [!DNL Commerce] para satisfacer las necesidades empresariales
+* Diseñar e implementar soluciones óptimas para el Adobe [!DNL Commerce] para satisfacer las necesidades de la empresa
 * Diseño de flujos lógicos y técnicos
-* Personalizar [!DNL Commerce] características
-* Integrar Adobe [!DNL Commerce] con sistemas y servicios externos
+* Personalizar las características de [!DNL Commerce]
+* Integrar el Adobe [!DNL Commerce] con sistemas y servicios externos
 * Solución de problemas de flujos de diseño
 
-**Sección 2: Revisión (32 %)**
+**Sección 2: revisión (32 %)**
 
-* Revisar y refactorizar el Adobe existente [!DNL Commerce] personalizaciones
+* Revisar y refactorizar las personalizaciones del Adobe [!DNL Commerce] existentes
 * Utilizar [!DNL Commerce] marcos de prueba en todo el flujo de trabajo
-* Optimizar el rendimiento y la escalabilidad para el Adobe [!DNL Commerce]
+* Optimizar rendimiento y escalabilidad para el Adobe [!DNL Commerce]
 * Solucionar problemas para identificar la causa raíz de los problemas con el Adobe [!DNL Commerce]
 * Aplicar estándares de codificación
 
-**Sección 3: Configuración e implementación (22 %)**
+**Sección 3: Configurar e implementar (22%)**
 
-* Configuración del Adobe [!DNL Commerce] y asegúrese de que el proyecto esté configurado de forma óptima
-* Configuración de todos los Adobes [!DNL Commerce] Nube
+* Configure el Adobe [!DNL Commerce] y asegúrese de que el proyecto se configura de manera óptima
+* Configurar todos los aspectos del Adobe [!DNL Commerce] Cloud
 * Supervisión y mejora del proceso de implementación
 * Solución de problemas de infraestructura y configuración
 
@@ -148,11 +148,11 @@ Además, debe estar muy familiarizado con las siguientes actividades y tecnolog�
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/142)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/142)
 
 +++
 
@@ -209,4 +209,4 @@ Además, debe estar muy familiarizado con las siguientes actividades y tecnolog�
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

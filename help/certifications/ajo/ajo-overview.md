@@ -10,14 +10,14 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Journey Optimizer] Resumen de certificación
+# Resumen de certificación del Adobe [!DNL Journey Optimizer]
 
 **Profesional**
 
-* [Profesional empresarial](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
+* [Profesional de negocios](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
 
 **Experto**
 
 * [Desarrollador](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
 
-Visite la [Renovar la certificación](/help/certifications/renew.md) para ver si hay una opción de renovación disponible para este producto.
+Visite la página [Renovar su certificación](/help/certifications/renew.md) para ver si hay una opción de renovación disponible para este producto.

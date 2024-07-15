@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager Sites] Maestro de arquitectos
+# Recorrido de certificación para el Adobe [!DNL Experience Manager Sites] Arquitecto Maestro
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/130) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/130) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 Debería tener:
 
 * Al menos 3 años de experiencia como arquitecto construyendo AEM Sites
-* La capacidad de trabajar en Adobe Managed Services y Adobe [!DNL Experience Manager as a Cloud Service]
-* La capacidad de configurar el Adobe [!DNL Experience Manager] entornos e infraestructura
+* Capacidad para trabajar en el Adobe Managed Services y el Adobe [!DNL Experience Manager as a Cloud Service]
+* La capacidad de configurar entornos e infraestructura de Adobe [!DNL Experience Manager]
 
 Además, debe tener la capacidad de realizar las siguientes tareas:
 
@@ -64,7 +64,7 @@ Además, debe tener la capacidad de realizar las siguientes tareas:
 * Defina un modelo de contenido para contenido/recursos que pueda satisfacer requisitos futuros
 * Define las plantillas y los componentes necesarios en función de los requisitos empresariales
 * Identifique cuándo utilizar componentes principales/funciones/listos para usar en lugar de componentes personalizados
-* Diseñar estrategias de almacenamiento en caché, equilibrio de carga y seguridad (Dispatcher, cortafuegos, CDN).
+* Diseñe estrategias de almacenamiento en caché, equilibrio de carga y seguridad (Dispatcher, cortafuegos, CDN).
 * Proporcionar estimaciones de esfuerzo de alto nivel para la configuración inicial y la entrega de funciones
 * Establecer la función y los casos de uso de la internacionalización
 * Defina estrategias para admitir sitios múltiples y en varios idiomas
@@ -87,13 +87,13 @@ Además, debe tener la capacidad de realizar las siguientes tareas:
 
 {{exam-objectives}}
 
-**Sección 1: Descubrimiento (18 %)**
+**Sección 1: Detección (18%)**
 
 * Traducir objetivos empresariales de alto nivel a requisitos funcionales
 * Ante un escenario, evalúe el estado actual de una arquitectura
 * Determinar los requisitos técnicos no funcionales para el diseño de soluciones
 
-**Sección 2: Diseño de la solución (44 %)**
+**Sección 2: diseño de la solución (44%)**
 
 * Dados los requisitos comerciales, diseñe una arquitectura y una solución detalladas
 * Ante un escenario concreto, determine las soluciones de seguridad adecuadas para un diseño
@@ -102,14 +102,14 @@ Además, debe tener la capacidad de realizar las siguientes tareas:
 * Aplicar conceptos procedimentales para diseñar una arquitectura escalable y resistente
 * Ante un escenario, recomendar estrategias de migración
 
-**Sección 3: Implementación (22 %)**
+**Sección 3: Implementación (22%)**
 
 * Ante un escenario, identifique y resuelva los problemas de diseño revelados durante la fase de implementación
 * Ante un escenario, recomendar enfoques de implementación basados en requisitos
 * Determine los métodos adecuados para utilizar para crear prototipos de soluciones y probar conceptos
 * Ante un escenario, diagnostique y resuelva los problemas encontrados durante la implementación
 
-**Sección 4: Mantenimiento (16 %)**
+**Sección 4: Mantenimiento (16%)**
 
 * En un escenario determinado, diagnostique y resuelva los problemas encontrados en el entorno de producción
 * Aplicar conceptos de procedimiento para planificar el uso de nuevas funciones y actualizaciones
@@ -143,11 +143,11 @@ Además, debe tener la capacidad de realizar las siguientes tareas:
 
 {{study-materials-intro}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/130)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/130)
 
 +++
 
@@ -215,4 +215,4 @@ Además, debe tener la capacidad de realizar las siguientes tareas:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

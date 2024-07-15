@@ -11,7 +11,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->A partir del 1 de agosto de 2023, la programación de exámenes ya no estará disponible con PSI. Si ya ha programado un examen con PSI, debe realizarlo antes del 1 de agosto de 2023. Si ha programado un examen con PSI después del 1 de agosto de 2023, vuelva a programar el examen para que se realice antes de esa fecha. Si no puede o no está preparado para realizar su examen antes del 1 de agosto de 2023, envíe un correo electrónico a <certif@adobe.com> para que podamos apoyarle en la transferencia de su examen a Examity. Esto incluye exámenes en japonés.
+>A partir del 1 de agosto de 2023, la programación de exámenes ya no estará disponible con PSI. Si ya ha programado un examen con PSI, debe realizarlo antes del 1 de agosto de 2023. Si ha programado un examen con PSI después del 1 de agosto de 2023, vuelva a programar el examen para que se realice antes de esa fecha. Si no puede o no está preparado para realizar el examen antes del 1 de agosto de 2023, envíe un correo electrónico a <certif@adobe.com> para que podamos ayudarle a transferir el examen a Examity. Esto incluye exámenes en japonés.
 
 <!--divider-->
 
@@ -49,13 +49,13 @@ Estos pasos le guían a través del proceso de certificación de principio a fin
 
 >[!IMPORTANT]
 >
-> **Documento oficial obligatorio:** DEBE usar una identificación con foto emitida por el gobierno como su forma válida de identificación. No se permiten copias en blanco ni ID digitales. <br><br> **Nombre de la cuenta de Adobe ID:** El nombre de su cuenta de Adobe ID DEBE concordar con su nombre en su identificación oficial. Para actualizar el nombre de su cuenta de Adobe ID, escriba un correo electrónico a <certif@adobe.com>. Solicite esta corrección **72 horas de antelación**. Si los nombres no coinciden en el momento del examen, usted tendrá que inscribirse para un nuevo examen con un cargo adicional.
+> **Se requiere identificación oficial:** DEBE usar una identificación con fotografía emitida por el gobierno como su forma de identificación válida. No se permiten copias en blanco ni ID digitales. <br><br> **Nombre de cuenta de Adobe ID:** Su nombre de cuenta de Adobe ID DEBE coincidir con su nombre en su identificador de gobierno. Para actualizar el nombre de su cuenta de Adobe ID, envíe un correo electrónico a <certif@adobe.com>. Solicite esta corrección **72 horas antes**. Si los nombres no coinciden en el momento del examen, usted tendrá que inscribirse para un nuevo examen con un cargo adicional.
 
-Usted debe tener un Adobe ID para programar y tomar su examen. Si no tiene una Adobe ID, puede crear una [aquí](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+Usted debe tener un Adobe ID para programar y tomar su examen. Si no tiene un Adobe ID, puede crear uno [aquí](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
 Es necesario tener una Adobe ID por tres motivos:
 
-* Necesitará un Adobe ID para crear e iniciar sesión en su [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} cuenta. Aquí es donde puede ver sus certificaciones, historial de exámenes, puntuaciones de exámenes e información adicional.
+* Necesitará un Adobe ID para crear e iniciar sesión en su cuenta de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Aquí es donde puede ver sus certificaciones, historial de exámenes, puntuaciones de exámenes e información adicional.
 * Debe iniciar sesión en el Sistema de administración de credenciales de Adobe para crear e iniciar sesión en su cuenta de Examity. Ahí es donde usted programará, pagará y tomará su examen.
 * Debe iniciar sesión en el Sistema de administración de credenciales de Adobe para realizar pruebas de práctica en el Portal de preparación para exámenes de certificación de Adobe.
 
@@ -69,7 +69,7 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 >[!NOTE]
 >
->Algunos vínculos de esta sección solo funcionarán después de haber iniciado sesión en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}. Dedique un momento a iniciar sesión ahora.
+>Algunos vínculos de esta sección sólo funcionarán después de que haya iniciado sesión en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}. Dedique un momento a iniciar sesión ahora.
 
 <!--divider-->
 
@@ -89,9 +89,9 @@ Recuerde que aprobar un examen de práctica no garantiza que aprobará el examen
 
 Para realizar la prueba de práctica:
 
-1. Primero, inicie sesión en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} con su Adobe ID.
+1. Primero, inicie sesión en [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} con su Adobe ID.
 
-2. A continuación, vaya a [Adobe Certificación Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} para encontrar su prueba de práctica.
+2. A continuación, vaya al [Portal de preparación para el examen de certificación de Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} para encontrar su prueba de práctica.
 
 <!--divider-->
 
@@ -99,7 +99,7 @@ Para realizar la prueba de práctica:
 
 >[!NOTE]
 >
->Algunas secciones de esta sección solo funcionarán después de haber iniciado sesión en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}. Dedique un momento a iniciar sesión ahora.
+>Algunas de estas secciones solo funcionarán después de que haya iniciado sesión en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}. Dedique un momento a iniciar sesión ahora.
 
 **Entrega del examen**
 
@@ -109,11 +109,11 @@ El Adobe utiliza un proveedor llamado Examity para administrar exámenes program
 
 Para programar, reprogramar o cancelar el examen:
 
-1. Primero, inicie sesión en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} con su Adobe ID.
+1. Primero, inicie sesión en [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} con su Adobe ID.
 
-2. A continuación, vaya a [Portal de examen](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} y siga las instrucciones que aparecen en pantalla.
+2. A continuación, vaya al [portal de exámenes](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} y siga las instrucciones que aparecen en la pantalla.
 
-Se deben iniciar las cancelaciones y la reprogramación **48 horas antes** la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos. Ni el Soporte de Adobe ni los proveedores de exámenes pueden procesar solicitudes de reprogramación y cancelación. Las cancelaciones de menos de 48 horas están sujetas a una tarifa de reprogramación además de la tarifa del examen.
+Las cancelaciones y la reprogramación deben iniciarse **48 horas antes** de la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos. Ni el Soporte de Adobe ni los proveedores de exámenes pueden procesar solicitudes de reprogramación y cancelación. Las cancelaciones de menos de 48 horas están sujetas a una tarifa de reprogramación además de la tarifa del examen.
 
 **Cómo pagar**
 
@@ -121,15 +121,15 @@ Paga con tarjeta de crédito: Cuando programes tu examen, se te pedirá que ingr
 
 Pagar por cupón: Para comprar un cupón de examen, diríjase a: Centro de Certificación de Adobe. Puedes aplicar el código de cupón cuando programes tu examen. Consulte a continuación la información sobre descuentos en cupones.
 
-**Compra de un cupón**
+**Comprar un cupón**
 
-Usted puede pagar por un examen con un cupón. Para adquirir un cupón de examen, vaya a la [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Usted puede pagar por un examen con un cupón. Para adquirir un vale de examen, ve al [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 Puedes aplicar el código de cupón cuando programes tu examen. Consulte a continuación la información sobre descuentos en cupones.
 
 Todos los candidatos pueden recibir un descuento en compras masivas de 10 o más exámenes cuando compren a través del Centro de Certificación de Adobes.
 
-Para obtener más información sobre los cupones, consulte la [FAQ](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Para obtener más información sobre los cupones, consulta las [preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
 
 **Descuentos**
 
@@ -160,9 +160,9 @@ Nota: Los descuentos por lotes no se pueden combinar con ninguna otra oferta o d
 
 >[!IMPORTANT]
 >
-> **Documento oficial obligatorio:** DEBE usar una identificación con foto emitida por el gobierno como su forma válida de identificación. No se permiten copias en blanco ni ID digitales. <br><br> **Nombre de la cuenta de Adobe ID:** El nombre de su cuenta de Adobe ID DEBE concordar con su nombre en su identificación oficial. Para actualizar el nombre de su cuenta de Adobe ID, escriba un correo electrónico a <certif@adobe.com>. Solicite esta corrección **72 horas de antelación**. Si los nombres no coinciden en el momento del examen, usted tendrá que inscribirse para un nuevo examen con un cargo adicional.
+> **Se requiere identificación oficial:** DEBE usar una identificación con fotografía emitida por el gobierno como su forma de identificación válida. No se permiten copias en blanco ni ID digitales. <br><br> **Nombre de cuenta de Adobe ID:** Su nombre de cuenta de Adobe ID DEBE coincidir con su nombre en su identificador de gobierno. Para actualizar el nombre de su cuenta de Adobe ID, envíe un correo electrónico a <certif@adobe.com>. Solicite esta corrección **72 horas antes**. Si los nombres no coinciden en el momento del examen, usted tendrá que inscribirse para un nuevo examen con un cargo adicional.
 
-**Día del examen**
+**Día de examen**
 
 * ¡Llega temprano! Su supervisor comenzará su sesión precisamente en la hora de inicio de su cita, así que permita tiempo para iniciar sesión en Examity antes de su cita.
 * Prepare su espacio de escritorio. Elimine cualquier monitor, dispositivo electrónico, libros, portátiles, papeles, etc. adicionales. desde el escritorio.
@@ -183,13 +183,13 @@ El Adobe utiliza el examen para administrar los exámenes controlados en línea.
 
 * **Programa, reprograma o cancela tu examen.** Tenga en cuenta que la cancelación y la reprogramación deben iniciarse antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
 
-* **Paga tu examen.** Pague su examen de certificación ya sea por cupón o tarjeta de crédito en el portal Examity. Para adquirir un cupón de examen, vaya a: [Sistema de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}. Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
+* **Paga el examen.** Pague el examen de certificación mediante un vale o una tarjeta de crédito en el portal de examen. Para adquirir un vale de examen, ve a: [Sistema de cupones de certificación de Adobes](https://market.xvoucher.com/adobe/global){target="_blank"}. Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
 
-* **Haz tu examen.**
+* **Realiza tu examen.**
 
 >[!NOTE]
 >
->Debe iniciar sesión en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} antes de hacer clic en el botón Examinar a continuación.
+>Debe iniciar sesión en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} antes de hacer clic en el botón Examinar que aparece a continuación.
 
 <!--divider-->
 
@@ -199,16 +199,16 @@ Una vez que haya aprobado su examen de certificación, recibirá una insignia di
 
 Su insignia sirve como prueba tangible de su aptitud con los productos de Adobe Experience Cloud. Al mostrarlo en sus perfiles de medios sociales o currículum, puede demostrar su logro a posibles empleadores y clientes y mostrar sus habilidades en estas aplicaciones.
 
-**Para los usuarios existentes, hay dos formas de aceptar su distintivo de certificación de Adobe:**
+**Para los usuarios existentes, existen dos maneras de aceptar su distintivo de certificación de Adobe:**
 
-* **Paso 1:** Iniciar sesión en [Con Credibilidad](https://www.credly.com/users/sign_in){target="_blank"}. (Debe utilizar el mismo correo electrónico que utilizó para obtener su credencial de Adobe; de lo contrario, no verá su insignia).
-* **Paso 2:** O vaya al correo electrónico que recibió de Credly para aceptar la insignia.
+* **Paso 1:** Inicia sesión en [Credly](https://www.credly.com/users/sign_in){target="_blank"}. (Debe utilizar el mismo correo electrónico que utilizó para obtener su credencial de Adobe; de lo contrario, no verá su insignia).
+* **Paso 2:** O ve al correo electrónico que recibiste de Credly para aceptar la insignia.
 * **Paso 3:** Acepte y comparta su insignia.
 
-**Para nuevos usuarios, siga las instrucciones a continuación para aceptar su distintivo de certificación de Adobe:**
+**Para nuevos usuarios, siga las instrucciones que se indican a continuación para aceptar su distintivo de certificación de Adobe:**
 
-* **Paso 1:** Vaya al correo electrónico que ha recibido de Credly para aceptar la insignia.
-* **Paso 2:** Cree una cuenta de. (Debe utilizar el mismo correo electrónico que utilizó para obtener su credencial de Adobe; de lo contrario, no verá su insignia).
+* **Paso 1:** Vaya al correo electrónico que recibió de Credly para aceptar la insignia.
+* **Paso 2:** Crear una cuenta. (Debe utilizar el mismo correo electrónico que utilizó para obtener su credencial de Adobe; de lo contrario, no verá su insignia).
 * **Paso 3:** Acepte y comparta su insignia.
 
 [Más información](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
@@ -217,7 +217,7 @@ Su insignia sirve como prueba tangible de su aptitud con los productos de Adobe 
 
 ## Renovación de la certificación {#renewing-intro}
 
-Las certificaciones caducan al cabo de dos años. Para mantener su certificación, debe renovarla antes de que caduque. Visite la [Renovar la certificación](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} para obtener más información.
+Las certificaciones caducan al cabo de dos años. Para mantener su certificación, debe renovarla antes de que caduque. Visite la página [Renovar su certificación](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} para obtener más información.
 
 <!--divider-->
 

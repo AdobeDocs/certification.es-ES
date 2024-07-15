@@ -1,6 +1,6 @@
 ---
 title: Profesional de negocios Certificación profesional
-description: Obtenga información sobre cómo certificarse como Adobe [!DNL Audience Manager] Profesional de negocios.
+description: Aprenda a obtener la certificación de Adobe  [!DNL Audience Manager] Profesional Empresarial.
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Audience Manager] Profesional empresarial
+# Recorrido de certificación para el Adobe [!DNL Audience Manager] Profesional de negocios
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/245) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/245) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -71,22 +71,22 @@ Debe tener una comprensión básica de los flujos de datos, los objetivos empres
 * Identificación de los distintos tipos de destinos
 * Identificación de los distintos tipos de fuentes
 
-**Sección 2: Creación de características (16 %)**
+**Sección 2: Creación de rasgos (16%)**
 
 * En un escenario determinado, identifique señales, rasgos, segmentos y audiencias
 * Identificación de los usos de diferentes tipos de rasgos
 
-**Sección 3: Informes y mediciones (16 %)**
+**Sección 3: Informes y mediciones (16%)**
 
 * Ante un escenario, genere informes para medir los objetivos de activación o campaña
 * En un escenario determinado, compare audiencias según las tasas de coincidencia
 
-**Sección 4: Resolución de problemas (10 %)**
+**Sección 4: Solución de problemas (10%)**
 
 * En un escenario determinado, solucione los problemas de datos entrantes de diferentes fuentes y tipos de fuentes
 * Validar formato para archivos de datos de entrada
 
-**Sección 5: Taxonomía (12 %)**
+**Sección 5: Taxonomía (12%)**
 
 * Determine la estructura adecuada para crear rasgos y segmentos que utilicen una nomenclatura clara y coherente
 * Determinar la técnica correcta para mantener una plataforma organizada mediante una estructura de carpetas clara
@@ -116,11 +116,11 @@ Debe tener una comprensión básica de los flujos de datos, los objetivos empres
 
 {{study-materials-intro}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/245)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/245)
 
 +++
 
@@ -177,5 +177,5 @@ Debe tener una comprensión básica de los flujos de datos, los objetivos empres
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
 

@@ -1,6 +1,6 @@
 ---
 title: Certificación profesional de desarrollador back-end de AEM Forms
-description: Aprenda a obtener la certificación de Adobe [!DNL Experience Manager Forms] Experto desarrollador backend.
+description: Aprenda a convertirse en un experto certificado en desarrollo de Adobe  [!DNL Experience Manager Forms] backend.
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager Forms] Experto de desarrollador
+# Recorrido de certificación para el Adobe [!DNL Experience Manager Forms] Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/128) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/128) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -79,7 +79,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Rellenar previamente un formulario adaptable
 * Comprensión o conocimiento básico de los componentes de OSGi y Sling
 * Uso de Document Services
-* AEM AEM AEM Designer, área de trabajo de la, área de trabajo
+* AEM Designer AEM AEM, área de trabajo de, área de trabajo
 * Consola de formularios adaptables
 * Herramientas IDE de Java
 * Maven
@@ -91,7 +91,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{exam-objectives}}
 
-**Sección 1: Creación y administración de Forms (36 %)**
+**Sección 1: Creación y administración de Forms (36%)**
 
 * Generar Forms
 * Configuración del modelo de datos de Forms
@@ -107,20 +107,20 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Manipulación del PDF mediante los servicios de Forms o Assembler
 * Implementación de servicios JDBC
 
-**Sección 3: Administración y resolución de problemas (18 %)**
+**Sección 3: Administración y solución de problemas (18%)**
 
 * Solución de problemas y diferenciación de archivos de registro
 * Realizar actividades de administración
 * Aplicar Service Packs
-* AEM Realizar configuración de Dispatcher para Forms
+* AEM Realizar la configuración de Dispatcher para Forms
 * Navegar por distintas consolas
 
-**Sección 4: Extremos e integraciones de API (8 %)**
+**Sección 4: Extremos e integraciones de API (8%)**
 
 * Integración con Adobe Experience Cloud
 * Generar y consumir varios servicios de extremos
 
-**Sección 5: Comunicación interactiva (4 %)**
+**Sección 5: Comunicación interactiva (4%)**
 
 * Diseñar, mostrar e implementar procesos para la comunicación interactiva
 
@@ -156,11 +156,11 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/128)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/128)
 
 +++
 
@@ -217,4 +217,4 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

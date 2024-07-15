@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto
-description: Aprenda a obtener la certificación de Adobe [!DNL Journey Optimizer] Experto en desarrollo.
+description: Aprenda a obtener la certificación de Adobe [!DNL Journey Optimizer] Experto en desarrolladores.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -10,17 +10,17 @@ hidefromtoc: true
 source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '633'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Journey Optimizer] Experto de desarrollador
+# Recorrido de certificación para el Adobe [!DNL Journey Optimizer] Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->Este examen, Adobe [!DNL Journey Optimizer] Se ha actualizado Developer Expert (AD0-E603). Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 22 de diciembre de 2023. Si acaba de empezar, le recomendamos que tome la [versión más reciente de este examen](ajo-e-developer-23-10.md).
+>Se ha actualizado este examen, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603). Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 22 de diciembre de 2023. Si acaba de empezar, le recomendamos que realice la [versión más reciente de este examen](ajo-e-developer-23-10.md).
 
 ## Descripción del examen {#exam-description}
 
@@ -78,7 +78,7 @@ Debe tener al menos un año de experiencia trabajando con varios sistemas de aut
 
 {{exam-objectives}}
 
-**Sección 1: Administración y configuración (17 %)**
+**Sección 1: Administración y configuración (17%)**
 
 * Identifique las funciones y los permisos que se aplican a cada función
 * Describir cómo asignar, restablecer o eliminar una zona protegida
@@ -93,7 +93,7 @@ Debe tener al menos un año de experiencia trabajando con varios sistemas de aut
 * Explicar cómo configurar esquemas para AJO
 * Determinar el comportamiento del perfil del cliente en tiempo real en AJO
 
-**Sección 3: Offer decisioning (11 %)**
+**Sección 3: Offer decisioning (11%)**
 
 * Demostrar y comprender la creación y administración de ofertas y componentes
 * Demostración de cómo utilizar perfiles de prueba para ejecutar la simulación de ofertas
@@ -104,7 +104,7 @@ Debe tener al menos un año de experiencia trabajando con varios sistemas de aut
 * Demostrar y comprender la manipulación y personalización de contenido mediante funciones de ayuda
 * Demostración y comprensión de la validación, corrección y publicación de un mensaje
 
-**Sección 5: Journey Orchestration (19 %)**
+**Sección 5: Journey Orchestration (19%)**
 
 * Explicar el proceso de creación de un recorrido multicanal
 * Identificar dónde acceder a los paneles de informes
@@ -151,15 +151,15 @@ Debe tener al menos un año de experiencia trabajando con varios sistemas de aut
 * [Resumen de zonas protegidas](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=es){target="_blank"}
 
 
-**Sección 2: Fundamentos de AEP**
+**Sección 2: AEP Foundation**
 
-* [Adobe [!DNL Experience Platform] Documentación](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es){target="_blank"}
+* [Adobe [!DNL Experience Platform] Documentación](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * Guía de XDM
    * Guía de Perfil del cliente en tiempo real
    * Guía del servicio de identidad de Platform
    * configuración de un flujo de datos
-   * Guía de conectores de origen
+   * Guía de conectores de Source
    * Guía de ingesta de datos
    * Guía del servicio de segmentación
    * Esquemas
@@ -232,7 +232,7 @@ Debe tener al menos un año de experiencia trabajando con varios sistemas de aut
 
 >[!NOTE]
 >
->Este examen, Adobe [!DNL Journey Optimizer] Se ha actualizado Developer Expert (AD0-E603). Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 22 de diciembre de 2023. Si acaba de empezar, le recomendamos que tome la [versión más reciente de este examen](ajo-e-developer-23-10.md).
+>Se ha actualizado este examen, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603). Si ya has empezado a estudiar o estás programado para tomar esta versión, asegúrate de completarla antes del 22 de diciembre de 2023. Si acaba de empezar, le recomendamos que realice la [versión más reciente de este examen](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -263,4 +263,4 @@ Debe tener al menos un año de experiencia trabajando con varios sistemas de aut
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

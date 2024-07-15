@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto
-description: Aprenda a obtener la certificación de Adobe [!DNL Real-Time Customer Data Platform] Experto de desarrollador
+description: Aprenda a convertirse en un Adobe certificado [!DNL Real-Time Customer Data Platform] Experto en desarrolladores
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Real-Time Customer Data Platform] Experto de desarrollador
+# Recorrido de certificación para el Adobe [!DNL Real-Time Customer Data Platform] Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/246) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/246) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -81,7 +81,7 @@ Debe estar familiarizado con estos conceptos:
 Debe sentirse cómodo en estos entornos:
 
 * AEP
-* Red perimetral
+* red de Edge
 
 <br>
 
@@ -91,7 +91,7 @@ Debe sentirse cómodo en estos entornos:
 
 **Arquitectura de datos (19 %)**
 
-* En función de un escenario, traducir RDBMS a Adobe [!DNL RT-CDP]Modelo de datos NoSQL de
+* En función de un escenario, traduzca RDBMS al modelo de datos NoSQL del Adobe [!DNL RT-CDP]
 * Mostrar las prácticas recomendadas para modelar el perfil del cliente en tiempo real
 * Diseñar la estrategia de identidad y las relaciones para el modelado
 
@@ -122,10 +122,10 @@ Debe sentirse cómodo en estos entornos:
 
 **Gobernanza (9 %)**
 
-* Aplicar prácticas recomendadas para la gobernanza en el Adobe [!DNL RT-CDP] implementación
+* Aplicar prácticas recomendadas de gobernanza en la implementación de Adobe [!DNL RT-CDP]
 * Describir cómo administrar los datos en los distintos servicios
 
-**Administración (15 %)**
+**Administración (15%)**
 
 * Comprender las capacidades de monitorización
 * Describir alertas
@@ -156,11 +156,11 @@ Debe sentirse cómodo en estos entornos:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/246)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/246)
 
 +++
 
@@ -217,4 +217,4 @@ Debe sentirse cómodo en estos entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

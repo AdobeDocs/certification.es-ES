@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Marketo Engage] Profesional
+# Recorrido de certificación para el Adobe [!DNL Marketo Engage] profesional
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso**: Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Esto proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Curso**: si acaba de empezar o necesita un repaso, asista al [Curso de Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261) para acceder a explicaciones de conceptos clave, guías de productos y comprobaciones de conocimientos. Esto proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/247) proporciona una ruta adaptada a través del proceso de preparación del examen, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en su examen.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/247) proporciona una ruta adaptada a través del proceso de preparación para exámenes, que incluye los materiales de estudio detallados que necesitarás para tener éxito en tu examen.
 >
 >_Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
@@ -89,7 +89,7 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 {{exam-objectives}}
 
-**Sección 1: Creación y gestión de programas (39 %)**
+**Sección 1: Generación y administración de programas (39%)**
 
 * Identifique cuándo utilizar cada uno de los 4 tipos de programas.
 * Identificar por qué/cuándo utilizar el programa de eventos.
@@ -106,7 +106,7 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 * Comprender las preferencias del cliente (suscripción, comunicación).
 * Aplique las prácticas recomendadas para su revisión antes del lanzamiento.
 
-**Sección 2: Creación de activos (19 %)**
+**Sección 2: Generando recursos (19%)**
 
 * Manipulación de archivos en Design Studio (carga o sustitución de imágenes y archivos).
 * Crear o modificar un formulario con el Editor de formularios.
@@ -116,7 +116,7 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 * Distinguir la diferencia entre los activos en borrador y los aprobados.
 * Distinguir la diferencia entre los recursos locales y globales.
 
-**Sección 3: Definición y segmentación de audiencias (33 %)**
+**Sección 3: Definir y segmentar audiencias (33 %)**
 
 * Crear/modificar listas inteligentes.
 * Comprender los pasos del flujo de campañas inteligentes.
@@ -124,16 +124,16 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 * Interprete los resultados de campañas inteligentes.
 * Describa el propósito de una segmentación y su uso.
 * Identificar la base de datos y navegar por ella.
-* Explicar cómo establecer la configuración de privacidad en Adobe [!DNL Marketo Engage].
+* Explique cómo establecer la configuración de privacidad en el Adobe [!DNL Marketo Engage].
 * Diferenciar entre listas inteligentes y listas estáticas.
 * Definir listas inteligentes del sistema.
 * Compare y contraste los diferentes tipos de campañas inteligentes.
 * Comprenda cómo funcionan los déclencheur y filtros de campañas inteligentes.
 * Diferenciación entre las distintas importaciones de lista.
 
-**Sección 4: Análisis y creación de informes (9 %)**
+**Sección 4: Análisis y generación de informes (9%)**
 
-* Explicación del Adobe estándar [!DNL Marketo Engage] y cuándo se deben utilizar (Rendimiento de vínculos de correo electrónico, Rendimiento de correo electrónico, Rendimiento de página de aterrizaje, Rendimiento de personas, Rendimiento de programa, Actividad de página web, etc.)
+* Explique los informes de Adobe estándar [!DNL Marketo Engage] y cuándo se deben usar (Rendimiento de vínculos de correo electrónico, Rendimiento de correo electrónico, Rendimiento de página de aterrizaje, Rendimiento de personas, Rendimiento de programa, Actividad de página web, etc.)
 * Comprender la información y las métricas del tablero (tablero del programa de correo electrónico, tablero del programa de participación)
 * Comprender las métricas de Email Insights
 
@@ -169,17 +169,17 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 {{practice-test}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
-[Siga el curso de Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261)
+[Asista al curso Adobe Marketo Engage Foundations](https://app.rockinfo.com/courses/261)
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/247)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/247)
 
 +++
 
@@ -247,4 +247,4 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

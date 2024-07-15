@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto profesional empresarial
-description: Aprenda a convertirse en un experto profesional certificado en Adobe con [!DNL Campaign Classic].
+description: Aprenda a convertirse en un experto certificado en profesionales de Adobe con  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Campaign Classic] Experto profesional de negocios
+# Recorrido de certificación para el Adobe [!DNL Campaign Classic] experto profesional empresarial
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/253) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/253) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, que incluye los materiales de estudio detallados que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 Debería tener:
 
-* Al menos 2 años de Adobe extensivo [!DNL Campaign Classic] experiencia informática
+* Al menos 2 años de amplia experiencia en software de Adobe [!DNL Campaign Classic]
 * Experiencia de varios años en el desarrollo de campañas y tácticas de marketing mediante el uso de omnicanal digital
 * Experiencia en la interpretación/traducción de los requisitos empresariales a los entregables de Campaign procesables
 * Experiencia con métricas de marketing como ROI, tasas de pulsaciones y conversión
@@ -69,7 +69,7 @@ Debería tener:
 
 {{exam-objectives}}
 
-**Sección 1: Administración de campañas (20 %)**
+**Sección 1: Administración de campañas (20%)**
 
 * Aplicar las prácticas recomendadas para crear una campaña
 * Ante un escenario concreto, determine la plantilla de campaña correcta
@@ -77,14 +77,14 @@ Debería tener:
 * Describir asignaciones de destino
 * Explicar cómo configurar aplicaciones web y formularios web
 
-**Sección 2: Administración del flujo de trabajo (22 %)**
+**Sección 2: Administración del flujo de trabajo (22%)**
 
 * Evaluar un conjunto determinado de requisitos de la campaña y recomendar el curso de acción
 * Ante un escenario concreto, analizar errores de flujo de trabajo
 * Dados un conjunto de requisitos de campaña, determine el diseño correcto de un flujo de trabajo de marketing
 * Aplicar prácticas recomendadas al ejecutar flujos de trabajo
 
-**Sección 3: Gestión de datos (24 %)**
+**Sección 3: Administración de datos (24%)**
 
 * Explicar los conceptos básicos de las bases de datos relacionales
 * Determinar las diferentes fuentes de datos a las que puede acceder un flujo de trabajo
@@ -94,19 +94,19 @@ Debería tener:
 * Aplicar los pasos para configurar un filtro predefinido
 * Dados los requisitos empresariales, identifique el formulario de entrada adecuado
 
-**Sección 4: Gestión de envíos (14 %)**
+**Sección 4: Administración de envíos (14%)**
 
 * Aplique los pasos para crear/configurar envíos
 * En un escenario determinado, seleccione y configure la audiencia de prueba adecuada para las aprobaciones
 * Analizar e interpretar las auditorías de envío
 
-**Sección 5: Informes (12 %)**
+**Sección 5: Informes (12%)**
 
 * En un escenario determinado, determine los informes adecuados que se van a generar
 * Interpretación de informes integrados
 * Explicar el impacto de la limpieza/depuración de registros en los informes
 
-**Sección 6: Administración (8 %)**
+**Sección 6: Administración (8%)**
 
 * En un escenario determinado, explique el impacto de la depuración de registros en los informes
 * Dados los requisitos comerciales, conceda las autorizaciones y los accesos adecuados
@@ -136,11 +136,11 @@ Debería tener:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/253)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/253)
 
 +++
 
@@ -197,4 +197,4 @@ Debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

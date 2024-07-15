@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto profesional empresarial
-description: Aprenda a convertirse en un experto profesional de Adobe certificado en [!DNL Adobe Target].
+description: Aprenda a convertirse en un experto profesional certificado en Adobe en  [!DNL Adobe Target].
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para [!DNL Adobe Target] Experto profesional de negocios
+# Recorrido de certificación para [!DNL Adobe Target] experto en profesionales empresariales
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/236) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/236) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -55,13 +55,13 @@ Los candidatos a esta certificación incluyen miembros de los siguientes equipos
 
 Debería tener:
 
-* Más de 2 años de experiencia con plataformas de optimización, que incluyen [!DNL Adobe Target]
+* Más de 2 años de experiencia con plataformas de optimización, incluido [!DNL Adobe Target]
 * Experiencia práctica con [!DNL Adobe Target]
 * Más de 2 años de experiencia liderando/contribuyendo en programas de optimización
 * Una comprensión de los conceptos básicos de las tareas administrativas de Target/Adobe Marketing Cloud (preferencias, funciones de usuario y permisos, configuración)
 * La capacidad de comprender y traducir los KPI empresariales en objetivos de optimización
 * La capacidad de hacer sugerencias basadas en la evaluación de necesidades
-* La capacidad de determinar el [!DNL Adobe Target] tipos de actividades basadas en objetivos de optimización
+* Capacidad para determinar los tipos de actividad [!DNL Adobe Target] adecuados en función de los objetivos de optimización
 * Conocimiento de cómo se pueden utilizar HTML y CSS para optimizar la experiencia del usuario
 * Comprensión de JavaScript como concepto
 * El conocimiento de conceptos estadísticos y análisis de datos en su aplicación a la optimización
@@ -79,8 +79,8 @@ Tecnologías:
 * Consola del explorador/Herramientas para desarrolladores del explorador como consola y pestaña de red
 * Herramientas de red en el explorador
 * Comprensión básica de otras herramientas de Adobe
-* Consola de desarrollador (cualquier explorador web)
-* [!DNL Adobe Target] calculadora muestras
+* Developer Console (cualquier navegador web)
+* [!DNL Adobe Target] calculadora de muestra
 * Aspectos básicos de Adobe Audience Manager
 * Adobe Experience Cloud (como fuente de audiencia para Target)
 * Adobe Experience Manager
@@ -105,7 +105,7 @@ Entornos:
 
 {{exam-objectives}}
 
-**Sección 1: Planificación y estrategia (31 %)**
+**Sección 1: Planificación y estrategia (31%)**
 
 * Identificar los KPI empresariales y traducirlos correctamente en objetivos de optimización, dados los requisitos clave del negocio
 * Identifique oportunidades de optimización basadas en KPI empresariales y análisis de datos
@@ -117,7 +117,7 @@ Entornos:
 * Evaluar los requisitos de audiencia
 * Determine las fuentes de informes de análisis adecuadas (es decir, Target o Adobe Analytics)
 
-**Sección 2: Configuración, ejecución y administración (42 %)**
+**Sección 2: Configuración, ejecución y administración (42%)**
 
 * Explicar el uso del Compositor de experiencias basadas en formularios frente al Compositor de experiencias visuales
 * Aplique procedimientos para crear una experiencia con VEC
@@ -134,16 +134,16 @@ Entornos:
 * Aplicar procedimientos para realizar el control de calidad de las actividades
 * Aplicar procedimientos para administrar Actividades y Audiencias dentro de Target
 
-**Sección 3: Análisis e informes (17 %)**
+**Sección 3: Análisis e informes (17%)**
 
 * Defina y evalúe la configuración del informe para ayudar a establecer los elementos que aparecen en un informe
-* Evaluar y comparar [!DNL Adobe Target] Configuración de la calculadora de tamaño de muestra al planificar las actividades de Target y al validar los informes de actividades de Target
+* Evalúe y compare la configuración de la calculadora de tamaño de muestra [!DNL Adobe Target] al planificar las actividades de Target y al validar los informes de las actividades de Target
 * Evaluar e identificar problemas comunes asociados con las pruebas A/B y cómo evitarlos
 * Comprender las diferencias entre los informes de resumen de Automated Personalization y otros informes
 * Evaluar informes de rendimiento de las experiencias (MVT)
 * Determine la variación ganadora en función del alza observada, los niveles de confianza y los objetivos empresariales
 
-**Sección 4: Resolución de problemas (10 %)**
+**Sección 4: Solución de problemas (10%)**
 
 * Diagnosticar problemas de calificación de actividades
 * Utilice las herramientas de depuración del explorador (incluido el Experience Cloud Debugger) para comprobar la implementación
@@ -173,11 +173,11 @@ Entornos:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/236)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/236)
 
 +++
 
@@ -245,4 +245,4 @@ Entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

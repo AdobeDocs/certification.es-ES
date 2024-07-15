@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/126) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/126) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -80,37 +80,37 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{exam-objectives}}
 
-**Sección 1: Configuración de Adobe Experience Manager (18 %)**
+**Sección 1: Configurar Adobe Experience Manager (18%)**
 
 * Determine el método correcto para establecer la configuración fundamental de Adobe Experience Manager
 * Ante un escenario, solucione los problemas de Adobe Experience Manager
 * Determine el método correcto para configurar OSGi
 
-**Sección 2: Gestionar la API de Cloud Manager y Cloud Manager (20 %)**
+**Sección 2: Operar Cloud Manager y la API de Cloud Manager (20%)**
 
 * Determine el método correcto para administrar la configuración de los entornos de Cloud Manager a través de la IU
 * Determine el método correcto para aprovisionar programas y entornos en Cloud Manager
 * Determine el método correcto para migrar a Adobe Experience Manager as a Cloud Service
 * Determine el método correcto para configurar integraciones en el Adobe I/O
 
-**Sección 3: Configuración de la infraestructura de proxy web (12 %)**
+**Sección 3: Configurar la infraestructura de proxy web (12%)**
 
 * Determine el método correcto para administrar las configuraciones de Dispatcher
 * Ante un escenario, solucione los problemas de almacenamiento en caché
 
-**Sección 4: Generación e implementaciones (28 %)**
+**Sección 4: compilación e implementaciones (28 %)**
 
 * Determine el método correcto para administrar las implementaciones de Cloud Manager
-* Ante un escenario, analice el estado de una canalización de Cloud Manager
+* Ante un escenario determinado, analizar el estado de una canalización de Cloud Manager
 * Determine el método correcto para administrar paquetes de contenido en varias instancias de Adobe Experience Manager
 * Determine el método correcto para realizar cambios en los archivos Maven y admitir canalizaciones
 
-**Sección 5: Monitorización e informes sobre métricas de calidad (14 %)**
+**Sección 5: Supervisar e informar sobre métricas de calidad (14%)**
 
 * Determine el método correcto para recopilar métricas e informes de rendimiento
 * Determine el método correcto para escalar la infraestructura
 
-**Sección 6: Operar al Admin Console (8%)**
+**Sección 6: Operar el Admin Console (8%)**
 
 * Determine el método correcto para enviar una solicitud de asistencia en el Admin Console
 * Determine el método correcto para configurar el SSO federado y sincronizar usuarios y grupos de Adobe Experience Manager
@@ -141,11 +141,11 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{study-materials-intro}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/126)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/126)
 
 +++
 
@@ -213,4 +213,4 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

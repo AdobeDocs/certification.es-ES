@@ -1,6 +1,6 @@
 ---
 title: Profesional de negocios Certificación profesional
-description: Obtenga información sobre cómo obtener una certificación [!DNL Adobe Target] Profesional de negocios.
+description: Aprenda a obtener la certificación  [!DNL Adobe Target] Profesional Empresarial.
 solution: Target
 product: Target
 role: User
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/235) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/235) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -55,7 +55,7 @@ Los candidatos a esta certificación incluyen miembros de los siguientes equipos
 
 Debería tener:
 
-* Experiencia de 0 a 12 meses con plataformas de optimización, que incluye [!DNL Adobe Target]
+* Experiencia de 0 a 12 meses con plataformas de optimización, incluyendo [!DNL Adobe Target]
 * Experiencia práctica supervisada con [!DNL Adobe Target]
 * 0-12 meses de experiencia como líder/contribuyente en programas de optimización
 * Capacidad para identificar tareas administrativas básicas de Target/Adobe Marketing Cloud (preferencias, funciones de usuario y permisos, configuración)
@@ -68,7 +68,7 @@ Debería tener:
 
 {{exam-objectives}}
 
-**Sección 1: Planificación y estrategia (26 %)**
+**Sección 1: Planificación y estrategia (26%)**
 
 * Identificar KPI empresariales
 * Dado un escenario de KPI empresariales y análisis de datos, identifique oportunidades para la optimización
@@ -79,7 +79,7 @@ Debería tener:
 * Ante un escenario concreto, evaluar los requisitos de audiencia
 * Describir las fuentes de informes de análisis adecuadas (es decir, Target o Adobe Analytics).
 
-**Sección 2: Configuración, ejecución y administración (50 %)**
+**Sección 2: Configurar, ejecutar y administrar (50%)**
 
 * Explicar el uso del Compositor de experiencias basadas en formularios frente al Compositor de experiencias visuales
 * Describir los procedimientos para crear una experiencia con VEC
@@ -96,16 +96,16 @@ Debería tener:
 * Describa los procedimientos para realizar el control de calidad de la actividad
 * Describa los procedimientos para administrar Actividades y Audiencias dentro de Target
 
-**Sección 3: Análisis e informes (16 %)**
+**Sección 3: Análisis e informes (16%)**
 
 * Describa la configuración para ayudar a establecer los elementos que aparecen en un informe
-* Describir la diferencia en [!DNL Adobe Target] Configuración de la calculadora de tamaño de muestra entre planificación y validación
+* Describa la diferencia en la configuración de la calculadora de tamaño de muestra [!DNL Adobe Target] entre la planificación y la validación
 * Describir problemas comunes asociados con las pruebas A/B.
 * Identificar las diferencias entre los informes de resumen de Automated Personalization y otros informes
 * Describir las funciones de los informes de rendimiento de las experiencias (MVT)
 * Describa las prácticas recomendadas que deben seguirse en la ejecución de pruebas A/B.
 
-**Sección 4: Resolución de problemas (8 %)**
+**Sección 4: Solución de problemas (8%)**
 
 * Ante un escenario concreto, identifique los problemas de calificación de actividades
 * Identificar las funciones de las herramientas de depuración del explorador (incluido el Experience Cloud Debugger)
@@ -135,11 +135,11 @@ Debería tener:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/235)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/235)
 
 <br>
 
@@ -198,4 +198,4 @@ Debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

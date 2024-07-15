@@ -1,6 +1,6 @@
 ---
 title: Certificación de Developer Professional
-description: Aprenda a obtener la certificación de profesional de Adobe Developer en Adobe [!DNL Workfront Fusion].
+description: Aprenda a obtener la certificación de profesional de Adobe Developer en el Adobe  [!DNL Workfront Fusion].
 solution: Workfront
 role: Developer
 badge: label="Examen AD0-E902" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Workfront Fusion] Desarrollador profesional
+# Recorrido de certificación para el desarrollador profesional del Adobe [!DNL Workfront Fusion]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/228) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/228) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -54,10 +54,10 @@ ht-degree: 0%
 
 Debería tener:
 
-* La capacidad de con [!DNL Workfront] API y el explorador de API, pero no necesariamente son competentes en llamadas de API
+* La capacidad de usar la API [!DNL Workfront] y el explorador de la API, pero no necesariamente es competente en llamadas a la API
 * La capacidad de usar llamadas de API personalizadas para trabajar con [!DNL Workfront] y otras API
-* La capacidad de usar módulos para [!DNL Workfront] aplicación y otras acciones como crear, leer, actualizar, eliminar y buscar
-* La capacidad de crear soluciones viables que produzcan resultados empresariales sin afectar a [!DNL Fusion] barandas
+* La capacidad de usar módulos para la aplicación [!DNL Workfront] y otras acciones como crear, leer, actualizar, eliminar y buscar
+* La capacidad de generar soluciones viables que produzcan resultados empresariales sin alcanzar las barreras de [!DNL Fusion]
 * La capacidad de seleccionar el módulo de déclencheur adecuado para lograr resultados empresariales
 * Una comprensión de cómo utilizar el control de flujo (rutas, iteradores/agregadores, explicar el flujo)
 * La capacidad de llevar a cabo la solución de problemas y la gestión de errores básicos
@@ -71,50 +71,50 @@ Debería tener:
 
 {{exam-objectives}}
 
-**Sección 1: Conceptos técnicos básicos (39 %)**
+**Sección 1: Conceptos técnicos básicos (39%)**
 
-* Dado un [!DNL Fusion] con un formato de campo que debe estar en otro formato de campo, proporcione las posibles funciones que podrían utilizarse para transformar los datos correctamente
-* Dado un [!DNL Fusion] En un escenario que requiera que una función esté anidada dentro de otra función, seleccione la expresión formada correctamente
-* Identificar formas de utilizar equipos para controlar el acceso a conexiones y otros [!DNL Fusion] características
-* Dado un [!DNL Fusion] , identifique las limitaciones del sistema y las características
-* Dado un [!DNL Fusion] que requiera manipulación de huso horario, distinguir entre el usuario, la organización visible y dónde se necesita anular la zona horaria
-* Dado un [!DNL Fusion] , seleccione la opción adecuada [!DNL Workfront] módulo(s) o acción(es)
-* Dado un [!DNL Fusion] , seleccione la expresión o los módulos del panel Asignación que transformarían correctamente los datos de entrada en datos de salida
-* Identificar la(s) forma(s) correcta(s) de utilizar el [!DNL Fusion] Herramienta de desarrollo para solucionar errores en la ejecución o determinar las llamadas y respuestas realizadas a sistemas de terceros
-* Dado un [!DNL Fusion] situación en la que se necesitan datos en una ruta en otra ruta, proporcione una solución set-get para que esos datos estén disponibles en rutas de enrutamiento adicionales
-* Identificar las formas de utilizar o producir un [!DNL Fusion] plantilla para una necesidad empresarial
-* Dado un [!DNL Fusion] , identifique qué hacer para ver ejecuciones y/o resolver errores
-* Identificar las distintas opciones de la variable [!DNL Fusion] configuración de escenario para satisfacer las necesidades de escenario
-* Dado un [!DNL Fusion] , seleccione el control de flujo adecuado y/o determine la combinación correcta de módulos de control de flujo
+* Dado el escenario [!DNL Fusion] con un formato de campo que debe estar en otro formato de campo, proporcione las posibles funciones que podrían usarse para transformar los datos correctamente
+* Dado un escenario [!DNL Fusion] que requiere que una función esté anidada dentro de otra función, seleccione la expresión formada correctamente
+* Identificar formas de usar equipos para controlar el acceso a las conexiones y otras características de [!DNL Fusion]
+* Dado el escenario [!DNL Fusion], identifique las limitaciones del sistema y las características
+* Dado un escenario [!DNL Fusion] que requiere manipulación de huso horario, distinga entre el usuario, la organización visible y dónde se necesita anular la zona horaria
+* Dado un escenario [!DNL Fusion], seleccione los módulos o acciones adecuados [!DNL Workfront]
+* Dado el escenario [!DNL Fusion], seleccione la expresión del panel de asignación o los módulos que transformarían correctamente los datos de entrada en datos de salida
+* Identifique la(s) manera(s) correcta(s) de utilizar la herramienta de desarrollo de [!DNL Fusion] para solucionar errores en la ejecución o determinar las llamadas y respuestas realizadas a sistemas de terceros
+* Dado el escenario [!DNL Fusion] en el que se necesitan datos en una ruta en otra ruta, proporcione una solución set-get para que esos datos estén disponibles en rutas de enrutamiento adicionales
+* Identificar las formas de usar o producir una plantilla [!DNL Fusion] para una necesidad empresarial
+* Dado el escenario [!DNL Fusion], identifique qué hacer para ver ejecuciones y/o resolver errores
+* Identifique las diferentes opciones en la configuración del escenario [!DNL Fusion] para satisfacer las necesidades del escenario
+* Dado un escenario [!DNL Fusion], seleccione el control de flujo apropiado o determine la combinación correcta de módulos de control de flujo
 
-**Sección 2: Diseño y arquitectura de escenarios (35 %)**
+**Sección 2: Diseño y arquitectura de escenarios (35%)**
 
 * Dada una lista de pasos, elija la secuencia correcta para analizar JSON y convertirlo en paquetes
 * Dados un conjunto de requisitos, identifique el método de búsqueda de datos correcto
 * Identificar diferencias entre déclencheur instantáneos y programados
-* Identifique el módulo correcto para cargar un documento en [!DNL Workfront]
-* Dado un requisito empresarial, identifique el enfoque correcto para rastrearlo [!DNL Fusion] procesó un registro (no un usuario) y cuándo
-* Dado un [!DNL Fusion] , identifique una oportunidad para simplificar el diseño y/u optimizar para el mantenimiento
-* Identificar [!DNL Fusion] prácticas recomendadas para documentar escenarios
+* Identifique un módulo correcto para cargar un documento en [!DNL Workfront]
+* Dado un requisito empresarial, identifique el enfoque correcto para rastrear que [!DNL Fusion] procesó un registro (no un usuario) y cuándo
+* Dado un escenario de [!DNL Fusion], identifique una oportunidad para simplificar el diseño y/o optimizar el mantenimiento
+* Identificar las prácticas recomendadas de [!DNL Fusion] para documentar escenarios
 * Dada una situación, identifique una oportunidad para reducir el flujo de datos a través de un escenario
 * Dado un ejemplo del número de paquetes que se muestran en un módulo de búsqueda y en un siguiente agregador, explique los cambios en el número de operaciones procesadas y mostradas por el inspector de paquetes
 * Identificar la información que se encuentra en el inspector de paquetes
 * Se proporciona una descripción de la necesidad de archivar un escenario durante más de 60 días y se selecciona la única manera posible (importar/exportar modelo)
 * Dado un ejemplo de Error 403: Prohibido, seleccione correctamente el origen del mensaje de error y la causa
 
-**Sección 3: Pruebas y gestión de errores (16 %)**
+**Sección 3: Pruebas y control de errores (16%)**
 
 * Identificación de los elementos de un plan de prueba
 * Identificación de los elementos de un caso de prueba
-* Dado un [!DNL Fusion] , identifique correctamente la directiva adecuada para gestionar un servicio no fiable
-* Identifique el proceso para agregar la gestión de errores personalizada en una [!DNL Fusion] escenario
+* Dado el escenario [!DNL Fusion], identifique correctamente la directiva adecuada para gestionar un servicio no confiable
+* Identifique el proceso para agregar la administración de errores personalizada en un escenario de [!DNL Fusion]
 * Identificar cómo rastrear, leer y resolver ejecuciones incompletas
-* Dado un [!DNL Fusion] En un escenario en el que faltan datos necesarios, seleccione formas de gestionar los datos no válidos
+* Dado el escenario [!DNL Fusion] en el que faltan datos requeridos, seleccione formas de manejar los datos no válidos
 
-**Sección 4: Uso de API (10 %)**
+**Sección 4: Trabajo con API (10%)**
 
 * Dada una API de terceros que devuelve un error 429: Demasiadas solicitudes, identifique una solución para evitar o gestionar el error
-* Dado un [!DNL Fusion] escenario en el que la nueva funcionalidad no está disponible en el [!DNL Workfront] , identifique la referencia y el tipo de módulo correctos para utilizar la nueva funcionalidad
+* Dado el escenario [!DNL Fusion] en el que la nueva funcionalidad no está disponible en el módulo [!DNL Workfront], identifique la referencia y el tipo de módulo correctos para utilizar la nueva funcionalidad
 * Dado un sistema de terceros que no tiene una aplicación dedicada, identifique la aplicación HTTP y seleccione el módulo adecuado
 * Identificar la diferencia entre las operaciones de CRUD y otras capacidades comunes de las API de REST
 
@@ -142,11 +142,11 @@ Debería tener:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/228)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/228)
 
 +++
 
@@ -203,4 +203,4 @@ Debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

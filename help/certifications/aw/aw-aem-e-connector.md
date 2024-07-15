@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto del conector mejorado
-description: Obtenga información sobre cómo obtener la certificación Adobe Certified Expert en Adobe [!DNL Workfront] para [!DNL Experience Manager]
+description: Aprenda a obtener la certificación Adobe Certified Expert en el Adobe  [!DNL Workfront] for [!DNL Experience Manager]
 solution: Workfront
 role: Developer
 badge: label="Examen AD0-E906" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Workfront] para [!DNL Experience Manager] Experto en conectores mejorados
+# Recorrido de certificación para el Adobe [!DNL Workfront] de [!DNL Experience Manager] experto en conectores mejorados
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/244) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/244) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -54,13 +54,13 @@ Debería haber obtenido una o más de las siguientes certificaciones:
 
 * AEM Assets Developer Certified Expert
 * AEM Sites Developer Certified Expert
-* [!DNL Workfront] Experto certificado por el desarrollador principal
+* [!DNL Workfront] experto certificado de desarrollador principal
 
 Y, debería tener:
 
 * Más de 1 años de experiencia en CMS
 * AEM Más de 1 año de experiencia en el sector de la
-* Más de 1 año [!DNL Workfront] experiencia
+* Más de 1 año de experiencia [!DNL Workfront]
 * Más de 2 años de experiencia como desarrollador en Java/J2EE
 * AEM Co-arquitectó al menos una solución basada en el uso de la
 * Experiencia trabajando directamente con los clientes para crear soluciones personalizadas
@@ -73,30 +73,30 @@ Y, debería tener:
 
 {{exam-objectives}}
 
-**Sección 1: Requisitos técnicos (25 %)**
+**Sección 1: Requisitos técnicos (25%)**
 
-* Uso [!DNL Workfront] Forms personalizado
+* Usar [!DNL Workfront] Forms personalizado
 * Ante un escenario, mostrar la administración de documentos
 * Demostración del conocimiento de la promoción del código en entornos
-* Ante un escenario concreto, identifique cómo se pasan los valores a [!DNL Workfront] formularios personalizados
+* En un escenario determinado, identifique cómo se pasan los valores a [!DNL Workfront] formularios personalizados
 * Solucionar problemas de código del lado del servidor
 
-**Sección 2: Configuración (26 %)**
+**Sección 2: Configuración (26%)**
 
 * Ilustrar las prácticas recomendadas para la administración de usuarios
 * AEM Aplique los conceptos de procedimiento necesarios para modificar los flujos de trabajo de recursos de existentes
 * Tome las decisiones necesarias para personalizar el esquema de metadatos para diferentes tipos de recursos
 * AEM Aplique los conceptos de procedimiento de la aplicación necesarios para implementar paquetes, recursos, esquemas de metadatos, etiquetado y permisos de OSGi.
 
-**Sección 3: Prácticas comerciales (21 %)**
+**Sección 3: Prácticas empresariales (21%)**
 
 * Interprete las necesidades del cliente para recomendar las estrategias de flujo de trabajo adecuadas
-* Demostración de cómo configurar [!DNL Workfront] flujos de trabajo de aprobación y revisión
+* Mostrar cómo configurar [!DNL Workfront] flujos de trabajo de aprobación y revisión
 * Ante un escenario concreto, identifique las prácticas recomendadas para utilizar el visor de pruebas, la configuración y la funcionalidad de marcado
 * Demostrar una comprensión del seguimiento de entregables como parte de la administración de campañas
-* Ante un escenario concreto, identifique las consideraciones clave de la administración de cambios para un [!DNL Workfront] implementación
+* En un escenario determinado, identifique las consideraciones clave de la administración de cambios para una implementación de [!DNL Workfront]
 
-**Sección 4: Instalación y configuración del conector (28 %)**
+**Sección 4: instalación y configuración del conector (28%)**
 
 * AEM Validar requisitos previos dentro de la
 * Dado un caso de uso del cliente, identifique las funciones del conector que desea implementar
@@ -121,13 +121,13 @@ Y, debería tener:
 
 {{study-materials-intro}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/244)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/244)
 
-**Preguntas de muestra**
+**Preguntas de ejemplo**
 
 {{sample-questions}}
 
@@ -188,4 +188,4 @@ Y, debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

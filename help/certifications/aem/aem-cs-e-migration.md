@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto
-description: Aprenda a obtener la certificación de Adobe [!DNL Experience Manager] experto.
+description: Aprenda a convertirse en un experto certificado en Adobe [!DNL Experience Manager] de.
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager] Experto en migración as a Cloud Service
+# Recorrido de certificación para el Adobe [!DNL Experience Manager] experto en migración as a Cloud Service
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/129) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/129) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 * Desarrolladores que tengan experiencia con el Adobe [!DNL Experience Manager]
 * Desarrolladores que hayan participado en al menos una migración de nube
-* Adobe [!DNL Experience Manager] Desarrolladores de sitios
+* Adobe [!DNL Experience Manager] desarrolladores de sitios
 * Adobe [!DNL Experience Manager] Arquitecto de sitios
-* Adobe [!DNL Experience Manager] Desarrolladores de Assets
-* Adobe [!DNL Experience Manager] Desarrolladores de Forms
-* AEM Desarrolladores/DevOps/Leads/Arquitectos que han participado en varias implementaciones de con un mínimo de 2-3 años de experiencia en el desarrollo de aplicaciones web mediante Adobe [!DNL Experience Manager]
+* Adobe [!DNL Experience Manager] desarrolladores de Assets
+* Adobe [!DNL Experience Manager] desarrolladores de Forms
+* AEM Desarrolladores/DevOps/Leads/Arquitectos que han participado en varias implementaciones de con un mínimo de 2-3 años de experiencia en el desarrollo de aplicaciones web con el Adobe [!DNL Experience Manager]
 
 <br>
 
@@ -56,8 +56,8 @@ ht-degree: 0%
 
 Debería tener:
 
-* AEM AEM Comprensión de los cambios generales en la arquitectura y las funciones al pasar de cualquier servicio de (autogestionado, AMS o cualquier nube de terceros) a la nube de as a Cloud Service.
-* 1-3 años de experiencia en el desarrollo de aplicaciones web con Adobe [!DNL Experience Manager]
+* AEM Comprensión de los cambios generales en la arquitectura y las funciones al pasar de cualquier servicio de (autoadministrado, AMS o cualquier nube de terceros) a AEM as a Cloud Service.
+* 1 a 3 años de experiencia en el desarrollo de aplicaciones web con el Adobe [!DNL Experience Manager]
 * Experiencia práctica con AEM Forms, Assets y Sites
 * AEM La capacidad de guiar a los clientes a través del proceso de migración, asesorándolos y participando en todas las fases de un proyecto de
 
@@ -67,7 +67,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Herramientas de conversión de flujo de trabajo
 * Herramientas de Dispatcher
 * Red de entrega de contenido (CDN)
-* Analizador de prácticas recomendadas
+* Best Practices Analyzer
 * AEM Modernización de
 * Explorador del repositorio
 * Developer Console
@@ -75,7 +75,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Herramienta I/O cmd
 * New Relic
 * SDK de nube local
-* Servicio de desarrollo, ensayo, creación de productos, publicación y previsualización
+* Desarrollo, ensayo, autor de productos, Publish y servicio de vista previa
 * Configuración local de Dispatcher mediante Docker
 * Registros de Tailing Cloud en el entorno local
 * Interfaces de la consola de Cloud
@@ -86,7 +86,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{exam-objectives}}
 
-**Sección 1: Evaluación (32 %)**
+**Sección 1: Evaluación (32%)**
 
 * Uso del BPA
 * Preparación y estimación de un plan de migración
@@ -97,19 +97,19 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Explicar la implementación relacionada con los recursos y su impacto
 * Identificar requisitos relacionados con Dispatcher
 
-**Sección 2: Diseño (16 %)**
+**Sección 2: Diseño (16%)**
 
 * Revise los componentes existentes y valide con la versión más reciente
 * Preparar la configuración para los microservicios de recursos
 * Explicar estrategia de almacenamiento en caché
 
-**Sección 3: Implementación (16 %)**
+**Sección 3: Implementación (16%)**
 
-* Configurar las canalizaciones de Cloud Manager y vincularlas a los entornos
+* Configuración de las canalizaciones de Cloud Manager y vinculación a los entornos
 * Aprovisionar entornos AEMaaCS (desarrollo, fase, producción, publicación, vista previa)
 * Administre el proceso de implementación con la ayuda de la CLI de E/S de Adobe
 
-**Sección 4: Migración (20 %)**
+**Sección 4: Migración (20%)**
 
 * Ejecución de pruebas
 * Preparar una estrategia de migración de recursos
@@ -117,12 +117,12 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Ejecutar herramientas de migración (transferencia de contenido, modernización, refactorización). Informar y perfeccionar resultados, especialmente los resultados críticos que no se gestionan mediante herramientas
 * Planificar la compatibilidad posterior a go-live
 
-**Sección 5: Implementación (16 %)**
+**Sección 5: Implementación (16%)**
 
 * Combinar varios proyectos en uno único para implementarlos a través de la canalización de Adobe
 * Administrar scripts de informes para permisos de usuario/grupo
 * Configuración de SDK locales
-* AEM as a Cloud Service Actualice las configuraciones en función de los modos de ejecución disponibles en las
+* Actualizar configuraciones basadas en los modos de ejecución disponibles en AEM as a Cloud Service
 
 <br>
 
@@ -148,11 +148,11 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/129)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/129)
 
 +++
 
@@ -209,4 +209,4 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

@@ -1,11 +1,11 @@
 ---
 user-guide-title: Certificación de Adobe
 breadcrumb-title: Certificación de Adobe
-user-guide-description: Más información [!DNL Experience Cloud] Certificación en el Adobe. Descubra lo que puede aportarle obtener la certificación.
+user-guide-description: Obtenga información acerca de la certificación  [!DNL Experience Cloud] en el Adobe. Descubra lo que puede aportarle obtener la certificación.
 source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 33%
+ht-degree: 28%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 33%
 + [Renovar la certificación](renew.md)
 + Certificaciones técnicas por solución {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
-      + [Información general sobre publicidad](/help/certifications/aac/aac-overview.md)
+      + [Información general de Advertising](/help/certifications/aac/aac-overview.md)
       + Profesional {#aac-professional}
          + [Profesional empresarial (búsqueda)](/help/certifications/aac/aac-search-p-business.md)
          + [DSP Profesional empresarial ()](/help/certifications/aac/aac-dsp-p-business.md)

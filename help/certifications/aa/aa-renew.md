@@ -1,6 +1,6 @@
 ---
 title: Renovación de certificación
-description: Obtenga información sobre cómo renovar su [!DNL Adobe Analytics] certificación antes de que caduque.
+description: Aprenda a renovar su certificación  [!DNL Adobe Analytics] antes de que caduque.
 solution: Analytics
 product: Analytics
 role: User,Developer, Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Renovar el Adobe [!DNL Analytics] certificación
+# Renovar la certificación de Adobe [!DNL Analytics]
 
 Su certificación de Adobe es válida por dos años. Si se acerca a esta marca de dos años, es hora de renovar su certificación para mantenerla activa.
 
@@ -26,27 +26,27 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 
 >[!IMPORTANT]
 >
->**Inicie sesión primero:** Los siguientes vínculos funcionarán **solamente** después de un **inicio de sesión correcto** a la [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Inicie sesión primero:** Los siguientes vínculos funcionarán **solo** después de que **inicie sesión correctamente** en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Para compartir un vínculo:** Si desea compartir el enlace a un examen de renovación o evaluación con un compañero, por favor, enlácelo a la página general de renovación del examen, no a la URL del propio examen, para evitar problemas de inicio de sesión.
+>**Para compartir un vínculo:** Si desea compartir el vínculo a un examen de renovación o evaluación con un compañero, vincule a la página general de renovación del examen, no a la dirección URL del propio examen, para evitar problemas de inicio de sesión.
 
 >[!BEGINTABS]
 
 >[!TAB Profesional]
 
-+++Adobe [!DNL Analytics] Desarrollador profesional
++++Adobe [!DNL Analytics] Developer Professional
 
 ## Debe tener la siguiente certificación activa para renovar:
 
-* Adobe [!DNL Analytics] Desarrollador profesional
+* Adobe [!DNL Analytics] Developer Professional
 
 ## Instrucciones para renovar la certificación:
 
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 1**: Inicie sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} y vuelva a esta página
 * **Paso 2**: revise los objetivos y recursos del examen
-* **Paso 3**: realice y apruebe el examen
+* **Paso 3**: Haz y aprueba el examen
 
 ### Prepárese.
 
@@ -60,7 +60,7 @@ Es importante tener en cuenta que si su certificación caduca, tendrá que volve
 * Requisito previo: certificación actual (no caducada) de Adobe Analytics Developer Professional
 * Identificador del examen: AD5-E831
 
-**Alcance y objetivos**
+**Ámbito y objetivos**
 
 Sección 1: Análisis en el ecosistema de Adobe Experience Cloud (13 %)
 
@@ -96,7 +96,7 @@ Sección 5: Componentes de Adobe Analytics (7 %)
 
 Sección 6: Pruebas, validación y resolución de problemas (20 %)
 
-* Identificar el significado de los errores comunes de JavaScript.
+* Identificar el significado de los errores más comunes de JavaScript.
 * Identificar el significado de los errores comunes de las variables de Adobe Analytics.
 * Ante un escenario concreto, identifique las prácticas recomendadas de validación de pruebas y depuración que se deben seguir.
 * Identifique cómo realizar el seguimiento de una llamada al servidor de Adobe Analytics a lo largo de su ciclo de vida (es decir, De la solicitud de señalización a la visualización en el informe).
@@ -110,12 +110,12 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 **Sección 1**
 
 * [Cookies de Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
-* [Añadir un elemento de datos, una regla y una biblioteca](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
-* [Añadir el código de incrustación](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+* [Agregar un elemento de datos, una regla y una biblioteca](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [Agregar el código incrustado](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 
 **Sección 2**
 
-* [Validación de la regla de carga de página global en Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
+* [Validando la regla de carga de página global en Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
 * [Referencia de objeto satélite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
 * [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
 
@@ -127,9 +127,9 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 4**
 
-* [Añadir el código de incrustación](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
-* [Información general sobre la extensión Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html?lang=es){target="_blank"}
-* [Referencia de Opt-in](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
+* [Agregar el código incrustado](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+* [Información general sobre la extensión del servicio de identidad de Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html?lang=es){target="_blank"}
+* [Referencia de inclusión](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
 
 **Sección 5**
 
@@ -139,33 +139,33 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 6**
 
-* [Solución de problemas de implementación de JavaScript](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [Solucionar problemas de implementación de JavaScript](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 * [Cambiar entornos de etiquetas con el Experience Cloud Debugger](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
 * [Parámetros de consulta de recopilación de datos](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html?lang=es){target="_blank"}
 
 ## Renovar la certificación
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Adobe Analytics Developer Professional Renewal Exam - AD5-E831 que aparece a continuación.
+Asegúrese de haber seguido el paso 1 anterior y de haber iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo Adobe Analytics Developer Professional Renewal Exam - AD5-E831 que aparece a continuación.
 
 * [Examen de renovación profesional para desarrolladores de Adobe Analytics - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E831){target="_blank"}
 
 >[!NOTE]
 >
->Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
+>Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no logra hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
 +++
 
-+++Adobe [!DNL Analytics] Profesional empresarial
++++Adobe [!DNL Analytics] Profesional Empresarial
 
-## Debe tener lo siguiente **activo** certificación para renovar mediante este método:
+## Debe tener la siguiente certificación **active** para renovarla mediante este método:
 
-* Adobe [!DNL Analytics] Profesional empresarial
+* Adobe [!DNL Analytics] Profesional de negocios
 
 ## Instrucciones para renovar la certificación:
 
-* **Paso 1**: Se ha iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 1**: Inicie sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} y vuelva a esta página
 * **Paso 2**: revise los objetivos y recursos del examen
-* **Paso 3**: realice y apruebe el examen
+* **Paso 3**: Haz y aprueba el examen
 
 ## Prepárese.
 
@@ -179,7 +179,7 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 * Requisito previo: certificación actual (no caducada) de Adobe Analytics Business Practitioner Professional
 * Identificador del examen: AD5-E832
 
-**Alcance y objetivos**
+**Ámbito y objetivos**
 
 Sección 1: Análisis de negocio
 
@@ -254,33 +254,33 @@ Estos son algunos recursos sugeridos para ayudarle a prepararse:
 
 **Sección 4**
 
-* [Solución de problemas de picos y caídas de datos](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+* [Solucionar problemas de picos y caídas de datos](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
 * [Eventos personalizados](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
-* [Descargar archivos de PDF o CSV](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
-* [Guía para principiantes sobre los parámetros de URL](https://www.semrush.com/blog/url-parameters/)
+* [Descargar archivos CSV o de PDF](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+* [Guía para principiantes sobre parámetros de URL](https://www.semrush.com/blog/url-parameters/)
 
 **Sección 5**
 
-* [Reglas de procesamiento de canales de marketing](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [Reglas de procesamiento para canales de mercadotecnia](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
 * [Resumen de clasificaciones](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
 * [Crear grupos de informes virtuales](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
 * [Preguntas frecuentes sobre normas de privacidad](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## Renovar la certificación
 
-Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) que aparece a continuación.
+Asegúrese de haber seguido el paso 1 anterior y de haber iniciado sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} primero. A continuación, para renovar su certificación, haga clic en el vínculo AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) que aparece a continuación.
 
 * [AD5-E832 Examen de renovación profesional para profesionales de Adobe Analytics Business](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no consigue hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
+>Este examen es gratuito, de libro abierto y sin supervisión. Puedes hacer el examen hasta tres veces. Si no logra hacerlo después del tercer intento, debe esperar **30 días** para intentarlo de nuevo. Si no cumple, es posible que se revoque su certificación.
 
 +++
 
->[!TAB Experto y maestro]
+>[!TAB Experto y principal]
 
-## Debe tener al menos uno de los siguientes **activo** certificación para renovar mediante este método:
+## Debe contar con al menos una de las siguientes certificaciones **active** para poder renovarla mediante este método:
 
 * Adobe Analytics Developer Expert
 * Adobe Analytics Business Practitioner Expert
@@ -288,19 +288,19 @@ Asegúrese de haber seguido el paso 1 anterior e iniciado sesión correctamente 
 
 ## Instrucciones para renovar la certificación de Adobe Analytics
 
-* **Paso 1:** Iniciar sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"}, y vuelva a esta página
+* **Paso 1:** Inicie sesión correctamente en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} y vuelva a esta página
 * **Paso 2:** Estudiar los cursos en Experience League
 * **Paso 3:** Elija entre las opciones siguientes para completar la renovación.
 
   **Opción A:**
-Seleccionar **tres cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
+Seleccione **tres cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
   **Opción B:**
-Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
+En primer lugar, seleccione **dos cursos** para completar y aprobar cada evaluación de curso con una puntuación del 80 % o superior. Las evaluaciones de los cursos son gratuitas, a la carta, sin supervisión y de libro abierto. Puede repetir los cursos hasta que haya aprobado correctamente las evaluaciones al 80 %.
 
-  Segundo, **enviar un formulario de referencia de cliente** validar su trabajo continuo como persona con certificación de Adobe que dirige, gestiona o participa en un proyecto de implementación de Adobe Experience Cloud. En este formulario se afirma que ha participado en al menos 100 horas de participación demostrada en el proyecto durante el intervalo de dos años de renovación de la certificación.
+  En segundo lugar, **envíe un formulario de referencia de cliente** en el que se valide su trabajo continuado como persona con certificación de Adobe que dirige, administra o participa en un proyecto de implementación de Adobe Experience Cloud. En este formulario se afirma que ha participado en al menos 100 horas de participación demostrada en el proyecto durante el intervalo de dos años de renovación de la certificación.
 
-  [Formulario de referencia del cliente para Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+  [Formulario de referencia de cliente para Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
   El Programa de certificación de experiencias digitales de Adobe le notificará cuando se haya revisado la referencia del cliente. Si su referencia no es aceptada, puede enviar nuevamente hasta que tenga éxito, siempre y cuando sea antes de que caduque su certificación.
 
@@ -312,12 +312,12 @@ Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de 
 
 | Cursos para Experto y Maestro | Evaluación del curso |
 | ------- | ------- |
-| [Atribución de valor de Adobe Analytics a puntos de contacto digital en el Recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es){target="_blank"} | [EA ADR-201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
-| [Exportar y democratizar datos de Adobe Analytics: lecciones 5 y 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [EA ADR-202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
-| [Filtrado de datos con fechas y segmentación personalizadas: lección 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es){target="_blank"} | [EA ADR-203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
-| [Implementación guiada de Analytics: lección 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=es){target="_blank"} | [EA ADR-204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
-| [Implementación y medición de la búsqueda interna del sitio - Lección 3 y 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [EA ADR-205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
-| [API de Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [EA ADR-206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
+| [Adobe Analytics que atribuye valor a puntos de contacto digital en el Recorrido del cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=es){target="_blank"} | EA [ADR-201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
+| [Exportar y democratizar datos de Adobe Analytics - Lección 5 y 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | EA [ADR-202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
+| [Filtrado de datos con fechas y segmentación personalizadas - Lección 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=es){target="_blank"} | EA [ADR-203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
+| [Implementación guiada de Analytics - Lección 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=es){target="_blank"} | EA [ADR-204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
+| [Implementación y medición de la búsqueda interna del sitio - Lección 3 y 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | EA [ADR-205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
+| [API de Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | EA [ADR-206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
 
 >[!ENDTABS]
 
@@ -325,4 +325,4 @@ Primero, seleccione **dos cursos** para completar y aprobar cada evaluación de 
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

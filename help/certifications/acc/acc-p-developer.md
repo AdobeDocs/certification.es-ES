@@ -1,6 +1,6 @@
 ---
 title: Certificación de Developer Professional
-description: Obtenga información sobre cómo obtener la certificación Adobe Developer Professional en [!DNL Campaign Classic].
+description: Aprenda a obtener la certificación Adobe Developer Professional en  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Campaign Classic] Desarrollador profesional
+# Recorrido de certificación para el desarrollador profesional del Adobe [!DNL Campaign Classic]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/250) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/250) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, que incluye los materiales de estudio detallados que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 
 Debería tener:
 
-* Al menos un año de Adobe [!DNL Campaign Classic] experiencia informática
-* Al menos un año de experiencia combinada en programación JavaScript, desarrollo de SQL, incluido ETL, y tecnologías web (XML, HTML y servicios web)
+* Al menos un año de experiencia con el software de Adobe [!DNL Campaign Classic]
+* Al menos un año de experiencia combinada en programación de JavaScript, desarrollo de SQL, incluido ETL, y tecnologías web (XML, HTML y servicios web)
 * Una comprensión básica de la automatización de marketing
 * Comprensión de los conceptos de base de datos relacional
 
@@ -64,7 +64,7 @@ Debería tener:
 
 {{exam-objectives}}
 
-**Sección 1: Configuración del sistema (25 %)**
+**Sección 1: Configuración del sistema (25%)**
 
 * Mostrar la configuración de todo el sistema de las opciones en el nodo Administración
 * Aplicar el proceso para ampliar el esquema de destinatario OOTB
@@ -75,12 +75,12 @@ Debería tener:
 * Identificar las opciones de configuración para las enumeraciones Open y Closed
 * Tipos de reglas de tipología diferenciados
 * Identificar los requisitos para utilizar un mapa de Target personalizado y sus efectos en la funcionalidad OOTB
-* Describa cómo se accede en la Adobe a las audiencias generadas externamente desde otras soluciones de Adobe Experience Cloud [!DNL Campaign Classic]
+* Describa cómo se accede a las audiencias generadas externamente desde otras soluciones de Adobe Experience Cloud en el Adobe [!DNL Campaign Classic]
 * Describa el caso práctico comercial para interacciones y ofertas
 * Describa el caso práctico comercial del Centro de mensajes
 * Identificación de la funcionalidad de importación de datos de API V8
 
-**Sección 2: Personalización (16 %)**
+**Sección 2: Personalización (16%)**
 
 * Aplique el proceso para editar esquemas de Campaign
 * Identifique la configuración para garantizar la extensión de esquema correcta o configurar esquemas personalizados
@@ -114,12 +114,12 @@ Debería tener:
 * Aplicar el proceso para configurar alertas y aprobaciones
 * Identificación de tipos de bases de datos de Campaign
 
-**Sección 5: Mantenimiento de instancias (4 %)**
+**Sección 5: Mantenimiento de instancia (4%)**
 
 * Identificar errores de diferentes registros de servicio
 * Explicar lecturas de mapa de calor del flujo de trabajo
 
-**Sección 6: Configuración de la campaña (14 %)**
+**Sección 6: Configuración de campaña (14 %)**
 
 * Aplique el proceso para crear campañas con plantillas de campaña
 * Describir el proceso de creación de aprobaciones
@@ -160,11 +160,11 @@ Debería tener:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/250)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/250)
 
 +++
 
@@ -221,4 +221,4 @@ Debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

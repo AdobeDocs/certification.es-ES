@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto profesional empresarial
-description: Aprenda a convertirse en un profesional del Adobe certificado Experto en Adobe [!DNL Campaign Standard]
+description: Aprenda a convertirse en un experto profesional certificado en Adobe en Adobe  [!DNL Campaign Standard]
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Campaign Standard] Experto profesional de negocios
+# Recorrido de certificación para el Adobe [!DNL Campaign Standard] experto profesional empresarial
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/255) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/255) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, que incluye los materiales de estudio detallados que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -60,7 +60,7 @@ Debe tener experiencia trabajando en un entorno de entrega de canales (correo el
 
 Además, debería tener:
 
-* Experiencia de campo trabajando con Adobe [!DNL Campaign Standard] con frecuencia regular
+* Experiencia de campo trabajando con el Adobe [!DNL Campaign Standard] con una frecuencia regular
 * Capacidad para procesar archivos de datos
 * Comprensión de los conceptos de bases de datos relacionales, déclencheur, API y flujos de trabajo técnicos
 * Una comprensión de cómo crear flujos de trabajo de marketing y trabajar con los datos subyacentes para iniciar flujos de trabajo de marketing
@@ -73,38 +73,38 @@ Además, debería tener:
 
 {{exam-objectives}}
 
-**Sección 1: Gestión de envíos (25 %)**
+**Sección 1: Administración de envíos (25%)**
 
 * Aplicar las prácticas recomendadas para configurar e implementar una entrega
 * Determinar la configuración de envío correcta
-* Aplicar las funcionalidades del Diseñador de correo electrónico al escenario apropiado
+* Aplicar las funcionalidades de Designer de correo electrónico al escenario adecuado
 
-**Sección 2: Administración de campañas (25 %)**
+**Sección 2: Administración de campañas (25%)**
 
 * Aplicar configuraciones para ejecutar flujos de trabajo
 * Aplicar las prácticas recomendadas para planificar, esquematizar y modificar una campaña
 
-**Sección 3: Análisis de requisitos (10 %)**
+**Sección 3: Análisis de requisitos (10%)**
 
 * Diseño de un nuevo flujo de trabajo basado en los requisitos empresariales/de campaña
 * Interpretar los requisitos del cliente
 
-**Sección 4: Informes (15 %)**
+**Sección 4: Informes (15%)**
 
 * Dados los requisitos del cliente, determine el informe adecuado que se va a generar
 * Ante un escenario concreto, personalice un informe dinámico listo para usar
 * Dados los datos del informe OOTB de muestra, proporcione una interpretación de los resultados
 * Aplicar el proceso para programar y enviar un informe OOTB
 
-**Sección 5: Resolución de problemas (10 %)**
+**Sección 5: Solución de problemas (10%)**
 
 * Monitorización e identificación de errores
 * Analizar e interpretar los resultados de la implementación
 
-**Sección 6: Gestión y administración de datos (15 %)**
+**Sección 6: Administración de datos (15%)**
 
 * Explicar recursos del modelo de datos
-* Realizar [!DNL Campaign Standard] administración
+* Realizar administración de [!DNL Campaign Standard]
 * Aplique el proceso para crear audiencias de destino
 
 <br>
@@ -139,11 +139,11 @@ Además, debería tener:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/255)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/255)
 
 +++
 
@@ -200,5 +200,5 @@ Además, debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
 

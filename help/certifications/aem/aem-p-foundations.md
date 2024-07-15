@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager] Technical Foundations Professional
+# Recorrido de certificación para el Adobe [!DNL Experience Manager] Technical Foundations Professional
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso:** Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Curso:** Si acaba de empezar o necesita un repaso, siga el curso de [Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acceder a explicaciones de conceptos clave, guías de productos y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:**  El [Guía de preparación del examen](https://app.rockinfo.com/courses/124) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/124) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación.
 >
 >_Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
@@ -80,7 +80,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{exam-objectives}}
 
-**Sección 1: Creación de contenido (33 %)**
+**Sección 1: Creación de contenido (33%)**
 
 * Administrar páginas de contenido
 * Replicar contenido
@@ -102,13 +102,13 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Ampliación de componentes principales
 * Modelado de contenido de estructura
 
-**Sección 3: Configuración e implementación (13 %)**
+**Sección 3: Configuración e implementación (13%)**
 
 * Instalación de paquetes
 * Implementación de paquetes
 * AEM Instalación de instancias de
 
-**Sección 4: Mantenimiento y administración de usuarios (12 %)**
+**Sección 4: Mantenimiento y administración de usuarios (12%)**
 
 * Administrar el acceso de usuario
 * Modificar configuraciones de OSGI
@@ -134,17 +134,17 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{study-materials-intro}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
-[Siga el curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Asista al curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/124)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/124)
 
 
 +++
@@ -202,6 +202,6 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
 
 

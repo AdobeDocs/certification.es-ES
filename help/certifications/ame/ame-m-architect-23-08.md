@@ -1,6 +1,6 @@
 ---
 title: Certificación de maestro de arquitectos
-description: Aprenda a obtener una certificación de Arquitecto de Adobe Master en Adobe [!DNL Marketo Engage].
+description: Aprenda a obtener la certificación de Arquitecto de Adobe Master en Adobe  [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Marketo Engage] Maestro de arquitectos
+# Recorrido de certificación para el Adobe [!DNL Marketo Engage] Arquitecto Maestro
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/248) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/248) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, que incluye los materiales de estudio detallados que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Esta certificación tiene un requisito previo. DEBE tener un Adobe activo (no caducado) [!DNL Marketo Engage] Profesional empresarial **Experto** Certificación para tomar el Adobe [!DNL Marketo Engage] Examen de maestría de arquitectos.
+>Esta certificación tiene un requisito previo. Debe tener una certificación activa (no caducada) de Adobe [!DNL Marketo Engage] para profesionales de negocios **Expert** para realizar el examen de Adobe [!DNL Marketo Engage] para maestro de arquitectos.
 
-* Requisito previo: Adobe activo (no caducado) [!DNL Marketo Engage] Certificación de experto en profesionales empresariales
+* Requisito previo: Adobe activo (no caducado) [!DNL Marketo Engage] Certificación de experto en profesionales de la empresa
 * Nivel: Master (3-5 años de experiencia)
 * Certificación de profesional
 * Puntuación superada: 32/50
@@ -89,7 +89,7 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 {{exam-objectives}}
 
-**Sección 1: Liderazgo del proyecto (16 %)**
+**Sección 1: Liderazgo del proyecto (16%)**
 
 * A partir de un caso práctico, identificar las partes interesadas adecuadas
 * Evaluar un conjunto de requisitos y recomendar límites, presupuesto, recursos y ámbito de proyectos
@@ -118,7 +118,7 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 * Identificar y describir los pros y los contras de diferentes modelos de atribución
 * Dados los requisitos empresariales, describa los efectos de la configuración del canal en los informes
 
-**Sección 4: Operaciones avanzadas (16 %)**
+**Sección 4: Operaciones avanzadas (16%)**
 
 * En un escenario determinado, identifique los pasos adecuados para mejorar la administración o la gobernanza
 * Dado un conjunto de requisitos, recomiende un esquema de datos eficiente
@@ -159,11 +159,11 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Guía de preparación del examen](https://app.rockinfo.com/courses/248)
+[Guía de preparación para exámenes](https://app.rockinfo.com/courses/248)
 
 +++
 
@@ -193,7 +193,7 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 >[!IMPORTANT]
 >
->Esta certificación tiene un requisito previo. DEBE tener un Adobe activo (no caducado) [!DNL Marketo Engage] Profesional empresarial **Experto** Certificación para tomar el Adobe [!DNL Marketo Engage] Examen de maestría de arquitectos.
+>Esta certificación tiene un requisito previo. Usted DEBE tener un Adobe activo (no caducado) [!DNL Marketo Engage] Profesional de negocios **Experto** para tomar el examen de Adobe [!DNL Marketo Engage] Maestro de arquitectos.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -224,4 +224,4 @@ Además, debe estar familiarizado con las siguientes herramientas y tecnologías
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certificación de maestro de arquitectos
-description: Obtenga información sobre cómo obtener la certificación como [!DNL Adobe Analytics] Maestro de arquitectos.
+description: Aprenda a obtener la certificación como maestro de arquitectos  [!DNL Adobe Analytics] Architect.
 solution: Analytics
 product: Analytics
 level: Experienced
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para [!DNL Adobe Analytics] Maestro de arquitectos
+# Recorrido de certificación para el maestro de arquitectos [!DNL Adobe Analytics]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/223) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/223) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -54,9 +54,9 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-Debe tener un mínimo de 3-4 años de experiencia diseñando [!DNL Adobe Analytics] arquitectura, especificaciones de la capa de datos y administración de etiquetas, así como una comprensión básica del código JavaScript.
+Debe tener un mínimo de 3 a 4 años de experiencia en el diseño de la arquitectura de [!DNL Adobe Analytics], las especificaciones de las capas de datos y la administración de etiquetas, así como una comprensión básica del código de JavaScript.
 
-Además, es responsable de traducir los requisitos comerciales a especificaciones de seguimiento y [!DNL Adobe Analytics] y está familiarizado con las siguientes tecnologías y entornos:
+Además, es responsable de traducir los requisitos empresariales en especificaciones de seguimiento y variables [!DNL Adobe Analytics], y está familiarizado con las siguientes tecnologías y entornos:
 
 * Aplicaciones de análisis web
 * Adobe Experience Cloud
@@ -72,13 +72,13 @@ Además, es responsable de traducir los requisitos comerciales a especificacione
 
 {{exam-objectives}}
 
-**Sección 1: Descubrimiento (18 %)**
+**Sección 1: Detección (18%)**
 
 * Demostrar la capacidad de auditar sitios
 * Investigue las necesidades del cliente para crear requisitos empresariales
 * Ante un escenario, cree un marco de medición
 
-**Sección 2: Diseño de la solución (54 %)**
+**Sección 2: diseño de la solución (54%)**
 
 * Traducir los requisitos comerciales en variables y métricas
 * Demostración de la capacidad para administrar la configuración de grupos de informes
@@ -87,7 +87,7 @@ Además, es responsable de traducir los requisitos comerciales a especificacione
 * Escribir especificaciones técnicas para desarrolladores de sitios
 * Crear usuarios/grupos de Experience Cloud
 
-**Sección 3: Ejecución posterior (28 %)**
+**Sección 3: implementación de Post (28%)**
 
 * Dados un conjunto de requisitos, valide el seguimiento mediante las herramientas para desarrolladores de navegadores y los informes de Adobe
 * Aplicar conceptos de procedimiento para administrar la extracción de datos y las relaciones
@@ -119,11 +119,11 @@ Además, es responsable de traducir los requisitos comerciales a especificacione
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/223)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/223)
 
 +++
 
@@ -180,5 +180,5 @@ Además, es responsable de traducir los requisitos comerciales a especificacione
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
 

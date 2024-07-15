@@ -1,6 +1,6 @@
 ---
 title: Certificación de Developer Professional
-description: Aprenda a convertirse en un experto profesional de Adobe certificado en [!DNL Experience Manager Sites].
+description: Aprenda a convertirse en un experto profesional certificado en Adobe en  [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager Sites] Desarrollador profesional
+# Recorrido de certificación para el desarrollador profesional del Adobe [!DNL Experience Manager Sites]
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso:** Tome el [Adobe Experience Manager Sites para desarrolladores: curso profesional](https://app.rockinfo.com/courses/105), que incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240), que proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Curso:** Realice el curso [Adobe Experience Manager Sites para desarrolladores - profesional](https://app.rockinfo.com/courses/105), que incluye explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. Si acaba de empezar o necesita un repaso, siga el curso [Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240), que proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/121) proporciona una ruta adaptada a través del proceso de preparación del examen, incluidos los materiales que necesitará para tener éxito en el examen.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/121) proporciona una ruta adaptada a través del proceso de preparación para exámenes, incluidos los materiales que necesitarás para tener éxito en tu examen.
 >
 >Si se le solicita que inicie sesión, utilice su Adobe ID.
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 Debe ser desarrollador de aplicaciones y tener:
 
-* AEM 0-12 meses de experiencia trabajando con el equipo de trabajo de la [!DNL Platform]
+* AEM De 0 a 12 meses de experiencia trabajando con el(la) [!DNL Platform] de la
 * La capacidad de realizar el desarrollo de componentes
 * AEM Una comprensión básica del marco de MVC, los marcos de ciclo de vida y las bibliotecas en el mundo de la vida en el mundo de la
 
@@ -68,7 +68,7 @@ Debe ser desarrollador de aplicaciones y tener:
 
 {{exam-objectives}}
 
-**Sección 1: Configuraciones (26 %)**
+**Sección 1: Configuraciones (26%)**
 
 * AEM Reconocer el propósito de las configuraciones y el almacenamiento en caché de Dispatcher de la
 * AEM Determinar los pasos correctos para configurar varios sitios en el sitio de la
@@ -76,24 +76,24 @@ Debe ser desarrollador de aplicaciones y tener:
 * Determine los pasos correctos para administrar los índices Oak personalizados
 * Determine los pasos correctos para configurar la integración de OOTB SAML o IMS
 
-**AEM Sección 2: Desarrollo de la (40 %)**
+AEM **Sección 2: desarrollo de la (40 %)**
 
 * Determinar los pasos correctos para implementar componentes basados en componentes principales
 * Funcionalidad del componente Connect, incluidos HTL, modelos y servicios
 * Ante un escenario concreto, determine los pasos correctos para desarrollar flujos de trabajo
 * En un escenario determinado, describa el propósito de los fragmentos de contenido o de experiencia
 
-**Sección 3: Generación e implementación (12 %)**
+**Sección 3: compilación e implementación (12 %)**
 
 * Definir la estructura del proyecto Maven
 * Configurar proyectos a partir de arquetipos
 
-**Sección 4: Mantenimiento del entorno (22 %)**
+**Sección 4: Mantenimiento del entorno (22%)**
 
 * AEM En un escenario determinado, determine los pasos necesarios para depurar los problemas en entornos de
 * AEM Explicación de las versiones de mantenimiento de
 * AEM Identificar cómo configurar las entre topologías
-* AEM Determinar los pasos necesarios para planificar y migrar a un entorno as a Cloud Service de la
+* Determine los pasos necesarios para planificar y migrar a AEM as a Cloud Service
 
 <br>
 
@@ -115,21 +115,21 @@ Debe ser desarrollador de aplicaciones y tener:
 
 {{study-materials-intro}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
-[Siga el curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Asista al curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-[Realice el curso Adobe Experience Manager Sites para desarrolladores - Profesional](https://app.rockinfo.com/courses/105)
+[Realice el curso profesional de Adobe Experience Manager Sites para desarrolladores](https://app.rockinfo.com/courses/105)
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/121)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/121)
 
-**Preguntas de muestra**
+**Preguntas de ejemplo**
 
 {{sample-questions}}
 
@@ -190,5 +190,5 @@ Debe ser desarrollador de aplicaciones y tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
 

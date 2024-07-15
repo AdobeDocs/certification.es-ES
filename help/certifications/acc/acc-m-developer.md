@@ -1,6 +1,6 @@
 ---
 title: Certificación de maestro de arquitectos
-description: Aprenda a obtener la certificación de Arquitecto de Adobe Master en [!DNL Campaign Classic].
+description: Aprenda a obtener la certificación de Maestro de arquitectos de Adobe en  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Campaign Classic] Maestro de arquitectos
+# Recorrido de certificación para el Adobe [!DNL Campaign Classic] Arquitecto Maestro
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/254) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/254) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, que incluye los materiales de estudio detallados que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ### Destinatarios previstos {#intended-audience}
 
-* Responsable técnico con Adobe [!DNL Campaign Classic] fondo
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Desarrollador
-* Adobe [!DNL Campaign Classic] función de desarrollador o similar
+* Posible cliente técnico con fondo de Adobe [!DNL Campaign Classic]
+* Adobe Certified Expert - Desarrollador [!DNL Campaign Classic]
+* Desarrollador de Adobe [!DNL Campaign Classic] o función similar
 * Arquitecto de soluciones de Martech
 
 <br>
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 Debería tener:
 
-* Experiencia con varios Adobes [!DNL Campaign Classic] implementaciones
+* Experiencia con varias implementaciones de Adobe [!DNL Campaign Classic]
 * Una comprensión de cómo funciona Adobe Campaign como solución de marketing digital y cómo la implementa en función de los requisitos del proyecto
 * La capacidad de crear un documento de diseño funcional
 * La capacidad de crear un ámbito funcional de trabajo para una instalación de Adobe Campaign
@@ -75,24 +75,24 @@ Debería tener:
 
 {{exam-objectives}}
 
-**Sección 1: Definición de la solución (24 %)**
+**Sección 1: Definición de solución (24%)**
 
 * Dados los requisitos empresariales específicos, determine la información relevante para el diseño de la solución
 * En un escenario determinado, proporcione recomendaciones de rendimiento, infraestructura y configuración
-* Analizar [!DNL Campaign Classic] configuraciones para recomendar mejoras
+* Analizar configuraciones de [!DNL Campaign Classic] para aconsejar mejoras
 * Determinar los requisitos empresariales para diseñar una solución de marketing digital
 * En un escenario determinado, especifique el método de implementación de producto correcto
 
-**Sección 2: Paisaje de datos (24 %)**
+**Sección 2: Paisaje de datos (24%)**
 
 * Especifique los parámetros de diseño del modelo de datos y la asignación de integración para una solución de Campaign con otras herramientas del cliente
 * En un escenario determinado, determine el diseño de solución necesario para cumplir con las leyes y regulaciones
 * Ante un escenario concreto, determine el diseño óptimo del flujo de trabajo técnico
 
-**Sección 3: Instalación y gestión (16 %)**
+**Sección 3: Instalación y administración (16%)**
 
 * Dado un conjunto de módulos clave, valide la configuración de la configuración del módulo
-* En un escenario concreto, recomiende soluciones de integración para habilitar integraciones nativas y de terceros con Adobe [!DNL Campaign Classic]
+* Ante un escenario, recomiende soluciones de integración para habilitar integraciones nativas y de terceros con el Adobe [!DNL Campaign Classic]
 * En un escenario determinado, determine los métodos de diagnóstico
 * Especifique los parámetros y el enfoque de la integración para las integraciones de aplicaciones de Adobe y sin Adobe
 * Ante una situación concreta, aconseje sobre la infraestructura de hardware adecuada necesaria durante el diseño de la solución
@@ -104,7 +104,7 @@ Debería tener:
 * Ante un escenario determinado, analice la solución general para determinar los riesgos técnicos, las suposiciones, los problemas y las dependencias
 * Comunicar los conocimientos técnicos del ACC a los equipos internos y externos
 
-**Sección 5: Personalización (26 %)**
+**Sección 5: Personalización (26%)**
 
 * Análisis y diseño de funciones personalizadas
 * Analizar y diseñar integraciones personalizadas
@@ -139,11 +139,11 @@ Debería tener:
 
 {{study-materials-intro}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/254)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/254)
 
 +++
 
@@ -200,6 +200,6 @@ Debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
 
 

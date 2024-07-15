@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto desarrollador
-description: Obtenga información sobre cómo obtener la certificación de experto en Adobe Developer en [!DNL Campaign Classic].
+description: Aprenda a obtener la certificación de experto en Adobe Developer en  [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Campaign Classic] Experto de desarrollador
+# Recorrido de certificación para el Adobe [!DNL Campaign Classic] Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/252) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/252) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, que incluye los materiales de estudio detallados que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 * Asesor técnico
 * Ingeniero de tecnología de marketing
-* Adobe [!DNL Campaign Classic] promotor
+* Adobe [!DNL Campaign Classic] desarrollador
 
 <br>
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 Debería tener:
 
 * Al menos dos años de experiencia con el software de Campaign
-* Al menos tres años de experiencia combinada en programación JavaScript, desarrollo de SQL incluyendo ETL, y tecnologías web (XML, HTML y servicios web)
+* Al menos tres años de experiencia combinada en programación de JavaScript, desarrollo de SQL, incluido ETL, y tecnologías web (XML, HTML y servicios web)
 * Experiencia en la ejecución de una campaña de marketing mediante el omnicanal digital
 * Experiencia con la arquitectura de la base de datos y conocimientos de marketing de base de datos
 * Capacidad para asignar requisitos a la funcionalidad de Campaign
@@ -66,7 +66,7 @@ Debería tener:
 
 {{exam-objectives}}
 
-**Sección 1: Configuración del sistema (16 %)**
+**Sección 1: Configuración del sistema (16%)**
 
 * Aplicar valores predeterminados y opciones de configuración de todo el sistema
 * Dados varios parámetros, seleccione la función de Adobe Campaign adecuada para implementar un caso de uso
@@ -74,24 +74,24 @@ Debería tener:
 * Implementación de configuraciones personalizadas
 * Identificación de funciones de configuración de Campaign Panel de control de Campaign
 
-**Sección 2: Personalización (22 %)**
+**Sección 2: Personalización (22%)**
 
 * Dado un conjunto de requisitos, aplique las prácticas recomendadas para diseñar un modelo de datos
 * Describir la implementación de las API de en Campaign.
-* Describa las prácticas recomendadas para desarrollar con JavaScript en Adobe Campaign
-* Aplicación de bibliotecas de JavaScript en flujos de trabajo, llamadas SOAP, reglas de tipología y bloques de personalización
-* Describir las prácticas recomendadas para utilizar funciones SQL en el Adobe [!DNL Campaign Classic]
-* Dado un escenario, comprenda cómo utilizar scripts SQL en el Adobe [!DNL Campaign Classic]
+* Describir las prácticas recomendadas para desarrollar con JavaScript en Adobe Campaign
+* Aplicación de bibliotecas de JavaScript SOAP en flujos de trabajo, llamadas a la, reglas de tipología y bloques de personalización
+* Describir las prácticas recomendadas para usar funciones SQL en el Adobe [!DNL Campaign Classic]
+* Dado un escenario, entender cómo usar scripts SQL en el Adobe [!DNL Campaign Classic]
 * Describir las funciones OOTB más utilizadas
 
-**Sección 3: Administración del acceso (8 %)**
+**Sección 3: Administración de acceso (8%)**
 
 * En un escenario determinado, configure las opciones de seguridad de un operador
 * Describa cómo configurar las opciones de administración de acceso en función del documento de diseño de la solución
 * Describa la administración de acceso mediante el Panel de control de Campaign
 * Identifique las limitaciones de la partición de datos y cuándo utilizar sysfilter
 
-**Sección 4: Integración de datos (16 %)**
+**Sección 4: integración de datos (16%)**
 
 * Ante un escenario concreto, seleccione el mejor enfoque para integrar con fuentes de datos externas
 * Implementar prácticas recomendadas para el procesamiento de datos de flujo de trabajo
@@ -99,7 +99,7 @@ Debería tener:
 * Identificar la configuración de seguridad y red para integrarla con Adobe Campaign desde un sistema externo
 * Configurar el proceso CRUD en un esquema desde fuera de Adobe Campaign
 
-**Sección 5: Mantenimiento de instancias (12 %)**
+**Sección 5: Mantenimiento de instancias (12%)**
 
 * Comprensión y acción del mapa de calor del flujo de trabajo
 * Mostrar el proceso para crear un flujo de trabajo o informe personalizado para la monitorización de instancias
@@ -107,7 +107,7 @@ Debería tener:
 * Explicar el impacto de los servicios y procesos en el sistema
 * Mostrar las métricas y comprobaciones básicas de auditoría del sistema
 
-**Sección 6: Configuración de la campaña (25 %)**
+**Sección 6: Configuración de campaña (25%)**
 
 * Aplicar técnicas de personalización avanzadas
 * Configuración y aplicación de asignaciones de destino personalizadas
@@ -150,11 +150,11 @@ Debería tener:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/252)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/252)
 
 +++
 
@@ -211,4 +211,4 @@ Debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

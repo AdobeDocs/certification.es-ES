@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto desarrollador
-description: Obtenga información sobre cómo obtener la certificación de experto en Adobe Developer en Adobe [!DNL Commerce].
+description: Aprenda a obtener la certificación de experto en Adobe Developer en el Adobe  [!DNL Commerce].
 solution: Commerce
 role: Developer
 level: Experienced
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para [!DNL Adobe Commerce] Experto de desarrollador
+# Recorrido de certificación para [!DNL Adobe Commerce] experto en desarrolladores
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/141) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/141) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-Debe tener al menos 1-3 años de experiencia con el Adobe [!DNL Commerce] y está familiarizado con las siguientes tecnologías y entornos:
+Debe tener al menos 1-3 años de experiencia con el desarrollo de Adobe [!DNL Commerce] y está familiarizado con las siguientes tecnologías y entornos:
 
 * Adobe [!DNL Commerce] - versión 2.4
 * PHP
@@ -75,12 +75,12 @@ Debe tener al menos 1-3 años de experiencia con el Adobe [!DNL Commerce] y est�
 
 **Sección 1: Adobe [!DNL Commerce] Técnicas de arquitectura y personalización (36%)**
 
-* Demostración de cómo utilizar de forma eficaz la caché en la Adobe [!DNL Commerce]
+* Mostrar cómo usar la caché de forma eficaz en el Adobe [!DNL Commerce]
 * Creación, uso y manipulación de atributos de extensión personalizados
 * Recomendar soluciones para aplicar actualizaciones personalizadas de temas a páginas de productos o categorías
 * Aplicar correctamente observadores, preferencias y complementos (efectos de orden)
-* Demostración de la capacidad de uso de la capa de configuración en el Adobe [!DNL Commerce]
-* Demostrar el conocimiento de cómo funcionan las rutas en el Adobe [!DNL Commerce]
+* Mostrar la capacidad de usar la capa de configuración en el Adobe [!DNL Commerce]
+* Mostrar conocimientos sobre cómo funcionan las rutas en el Adobe [!DNL Commerce]
 * Demostrar la capacidad de personalizar pagebuilder
 * Determinar los efectos y las restricciones de configurar varios sitios en una sola instancia
 * Describir las capacidades y restricciones de la inyección de dependencia
@@ -88,7 +88,7 @@ Debe tener al menos 1-3 años de experiencia con el Adobe [!DNL Commerce] y est�
 * Explicar los casos de uso de parches de Git y las modificaciones de nivel de archivo en Composer
 * Crear nuevos comandos en CLI
 * Demostración de cómo escribir una prueba de integración
-* Identificar Adobe [!DNL Commerce] función de seguridad (CSP, escape, claves de formulario, saneamiento, reCAPTCHA, validación de entrada)
+* Identificar la característica de seguridad del Adobe [!DNL Commerce] (CSP, escape, claves de formulario, saneamiento, reCAPTCHA, validación de entrada)
 * Explique cómo funciona el sistema de programación CRON
 * Demostración de la capacidad de cargar y manipular datos
 * Demostración de la capacidad de uso de la emulación de aplicación
@@ -100,37 +100,37 @@ Debe tener al menos 1-3 años de experiencia con el Adobe [!DNL Commerce] y est�
 * Demostración de la capacidad de importar y exportar datos desde Adobe Commerce
 * Describe cómo utilizar parches y configuraciones recurrentes para modificar la base de datos
 
-**Sección 3: Desarrollo con el administrador (6 %)**
+**Sección 3: Desarrollo con administrador (6%)**
 
 * Demostrar la capacidad de actualizar y crear cuadrículas y formularios
 * Ampliar acciones de cuadrícula
 * Demostración de la capacidad de crear clases de modificadores
 * Demostración de la capacidad de restringir el acceso a ACL
 
-**Sección 4: Personalización del catálogo (6 %)**
+**Sección 4: Personalización del catálogo (6%)**
 
 * Aplicar cambios a tipos de producto existentes y crear nuevos
 * Modificación y ampliación de entidades de catálogo existentes
 * Demostrar la capacidad de administrar índices y personalizar la salida de precios
 * Explicar cómo el inventario de varias fuentes afecta al stock (nivel de programa)
 
-**Sección 5: Personalización de las operaciones de ventas (6 %)**
+**Sección 5: Personalizar operaciones de ventas (6%)**
 
 * Demuestre la capacidad de desarrollar nuevos métodos de pago o personalizar los existentes
 * Demostrar la capacidad de agregar y personalizar métodos de envío
 * Demostrar la capacidad de personalizar las operaciones de ventas
 * Explicar cómo personalizar totales
 
-**Sección 6: API y servicios (4 %)**
+**Sección 6: API y servicios (4%)**
 
 * Demostrar la capacidad de crear nuevas API o ampliar las existentes.
 * Demostración de la capacidad de uso del sistema de colas
 
-**Sección 7: Adobe [!DNL Commerce] Arquitectura en la nube (16 %)**
+**Sección 7: Adobe [!DNL Commerce] Arquitectura en la nube (16%)**
 
-* Demostrar el conocimiento del Adobe [!DNL Commerce] flujo de trabajo arquitectura/entorno
+* Mostrar conocimientos de la arquitectura del Adobe [!DNL Commerce]/flujo de trabajo del entorno
 * Muestre un conocimiento práctico de los archivos, los permisos y la estructura del proyecto en la nube
-* Demostración de la capacidad de configurar almacenes basados en dominios múltiples en el Adobe [!DNL Commerce] Cloud (mezcla de sitios de varios dominios de trabajo de desarrollo y asistencia)
+* Demostrar la capacidad de configurar almacenes basados en dominios múltiples en la nube del Adobe [!DNL Commerce] (mezcla de sitios de dominios múltiples de trabajo de desarrollo y asistencia)
 * Demostrar un conocimiento general de los servicios de aplicaciones y cómo administrarlos (YAML, PHP, MariaDB, Redis, RabbitMQ, etc.)
 * Identificar cómo acceder a diferentes tipos de registros
 * Demostración de la capacidad de implementar un proyecto (Pasos principales de implementación)
@@ -140,9 +140,9 @@ Debe tener al menos 1-3 años de experiencia con el Adobe [!DNL Commerce] y est�
 * Distinguir cuándo ponerse en contacto con el servicio de asistencia *Yaml archivos y limitaciones (DIY vs tickets de asistencia)
 * Demostrar conocimientos básicos de la configuración e instalación de funciones de OOTB FASTLY
 
-**Sección 8: Adobe de configuración [!DNL Commerce] Nube (10 %)**
+**Sección 8: Configuración/configuración del Adobe [!DNL Commerce] en la nube (10%)**
 
-* Describir cómo configurar el Adobe [!DNL Commerce] Nube
+* Describir cómo configurar el Adobe [!DNL Commerce] Cloud
 * Aplicar conocimientos básicos de solución de problemas de la nube (jerarquía de IU y variables web, configuraciones y prioridad)
 * Demostración de la comprensión de la administración de usuarios en la nube y la IU de incorporación
 * Describir cómo actualizar variables de nube mediante la IU
@@ -150,7 +150,7 @@ Debe tener al menos 1-3 años de experiencia con el Adobe [!DNL Commerce] y est�
 * Demostración de la comprensión de la bifurcación mediante la IU
 * Identificar las capacidades del plan Adobe Commerce Cloud
 
-**Sección 9: [!DNL Commerce] Herramienta CLI de nube (administración de la parte) (6 %)**
+**Sección 9: [!DNL Commerce] Herramienta de CLI de nube (administrando parte) (6%)**
 
 * Demuestre cómo comprender la actualización de variables de nube mediante CLI
 * Demuestre su comprensión de la administración del entorno mediante CLI (funciones exclusivas de CLI: activar correos electrónicos, entornos de rebase, instantánea, volcado de la base de datos, configuración del entorno local)
@@ -189,11 +189,11 @@ Debe tener al menos 1-3 años de experiencia con el Adobe [!DNL Commerce] y est�
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/141)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/141)
 
 +++
 
@@ -250,4 +250,4 @@ Debe tener al menos 1-3 años de experiencia con el Adobe [!DNL Commerce] y est�
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

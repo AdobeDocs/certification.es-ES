@@ -1,6 +1,6 @@
 ---
 title: Certificación profesional
-description: Obtenga información sobre cómo obtener una certificación [!DNL Experience Platform] Profesional en [!DNL Real-Time Customer Data Platform]
+description: Aprenda a obtener la certificación  [!DNL Experience Platform] Profesional en [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Real-Time CDP] Profesional empresarial
+# Recorrido de certificación para el Adobe [!DNL Real-Time CDP] Profesional de negocios
 
 {{intro}}
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso:** Si acaba de empezar, o necesita un refresco, tome nuestro [Curso de Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporciona una base de conocimientos sobre la que puede basarse en su recorrido de certificación.
+>* **Curso:** Si acaba de empezar o necesita un repaso, siga nuestro [Curso de Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) para acceder a explicaciones de conceptos clave, guías de productos y comprobaciones de conocimientos. Este curso proporciona una base de conocimientos sobre la que puede basarse en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/133) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/133) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación.
 >
->_Si se le solicita que inicie sesión, utilice su Adobe ID._
+>_Si se le pide que inicie sesión, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -94,12 +94,12 @@ Experiencia con tareas que incluyen:
 * Aplique los conceptos necesarios para segmentar las identidades en los destinos
 * Identificar asignaciones de atributos y programación de segmentos a destino
 
-**Sección 2: Privacidad y control de datos (20 %)**
+**Sección 2: Privacidad y control de datos (20%)**
 
 * Demostrar una comprensión de las políticas DULE y su impacto en la disponibilidad de datos en los destinos
 * Garantizar el cumplimiento de las medidas de privacidad y cumplimiento de datos
 
-**Sección 3: Análisis de negocio (30 %)**
+**Sección 3: Análisis empresarial (30 %)**
 
 * Identificar casos de uso que se vinculan a KPI empresariales
 * Realizar análisis de datos de segmentos de clientes en Platform
@@ -107,7 +107,7 @@ Experiencia con tareas que incluyen:
 
 **Sección 4: Esquemas y perfiles (18 %)**
 
-* Demostrar una comprensión del Adobe [!DNL Experience Platform] conceptos
+* Mostrar una comprensión de los conceptos de Adobe [!DNL Experience Platform]
 * Uso de funciones de perfil
 
 <br>
@@ -130,7 +130,7 @@ Experiencia con tareas que incluyen:
 
 {{study-materials-intro}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
@@ -145,11 +145,11 @@ Experiencia con tareas que incluyen:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/133)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/133)
 
 
 +++
@@ -207,4 +207,4 @@ Experiencia con tareas que incluyen:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

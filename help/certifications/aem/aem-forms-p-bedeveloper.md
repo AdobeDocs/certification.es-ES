@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager Forms] Backend Developer Professional
+# Recorrido de certificación para el desarrollador back-end profesional del Adobe [!DNL Experience Manager Forms]
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso:** Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Curso:** Si acaba de empezar o necesita un repaso, siga el curso de [Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) para acceder a explicaciones de conceptos clave, guías de productos y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/123) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/123) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación.
 >
 >_Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
@@ -87,7 +87,7 @@ Debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{exam-objectives}}
 
-**Sección 1: Creación y administración de Forms (26 %)**
+**Sección 1: Creación y administración de Forms (26%)**
 
 * Ante un escenario concreto, identifique los pasos necesarios para crear AEM Forms
 * Describir el modelo de datos de Forms
@@ -103,20 +103,20 @@ Debe estar familiarizado con las siguientes tecnologías y entornos:
 * Ante un escenario concreto, manipule un PDF mediante los servicios de Forms o Assembler
 * Describir las formas de implementar los servicios JDBC
 
-**Sección 3: Administración y resolución de problemas (21 %)**
+**Sección 3: Administración y solución de problemas (21%)**
 
 * Identificar problemas generados en archivos de registro
 * Ante un escenario concreto, identifique los pasos para realizar actividades de administración
 * Identificación de las funciones de los Service Packs en AEM Forms
-* AEM Describa los pasos para la configuración de Dispatcher de la para Forms
+* AEM Describa los pasos para la configuración de Dispatcher para Forms de la manera más rápida.
 * Describir los pasos para navegar por distintas consolas
 
-**Sección 4: Extremos e integraciones de API (10 %)**
+**Sección 4: Extremos e integraciones de API (10%)**
 
 * AEM En un escenario concreto, describa el flujo para integrar Formulario de la con Adobe Experience Cloud
 * Identifique los pasos para generar varios servicios de extremos
 
-**Sección 5: Comunicación interactiva (9 %)**
+**Sección 5: Comunicación interactiva (9%)**
 
 * En un escenario determinado, mostrar e implementar procesos para la comunicación interactiva
 
@@ -140,17 +140,17 @@ Debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{study-materials-intro}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
-[Siga el curso de Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Asista al curso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/123)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/123)
 
 **Realizar una prueba de práctica**
 
@@ -211,6 +211,6 @@ Debe estar familiarizado con las siguientes tecnologías y entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
 
 

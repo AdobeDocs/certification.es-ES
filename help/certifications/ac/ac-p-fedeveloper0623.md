@@ -1,6 +1,6 @@
 ---
 title: Nueva certificación para desarrolladores front-end Professional
-description: Aprenda a obtener la certificación de profesional de Adobe Developer para el Adobe [!DNL Commerce].
+description: Aprenda a obtener la certificación de profesional de Adobe Developer para el Adobe  [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Commerce] Desarrollador front-end profesional
+# Recorrido de certificación para el Adobe [!DNL Commerce] del desarrollador front-end Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Curso**: Si acaba de empezar o necesita un repaso, tome la [Curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) para acceder a explicaciones de conceptos clave, guías de producto y comprobaciones de conocimientos. Esto proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Curso**: si acaba de empezar o necesita un repaso, asista al [Curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) para acceder a explicaciones de conceptos clave, guías de productos y comprobaciones de conocimientos. Esto proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/138) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/138) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación.
 >
->_Si se le solicita que inicie sesión, utilice su Adobe ID._
+>_Si se le pide que inicie sesión, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -86,13 +86,13 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 
 {{exam-objectives}}
 
-**Sección 1: Administración de temáticas (jerarquía de temáticas, configuración de imágenes, traducciones) (14 %)**
+**Sección 1: Administración de temáticas (jerarquía de temáticas, configuración de imágenes, traducciones) (14%)**
 
-* Describir Adobe [!DNL Commerce] estructura de carpetas de temas
+* Describir la estructura de carpetas de temas del Adobe [!DNL Commerce]
 * Demostrar la capacidad de crear temáticas nuevas o ampliar las existentes
 * Demostrar la capacidad de añadir frases de traducción personalizadas
 
-**Sección 2: Diseño XML y plantillas (30 %)**
+**Sección 2: Diseño XML y plantillas (30%)**
 
 * Mostrar la capacidad de trabajar con instrucciones XML de diseño básicas
 * Demostración de la capacidad de utilizar diseños de página existentes
@@ -100,16 +100,16 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 * Demostrar la capacidad de crear y personalizar plantillas
 * Describir la seguridad de la plantilla (salida de escape)
 
-**Sección 3: Estilos (22 %)**
+**Sección 3: Estilos (22%)**
 
 * Describir el propósito de styles-m.less, styles-l.less, print.less
 * Describa la diferencia entre archivos parciales específicos (_extensions.less,_extend.less,_theme.less,_widgets.less,_module.less)
-* Ante un escenario, demuestre la capacidad de anular o ampliar [!DNL Magento] MENOS
+* Dado un escenario, demuestre la capacidad de anular o ampliar [!DNL Magento] LESS
 * Describir los conceptos básicos de LESS
 * Explicar la jerarquía de estilos (biblioteca, módulos y temas)
 * Explicar la compilación del lado del cliente y del lado del servidor
 
-**Sección 4: JavaScript (18 %)**
+**Sección 4: JavaScript (18%)**
 
 * Demostrar la capacidad de inicializar y llamar a componentes de JavaScript
 * Demostración del uso de RequireJS
@@ -118,14 +118,14 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 * Describir el uso de Knockout JS
 * Describir el uso de los widgets de jQuery
 
-**Sección 5: Configuración de administración y Page Builder (6 %)**
+**Sección 5: Configuración de administración y Page Builder (6%)**
 
 * Demostración de la capacidad de personalizar Page Builder y &quot;Contenido de CMS&quot;
 * Aplicar o programar una temática a un ámbito específico (sitio web, tienda, vista de tienda)
 * Aplicar cambios de diseño a categorías, productos y páginas de CMS mediante la configuración de administración
 * Describir los pasos para personalizar los correos electrónicos transaccionales
 
-**Sección 6: Herramientas (CLI y Grunt) (8 %)**
+**Sección 6: Herramientas (CLI y Grunt) (8%)**
 
 * Describir el uso de los comandos básicos bin/Magento
 * Describir el uso de los comandos del Compositor (instalar, actualizar, requerir, quitar)
@@ -156,7 +156,7 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 
 {{practice-test}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
@@ -167,11 +167,11 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 </span>
 </a>
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/138)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/138)
 
 +++
 
@@ -228,4 +228,4 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Profesional de negocios Certificación profesional
-description: Obtenga información sobre cómo obtener la certificación como [!DNL Adobe Analytics] Profesional de negocios.
+description: Aprenda a obtener la certificación como profesional de  [!DNL Adobe Analytics] Profesional empresarial.
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Analytics] Profesional empresarial
+# Recorrido de certificación para el Adobe [!DNL Analytics] Profesional de negocios
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/145) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/145) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-Debe tener un mínimo de 3 meses de experiencia en [!DNL Adobe Analytics] y la siguiente experiencia:
+Debe tener un mínimo de 3 meses de experiencia en [!DNL Adobe Analytics] y en la siguiente experiencia:
 
 * Un fondo de marketing o una fuente de una función de marketing, pero pueden provenir de una variedad de funciones de trabajo.
 * Familiaridad básica con las métricas y dimensiones de análisis digital.
@@ -70,7 +70,7 @@ Debe tener un mínimo de 3 meses de experiencia en [!DNL Adobe Analytics] y la s
 
 {{exam-objectives}}
 
-**Sección 1: Análisis de negocio (34 %)**
+**Sección 1: Análisis empresarial (34%)**
 
 * Dada una necesidad o pregunta empresarial, identifique una estrategia de informes adecuada para realizar un análisis
 * Analizar datos para responder preguntas comerciales
@@ -79,7 +79,7 @@ Debe tener un mínimo de 3 meses de experiencia en [!DNL Adobe Analytics] y la s
 * Analizar los datos del informe para resumir y extraer conclusiones
 * Reconocimiento de periféricos y anomalías en los informes
 
-**Sección 2: Creación de informes y tableros para proyectos (38 %)**
+**Sección 2: Informes y tableros para proyectos (38%)**
 
 * Considere las ventajas de utilizar visualizaciones específicas basadas en un escenario determinado
 * Comparar la visualización de visitas en orden previsto y flujo
@@ -89,17 +89,17 @@ Debe tener un mínimo de 3 meses de experiencia en [!DNL Adobe Analytics] y la s
 * En un escenario determinado, determine el elemento apropiado que debe utilizar
 * Informar sobre el rendimiento de campañas de marketing
 
-**Sección 3: Segmentación y métricas calculadas (19 %)**
+**Sección 3: Segmentación y métricas calculadas (19%)**
 
 * Determine cómo desarrollar y configurar segmentos básicos siguiendo las prácticas recomendadas
 * Aplique el proceso para compartir segmentos con otros miembros de la organización
 * Aplicación de segmentos a proyectos y componentes
 * Aplique el proceso para generar métricas calculadas o segmentadas básicas
 
-**Sección 4: Conocimiento general de la herramienta y solución de problemas (9 %)**
+**Sección 4: conocimiento general de la herramienta y solución de problemas (9%)**
 
-* Explicación de los distintos tipos de dimensiones y parámetros existentes en [!DNL Adobe Analytics] (evars, props y eventos)
-* Determinar cómo exportar datos desde [!DNL Adobe Analytics]
+* Comprenda diferentes tipos de dimensiones y parámetros existentes en [!DNL Adobe Analytics] (evars, props y eventos)
+* Determinar cómo exportar datos de [!DNL Adobe Analytics]
 
 <br>
 
@@ -129,13 +129,13 @@ Debe tener un mínimo de 3 meses de experiencia en [!DNL Adobe Analytics] y la s
 
 {{study-materials-intro}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/145)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/145)
 
-**Preguntas de muestra**
+**Preguntas de ejemplo**
 
 {{sample-questions}}
 
@@ -201,4 +201,4 @@ Debe tener un mínimo de 3 meses de experiencia en [!DNL Adobe Analytics] y la s
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

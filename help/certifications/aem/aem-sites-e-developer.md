@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto desarrollador
-description: Aprenda a obtener la certificación de Adobe [!DNL Experience Manager Sites] Experto.
+description: Aprenda a obtener la certificación de Adobe [!DNL Experience Manager Sites] Expert.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Experience Manager] Experto para desarrolladores de sitios
+# Recorrido de certificación para el Adobe [!DNL Experience Manager] Sites Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/125) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/125) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -75,7 +75,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{exam-objectives}}
 
-**Sección 1: Configuraciones (22 %)**
+**Sección 1: Configuraciones (22%)**
 
 * AEM Identifique los pasos para crear y administrar configuraciones de Dispatcher de la
 * Determine los pasos correctos para configurar el inquilino múltiple
@@ -83,7 +83,7 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * Ante un escenario, determine el método correcto para Crear y administrar índices Oak personalizados
 * Determine los pasos correctos para configurar la integración de OOTB SAML y LDAP
 
-**AEM Sección 2: Desarrollo de la (44 %)**
+AEM **Sección 2: desarrollo de la (44%)**
 
 * SPA Determinar los pasos correctos para implementar estructura, plantillas y componentes de
 * Dado un diseño, cree componentes personalizados, incluidos HTL, modelos y servicios
@@ -92,12 +92,12 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 * En un escenario determinado, determine el enfoque para cualquier integración de terceros
 * Determinar el método para implementar una implementación híbrida o sin encabezado
 
-**Sección 3: Generación e implementación (14 %)**
+**Sección 3: compilación e implementación (14%)**
 
 * Identifique los pasos para configurar y mantener la administración de dependencias del front-end y del back-end
 * Determinar el tipo de archivo correcto al crear proyectos
 
-**Sección 4: Mantenimiento del entorno (22 %)**
+**Sección 4: Mantenimiento del entorno (22%)**
 
 * AEM Ante un escenario concreto, determine los pasos necesarios para administrar entornos de
 * Explicar los pasos de configuración relacionados con la administración de versiones
@@ -136,11 +136,11 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/125)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/125)
 
 +++
 
@@ -208,4 +208,4 @@ Además, debe estar familiarizado con las siguientes tecnologías y entornos:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

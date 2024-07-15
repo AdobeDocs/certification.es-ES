@@ -1,6 +1,6 @@
 ---
 title: Nueva certificación para desarrolladores front-end
-description: Obtenga información sobre cómo obtener la certificación de experto en Adobe Developer en Adobe [!DNL Commerce].
+description: Aprenda a obtener la certificación de experto en Adobe Developer en el Adobe  [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para [!DNL Adobe Commerce] Experto para desarrolladores front-end
+# Recorrido de certificación para [!DNL Adobe Commerce] experto en desarrolladores front-end
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/139) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/139) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -77,7 +77,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 
 {{exam-objectives}}
 
-**Sección 1: Administración de temáticas (jerarquía de temáticas, configuración de imágenes, traducciones) (16 %)**
+**Sección 1: Administración de temáticas (jerarquía de temáticas, configuración de imágenes, traducciones) (16%)**
 
 * Describa la estructura de carpetas de temáticas de Adobe Commerce y cómo se relaciona con las temáticas basadas en carpetas
 * Demostrar la capacidad de crear una nueva temática (Herencia/Alternativas, excepciones de diseño, propiedades de la temática)
@@ -86,7 +86,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Demostrar la capacidad de aplicar traducciones
 * Dado un conjunto de casos de uso, identifique cuándo colocar archivos en la aplicación/código o la aplicación/diseño
 
-**Sección 2: Diseño XML y plantillas (plantillas phtml) (22 %)**
+**Sección 2: Diseño XML y plantillas (plantillas phtml) (22%)**
 
 * Demostrar la capacidad de utilizar instrucciones XML de diseño
 * Demostrar la capacidad de crear nuevos diseños de página
@@ -95,7 +95,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Demostrar la capacidad de crear y personalizar plantillas
 * Aplicar seguridad de plantilla (salida de escape)
 
-**Sección 3: Estilos (18 %)**
+**Sección 3: Estilos (18%)**
 
 * Identificar el propósito de styles-m.less, styles-l.less, print.less
 * Describa la diferencia entre archivos parciales específicos (_extensions.less,_extend.less,_theme.less,_widgets.less,_module.less,)
@@ -106,7 +106,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Demostrar la capacidad de implementar y personalizar los componentes de biblioteca LESS
 * Identificar las diferencias entre la compilación del lado del cliente y la del lado del servidor y cómo funciona
 
-**Sección 4: JavaScript (widgets de imagen, biblioteca de imágenes, módulo de datos del cliente, plantillas de cobertura) (22 %)**
+**Sección 4: JavaScript (widgets de imagen, biblioteca de imágenes, módulo de datos del cliente, plantillas de cobertura) (22%)**
 
 * Demostrar la capacidad de inicializar y llamar a componentes de JavaScript
 * Distinguir casos de uso para diferentes componentes de JavaScript
@@ -118,14 +118,14 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Mostrar el uso de widgets de jQuery
 * Demostración del uso de componentes JS mediante XML de diseño
 
-**Sección 5: Configuración de administración y Page Builder (12 %)**
+**Sección 5: Configuración de administración y Page Builder (12%)**
 
 * Demostrar la capacidad de personalizar el contenido de Page Builder
 * Describir la optimización del front-end
 * Personalizar correos electrónicos transaccionales
 * Demostración del uso de las herramientas de desarrollo de administración
 
-**Sección 6: Herramientas (CLI y Grunt) (10 %)**
+**Sección 6: Herramientas (CLI y Grunt) (10%)**
 
 * Demostración del uso de comandos bin/Magento básicos
 * Describir el uso de los comandos del Compositor (instalar, actualizar, requerir, quitar)
@@ -165,11 +165,11 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/139)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/139)
 
 +++
 
@@ -226,4 +226,4 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

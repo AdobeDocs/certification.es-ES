@@ -1,6 +1,6 @@
 ---
 title: Profesional de negocios Certificación profesional
-description: Aprenda a convertirse en un profesional de negocios de Adobe certificado en Adobe [!DNL Commerce].
+description: Aprenda a convertirse en un profesional profesional de negocios de Adobe certificado en el Adobe  [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Commerce] Profesional empresarial
+# Recorrido de certificación para el Adobe [!DNL Commerce] Profesional de negocios
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
 >
->* **Cursos**: Tome la [Curso profesional para profesionales de Adobe Commerce Business](https://app.rockinfo.com/courses/219) para explicaciones de conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. Si acaba de empezar, el [Curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>* **Cursos**: Asista al [Curso para profesionales de Adobe Commerce Business](https://app.rockinfo.com/courses/219) para obtener explicaciones sobre conceptos clave, demostraciones prácticas y comprobaciones de conocimientos. Si acaba de empezar, el curso [Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) proporciona una base de conocimientos que puede aprovechar en su recorrido de certificación.
 >
->* **Guía de preparación para exámenes:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/137) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación.
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/137) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación.
 >
->_Si se le solicita que inicie sesión, utilice su Adobe ID._
+>_Si se le pide que inicie sesión, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -62,16 +62,16 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-Debe tener una experiencia práctica de al menos 0-12 meses con [!DNL Magento Open Source] versión 2.4.3 con el tema LUMA o BLANK y comprensión básica del Adobe [!DNL Commerce] versión 2.4.3.
+Debe tener una experiencia práctica mínima de 0 a 12 meses con [!DNL Magento Open Source] versión 2.4.3 usando el tema LUMA o BLANK y una comprensión básica del Adobe [!DNL Commerce] versión 2.4.3.
 
 Además, debe tener una comprensión básica de la experiencia de comercio electrónico, así como estar familiarizado con los siguientes conceptos:
 
-* Marketing digital (SEO), CMS, marketing por correo electrónico, técnicas de ventas [realizar venta cruzada, ampliar ventas], análisis, informes y monitorización)
+* Marketing digital (SEO, CMS, marketing por correo electrónico, técnicas de ventas [venta cruzada, ampliación de venta], análisis, creación de informes y monitorización)
 * Terminología de comercio electrónico (estrategias de ventas/marketing como omnicanal y multicanal)
 * Precios y promoción
 * Recorrido de compra del cliente
 * Ciclo de vida del pedido
-* [!DNL Magento] Extensiones de Marketplace y de terceros
+* Extensiones de terceros y del mercado [!DNL Magento]
 * Seguridad y conformidad (RGPD, ADA, PCI DSS v3.2.1, PSD 2)
 * Precios y promoción
 
@@ -81,24 +81,24 @@ Además, debe tener una comprensión básica de la experiencia de comercio elect
 
 {{exam-objectives}}
 
-**Sección 1: [!DNL Magento Open Source] funciones principales (49 %)**
+**Sección 1: [!DNL Magento Open Source] características principales (49%)**
 
 * Identificar las características de [!DNL Magento Open Source]
 * Distinguir el ámbito correcto y cuándo utilizar cada uno
 * Demostración de los conocimientos de gestión de catálogos
-* Manipulación de precios mediante [!DNL Magento Open Source] características
+* Manipular precios usando las características de [!DNL Magento Open Source]
 * Describir el recorrido estándar del cliente
 * Describir el ciclo de vida del pedido estándar
 * Describir las tareas diarias relacionadas con el mantenimiento de la tienda
 * Explicar los diferentes tipos de elementos de contenido y cuándo utilizarlos
 
-**Sección 2: Adobe [!DNL Commerce] conceptos básicos (14 %)**
+**Sección 2: Adobe [!DNL Commerce] básico (14%)**
 
-* Identificar las funciones clave disponibles en Adobe [!DNL Commerce]
-* Identificar complementos de servicio en Adobe [!DNL Commerce]
-* Identificación de opciones de alojamiento para el Adobe [!DNL Commerce]
+* Identificar las características clave disponibles en el Adobe [!DNL Commerce]
+* Identificar complementos de servicio en el Adobe [!DNL Commerce]
+* Identificar las opciones de hospedaje del Adobe [!DNL Commerce]
 
-**Sección 3: Fundamentos del marketing digital y el comercio electrónico (24 %)**
+**Sección 3: Fundamentos del marketing digital y el comercio electrónico (24%)**
 
 * Identifique los usos básicos de las herramientas de marketing digital (Google Analytics/Adobe Analytics, Google Tag Manager, marketing por correo electrónico, Segmentación, Complementos sociales)
 * Explicar los principios básicos de SEO
@@ -109,7 +109,7 @@ Además, debe tener una comprensión básica de la experiencia de comercio elect
 **Sección 4: Conceptos básicos de cumplimiento y seguridad (13 %)**
 
 * Comprender los conceptos básicos del cumplimiento de las leyes de privacidad y la seguridad de pago
-* Identificación de aspectos comunes de seguridad de un Adobe [!DNL Commerce] proyecto
+* Identificar aspectos de seguridad comunes de un proyecto de Adobe [!DNL Commerce]
 * Identificar las prácticas recomendadas y los requisitos legales del cumplimiento de la accesibilidad
 
 <br>
@@ -144,19 +144,19 @@ Además, debe tener una comprensión básica de la experiencia de comercio elect
 
 {{practice-test}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
-[Siga el curso de Adobe Commerce Foundations](https://app.rockinfo.com/courses/148)
+[Asista al curso Adobe Commerce Foundations](https://app.rockinfo.com/courses/148)
 
 [Realice el curso profesional para profesionales de Adobe Commerce Business](https://app.rockinfo.com/courses/219)
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/137)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/137)
 
 +++
 
@@ -213,4 +213,4 @@ Además, debe tener una comprensión básica de la experiencia de comercio elect
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

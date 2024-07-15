@@ -26,9 +26,9 @@ Para obtener más información sobre el Programa de certificación de experienci
 
 Beneficios individuales: la certificación es una credencial que reconoce la habilidad y competencia de una persona en una solicitud de Adobe. Un candidato que pasa el examen de certificación se convierte en un Adobe Certificado Profesional, Experto o Maestro.
 
-Las certificaciones requieren compromiso, son defendibles legalmente y validación desde el Adobe de su experiencia. También puede incluir su certificación en sus perfiles sociales descargando su insignia de [!DNL Credly].
+Las certificaciones requieren compromiso, son defendibles legalmente y validación desde el Adobe de su experiencia. También puede incluir su certificación en sus perfiles sociales al descargar su insignia de [!DNL Credly].
 
-Para obtener más información sobre cómo administrar las insignias en [!DNL Credly], vaya [AQUÍ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
+Para obtener más información sobre cómo administrar tus insignias en [!DNL Credly], ve [AQUÍ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -51,17 +51,17 @@ A veces hay varias versiones de un examen. Es mejor tomar la última versión.
 
 [!DNL Examity] tiene soporte disponible por chat, correo electrónico y teléfono. El soporte de Adobe no puede ayudar con los problemas técnicos que ocurren durante el examen.
 
-[!DNL Examity] Compatibilidad: `adobepartnersupport@examity.com`
+Compatibilidad con [!DNL Examity]: `adobepartnersupport@examity.com`
 
 El recurso de ayuda más rápido es a través de su chat. Todos los candidatos deben asegurarse de que su equipo cuenta con los requisitos adecuados del sistema antes de realizar el examen.
 
-Para obtener más información, consulte la [!DNL Examity] página para administrar los exámenes y la configuración técnica.
+Para obtener más información, consulte la página [!DNL Examity] para administrar los exámenes y la configuración técnica.
 
 +++
 
 +++¿Con quién puedo ponerme en contacto si tengo preguntas o problemas con la certificación?
 
-Para preguntas sobre el registro de exámenes, pagos de exámenes, entrega de exámenes, centros de pruebas, comentarios sobre exámenes, preguntas sobre exámenes, experiencia de pruebas, adaptaciones de pruebas o preguntas sobre el portal de certificación, póngase en contacto con `certif@adobe.com`.
+Si tiene preguntas sobre el registro de exámenes, pagos de exámenes, entrega de exámenes, centros de pruebas, comentarios sobre exámenes, preguntas sobre exámenes, experiencia de pruebas, adaptaciones para exámenes o preguntas sobre el portal de certificación, comuníquese con `certif@adobe.com`.
 
 +++
 
@@ -77,9 +77,9 @@ Si usted no puede reprogramar su examen, a pesar de que es más de 48 horas ante
 
 +++¿Puede el Adobe acomodar a los candidatos con requisitos especiales?
 
-El Adobe puede acomodar ciertos requisitos especiales. Si necesita tiempo adicional para completar su examen u otro alojamiento, póngase en contacto con `certif@adobe.com` con su solicitud.
+El Adobe puede acomodar ciertos requisitos especiales. Si necesita tiempo adicional para completar su examen u otro alojamiento, comuníquese con `certif@adobe.com` y comuníquese con su solicitud.
 
-**Su solicitud debe ser enviada 2 semanas antes de su horario de exámenes.**
+**Su solicitud debe enviarse 2 semanas antes de la fecha programada para su examen.**
 
 +++
 
@@ -93,7 +93,7 @@ Para los candidatos que suspenden el examen de certificación de Adobe en su pri
 
 +++¿Cómo puedo obtener una copia de mi informe de puntuación?
 
-* Paso 1: Inicie sesión en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Inicie sesión con su ID o correo electrónico y contraseña.
+* Paso 1: Inicie sesión en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Inicie sesión con su ID o correo electrónico y contraseña.
 * Paso 2: Haga clic en Historial.
 * Paso 3: Desplácese por el historial de transcripciones y seleccione el informe que desee ver. Puede hacer que el informe se le envíe por correo electrónico o verlo en pantalla.
 
@@ -101,7 +101,7 @@ Para los candidatos que suspenden el examen de certificación de Adobe en su pri
 
 +++¿Cómo realizo un seguimiento de mi estado de certificación?
 
-Para realizar un seguimiento del estado de la certificación, vaya a [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"} en la pestaña certificaciones.
+Puede hacer un seguimiento de su estado de certificación yendo a [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"} en la ficha Certificaciones.
 
 +++
 
@@ -113,13 +113,13 @@ Después de completar el examen, los resultados se mostrarán inmediatamente en 
 
 +++¿Cómo puedo iniciar sesión en o crear una cuenta de Adobe Credential Management/Certmetrics?
 
-Puede [inicie sesión en o cree una cuenta aquí](https://www.certmetrics.com/adobe/){target="_blank"}. Aquí puede ver los exámenes disponibles, su historial de exámenes, las fechas de caducidad de la certificación y cualquier beneficio, como descuentos, disponible para usted.
+Puede [iniciar sesión o crear una cuenta aquí](https://www.certmetrics.com/adobe/){target="_blank"}. Aquí puede ver los exámenes disponibles, su historial de exámenes, las fechas de caducidad de la certificación y cualquier beneficio, como descuentos, disponible para usted.
 
 +++
 
 +++¿Cuánto duran las certificaciones?
 
-Debido a que necesitamos asegurarnos de que nuestras personas con certificación de Adobe estén al corriente de las nuevas funciones y capacidades de las aplicaciones, las Certificaciones de Adobe sí lo están **válido durante dos años**.
+Debido a que necesitamos asegurarnos de que nuestros individuos con certificación de Adobe estén al día en las nuevas características y capacidades de la aplicación, las certificaciones de Adobe son **válidas por dos años**.
 
 +++
 
@@ -141,7 +141,7 @@ No directamente, no. Sin embargo, debido a que la certificación requerirá una 
 
 +++
 
->[!TAB Renovaciones mediante exámenes a la carta]
+>[!TAB Renovaciones mediante exámenes a solicitud]
 
 +++¿Qué es la renovación de certificación? ¿Cómo renuevo mi certificación?
 
@@ -160,9 +160,9 @@ Ocasionalmente, retiramos un examen para un rol. En ese caso, su certificación 
 
 +++¿Qué sucede si no renuevo mi certificación antes de que caduque?
 
-Su certificación caducará y se mostrará como caducada en [!DNL Credly] y cualquiera de sus perfiles sociales. Además, si su certificación caduca, entonces no puede tomar el examen de renovación más corto o renovar a través del aprendizaje continuo.
+Su certificación caducará y se mostrará como caducada en [!DNL Credly] y en cualquiera de sus perfiles sociales. Además, si su certificación caduca, entonces no puede tomar el examen de renovación más corto o renovar a través del aprendizaje continuo.
 
-Para obtener más información sobre cómo administrar las insignias en [!DNL Credly], vaya [AQUÍ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
+Para obtener más información sobre cómo administrar tus insignias en [!DNL Credly], ve [AQUÍ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -170,13 +170,13 @@ Para obtener más información sobre cómo administrar las insignias en [!DNL Cr
 
 Puede renovar su certificación de forma gratuita. Esto le ofrece una forma rentable de mantener su certificación y mantener al día sus conocimientos de soluciones.
 
-Para obtener más información sobre cómo renovar su certificación, vaya a [aquí](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
+Para obtener más información sobre cómo renovar tu certificación, ve [aquí](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
 +++¿Dónde puedo ver la fecha de caducidad de mi certificación? ¿Recibiré un aviso?
 
-Iniciar sesión en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"}. Ahí puede ver cuándo logró su credencial y cuándo caducará. También debe comprobar su perfil y confirmar que su información de contacto, correo electrónico secundario y trabajo es correcta.
+Inicie sesión en [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"}. Ahí puede ver cuándo logró su credencial y cuándo caducará. También debe comprobar su perfil y confirmar que su información de contacto, correo electrónico secundario y trabajo es correcta.
 
 Recibirá una notificación por correo electrónico un mes antes de que caduque su certificación. Pero si ha cambiado de trabajo y no ha actualizado su correo electrónico, es posible que no reciba notificaciones. Agregue un correo electrónico secundario (como Gmail, Hotmail, Yahoo, etc.) a su cuenta de CertMetrics para recibir un correo electrónico de recordatorio de caducidad de certificación aunque cambie de empresa.
 
@@ -184,7 +184,7 @@ Recibirá una notificación por correo electrónico un mes antes de que caduque 
 
 +++¿Qué examen debo realizar para mi renovación?
 
-Para saber qué examen debe realizar, inicie sesión en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"} con su Adobe ID, haga clic en Certificaciones y seleccione el nombre de la certificación. El examen de renovación se enumera en **necesidad de mantenerse actualizado**.
+Para saber qué examen necesita realizar, inicie sesión en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"} con su Adobe ID, haga clic en Certificaciones y seleccione el nombre de certificación. El examen de renovación se encuentra en **requisito para mantenerse actualizado**.
 
 +++
 
@@ -200,7 +200,7 @@ No, no es posible volver a realizar el mismo examen para la renovación una vez 
 
 +++
 
->[!TAB Renovaciones a través del aprendizaje continuo]
+>[!TAB Renovaciones mediante aprendizaje continuo]
 
 +++¿Qué es el programa de renovación de la certificación de Adobe a través del aprendizaje continuo?
 
@@ -210,7 +210,7 @@ El Adobe ofrece actividades de aprendizaje y participación continuas para que l
 
 +++Mi certificación ya ha caducado; ¿puedo continuar con las actividades de aprendizaje continuo y participación para la renovación?
 
-No, esta opción de renovación solo está disponible para los Experience Manager de Analytics, Commerce y Target con certificación activa de los Adobes.
+No, esta opción de renovación solo está disponible para los candidatos de Analytics, Experience Manager, Commerce y Target con certificación activa de los Adobes.
 
 +++
 
@@ -240,13 +240,13 @@ No. Todas las actividades son accesibles a través del Administrador de credenci
 
 +++¿Tengo que pasar evaluaciones y también enviar un formulario de referencia de cliente?
 
-No, enviar un formulario de referencia de cliente es opcional y una de las actividades que los candidatos pueden completar para renovar su certificación. Por ejemplo, [!DNL Adobe Analytics] la renovación de la certificación requiere completar un mínimo de 3 actividades de una lista determinada. La lista incluye pasar 6 evaluaciones y enviar un formulario de referencia al cliente. El candidato puede superar 2 evaluaciones y enviar un formulario de referencia al cliente, cumpliendo así los 3 requisitos mínimos para la renovación.
+No, enviar un formulario de referencia de cliente es opcional y una de las actividades que los candidatos pueden completar para renovar su certificación. Por ejemplo, para la renovación de la certificación de [!DNL Adobe Analytics] se requiere completar un mínimo de tres actividades de una lista determinada. La lista incluye pasar 6 evaluaciones y enviar un formulario de referencia al cliente. El candidato puede superar 2 evaluaciones y enviar un formulario de referencia al cliente, cumpliendo así los 3 requisitos mínimos para la renovación.
 
 +++
 
 +++Tengo tres certificaciones en una solución. ¿Debo completar los requisitos para cada certificación?
 
-No, solo debe completar los requisitos enumerados para la solución. Su certificación se renovará después de completar las actividades requeridas y enviar los resultados al Administrador de credenciales de Adobe. Por ejemplo, si tiene varias certificaciones en [!DNL Adobe Analytics] como Profesional empresarial, Desarrollador y Arquitecto, solo necesita completar 3 actividades para cumplir los requisitos de renovación para que se renueven todas las certificaciones.
+No, solo debe completar los requisitos enumerados para la solución. Su certificación se renovará después de completar las actividades requeridas y enviar los resultados al Administrador de credenciales de Adobe. Por ejemplo, si cuenta con varias certificaciones en [!DNL Adobe Analytics] como Profesional empresarial, Desarrollador y Arquitecto, solo necesita completar 3 actividades para cumplir con los requisitos de renovación para que se renueven todas las certificaciones.
 
 +++
 
@@ -256,7 +256,7 @@ Las evaluaciones se basan en los Cursos en Experience League y revisarlos prepar
 
 +++
 
->[!TAB  Cupones]
+>[!TAB  cupones]
 
 +++¿Cuándo caducan los vales de examen? ¿Por cuánto tiempo son buenos?
 

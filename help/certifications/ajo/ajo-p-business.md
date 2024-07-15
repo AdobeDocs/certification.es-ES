@@ -1,6 +1,6 @@
 ---
 title: Certificación profesional
-description: Aprenda a obtener la certificación de Adobe [!DNL Journey Optimizer] Profesional de negocios.
+description: Aprenda a obtener la certificación de Adobe  [!DNL Journey Optimizer] Profesional Empresarial.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Journey Optimizer] Profesional empresarial
+# Recorrido de certificación para el Adobe [!DNL Journey Optimizer] Profesional de negocios
 
 {{intro}}
 
@@ -21,12 +21,12 @@ ht-degree: 0%
 >
 >Ya hay disponibles cursos gratuitos a petición para ayudarle a prepararse para el examen. Comience su recorrido de aprendizaje hoy mismo eligiendo el curso que mejor se adapte a su nivel de experiencia.
 >
->* El [Curso de Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) presenta Adobe Experience Cloud, un completo conjunto de herramientas de marketing digital creadas sobre la única plataforma diseñada para la personalización a escala.
->* El [Curso de Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113) proporciona una base de conocimiento sobre esta aplicación específica.
->* El [Curso profesional para profesionales de Adobe Journey Optimizer Business](https://app.rockinfo.com/courses/107) se basa en el curso Foundations y le ayuda a prepararse para el examen de certificación de nivel profesional.
->* El [Guía de preparación del examen](https://app.rockinfo.com/courses/232) proporciona una ruta adaptada a través del proceso de preparación del examen, incluidos los materiales que necesitará para tener éxito en el examen.
+>* El curso [Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216) presenta Adobe Experience Cloud, un conjunto integral de herramientas de mercadotecnia digital que se basa en la única plataforma diseñada para la personalización a escala.
+>* El curso [Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113) proporciona información básica sobre esta aplicación específica.
+>* El [Curso para Profesionales de Negocios de Adobe Journey Optimizer](https://app.rockinfo.com/courses/107) se basa en el curso Foundations y le ayuda a prepararse para el examen de certificación de nivel profesional.
+>* La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/232) proporciona una ruta personalizada a través del proceso de preparación para exámenes, incluidos los materiales que necesitarás para tener éxito en tu examen.
 >
->_Si se le solicita que inicie sesión, utilice su Adobe ID._
+>_Si se le pide que inicie sesión, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ### Destinatarios previstos {#intended-audience}
 
-* Adobe [!DNL Journey Optimizer] asesor empresarial
+* Adobe [!DNL Journey Optimizer] consultor empresarial
 * Experto en marketing
 * Profesional empresarial de automatización de marketing
 * Administrador de campañas
@@ -75,7 +75,7 @@ Los candidatos deben poder:
 * Uso de listas de suscripción
 * Revisar atributos y eventos de perfil (carga de un perfil en la interfaz de usuario)
 * Comprensión y uso de las páginas de aterrizaje
-* Comprenda cuándo utilizar diferentes tipos de recorridos/campañas y tener la capacidad de aprovechar la función &quot;Campañas&quot; en Adobe [!DNL Journey Optimizer] para crear una explosión de correo electrónico única
+* Sepa cuándo usar diferentes tipos de recorridos/campañas y tener la capacidad de aprovechar la función &quot;Campañas&quot; en el Adobe [!DNL Journey Optimizer] para generar una explosión de correo electrónico única
 * Comprender la capacidad de las fuentes de datos, los eventos y las acciones
 * Monitorice y revise los informes de Recorrido para rastrear las participaciones por correo electrónico/devoluciones/tasa de error/tasas de spam/problemas de dominios
 * Generar y validar criterios básicos de segmentos
@@ -96,7 +96,7 @@ Los candidatos también deben poder:
 
 * Componer una audiencia (con el nuevo compositor de audiencias)
 * Importar una audiencia (cargar una audiencia CSV)
-* Cargar y convertir automáticamente el HTML para correo electrónico (nuevo conversor html)
+* Cargar y convertir automáticamente el HTML para correo electrónico  (nuevo convertidor html)
 * Creación de un experimento de contenido
 * Medir los resultados de un experimento de contenido
 * Etiquetar/filtrar/buscar recorridos, campañas y mucho más
@@ -116,14 +116,14 @@ Los candidatos también deben poder:
 
 {{exam-objectives}}
 
-**Sección 1: Optimización de la campaña y el Recorrido (48 %)**
+**Sección 1: Optimización de campañas y Recorrido (48%)**
 
 * Ante un escenario concreto, identifique cómo crear un Recorrido de cliente
 * Ante un escenario concreto, determine cómo validar un Recorrido de cliente
 * Dado un escenario sobre después de ejecutar un Recorrido, identifique cómo evaluar el Recorrido del cliente
 * Dado un escenario, identifique cuándo utilizar un evento unitario o un evento empresarial
 
-**Sección 2: Offer decisioning (12 %)**
+**Sección 2: Offer decisioning (12%)**
 
 * Identificar cómo crear una colección de ofertas
 * Identificación de las fases del offer decisioning
@@ -142,7 +142,7 @@ Los candidatos también deben poder:
 * Identificación de los tipos de fragmentos
 * Identificar cómo crear una plantilla de correo electrónico
 
-**Sección 4: Fundamentos de AEP (20 %)**
+**Sección 4: Fundamentos de AEP (20%)**
 
 * Ante un escenario concreto, determine cuándo utilizar distintos tipos de datos
 * Identifique dónde revisar los atributos de perfiles y la pertenencia a audiencias
@@ -173,23 +173,23 @@ Los candidatos también deben poder:
 
 {{study-materials-intro}}
 
-**Realice un curso**
+**Realizar un curso**
 
 {{take-course}}
 
-[Siga el curso de Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216){target="_blank"}
-[Siga el curso de Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113){target="_blank"}
+[Asista al curso Adobe Experience Platform Foundations](https://app.rockinfo.com/courses/216){target="_blank"}
+[Asista al curso Adobe Journey Optimizer Foundations](https://app.rockinfo.com/courses/113){target="_blank"}
 [Realice el curso profesional para profesionales de Adobe Journey Optimizer Business](https://app.rockinfo.com/courses/107){target="_blank"}
 
 **Realizar una prueba de práctica**
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/232)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/232)
 
 +++
 
@@ -246,5 +246,5 @@ Los candidatos también deben poder:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
 

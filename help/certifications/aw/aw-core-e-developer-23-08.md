@@ -1,6 +1,6 @@
 ---
 title: Certificación de Core Developer Expert
-description: Obtenga información sobre cómo obtener la certificación de experto en Adobe Developer en Adobe [!DNL Workfront].
+description: Aprenda a obtener la certificación de experto en Adobe Developer en el Adobe  [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Examen AD0-E907" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Workfront] Experto de desarrollador principal
+# Recorrido de certificación para el Adobe [!DNL Workfront] Core Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/241) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluidos los materiales que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/241) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ### Destinatarios previstos {#intended-audience}
 
-* [!DNL Workfront] Administradores del sistema especializados en implementación y configuración de instancias nuevas o actualizadas
+* [!DNL Workfront] administradores del sistema especializados en implementación y configuración de instancias nuevas o actualizadas
 * Diseñador/arquitecto de procesos
 * Analista empresarial
 * Asesor técnico
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### Experiencia mínima {#minimum-experience}
 
-Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y deben poder hacer lo siguiente:
+Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront] y debe ser capaz de:
 
-* Vaya a [!DNL Workfront] sistema, explicación de dónde reside su funcionalidad
+* Vaya al sistema [!DNL Workfront] y comprenda dónde reside su funcionalidad
 * Configurar todos los aspectos del sistema
 * Analice los requisitos con los clientes y conviértalos en una solución viable
 * Obtener y modificar el proceso de mejora existente de forma colaborativa
@@ -66,13 +66,13 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y de
 
 {{exam-objectives}}
 
-**Sección 1: Administración y configuración del sistema principal (17 %)**
+**Sección 1: Administración y configuración del sistema principal (17%)**
 
 * En un escenario determinado, describa las formas de compartir permisos y acceso de forma eficaz.
 * Ante un escenario concreto, identifique cuándo se debe usar un estado de grupo frente a un estado de sistema.
 * Dado un conjunto de datos, muestre las capacidades de los kickstarts.
 * Ante un escenario concreto, identifique las prácticas recomendadas para los usuarios de autoaprovisionamiento.
-* Ante un escenario concreto, demostrar cómo los grupos y equipos dentro del perfil de un usuario pueden afectar a lo que se puede ver o hacer dentro de [!DNL Workfront].
+* En un escenario concreto, muestre cómo los grupos y equipos dentro del perfil de un usuario pueden afectar a lo que se puede ver o hacer dentro de [!DNL Workfront].
 * Ante un escenario, recomiende una configuración de Tableros para satisfacer un requisito personalizado.
 * Ante un escenario concreto, identifique las prácticas recomendadas para la administración de grupos.
 
@@ -85,7 +85,7 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y de
 * Ante un escenario con varios formularios, determine acciones para controlar el acceso, la visibilidad y la dependencia.
 * Ante un escenario con campos calculados en formularios de varios objetos, identifique la fórmula correcta.
 
-**Sección 3: Funcionalidad estratégica: gestión de carteras y programas, gestión de recursos (13 %)**
+**Sección 3: Funcionalidad estratégica: administración de portafolios y programas, administración de recursos (13%)**
 
 * En un escenario determinado, defina herramientas para capturar los cambios en el ámbito del proyecto.
 * Ante un escenario, cree una vista que identifique dentro de un portafolio si un proyecto cumple el nivel promedio de criterios requeridos para ejecutarse.
@@ -94,40 +94,40 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y de
 * En un escenario determinado, proporcione un mecanismo para garantizar que los proyectos cuenten con una plantilla completa mediante el uso de herramientas de gestión de recursos.
 * En un escenario determinado, utilice las herramientas de Administración de recursos para determinar por qué se sobreasigna un usuario.
 
-**Sección 4: Administración de documentos y prueba (13 %)**
+**Sección 4: Administración de documentos y revisión (13%)**
 
 * Ante un escenario, demuestre cuándo utilizar la administración de documentos en lugar de la revisión
 * Ante un escenario concreto, identifique las prácticas recomendadas para utilizar el visor de pruebas, la configuración y la funcionalidad de marcado
 * Ante un escenario concreto, mostrar cómo editar y establecer permisos en un archivo
 * Ante un escenario concreto, mostrar cómo configurar el almacenamiento de documentos externos con restricciones de seguridad
-* AEM En un escenario determinado, configure una conexión con as a Cloud Service o AEM Assets Essentials.
+* En un escenario determinado, configure una conexión con AEM as a Cloud Service o AEM Assets Essentials.
 
-**Sección 5: Informes (11 %)**
+**Sección 5: Informes (11%)**
 
 * En un escenario determinado, describa las formas de combinar varias columnas de datos en una sola columna.
 * Dado un informe o filtro, demuestre las ventajas de utilizar valores comodín.
 * Identifique cómo informar sobre las relaciones entre elementos primarios y secundarios mediante la creación de informes nativa.
 * En un escenario concreto, describa cómo la creación de informes facilita la ejecución eficiente del trabajo.
-* Si se da un escenario, ilustre [!DNL Workfront] Creación de informes para supervisar y mejorar la adopción de usuarios.
+* Ante un escenario, ilustre la creación de informes de [!DNL Workfront] para supervisar y mejorar la adopción de usuarios.
 * Dado un escenario, determine cómo se representará un tipo de campo en un informe. (Los tipos de campo incluyen: texto enriquecido, imágenes, selección múltiple)
 
-**Sección 6: Metodología / prácticas recomendadas / casos de uso (22 %)**
+**Sección 6: Metodología/prácticas recomendadas/casos de uso (22 %)**
 
-* Dado un escenario dentro de [!DNL Workfront], muestre la funcionalidad para configurar el seguimiento de entregas que forman parte de una sola campaña.
-* Dado un escenario dentro de [!DNL Workfront], demostrar la funcionalidad en torno a la priorización estratégica y la justificación del trabajo.
-* Dado un escenario dentro de [!DNL Workfront], mostrar la funcionalidad en torno a las finanzas, la utilización, las previsiones, las tasas de facturación y los registros
-* Dado un escenario dentro de [!DNL Workfront], muestran la funcionalidad en torno a la configuración del flujo de trabajo y las aprobaciones.
+* Dado un escenario dentro de [!DNL Workfront], muestre la funcionalidad para configurar el seguimiento de las entregas que forman parte de una sola campaña.
+* Dado un escenario dentro de [!DNL Workfront], demuestre la funcionalidad en torno a la priorización estratégica y la justificación del trabajo.
+* Dado un escenario dentro de [!DNL Workfront], muestre la funcionalidad en torno a las finanzas, la utilización, las previsiones, las tasas de facturación y los registros
+* Dado un escenario dentro de [!DNL Workfront], muestre la funcionalidad en torno a la configuración del flujo de trabajo y las aprobaciones.
 * Ante un escenario concreto, recomiende un marco de trabajo para la gobernanza en torno a la administración del sistema al expandir la instancia de un cliente.
 * Ante un escenario concreto, identifique las áreas que se deben tener en cuenta al expandir la instancia de un cliente para permitir que equipos adicionales trabajen juntos.
-* Dado un escenario utilizando [!DNL Workfront] Tableros, identifique las funciones nativas para mostrar el progreso.
+* Dado un escenario que utiliza [!DNL Workfront] tableros, identifique las características nativas para mostrar el progreso.
 * Ante un escenario, recomiende un marco de trabajo para la gobernanza en torno a la administración de sistemas y grupos.
 
 **Sección 7: Consultoría de negocios (11%)**
 
-* En un escenario concreto, describa el proceso necesario para apoyar completamente los esfuerzos de implementación de [!DNL Workfront] en un departamento interfuncional.
+* En un escenario determinado, describa el proceso necesario para apoyar completamente los esfuerzos de implementación de [!DNL Workfront] en un departamento interfuncional.
 * En un escenario determinado, explique cómo adaptar un flujo de trabajo existente para satisfacer un cambio reciente en un proceso empresarial crítico en curso.
 * En un escenario determinado, identifique las opciones de configuración que sean más difíciles de cambiar en una instancia determinada.
-* Ante un escenario concreto, identifique las consideraciones clave de la administración de cambios para un [!DNL Workfront] implementación
+* En un escenario determinado, identifique las consideraciones clave de la administración de cambios para una implementación de [!DNL Workfront]
 * En un escenario en el que un cliente tenga varios equipos, proporcione una recomendación para aumentar la eficacia.
 
 <br>
@@ -158,11 +158,11 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y de
 
 {{study-materials-intro}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Ver guía de preparación del examen](https://app.rockinfo.com/courses/241)
+[Ver guía de preparación para exámenes](https://app.rockinfo.com/courses/241)
 
 <br>
 
@@ -221,4 +221,4 @@ Debe tener al menos 18-24 meses de experiencia con el Adobe [!DNL Workfront]y de
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certificación de experto desarrollador
-description: Obtenga información sobre cómo obtener la certificación de Adobe experto en Adobe Developer [!DNL Campaign Standard].
+description: Aprenda a obtener la certificación de Adobe experto de Adobe Developer [!DNL Campaign Standard].
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Recorrido de certificación para Adobe [!DNL Campaign Standard] Experto de desarrollador
+# Recorrido de certificación para el Adobe [!DNL Campaign Standard] Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** El [Guía de preparación del examen](https://app.rockinfo.com/courses/256) proporciona una ruta adaptada a través de su proceso de preparación para el examen de certificación, incluyendo los materiales de estudio en profundidad que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/256) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, que incluye los materiales de estudio detallados que necesitará para tener éxito en la obtención de esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 Debería tener:
 
-* Al menos dos años de Adobe [!DNL Campaign Standard] experiencia informática
+* Al menos dos años de experiencia con el software de Adobe [!DNL Campaign Standard]
 * Al menos dos años de experiencia relevante en campañas de marketing digital multicanal y desarrollo web (como la API de REST)
 * La capacidad de realizar tareas en Adobe Campaign, como desarrollo de plantillas, flujos de trabajo técnicos, desarrollo de esquemas e integraciones, y poder monitorizar la instancia mediante el panel de control de Campaign
 * Experiencia trabajando en un entorno de entrega de canal (correo electrónico, correo directo, móvil y social)
@@ -79,7 +79,7 @@ Debería tener:
 
 {{exam-objectives}}
 
-**Sección 1: Modelado y administración de datos (26 %)**
+**Sección 1: Modelado y administración de datos (26%)**
 
 * Ante un escenario concreto, transformar un requisito de cliente en un recurso personalizado
 * Determine cómo configurar las definiciones de pantalla y filtro
@@ -88,7 +88,7 @@ Debería tener:
 * Solucionar problemas de modelado de datos
 * Determinar el enfoque correcto para crear flujos de trabajo técnicos
 
-**Sección 2: Administración de campañas (50 %)**
+**Sección 2: Administración de campañas (50%)**
 
 * Solucionar errores de flujo de trabajo
 * Determinar el enfoque correcto para crear campañas
@@ -101,7 +101,7 @@ Debería tener:
 * Determine el método correcto para crear correos electrónicos con Creative Designer
 * Determinar el método correcto para crear informes personalizados
 
-**Sección 3: Administración (24 %)**
+**Sección 3: Administración (24%)**
 
 * Determine el método correcto para crear grupos de seguridad de usuarios y unidades organizativas
 * Determinar el enfoque correcto para administrar e implementar paquetes
@@ -142,11 +142,11 @@ Debería tener:
 
 {{practice-test}}
 
-**Guía de preparación del examen**
+**Guía de preparación para exámenes**
 
 {{exam-prep-guide}}
 
-[Guía de preparación del examen](https://app.rockinfo.com/courses/256)
+[Guía de preparación para exámenes](https://app.rockinfo.com/courses/256)
 
 +++
 
@@ -203,4 +203,4 @@ Debería tener:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Contáctenos.](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.

@@ -3,7 +3,7 @@ title: Información de prueba de práctica
 description: Un número limitado de certificaciones tienen pruebas de práctica
 source-git-commit: c550ec351b2926db895746457667474d69249c2c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Todas nuestras pruebas de práctica se desarrollan a partir del mismo modelo que
 
 Recuerde que aprobar un examen de práctica no garantiza que aprobará el examen de certificación.
 
-Vaya a la [Adobe Certificación Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ahora para hacer una prueba de práctica.
+Vaya ahora al [Portal de preparación para el examen de certificación de Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} para realizar una prueba de práctica.
