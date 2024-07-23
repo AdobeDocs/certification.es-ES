@@ -1,7 +1,7 @@
 ---
-source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
+source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1802'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 <!--divider-->
 
 ## Introducción {#intro}
-
->[!WARNING]
->
->Algunos usuarios han informado que reciben un error cuando intentan iniciar sesión en el Sistema de administración de credenciales de Adobe, lo que les impide realizar el examen. Estamos trabajando para resolver este problema. Se contactará con los usuarios afectados para obtener más información.
 
 Esta página proporciona información sobre cómo conseguir esta certificación. Incluye una descripción del examen, materiales de estudio, instrucciones paso a paso sobre el proceso de certificación y cómo renovar su certificación.
 

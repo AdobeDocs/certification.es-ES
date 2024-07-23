@@ -4,10 +4,10 @@ description: Obtenga información acerca de la certificación  [!DNL Experience 
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
+source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 5%
+source-wordcount: '437'
+ht-degree: 6%
 
 ---
 
@@ -16,11 +16,6 @@ ht-degree: 5%
 Obtenga información acerca de la certificación de Experience Cloud en el Adobe y lo que puede hacer por usted obtener la certificación.
 
 ![Titular](/help/certifications/assets/home_banner_smallwide.png)
-
->[!WARNING]
->
->Algunos usuarios han informado que reciben un error cuando intentan iniciar sesión en el Sistema de administración de credenciales de Adobe, lo que les impide realizar el examen. Estamos trabajando para resolver este problema. Se contactará con los usuarios afectados para obtener más información.
-
 
 El Programa de certificación de experiencias digitales de Adobe se creó para ayudarle a probar sus aptitudes en los productos de Adobe [!DNL Experience Cloud]. Obtener la Certificación de Adobe le permite mostrar su experiencia e impresionar a los clientes y empleadores por igual.
 
