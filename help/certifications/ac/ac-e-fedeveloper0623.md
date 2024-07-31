@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: d0bf65a667035e122f9731c23d207dd35e68487f
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '725'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * [!DNL Adobe Commerce] - versión 2.4.6
 * Comprensión básica de la estructura y el diseño del front-end
 * Experiencia y comprensión de HTML, CSS (y preprocesadores), LESS, JavaScript y componentes de interfaz de usuario, jQuery, Underscore, Require.JS, Knockout, también plantillas PHP, conocimiento de BD y gestión de contenido
-* Familiaridad con la plataforma, los bloques de CMS, los widgets, las páginas de CMS, las páginas de categoría, las páginas de producto, el carro de compras y el cierre de compra y el área del tablero de cuentas
+* Familiaridad con la plataforma, los bloques de CMS, los widgets, las páginas de CMS, las páginas de categorías, las páginas de productos, el carro de compras y el cierre de compra y el área del tablero de cuentas
 * Comprensión o conocimiento básico de las configuraciones de administración
 * Conocimiento sobre cómo ampliar y sobrescribir estilos, diseños y archivos JS
 * Ampliación de temáticas principales/jerarquía de temáticas
@@ -132,14 +132,6 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Diferenciación entre el caso de uso adecuado para los modos de implementación
 * Definir la configuración y el uso de Grunt
 * Describa las herramientas adicionales que proporciona la nube (rápidamente, descargar bases de datos, implementar contenido, ramificar mediante la interfaz de usuario)
-
-<br>
-
-### Cuestionario de preparación
-
-{{readiness}}
-
-[Responda al cuestionario de preparación en línea](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
