@@ -8,9 +8,9 @@ role: User
 badge: label="Examen AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: b553b0d2e70535480d1c0826b6f24a0925830dc3
+source-git-commit: 5673c232251041578d0fbcdd87e5e5a1cbcafd1f
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,7 @@ También debe tener experiencia trabajando con las siguientes funciones:
 * Preparación de portafolios para tener datos suficientes para optimizar
 * Creación o extracción de informes
 * Tácticas de oferta de ROAS
+* Tácticas de optimización y oferta híbridas
 * Configuración del seguimiento de conversión
 * Configuración de objetivos
 * Administración de portafolios en función de un objetivo
@@ -226,5 +227,5 @@ También debe tener experiencia trabajando con las siguientes funciones:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com).
 
