@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Examen AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '751'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Debería tener aproximadamente 1 a 3 años de experiencia práctica con [!DNL Co
 
 Debe tener experiencia en:
 
-* Marketing digital: SEO, CMS, técnicas de ventas como ventas cruzadas y aumentadas, Google Analytics comprensivos, plantillas de correo electrónico
+* Marketing digital: SEO, CMS, técnicas de ventas como ventas cruzadas y de aumento de ventas, Google Analytics comprensivos, plantillas de correo electrónico
 * Leyes de seguridad, conformidad y privacidad, como PCI, RGPD, ADA, CAN-SPAM, PSD 2
 * Estrategias de ventas/marketing como omnicanal y multicanal
 * Experiencia en gestión de proyectos, recopilación de requisitos, flujos de integración, leyes generales de comercio electrónico, metodologías de desarrollo de software y monitorización
@@ -90,7 +90,7 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 * Mostrar la capacidad de importar o exportar entidades de Adobe [!DNL Commerce]
 * Comprender cómo configurar de forma nativa el carro y el cierre de compra
 * Evalúe los métodos de envío nativos disponibles en el Adobe [!DNL Commerce] y cómo se aplican a los casos de uso comunes
-* Explicación de las formas de crear y publicar contenido estilizado mediante las funciones de CMS de Adobe [!DNL Commerce], incluido Page Builder
+* Explicación de las formas de crear y publicar contenido estilizado con las funciones de CMS de Adobe [!DNL Commerce], incluido Page Builder
 * Uso de herramientas nativas para gestionar el ciclo de vida del pedido
 * Demostrar la capacidad de configurar las diversas opciones de regalos (tarjetas de regalo, envoltorio para regalos, dar mensajes)
 * Configuración y modificación de correos electrónicos transaccionales
@@ -224,4 +224,4 @@ Además, debería sentirse cómodo utilizando las siguientes tecnologías:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com).

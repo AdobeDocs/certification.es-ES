@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 * Sólidos conocimientos de la versión 2.4.6 de Adobe Commerce
 * Comprensión básica de la estructura y el diseño del front-end
 * Experiencia y comprensión de HTML, CSS (y preprocesadores), LESS, JavaScript y componentes de interfaz de usuario, jQuery, Underscore, Require.JS, Knockout, también plantillas PHP, conocimiento de BD y gestión de contenido
-* Familiaridad con la plataforma, los bloques de CMS, los widgets, las páginas de CMS, las páginas de categoría, las páginas de producto, el carro de compras y el cierre de compra y el área del tablero de cuentas
+* Familiaridad con la plataforma, los bloques de CMS, los widgets, las páginas de CMS, las páginas de categorías, las páginas de productos, el carro de compras y el cierre de compra y el área del tablero de cuentas
 * Comprensión o conocimiento básico de las configuraciones de administración
 * Conocimiento sobre cómo ampliar y sobrescribir estilos, diseños y archivos JS
 * Ampliación de temáticas principales/jerarquía de temáticas
@@ -120,7 +120,7 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 
 **Sección 5: Configuración de administración y Page Builder (6%)**
 
-* Demostración de la capacidad de personalizar Page Builder y &quot;Contenido de CMS&quot;
+* Demostrar la capacidad de personalizar Page Builder y el contenido de CMS&quot;
 * Aplicar o programar una temática a un ámbito específico (sitio web, tienda, vista de tienda)
 * Aplicar cambios de diseño a categorías, productos y páginas de CMS mediante la configuración de administración
 * Describir los pasos para personalizar los correos electrónicos transaccionales
@@ -228,4 +228,4 @@ Además, debe exhibir conocimientos de las siguientes tecnologías:
 
 Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com){target="_blank"}.
+¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com).
