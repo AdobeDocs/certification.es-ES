@@ -1,7 +1,7 @@
 ---
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,10 @@ El Adobe utiliza el examen para administrar los exámenes controlados en línea.
 >[!NOTE]
 >
 >Debe iniciar sesión en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} antes de hacer clic en el botón Examinar que aparece a continuación.
+
+>[!WARNING]
+>
+>El programa de certificación de experiencias digitales de Adobe se está preparando para las actualizaciones. Debido a esto, los candidatos actualmente no pueden programar las citas de los exámenes para que tengan lugar después del 26 de septiembre de 2024. La programación volverá a la normalidad una vez que se finalicen las actualizaciones.
 
 <!--divider-->
 
