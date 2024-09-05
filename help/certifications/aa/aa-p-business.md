@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/145) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
+>
+>* **Curso:** Si acaba de empezar o necesita un repaso, siga el curso de [Adobe Analytics Foundations](https://app.rockinfo.com/courses/263) para acceder a explicaciones de conceptos clave, guías de productos y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/145) proporciona una ruta adaptada a través del proceso de preparación para exámenes, que incluye los materiales de estudio detallados que necesitarás para tener éxito en tu examen.
+>
+>_Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -128,6 +134,12 @@ Debe tener un mínimo de 3 meses de experiencia en [!DNL Adobe Analytics] y en l
 **Materiales de estudio**
 
 {{study-materials-intro}}
+
+**Realizar un curso**
+
+{{take-course}}
+
+[Curso Adobe Analytics Foundations](https://app.rockinfo.com/courses/263)
 
 **Guía de preparación para exámenes**
 

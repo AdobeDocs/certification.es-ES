@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuevos recursos de estudio disponibles:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/235) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación. _Si se le pide que inicie sesión en la Guía de preparación para exámenes, use su Adobe ID._
+>Ya hay disponibles recursos gratuitos a petición para ayudarle a prepararse para el examen:
+>
+>* **Nuevo curso:** Si acaba de empezar, o necesita un repaso, siga el curso de [Adobe Target Foundations](https://app.rockinfo.com/courses/273) para acceder a explicaciones de conceptos clave, tutoriales de productos y comprobaciones de conocimientos. Este curso proporcionará una base de conocimientos que puede aprovechar en su recorrido de certificación.
+>
+>* **Guía de preparación para exámenes:** La [Guía de preparación para exámenes](https://app.rockinfo.com/courses/235) proporciona una ruta adaptada a través del proceso de preparación para exámenes de certificación, incluidos los materiales que necesitarás para alcanzar esta certificación.
+>
+>_Si se le pide que inicie sesión, use su Adobe ID._
 
 ## Descripción del examen {#exam-description}
 
@@ -134,6 +140,12 @@ Debería tener:
 **Realizar una prueba de práctica**
 
 {{practice-test}}
+
+**Realizar un curso**
+
+{{take-course}}
+
+[Curso Adobe Target Foundations](https://app.rockinfo.com/courses/273)
 
 **Guía de preparación para exámenes**
 
