@@ -4,9 +4,9 @@ description: Aprenda a obtener la certificación en el Adobe. Encuentre todos lo
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ La mayoría de las renovaciones de certificación son **gratuitas**. Para las ce
 
 **Pagando el examen**
 
-Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un vale de examen, ve a: [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puede pagar su examen de certificación con un vale o tarjeta de crédito. Para adquirir un vale de examen, ve a: [Centro de cupones de certificación de Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplica en el momento del pago.
 
@@ -82,7 +82,7 @@ Los socios de Bronze y superiores obtienen descuentos en todos los exámenes y c
 
 **Otros descuentos**
 
-Además, todos los candidatos pueden recibir un descuento en compras masivas de 10 o más exámenes cuando compren a través del [Centro de Cupones de Certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Además, todos los candidatos pueden recibir un descuento en compras masivas de 10 o más exámenes cuando compren a través del [Centro de Cupones de Certificación de Adobe](https://certification.adobe.com/certifications/vouchers).
 
 **Niveles de descuento masivos**
 
@@ -94,6 +94,68 @@ Nota: Los descuentos por lotes no se pueden combinar con ninguna otra oferta o d
 | 25 a 49 | 25 % |
 | 50+ | 33 % |
 
+>[!TAB Cupones]
+
+El programa de certificación de experiencia digital de Adobe se trasladará a una nueva plataforma este otoño. El nuevo Portal de Certificación de Adobe ofrecerá capacitación técnica, así como una experiencia de usuario mejorada para los candidatos a la certificación.
+
+Como parte del portal, hemos diseñado un nuevo [Centro de cupones de Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}, que se lanzará el 23 de septiembre de 2024. Este nuevo sistema para la compra y gestión de cupones es más robusto, más fácil de navegar y ofrece opciones de informes mejoradas para los administradores.
+
+Cualquier cupón que ya haya adquirido a través de Xvoucher estará disponible en el Portal de Certificación de Adobe dentro de las 72 horas posteriores a esta transición. Una vez que haya iniciado sesión, vaya al [Centro de cupones de Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} para ver los cupones activos y el historial de cupones, y compre cupones nuevos.
+
+**Fechas importantes que recordar:**
+
+**23 de septiembre de 2024, 12:01 AM ET**
+* Los cupones ya no se pueden comprar en Xvoucher.
+* La compra de cupones estará disponible en el [Centro de cupones de Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+* Los exámenes aún se pueden programar desde el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe/){target="_blank"}.
+
+**25 de septiembre de 2024 a las 8:00 AM ET**
+* Los cupones de su cuenta de Xvoucher aparecerán en el [Centro de cupones de Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
+**Preguntas más frecuentes de un vistazo**
+
++++¿Qué sucede con los cupones existentes?
+
+Cualquier cupón que ya haya comprado a través de Xvoucher estará disponible en el Portal de Certificación de Adobes el 25 de septiembre de 2024 a las 8:00 AM ET. Puede seguir utilizando estos cupones para programar exámenes. Los números no cambiarán incluso después de la transición de Xvoucher.
+
++++
+
++++¿Cómo puedo comprar cupones en el Portal de Certificación de Adobes?
+
+Ve al [Centro de cupones de Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} y agrega la cantidad deseada de cupones al carro de compras. Siempre que inicie sesión con su correo electrónico de socio, se aplicará el descuento de socio.
+
+Para ver una demostración de la compra de cupones, vea este [vídeo](https://video.tv.adobe.com/v/3434122){target="_blank"}.
+
++++
+
++++¿Cómo puedo asignar y administrar cupones para mi equipo?
+
+Este [vídeo](https://video.tv.adobe.com/v/3434581){target="_blank"} proporciona información general detallada sobre las características de administración del Centro de cupones de Adobe.
+
++++
+
++++¿Dónde puedo ver los cupones de mi equipo?
+
+Los cupones de su equipo se podrán ver en el [Centro de cupones de Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
++++
+
++++¿Dónde pueden ver los integrantes del equipo los cupones asignados?
+
+Las personas pueden ver sus cupones asignados en su [cuenta](https://certification.adobe.com/user/purchases){target="_blank"} en el Portal de certificación de Adobe.
+
++++
+
++++¿Cómo inicio la incorporación de mi pedido de compra en el nuevo sistema?
+
+Consulte la última pregunta de nuestra [pregunta frecuente sobre el cupón](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}: &quot;¿Cuál es el proceso para pagar con un pedido de compra?&quot;
+
++++
+
+**Preguntas?**
+
+Visite [Preguntas frecuentes sobre cupones](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} en nuestro sitio web.
+
 >[!TAB Proveedores de certificación]
 
 El Programa de certificación de experiencias digitales de Adobe se asocia con proveedores para ayudar a respaldar las iniciativas y objetivos del programa. Estos son los proveedores y su información de contacto:
@@ -102,7 +164,6 @@ El Programa de certificación de experiencias digitales de Adobe se asocia con p
 | ------- | ------- | ------- |
 | Con Credibilidad | Sistema de administración de distintivos | [Soporte técnico](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Examity | Proveedor de envío de prueba (solo procesamiento en línea) | [Correo electrónico](mailto:support@examity.com){target="_blank"} o 855-Examity (855-392-6489) |
-| Xvoucher - Centro de Cupones de Certificación Adobe | Centro de cupones para la compra de cupones individuales o globales | [Correo electrónico](mailto:support@xvoucher.com){target="_blank"} o [Ayuda en línea](https://help.xvoucher.com/hc/en-us) |
 
 Otros recursos del proveedor:
 
@@ -123,69 +184,6 @@ Vídeos útiles:
 * [Cómo reprogramar tu cita para la prueba](https://vimeo.com/394507149){target="_blank"}
 * [Cómo cancelar tu cita de prueba](https://vimeo.com/394507135){target="_blank"}
 * [Cómo hacer la prueba en línea](https://vimeo.com/394506686){target="_blank"}
-
-Preguntas frecuentes sobre el Centro de cupones de certificación de Adobe (Xvoucher)
-
-+++¿Cuándo caducan los vales de examen? ¿Por cuánto tiempo son buenos?
-
-Los cupones de examen de Adobe caducan 12 meses después de la compra. Los cupones no se pueden extender más allá de su fecha de vencimiento. Las inscripciones para el examen deben ser programadas, pagadas y tomadas antes de la fecha de vencimiento del comprobante de examen.
-
-+++
-
-+++¿Pueden devolverse los cupones por crédito o reembolso?
-
-_Todas las ventas son finales._ No se aceptan devoluciones ni reembolsos. Los vales de examen de Adobe se adquieren en un nivel de examen, no para exámenes específicos, y eso proporciona flexibilidad.
-
-* Ejemplo: Cuando compra 10 cupones de examen a nivel de Adobe Certified Expert y los distribuye, no tiene que saber con antelación ni planificar quién tomará qué examen de experto.
-* Los administradores pueden asignar el cupón a un usuario y ver si el cupón se ha visto, si se ha canjeado o si el examen está programado o ha tenido lugar.
-
-+++
-
-+++¿Qué tipo de pagos se aceptan?
-
-El pago se puede realizar mediante (todas las principales) tarjetas de crédito. Los pagos con tarjeta de crédito requieren la aceptación de un contrato de click-wrap en línea. Las diferentes opciones de pago son:
-
-* Alambre, pedido de compra o ACH: cree un pedido de compra en el sistema Xvoucher que se pueda imprimir y enviar al departamento de cuentas a pagar. Ese pedido se aprobará al recibir la transferencia bancaria o el cheque.
-* Tarjeta de crédito: Se aceptan todas las principales tarjetas de crédito.
-* Xwallet: Esto restará la cantidad del pedido de su grupo de Xwallet.
-
-+++
-
-+++¿Hay un número mínimo o máximo de cupones que puedo comprar?
-
-No, no hay mínimo ni máximo. Las compras de los clientes están limitadas a los fondos disponibles, como el límite de la tarjeta de crédito o el saldo de la cuenta bancaria para transferencias bancarias.
-
-+++
-
-+++¿Cuánto tiempo tardaré en tener acceso a los vales después de realizar mi pedido?
-
-Los cupones estarán disponibles inmediatamente después de la compra si paga con tarjeta de crédito o Xwallet.
-
-* Si realiza la compra por su cuenta, los códigos de cupón se proporcionarán en pantalla y en el correo electrónico.
-* Si compras para otros, inicia sesión en tu cuenta de Xvoucher y distribuye los cupones a tus usuarios finales desde allí.
-* Si se paga por cable o orden de compra, los pedidos de cupón se liberarán cuando Xvoucher haya recibido los fondos.
-
-[Ayuda en línea](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++¿Cómo puedo acceder a mi cuenta de Xvoucher?
-
-Simplemente inicia sesión en tu cuenta [aquí](https://www.xvoucher.com/Login.aspx){target="_blank"}.
-
-+++
-
-+++¿Cómo puedo acceder a mi cupón de Adobe?
-
-Cuando se te asigne un cupón, recibirás un correo electrónico de support@xvoucher.com con un código de cupón e instrucciones sobre cómo canjearlo. Si no ha recibido un correo electrónico, compruebe su carpeta de correo no deseado. Si aún no encuentra el correo electrónico, puede iniciar sesión en su cuenta de Xvoucher.
-
-+++
-
-+++¿Pueden devolverse los cupones por crédito o reembolso?
-
-Todas las ventas son finales. No se aceptan devoluciones ni reembolsos. Los cupones para exámenes de Adobe se adquieren en un nivel de examen, no para exámenes específicos, lo que proporciona una gran flexibilidad.
-
-+++
 
 >[!TAB Administrar su perfil de certificación]
 
