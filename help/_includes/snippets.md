@@ -1,7 +1,7 @@
 ---
-source-git-commit: b343d44734e84224e6e266235573a3c29a273721
+source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -187,9 +187,7 @@ El Adobe utiliza el examen para administrar los exámenes controlados en línea.
 
 * **Realiza tu examen.**
 
->[!NOTE]
->
->Debe iniciar sesión en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} antes de hacer clic en el botón Examinar que aparece a continuación.
+**Tenga en cuenta lo siguiente:** Debe iniciar sesión en el [Sistema de administración de credenciales de Adobe](https://www.certmetrics.com/adobe){target="_blank"} antes de hacer clic en el botón Examinar que aparece a continuación.
 
 >[!WARNING]
 >
