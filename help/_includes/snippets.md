@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Pagar por cupón: Para comprar un cupón de examen, diríjase a: Centro de Certi
 
 **Comprar un cupón**
 
-Usted puede pagar por un examen con un cupón. Para adquirir un vale de examen, ve al [Centro de cupones de certificación de Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Usted puede pagar por un examen con un cupón. Para adquirir un vale de examen, ve al [Centro de cupones de certificación de Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Puedes aplicar el código de cupón cuando programes tu examen. Consulte a continuación la información sobre descuentos en cupones.
 
 Todos los candidatos pueden recibir un descuento en compras masivas de 10 o más exámenes cuando compren a través del Centro de Certificación de Adobes.
 
-Para obtener más información sobre los cupones, consulta las [preguntas frecuentes](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Para obtener más información sobre los cupones, consulta las [preguntas frecuentes](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}.
 
 **Descuentos**
 
@@ -143,7 +143,7 @@ Hay descuentos por lotes disponibles:
 
 Descuentos para socios: Los socios de nivel Bronce y superiores obtienen descuentos en todos los exámenes y clases de certificación de Adobe. Puede obtener más información sobre estos descuentos y cómo acceder a las ventajas de los socios en el Portal de socios de soluciones.
 
-Descuentos de cupones: Todos los candidatos pueden recibir un descuento en las compras masivas de 10 o más exámenes cuando compren a través del Centro de Cupones de Certificación de Adobe.
+Descuentos en cupones: todos los candidatos pueden recibir un descuento en compras masivas de 10 o más exámenes cuando compren a través del [Centro de cupones de certificación de Adobes](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Nota: Los descuentos por lotes no se pueden combinar con ninguna otra oferta o descuento.
 
@@ -183,7 +183,7 @@ El Adobe utiliza el examen para administrar los exámenes controlados en línea.
 
 * **Programa, reprograma o cancela tu examen.** Tenga en cuenta que la cancelación y la reprogramación deben iniciarse antes de las 48 horas previas a la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos.
 
-* **Paga el examen.** Pague el examen de certificación mediante un vale o una tarjeta de crédito en el portal de examen. Para adquirir un vale de examen, ve a: [Sistema de cupones de certificación de Adobes](https://market.xvoucher.com/adobe/global){target="_blank"}. Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
+* **Paga el examen.** Pague el examen de certificación mediante un vale o una tarjeta de crédito en el portal de examen. Para adquirir un vale de examen, ve a: [Centro de cupones de certificación de Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}. Puedes aplicar el código de cupón cuando programes tu examen. Si tienes un descuento, se aplicará en el momento del pago y envío.
 
 * **Realiza tu examen.**
 
