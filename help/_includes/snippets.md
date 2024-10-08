@@ -1,7 +1,7 @@
 ---
-source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '1838'
+source-wordcount: '1989'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,16 @@ ht-degree: 0%
 ## Introducción {#intro}
 
 Esta página proporciona información sobre cómo conseguir esta certificación. Incluye una descripción del examen, materiales de estudio, instrucciones paso a paso sobre el proceso de certificación y cómo renovar su certificación.
+
+>[!NOTE]
+>Actualización del programa de certificación de Adobe Digital Experience
+>
+>**El programa de certificación de experiencia digital de Adobe se está moviendo.**: el nuevo portal de certificación de Adobe se iniciará el 22 de octubre de 2024. Tome nota de estas **fechas importantes:**
+>
+>* **14 de octubre de 2024:** La programación de exámenes, las pruebas de práctica y el acceso al sistema de administración de credenciales de Adobe no estarán disponibles mientras migramos datos al nuevo portal
+>* **22 de octubre de 2024:** Se inicia el portal de certificación de Adobe. Su historial de certificación estará disponible en el nuevo portal, junto con toda la información de exámenes, recursos de estudio y capacidades de programación. Las puntuaciones de las pruebas de práctica y los informes de preparación que se remontan al 1 de enero de 2021 también estarán disponibles en su cuenta.
+>
+>Vuelva aquí el 22 de octubre para obtener más información sobre cómo iniciar sesión en el nuevo Portal de certificación de Adobes.
 
 <!--divider-->
 
@@ -240,3 +250,9 @@ Nuestros cursos gratuitos a la carta le ayudan a prepararse para su examen. Los 
 ## Guía de preparación del examen {#exam-prep-guide}
 
 La Guía gratuita de preparación para exámenes proporciona un camino personalizado a través del proceso de preparación para exámenes, incluyendo los materiales que necesitarás para tener éxito en tu examen.
+
+## Renovaciones en espera {#renewals-hold}
+
+>[!WARNING]
+>
+>El programa de certificación de la experiencia digital de Adobe experimentará pronto cambios. Si está en proceso de renovar su certificación, tenga en cuenta que el **13 de octubre de 2024 es la última fecha para completar su renovación.**
