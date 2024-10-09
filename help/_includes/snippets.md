@@ -1,7 +1,7 @@
 ---
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
 workflow-type: tm+mt
-source-wordcount: '1989'
+source-wordcount: '1983'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 0%
 Esta página proporciona información sobre cómo conseguir esta certificación. Incluye una descripción del examen, materiales de estudio, instrucciones paso a paso sobre el proceso de certificación y cómo renovar su certificación.
 
 >[!NOTE]
->Actualización del programa de certificación de Adobe Digital Experience
 >
 >**El programa de certificación de experiencia digital de Adobe se está moviendo.**: el nuevo portal de certificación de Adobe se iniciará el 22 de octubre de 2024. Tome nota de estas **fechas importantes:**
 >
