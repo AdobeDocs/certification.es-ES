@@ -1,7 +1,7 @@
 ---
-source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '2012'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,16 @@ La Guía gratuita de preparación para exámenes proporciona un camino personali
 
 ## Renovaciones en espera {#renewals-hold}
 
->[!WARNING]
+>[!NOTE]
 >
->El programa de certificación de la experiencia digital de Adobe experimentará pronto cambios. Si está en proceso de renovar su certificación, tenga en cuenta que el **13 de octubre de 2024 es la última fecha para completar su renovación.**
+>El Programa de Certificación de Experiencias Digitales de Adobe simplifica el proceso de renovación de certificaciones para que su experiencia sea más conveniente. Mientras se implementa este nuevo proceso, **las renovaciones están temporalmente en espera.**
+>
+>* Para aquellos cuyas certificaciones caducan entre el 14 de octubre de 2024 y el 30 de septiembre de 2025, su certificación se prorroga hasta el 1 de octubre de 2025.
+>
+>* Los detalles sobre el proceso de renovación actualizado se compartirán a principios de marzo, lo que garantiza que todos los titulares de la certificación tengan tiempo suficiente para renovar sus certificaciones.
+
+<!--divider-->
+
+## Preguntas {#questions}
+
+¿**preguntas?** [Contáctenos](mailto:certif@adobe.com)

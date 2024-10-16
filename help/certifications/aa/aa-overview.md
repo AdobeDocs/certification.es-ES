@@ -4,9 +4,9 @@ description: Descripción general de las opciones de certificación de Adobe Ana
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '24'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,5 @@ ht-degree: 0%
 
 * [Arquitecto](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
-Visite la página [Renovar su certificación](/help/certifications/renew.md) para ver si hay una opción de renovación disponible para este producto.
+{{questions}}
+
