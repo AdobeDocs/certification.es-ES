@@ -4,75 +4,75 @@ description: Obtenga información acerca de la certificación  [!DNL Experience 
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+source-git-commit: 9838d4a95fe41718059ffd5bc6f374eaabf3a8e1
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 5%
+source-wordcount: '377'
+ht-degree: 3%
 
 ---
 
-# Bienvenido a la certificación en el Adobe.
-
-Obtenga información acerca de la certificación de Experience Cloud en el Adobe y lo que puede hacer por usted obtener la certificación.
-
 ![Titular](/help/certifications/assets/home_banner_smallwide.png)
 
->[!NOTE]
->Actualización del programa de certificación de Adobe Digital Experience
->
->**El programa de certificación de experiencia digital de Adobe se está moviendo.**: el nuevo portal de certificación de Adobe se iniciará el 22 de octubre de 2024. Tome nota de estas **fechas importantes:**
->
->* **14 de octubre de 2024:** La programación de exámenes, las pruebas de práctica y el acceso al sistema de administración de credenciales de Adobe no estarán disponibles mientras migramos datos al nuevo portal
->* **22 de octubre de 2024:** Se inicia el portal de certificación de Adobe. Su historial de certificación estará disponible en el nuevo portal, junto con toda la información de exámenes, recursos de estudio y capacidades de programación. Las puntuaciones de las pruebas de práctica y los informes de preparación que se remontan al 1 de enero de 2021 también estarán disponibles en su cuenta.
->
->Vuelva aquí el 22 de octubre para obtener más información sobre cómo iniciar sesión en el nuevo Portal de certificación de Adobes.
+# El programa de certificación de experiencia digital de Adobe se ha movido.
 
-El Programa de certificación de experiencias digitales de Adobe se creó para ayudarle a probar sus aptitudes en los productos de Adobe [!DNL Experience Cloud]. Obtener la Certificación de Adobe le permite mostrar su experiencia e impresionar a los clientes y empleadores por igual.
+Puede encontrarnos en el nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}. Obtenga información sobre las funciones del portal y aprenda a empezar a continuación.
 
-El Adobe [!DNL Experience Cloud] es un conjunto de soluciones de marketing digital que permite a las empresas ofrecer experiencias de cliente personalizadas en varios canales, incluidos la web, el móvil, el correo electrónico y los medios sociales. El Adobe [!DNL Experience Cloud] incluye una gama de productos, como el Adobe [!DNL Real-Time CDP], el Adobe [!DNL Experience Manager], el Adobe [!DNL Commerce], el Adobe [!DNL Journey Optimizer], el Adobe [!DNL Customer Analytics], etc.
+## ¿Qué incluye el nuevo portal de certificación de Adobes?
 
-Demuestre su competencia y lleve su carrera al siguiente nivel al obtener la certificación de Adobe.
+Todo lo que encontraste en esta página, ¡y más!
 
-[**Ver lista de certificaciones por programa**](#view-all-certifications)
+* Programación de exámenes
+* Detalles del examen
+* Recursos de estudio
+* Pruebas de práctica
+* Validación y uso compartido de distintivos
+* Nuevos cursos de formación técnica
+* La nueva Comunidad de experiencia digital de Adobe
+* Un nuevo tablero interactivo para rastrear y compartir su curso y actividad de certificación
 
-## ¿Por qué obtener la certificación?
+## Preguntas frecuentes
 
-Obtener una certificación de Adobe [!DNL Experience Cloud] tiene muchos beneficios:
+### ¿Por dónde empiezo?
 
-* **Validación de tus aptitudes:** La certificación de Adobe demuestra a posibles clientes o empleadores que tienes las habilidades y los conocimientos necesarios para usar las soluciones de [!DNL Experience Cloud] de forma eficaz.
-* **Promoción profesional:** La certificación de Adobe te ayuda a destacar en un mercado laboral abarrotado y aumenta tus posibilidades de ser contratado o ascendido.
-* **Aumente el potencial de ganancias:** Las personas certificadas a menudo ganan más que sus contrapartes no certificadas, ya que las credenciales de Adobe prueban su nivel de experiencia.
-* **Acceso a recursos exclusivos:** Cuando obtenga la certificación de Adobe, obtendrá acceso a recursos exclusivos como materiales de capacitación, versiones de software beta y foros de soporte que le ayudarán a mantenerse al día con los últimos desarrollos y tendencias de software en la industria.
-* **Pruebas de práctica gratuitas:** el Adobe ofrece pruebas de práctica gratuitas para asegurarse de que está completamente preparado para su examen de certificación.
-* **Renovaciones gratuitas de la certificación:** las certificaciones de Adobe son válidas por dos años y la mayoría de las certificaciones pueden renovarse sin cargo, ya sea tomando un examen a la carta y sin supervisión o completando un conjunto de actividades de aprendizaje continuo.
+[Inicia sesión hoy](https://certification.adobe.com/){target="_blank"} y verifica tus datos de perfil.
 
-El Programa de Certificación Digital de Adobe está diseñado para profesionales en una variedad de campos, incluidos desarrolladores, profesionales del negocio y arquitectos. Tanto si es un experto como si acaba de empezar, la certificación le ayuda a avanzar en su carrera y a mantenerse por delante de la competencia.
+A continuación, explore nuestros [cursos](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certificaciones](https://certification.adobe.com/certifications){target="_blank"}, [comunidad](https://certification.adobe.com/community/){target="_blank"} y [tablero personalizable](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
-## Introducción 
+### ¿Cómo puedo programar un examen?
 
-Libere su potencial profesional hoy mismo aprendiendo sobre el Programa de certificación de experiencias digitales de Adobe.
+Ahora puede programar un examen en el Portal de Certificación de Adobe.
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Introducción</span></a>
+1. Vaya al [catálogo de certificaciones](https://certification.adobe.com/certifications){target="_blank"}.
+2. Encuentra tu examen
+3. Ve a la pestaña **Programar o rendir examen**.
+4. En la sección **Programar y pagar tu examen**, encontrarás el enlace de la página del examen.
+5. Haz clic en el botón **Programar examen**.
 
-## Ver todas las certificaciones {#view-all-certifications}
+### ¿Dónde puedo encontrar mi historial de certificación?
 
-Todos los detalles sobre cada certificación de producto disponible se enumeran en la tabla de contenido a la izquierda y en la siguiente lista:
+Ya se han migrado sus certificaciones activas a [su cuenta](https://certification.adobe.com/user/certifications){target="_blank"} en el portal de certificación de Adobe. Es posible que algunos aspectos de su cuenta aún no se hayan rellenado completamente mientras migramos los datos de usuario restantes. ¡Gracias por su paciencia!
 
-* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md){target="_blank"}
-* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md){target="_blank"}
-* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md){target="_blank"}
-* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md){target="_blank"}
-* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md){target="_blank"}
-* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md){target="_blank"}
-* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md){target="_blank"}
-* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md){target="_blank"}
-* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md){target="_blank"}
-* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md){target="_blank"}
-* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md){target="_blank"}
-* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md){target="_blank"}
+### ¿Dónde puedo encontrar mis vales?
 
-¿Está buscando certificaciones de Adobe [!DNL Creative Cloud]? Visite el sitio web de [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} para aprender a obtener la certificación en programas de Creative Cloud.
+Sus cupones (incluidos los transferidos de Xvoucher) aparecerán en [su cuenta](https://certification.adobe.com/user/purchases){target="_blank"} en el Portal de Certificación de Adobe.
 
-{{questions}}
+### ¿Dónde está mi distintivo de certificación?
+
+Su distintivo ya está disponible en el portal de certificación de Adobes.
+
+1. Vaya a **Mi cuenta** > [Logros](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
+2. Busque el widget de **certificaciones activas**.
+
+* Para ver la página de verificación de tu insignia, haz clic en el botón **Compartir**. Desde esa página, puede compartir en las redes sociales.
+
+* Para descargar la insignia, haga clic en la **imagen en miniatura de la insignia**.
+
+### ¿Dónde puedo encontrar las certificaciones de Adobe Creative Cloud?
+
+Visite el sitio web de [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} para aprender a obtener la certificación en programas de Creative Cloud.
+
+### ¿Preguntas?
+
+Vea los [vídeos explicativos](https://certification.adobe.com/#){target="_blank"} en la parte inferior de nuestra página principal, visite nuestras [preguntas frecuentes](https://certification.adobe.com/support/faq){target="_blank"} o [póngase en contacto con nosotros](https://certification.adobe.com/support/contactus){target="_blank"}.
+
+Estamos encantados de que explore la nueva sede del programa de certificación de experiencias digitales de Adobe y descubra nuestras nuevas funciones.
