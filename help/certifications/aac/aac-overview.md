@@ -4,9 +4,9 @@ description: Descripción general de las opciones de certificación para el Adob
 solution: Advertising
 product: Advertising Cloud
 exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '76'
 ht-degree: 2%
 
 ---
@@ -19,8 +19,8 @@ Adobe ofrece varias certificaciones para profesionales de Advertising Business. 
 
 **Profesional**
 
-* [Profesional de negocios (búsqueda)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* DSP [Profesional de negocios ()](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [Profesional de negocios (búsqueda)](https://certification.adobe.com/certification/advertising-search-business-practitioner-professional) <!--AD0-E501-->
+* DSP [Profesional de negocios ()](https://certification.adobe.com/certification/advertising-dsp-business-practitioner-professional) <!--AD0-E502-->
 
 ## Recursos
 
