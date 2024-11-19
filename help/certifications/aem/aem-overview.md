@@ -3,9 +3,9 @@ title: Resumen de certificación de Experience Manager
 description: Descripción general de las opciones de certificación de Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cbb6e2db5709cee2b2183dffe359079c9697ba22
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,8 @@ Seleccione el nivel y la función para obtener más información sobre la certif
 **Experto**
 
 * [Profesional de negocios (sitios)](https://certification.adobe.com/certification/sites-business-practitioner-expert){target="_blank"} <!--AD0-E121-->
-* [Desarrollador (sitios)](https://certification.adobe.com/certification/sites-developer-expert){target="_blank"} <!--AD0-E134-->
+* [Desarrollador (sitios) - NUEVO](https://certification.adobe.com/certification/sites-developer-expert-v2){target="_blank"} <!--AD0-E137-->
+* [Desarrollador (Sites): caduca el 10 de enero de 2025](https://certification.adobe.com/certification/sites-developer-expert){target="_blank"} <!--AD0-E134-->
 * [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-->
 * [Desarrollador (Forms)](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"} <!--AD0-E125-->
 * [Migración de Cloud Service](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
