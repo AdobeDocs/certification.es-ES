@@ -151,7 +151,7 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 **Sección 5: Modelado de datos**
 
 * [Guía de AJO, configuración, audiencias, perfiles e identidad, administración de datos](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
-* [Experience Platform, Conjuntos de datos, Guía de conectores de Source, Tutorials de API, Guía de servicio de identidad de Platform, IU de segmentación, Tutorials de IU](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [Experience Platform, Conjuntos de datos, Guía de conectores de Source, Tutorials de API, Guía de servicio de identidad de Platform, IU de segmentación, Tutorials de IU](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es){target="_blank"}
 
 +++
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 ## Preguntas
 
-Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Ver la certificación [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=es){target="_blank"}.
 
 ¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com).

@@ -110,7 +110,7 @@ Estos pasos le guían a través del proceso de certificación de principio a fin
 >
 > **Se requiere identificación oficial:** DEBE usar una identificación con fotografía emitida por el gobierno como su forma de identificación válida. No se permiten copias en blanco ni ID digitales. <br><br> **Nombre de cuenta de Adobe ID:** Su nombre de cuenta de Adobe ID DEBE coincidir con su nombre en su identificador de gobierno. Para actualizar el nombre de su cuenta de Adobe ID, envíe un correo electrónico a <certif@adobe.com>. Solicite esta corrección **72 horas antes**. Si los nombres no coinciden en el momento del examen, usted tendrá que inscribirse para un nuevo examen con un cargo adicional.
 
-Usted debe tener un Adobe ID para programar y tomar su examen. Si no tiene un Adobe ID, puede crear uno [aquí](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+Usted debe tener un Adobe ID para programar y tomar su examen. Si no tiene un Adobe ID, puede crear uno [aquí](https://helpx.adobe.com/es/manage-account/using/create-update-adobe-id.html).
 
 Es necesario tener una Adobe ID por tres motivos:
 
@@ -278,7 +278,7 @@ Su insignia sirve como prueba tangible de su aptitud con los productos de Adobe 
 
 ## Renovación de la certificación {#renewing-intro}
 
-Las certificaciones caducan al cabo de dos años. Para mantener su certificación, debe renovarla antes de que caduque. Visite la página [Renovar su certificación](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} para obtener más información.
+Las certificaciones caducan al cabo de dos años. Para mantener su certificación, debe renovarla antes de que caduque. Visite la página [Renovar su certificación](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=es){target="_blank"} para obtener más información.
 
 <!--divider-->
 
