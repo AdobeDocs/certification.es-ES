@@ -3,9 +3,9 @@ title: Resumen de certificación de Target
 description: Descripción general de las opciones de certificación de Adobe Target
 solution: Target
 exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ Seleccione su nivel y rol para encontrar los detalles del examen de certificaci�
 **Experto**
 
 * [Profesional de negocios](https://certification.adobe.com/certification/target-business-practitioner-expert){target="_blank"} <!--AD0-E406-->
+* [Profesional de negocios - Japonés](https://certification.adobe.com/certification/target-business-practitioner-expert){target="_blank"} <!--AD0-E406-J-->
 
 **Principal**
 
