@@ -3,7 +3,7 @@ title: Resumen de certificación de Experience Manager
 description: Descripción general de las opciones de certificación de Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
+source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -21,9 +21,8 @@ Seleccione su nivel y rol para encontrar los detalles del examen de certificaci�
 * [Desarrollador (Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [Desarrollador back-end (Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [Fundamentos técnicos](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
-* [Biblioteca digital](https://certification.adobe.com/certification/digital-librarian-professional) (tenga en cuenta que esta certificación no se cuenta para los requisitos de socios){target="_blank"} <!--AD0-E143-->
-* [Autor de contenido](https://certification.adobe.com/certification/sites-content-author-professional) (tenga en cuenta que esta certificación no se cuenta para los requisitos de socios).
-  {target="_blank"} <!--AD0-E144-->
+* [Biblioteca digital](https://certification.adobe.com/certification/digital-librarian-professional){target="_blank"} (tenga en cuenta que esta certificación no se cuenta para los requisitos de socios). <!--AD0-E143-->
+* [Autor de contenido](https://certification.adobe.com/certification/sites-content-author-professional){target="_blank"} (tenga en cuenta que esta certificación no se cuenta para los requisitos de socios). <!--AD0-E144-->
 
 **Experto**
 
