@@ -1,11 +1,11 @@
 ---
 user-guide-title: Certificación de Adobe
 breadcrumb-title: Certificación de Adobe
-user-guide-description: Obtenga información acerca de la certificación  [!DNL Experience Cloud] en el Adobe. Descubra lo que puede aportarle obtener la certificación.
+user-guide-description: Obtenga información acerca de la certificación  [!DNL Experience Cloud] en Adobe. Descubra lo que puede aportarle obtener la certificación.
 source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 28%
+ht-degree: 35%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 28%
 # Certificación de Adobe {#program}
 
 + [Página de inicio de la certificación](overview.md)
-+ [Introducción &#x200B;](getting-started.md)
++ [Introducción](getting-started.md)
 + [Cómo obtener la certificación](how-to-get-certified.md)
 + [Renovar la certificación](renew.md)
 + Certificaciones técnicas por solución {#technical-certifications}
@@ -21,7 +21,7 @@ ht-degree: 28%
       + [Información general de Advertising](/help/certifications/aac/aac-overview.md)
       + Profesional {#aac-professional}
          + [Profesional empresarial (búsqueda)](/help/certifications/aac/aac-search-p-business.md)
-         + [DSP Profesional empresarial ()](/help/certifications/aac/aac-dsp-p-business.md)
+         + [Profesional empresarial (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
       + [Renovación](/help/certifications/aac/aac-renew.md)
    + Adobe [!DNL Analytics] {#aa}
       + [Información general de Analytics](/help/certifications/aa/aa-overview.md)
@@ -44,7 +44,7 @@ ht-degree: 28%
          + [Arquitecto](/help/certifications/aam/aam-m-architect.md)
       + [Renovación](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
-      + [Resumen del Campaign Classic](/help/certifications/acc/acc-overview.md)
+      + [Información general de Campaign Classic](/help/certifications/acc/acc-overview.md)
       + Profesional {#acc-professional}
          + [Profesional empresarial](/help/certifications/acc/acc-p-business.md)
          + [Desarrollador](/help/certifications/acc/acc-p-developer.md)
@@ -55,7 +55,7 @@ ht-degree: 28%
          + [Arquitecto](/help/certifications/acc/acc-m-developer.md)
       + [Renovación](/help/certifications/acc/acc-renew.md)
    + Adobe [!DNL Campaign Standard] {#acs}
-      + [Resumen del Campaign Standard](/help/certifications/acs/acs-overview.md)
+      + [Información general de Campaign Standard](/help/certifications/acs/acs-overview.md)
       + Experto {#acs-expert}
          + [Profesional empresarial](/help/certifications/acs/acs-e-business.md)
          + [Desarrollador](/help/certifications/acs/acs-e-developer.md)
@@ -74,18 +74,18 @@ ht-degree: 28%
          + [Arquitecto](/help/certifications/ac/ac-m-architect.md)
       + [Renovación](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
-      + [Resumen del Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+      + [Información general de Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
       + Profesional {#acja-professional}
          + [Profesional empresarial](/help/certifications/acja/acja-p-business.md)
       + Experto {#acja-expert}
          + [Desarrollador](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Document Cloud] {#adc}
-      + [Resumen del Document Cloud](/help/certifications/adc/adc-overview.md)
+      + [Información general de Document Cloud](/help/certifications/adc/adc-overview.md)
       + Profesional {#adc-professional}
          + [Profesional empresarial](/help/certifications/adc/adc-p-business.md)
       + [Renovación](/help/certifications/adc/adc-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
-      + [Resumen del Experience Manager](/help/certifications/aem/aem-overview.md)
+      + [Información general de Experience Manager](/help/certifications/aem/aem-overview.md)
       + Profesional {#aem-professional}
          + [Profesional empresarial](/help/certifications/aem/aem-p-business.md)
          + [Desarrollador (Sites)](/help/certifications/aem/aem-sites-p-developer.md)
@@ -109,7 +109,7 @@ ht-degree: 28%
          + [Desarrollador](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [Renovación](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
-      + [Resumen del Marketo Engage](/help/certifications/ame/ame-overview.md)
+      + [Información general de Marketo Engage](/help/certifications/ame/ame-overview.md)
       + Profesional {#ame-professional}
          + [Profesional certificado](/help/certifications/ame/ame-p.md)
       + Experto {#ame-expert}
@@ -141,7 +141,7 @@ ht-degree: 28%
          + [Desarrollador (principal)](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + Experto {#aw-expert}
          + [Desarrollador (principal)](/help/certifications/aw/aw-core-e-developer-23-08.md)
-         + [AEM conector de](/help/certifications/aw/aw-aem-e-connector.md)
+         + [Conector mejorado de AEM](/help/certifications/aw/aw-aem-e-connector.md)
       + [Renovación](/help/certifications/aw/aw-renew.md)
    + [Exámenes calificados proporcionados por ADLS](https://learning.adobe.com/certification/credentials)
 + [Preguntas frecuentes](faq.md)
