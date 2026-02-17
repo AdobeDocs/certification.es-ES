@@ -1,15 +1,15 @@
 ---
 title: Certificación de maestro de arquitectos
-description: Aprenda a obtener la certificación como Adobe [!DNL Audience Manager] Arquitecto Maestro.
+description: Aprenda a obtener la certificación Adobe [!DNL Audience Manager] Architect Master.
 solution: Audience Manager
 product: Audience Manager
-role: Data Architect
+role: Developer
 level: Experienced
 badge: label="Examen AD0-E454" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**El programa de certificación de experiencia digital de Adobe se ha trasladado al nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}.** Obtenga información sobre las nuevas características y cómo empezar a continuación.
+>**El programa de certificación de Adobe Digital Experience se ha trasladado al nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}.** Obtenga información sobre las nuevas características y cómo empezar a continuación.
 
-## ¿Qué incluye el nuevo portal de certificación de Adobes?
+## ¿Qué incluye el nuevo portal de certificación de Adobe?
 
 Todo lo que encontraste en esta página, ¡y más!
 
@@ -45,9 +45,9 @@ A continuación, explore nuestros [cursos](https://certification.adobe.com/cours
 
 ### ¿Cómo puedo programar un examen?
 
-Ahora puede programar un examen en el Portal de Certificación de Adobe.
+Ahora puede programar un examen en el Portal de certificación de Adobe.
 
-1. Vaya al [catálogo de certificaciones](https://certification.adobe.com/certifications){target="_blank"}.
+1. Vaya a [Catálogo de certificaciones](https://certification.adobe.com/certifications){target="_blank"}.
 2. Encuentra tu examen
 3. Ve a la pestaña **Programar o rendir examen**.
 4. En la sección **Programar y pagar tu examen**, encontrarás el enlace de la página del examen.
@@ -59,11 +59,11 @@ Ya se han migrado sus certificaciones activas a [su cuenta](https://certificatio
 
 ### ¿Dónde puedo encontrar mis vales?
 
-Sus cupones (incluidos los transferidos de Xvoucher) aparecerán en [su cuenta](https://certification.adobe.com/user/purchases){target="_blank"} en el Portal de Certificación de Adobe.
+Sus cupones (incluidos los transferidos de Xvoucher) aparecerán en [su cuenta](https://certification.adobe.com/user/purchases){target="_blank"} en el portal de certificación de Adobe.
 
 ### ¿Dónde está mi distintivo de certificación?
 
-Su distintivo ya está disponible en el portal de certificación de Adobes.
+Su insignia ya está disponible en el portal de certificación de Adobe.
 
 1. Vaya a **Mi cuenta** > [Logros](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
 2. Busque el widget de **certificaciones activas**.
