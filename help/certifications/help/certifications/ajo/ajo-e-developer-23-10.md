@@ -210,6 +210,6 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 ## Preguntas
 
-Ver la certificación [preguntas más frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Ver la certificación [preguntas más frecuentes](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=es){target="_blank"}.
 
 ¿Preguntas adicionales? [Póngase en contacto con nosotros](mailto:certif@adobe.com).
