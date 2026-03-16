@@ -6,18 +6,18 @@ level: Experienced
 type: Certification
 topic: Certification
 mini-toc-levels: 1
-git-repo: https://github.com/AdobeDocs/certification.es-ES
+git-repo: https://github.com/AdobeDocs/certification.en
 index: true
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: c0af4d9398bfa258627c367faf64de35185f8985
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 93%
+source-wordcount: '68'
+ht-degree: 0%
 
 ---
 
 
 # Metadatos para uso interno
 
-El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a la guía del usuario de los archivos TOC.md en el repositorio. Si desea cambiar el contenido de metadata.md para cualquier guía del usuario, hágalo en cualquier archivo de TOC.md.
+El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a los archivos TOC.md de la guía del usuario en el repositorio. Si desea cambiar el contenido de metadata.md para cualquier guía del usuario, hágalo en cualquier archivo TOC.md.
 
-Consulte [Metadatos](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=es) para obtener una lista de valores válidos por **solución**, **producto** y **tipo**.
+Consulte [Metadatos](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) para obtener una lista de valores válidos para **solución**, **producto** y **tipo**.
