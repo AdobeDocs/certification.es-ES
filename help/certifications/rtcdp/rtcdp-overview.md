@@ -3,9 +3,9 @@ title: Resumen de certificación de Real-Time CDP
 description: Descripción general de las opciones de certificación de Adobe Real-Time CDP
 solution: Real-Time Customer Data Platform
 exl-id: 763724d3-1fac-421f-b166-b4aea210872f
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 9cc53db603b5cec09c7d0ec965c81aea8c7f3350
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ Seleccione su nivel y rol para encontrar los detalles del examen de certificaci�
 
 **Profesional**
 
-* [Profesional de negocios](https://certification.adobe.com/certification/real-time-cdp-business-practitioner-professional) <!--AD0-E602-->
+* [Profesional de negocios](https://certification.adobe.com/certification/real-time-cdp-business-practitioner-professional2/1351) <!--AD0-E614-->
 
 **Experto**
 
-* [Desarrollador](https://certification.adobe.com/certification/real-time-customer-data-platform-developer-expert) <!--AD0-E605-->
+* [Desarrollador](https://certification.adobe.com/certification/developer-expert2/1348) <!--AD0-E615-->
 
 {{questions}}
 
