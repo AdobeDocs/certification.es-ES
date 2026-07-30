@@ -170,7 +170,7 @@ Para programar, reprogramar o cancelar el examen:
 
 1. Primero, inicie sesión en [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} con su Adobe ID.
 
-2. A continuación, vaya al [portal de exámenes](¿https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} y siga las instrucciones que aparecen en la pantalla.
+2. A continuación, vaya al [portal de exámenes] (¿https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} y siga las instrucciones que aparecen en la pantalla.
 
 Las cancelaciones y la reprogramación deben iniciarse **48 horas antes** de la cita programada para el examen. Los candidatos deben modificar esta cita ellos mismos. Ni el Soporte de Adobe ni los proveedores de exámenes pueden procesar solicitudes de cancelación y reprogramación. Las cancelaciones de menos de 48 horas están sujetas a una tarifa de reprogramación además de la tarifa del examen.
 
