@@ -3,17 +3,15 @@ title: Certificaciones técnicas profesionales
 description: Descripción general de las opciones de certificación para usuarios profesionales
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 13%
-
+source-wordcount: '77'
+ht-degree: 12%
 ---
-
 # Certificaciones técnicas profesionales
 
 **Advertising**
 
 * [Profesional de negocios (búsqueda)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* DSP [Profesional de negocios ()](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [Profesional de negocios (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 **Analytics**
 
