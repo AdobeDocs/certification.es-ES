@@ -1,25 +1,32 @@
 ---
 title: Arquitecto Maestro nueva certificación
-description: Aprenda a obtener la certificación  [!DNL Adobe Target] Arquitecto Maestro.
+description: Aprenda a obtener la certificación [!DNL Adobe Target] Arquitecto Maestro.
 solution: Target
 product: Target
 role: Developer
 badge: label="Examen AD0-E409" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # Recorrido de certificación para el maestro de arquitectos [!DNL Adobe Target]
 
 >[!NOTE]
 >
->**El programa de certificación de Adobe Digital Experience se ha trasladado al nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}.** Obtenga información sobre las nuevas características y cómo empezar a continuación.
+>**El programa de certificación de Adobe Digital Experience se ha trasladado al nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}!** Obtenga información sobre las nuevas funciones y cómo empezar a trabajar a continuación.
 
 ## ¿Qué incluye el nuevo portal de certificación de Adobe?
 

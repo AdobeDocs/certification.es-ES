@@ -1,25 +1,32 @@
 ---
 title: Certificación de profesional empresarial
-description: Aprenda a obtener la certificación como experto profesional  [!DNL Adobe Analytics] de negocios
+description: Aprenda a obtener la certificación como experto en profesionales empresariales de [!DNL Adobe Analytics]
 solution: Analytics
 product: Analytics
 role: User
 badge: label="Examen AD0-E208" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 31982155cb5a87645b8705688ff376d44c7e61dd
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
 # Recorrido de certificación para [!DNL Adobe Analytics] experto en profesionales empresariales
 
 >[!NOTE]
 >
->**El programa de certificación de Adobe Digital Experience se ha trasladado al nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}.** Obtenga información sobre las nuevas características y cómo empezar a continuación.
+>**El programa de certificación de Adobe Digital Experience se ha trasladado al nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}!** Obtenga información sobre las nuevas funciones y cómo empezar a trabajar a continuación.
 
 ## ¿Qué incluye el nuevo portal de certificación de Adobe?
 
@@ -46,7 +53,7 @@ A continuación, explore nuestros [cursos](https://certification.adobe.com/cours
 
 Ahora puede programar un examen en el Portal de certificación de Adobe.
 
-1. Vaya al [catálogo de certificaciones](https://certification.adobe.com/certifications){target="_blank"}.
+1. Vaya a [Catálogo de certificaciones](https://certification.adobe.com/certifications){target="_blank"}.
 2. Encuentra tu examen
 3. Ve a la pestaña **Programar o rendir examen**.
 4. En la sección **Programar y pagar tu examen**, encontrarás el enlace de la página del examen.
