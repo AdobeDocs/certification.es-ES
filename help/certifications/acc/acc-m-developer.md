@@ -1,25 +1,34 @@
 ---
 title: Certificación de maestro de arquitectos
-description: Aprenda a obtener la certificación Adobe Architect Master en  [!DNL Campaign Classic].
+description: Aprenda a obtener la certificación Adobe Architect Master en [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
 badge: label="Examen AD0-E328" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
 # Recorrido de certificación para el maestro de arquitectos de Adobe [!DNL Campaign Classic]
 
 >[!NOTE]
 >
->**El programa de certificación de Adobe Digital Experience se ha trasladado al nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}.** Obtenga información sobre las nuevas características y cómo empezar a continuación.
+>**El programa de certificación de Adobe Digital Experience se ha trasladado al nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}!** Obtenga información sobre las nuevas funciones y cómo empezar a trabajar a continuación.
 
 ## ¿Qué incluye el nuevo portal de certificación de Adobe?
 

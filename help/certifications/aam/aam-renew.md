@@ -1,19 +1,26 @@
 ---
 title: Renovación de certificación
-description: Aprenda a renovar su certificación  [!DNL Audience Manager] antes de que caduque.
+description: Obtenga información sobre cómo renovar su certificación [!DNL Audience Manager] antes de que caduque.
 solution: Audience Manager
 product: Audience Manager
 role: User
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
 source-wordcount: '15'
 ht-degree: 0%
-
 ---
-
 # Renovar la certificación de Adobe [!DNL Audience Manager]
 
 {{renewals-hold}}
@@ -122,12 +129,12 @@ Here are some suggested resources to help you prepare:
 * [Understand segments in Analytics and Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=es){target="_blank"}
 * [Understanding Signals](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=es){target="_blank"}
 * [Prefix Requirements for Key Variables](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=es){target="_blank"}
-* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=es){target="_blank"}
+* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
 * [Create Algorithmic Traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=es){target="_blank"}
 
 **Section 3**
 
-* [Conversions reports](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=es){target="_blank"}
+* [Conversions reports](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
 * [Unique User Reach](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=es){target="_blank"}
 * [Ad Unit Overlap](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=es){target="_blank"}
 * [Understand Match Rates](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=es){target="_blank"}

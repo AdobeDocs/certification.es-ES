@@ -1,19 +1,26 @@
 ---
 title: Certificación de experto
-description: Aprenda a obtener la certificación Adobe [!DNL Journey Optimizer] Developer Expert.
+description: Aprenda a convertirse en un experto certificado en desarrolladores de Adobe [!DNL Journey Optimizer].
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E606" type="neutral"
-hidefromtoc: true
-exl-id: null
-source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
+hidefromtoc: 'yes'
+exl-id:
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 1%
-
+source-wordcount: '696'
+ht-degree: 9%
 ---
-
 # Recorrido de certificación para el experto en desarrolladores de Adobe [!DNL Journey Optimizer]
 
 {{intro}}
@@ -131,7 +138,7 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 **Sección 1: Administración y configuración**
 
-* [Experience Platform, control de acceso, guía de zonas protegidas](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=es){target="_blank"}
+* [Experience Platform, Control de acceso, Guía de zonas protegidas](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=es){target="_blank"}
 * [Guía de AJO, configuración, canal SMS, Recorridos](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
 * [API de AJO](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
@@ -141,7 +148,7 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 **Sección 3: Offer Decisioning**
 
-* [Guía de AJO, administración de decisiones, referencia de API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
+* [Guía de AJO, Gestión de decisiones, Referencia de API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
 
 **Sección 4: Creación de contenido**
 
@@ -150,8 +157,8 @@ Adobe Journey Optimizer funciona con Experience Platform. Se recomienda a los ca
 
 **Sección 5: Modelado de datos**
 
-* [Guía de AJO, configuración, audiencias, perfiles e identidad, administración de datos](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
-* [Experience Platform, conjuntos de datos, Guía de Source Connectors, Tutoriales de API, Guía de Platform Identity Service, IU de segmentación, Tutoriales de IU](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es){target="_blank"}
+* [Guía de AJO, Configuración, Audiencias, perfiles e identidad, Administración de datos](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=es){target="_blank"}
+* [Experience Platform, Conjuntos de datos, Guía de Source Connectors, Tutoriales de API, Guía de Platform Identity Service, IU de segmentación, Tutoriales de IU](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es){target="_blank"}
 
 +++ 
 

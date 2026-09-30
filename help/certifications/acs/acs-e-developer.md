@@ -1,27 +1,36 @@
 ---
 title: Certificación de experto desarrollador
-description: Aprenda a obtener la certificación de Adobe experto de Adobe Developer [!DNL Campaign Standard].
+description: Aprenda a obtener la certificación Adobe Developer Expert Adobe [!DNL Campaign Standard].
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
 badge: label="Examen AD0-E306" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
-# Recorrido de certificación para el Adobe [!DNL Campaign Standard] Developer Expert
+# Recorrido de certificación para el experto en desarrolladores de Adobe [!DNL Campaign Standard]
 
 >[!NOTE]
 >
->**El programa de certificación de experiencia digital de Adobe se ha trasladado al nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}.** Obtenga información sobre las nuevas características y cómo empezar a continuación.
+>**El programa de certificación de Adobe Digital Experience se ha trasladado al nuevo [Portal de certificación de Adobe](https://certification.adobe.com/){target="_blank"}!** Obtenga información sobre las nuevas funciones y cómo empezar a trabajar a continuación.
 
-## ¿Qué incluye el nuevo portal de certificación de Adobes?
+## ¿Qué incluye el nuevo portal de certificación de Adobe?
 
 Todo lo que encontraste en esta página, ¡y más!
 
@@ -44,9 +53,9 @@ A continuación, explore nuestros [cursos](https://certification.adobe.com/cours
 
 ### ¿Cómo puedo programar un examen?
 
-Ahora puede programar un examen en el Portal de Certificación de Adobe.
+Ahora puede programar un examen en el Portal de certificación de Adobe.
 
-1. Vaya al [catálogo de certificaciones](https://certification.adobe.com/certifications){target="_blank"}.
+1. Vaya a [Catálogo de certificaciones](https://certification.adobe.com/certifications){target="_blank"}.
 2. Encuentra tu examen
 3. Ve a la pestaña **Programar o rendir examen**.
 4. En la sección **Programar y pagar tu examen**, encontrarás el enlace de la página del examen.
@@ -58,11 +67,11 @@ Ya se han migrado sus certificaciones activas a [su cuenta](https://certificatio
 
 ### ¿Dónde puedo encontrar mis vales?
 
-Sus cupones (incluidos los transferidos de Xvoucher) aparecerán en [su cuenta](https://certification.adobe.com/user/purchases){target="_blank"} en el Portal de Certificación de Adobe.
+Sus cupones (incluidos los transferidos de Xvoucher) aparecerán en [su cuenta](https://certification.adobe.com/user/purchases){target="_blank"} en el portal de certificación de Adobe.
 
 ### ¿Dónde está mi distintivo de certificación?
 
-Su distintivo ya está disponible en el portal de certificación de Adobes.
+Su insignia ya está disponible en el portal de certificación de Adobe.
 
 1. Vaya a **Mi cuenta** > [Logros](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
 2. Busque el widget de **certificaciones activas**.
