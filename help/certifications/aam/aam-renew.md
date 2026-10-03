@@ -134,7 +134,7 @@ Here are some suggested resources to help you prepare:
 
 **Section 3**
 
-* [Conversions reports](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
+* [Conversions reports](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=es){target="_blank"}
 * [Unique User Reach](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=es){target="_blank"}
 * [Ad Unit Overlap](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=es){target="_blank"}
 * [Understand Match Rates](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=es){target="_blank"}

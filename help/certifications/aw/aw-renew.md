@@ -507,7 +507,7 @@ Here are some suggested resources to help you prepare:
 * [Understand group-specific approval processes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html?lang=es){target="_blank"}
 * [How groups inherit statuses](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html?lang=es){target="_blank"}
 * [Create and modify a group's teams](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html?lang=es){target="_blank"}
-* [Named User Licensing | Deployment guide](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
+* [Named User Licensing | Deployment guide](https://helpx.adobe.com/es/enterprise/using/deployment-planning.html){target="_blank"}
 * [Configure card falloff](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html?lang=es){target="_blank"}
 * [Use connected cards on boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html?lang=es){target="_blank"}
 * [Add or remove members from a board](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=es){target="_blank"}
